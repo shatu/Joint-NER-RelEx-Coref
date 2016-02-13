@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001219.2000.1828.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001219.2000.1828">
+<entity ID="PRI20001219.2000.1828-E1" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+  <entity_mention ID="1-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="512" END="526">the Oval Office</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="526">Oval Office</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="516" END="526">Oval Office</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="592" END="626">a
+veteran White House correspondent</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="626">correspondent</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001219.2000.1828-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="602" END="612">White House</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="612">White House</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001219.2000.1828-E4" TYPE="PER" CLASS="USP">
+  <entity_mention ID="4-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="959" END="969">a good team</charseq>
+    </extent>
+    <head>
+      <charseq START="966" END="969">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001219.2000.1828-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="5-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1034" END="1038">Texas</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1038">Texas</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1034" END="1038">Texas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="87">BBC news in London</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="77">BBC news</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="70" END="77">BBC news</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="82" END="87">London</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="87">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="82" END="87">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="90" END="90">I</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="90">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="95" END="121">Gregor Cragey for The World</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="107">Gregor Cragey</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="95" END="107">Gregor Cragey</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="529" END="532">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="532">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="631" END="631">I</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="631">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="661" END="661">I</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="661">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="761" END="761">I</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="761">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="797" END="797">I</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="797">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="815" END="815">I</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="815">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="861" END="861">I</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="861">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="939" END="942">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="942">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="986" END="987">he</charseq>
+    </extent>
+    <head>
+      <charseq START="986" END="987">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1006" END="1009">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1006" END="1009">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="124" END="137">George W.
+Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="124" END="137">George W.
+Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="385" END="388">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="388">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="415" END="417">his</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="417">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1006" END="1009">Bush</charseq>
+    </name>
+    <name>
+      <charseq START="124" END="137">George W.
+Bush</charseq>
+    </name>
+    <name>
+      <charseq START="385" END="388">Bush</charseq>
+    </name>
+    <name>
+      <charseq START="529" END="532">Bush</charseq>
+    </name>
+    <name>
+      <charseq START="939" END="942">Bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="152" END="158">Al Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="158">Al Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="214" END="231">the Vice President</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="231">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="415" END="432">his defeated rival</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="432">rival</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="152" END="158">Al Gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="163" END="172">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="172">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="163" END="172">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001219.2000.1828-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="175" END="185">The two men</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="185">men</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="275" END="278">they</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="278">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001219.2000.1828-E14" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="14-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="214" END="252">the Vice President's official residence</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="252">residence</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001219.2000.1828-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="542" END="554">the President</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="554">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="675" END="687">the President</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="687">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="700" END="702">his</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="702">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="717" END="718">he</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="718">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="751" END="752">he</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="752">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="888" END="890">his</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="890">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="897" END="913">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="907" END="913">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="897" END="905">President</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="905">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="920" END="922">his</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="922">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="453" END="469">President
+Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="469">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-39" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="453" END="461">President</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="461">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="463" END="469">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="907" END="913">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="PRI20001219.2000.1828-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E12" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="124" END="172">George W.
+Bush has met with Al Gore in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-28" ARGNUM="1">
+      <extent>
+        <charseq START="124" END="137">George W.
+Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-30" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="172">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E12" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="124" END="172">George W.
+Bush has met with Al Gore in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-29" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="158">Al Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-30" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="172">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E14" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="214" END="252">the Vice President's official residence</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-33" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="231">the Vice President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="2">
+      <extent>
+        <charseq START="214" END="252">the Vice President's official residence</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R4" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E11" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="415" END="432">his defeated rival</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-37" ARGNUM="1">
+      <extent>
+        <charseq START="415" END="417">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-36" ARGNUM="2">
+      <extent>
+        <charseq START="415" END="432">his defeated rival</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="509" END="554">in the Oval Office,
+Bush thanked the President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-2" ARGNUM="1">
+      <extent>
+        <charseq START="529" END="532">Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-40" ARGNUM="2">
+      <extent>
+        <charseq START="512" END="526">the Oval Office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E1" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="509" END="554">in the Oval Office,
+Bush thanked the President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-3" ARGNUM="1">
+      <extent>
+        <charseq START="542" END="554">the President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-40" ARGNUM="2">
+      <extent>
+        <charseq START="512" END="526">the Oval Office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E5" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1006" END="1038">Bush is now
+heading back to Texas</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-23" ARGNUM="1">
+      <extent>
+        <charseq START="1006" END="1009">Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-24" ARGNUM="2">
+      <extent>
+        <charseq START="1034" END="1038">Texas</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E14" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="175" END="252">The two men met for just 15
+minutes at the Vice President's official residence</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="1">
+      <extent>
+        <charseq START="175" END="185">The two men</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="2">
+      <extent>
+        <charseq START="214" END="252">the Vice President's official residence</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001219.2000.1828-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001219.2000.1828-E7" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="87">BBC news in London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="87">BBC news in London</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-25" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="87">London</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NBC20001125.1830.0911.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NBC20001125.1830.0911">
+<entity ID="NBC20001125.1830.0911-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="945" END="948">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="948">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1068" END="1071">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1068" END="1071">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-17" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1442" END="1445">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1442" END="1445">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-44" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="660" END="663">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="663">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="945" END="948">bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="954" END="957">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="957">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-15" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1419" END="1422">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1419" END="1422">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="954" END="957">gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="940" END="957">both bush and gore</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="943">both</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="992" END="1001">both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="997" END="1001">sides</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E5" TYPE="ORG" SUBTYPE="Government" CLASS="USP">
+  <entity_mention ID="5-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1101" END="1118">the federal courts</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1118">courts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1263" END="1380">all the other federal
+judges who have unanimously held that this is not the proper time
+for federal court intervention</charseq>
+    </extent>
+    <head>
+      <charseq START="1285" END="1290">judges</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1292" END="1294">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1292" END="1294">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E7" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="7-13" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1355" END="1367">federal court</charseq>
+    </extent>
+    <head>
+      <charseq START="1363" END="1367">court</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E8" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1415" END="1431">the
+gore campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="1424" END="1431">campaign</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1543" END="1549">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1549">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1566" END="1572">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="1566" END="1572">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1876" END="1882">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="1876" END="1882">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="639" END="645">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="639" END="645">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="639" END="645">florida</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="11-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="65" END="90">the nation's highest court</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="90">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="861" END="882">the u.s. supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="882">u.s. supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1187" END="1208">the u.s. supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="1191" END="1208">u.s. supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1489" END="1505">the supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="1493" END="1505">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1619" END="1635">the supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="1623" END="1635">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1697" END="1718">the u.s. supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1718">u.s. supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1738" END="1775">the supreme court of the united states</charseq>
+    </extent>
+    <head>
+      <charseq START="1742" END="1775">supreme court of the united states</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="274" END="295">the u.s. supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="295">u.s. supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="367" END="388">the u.s. supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="388">u.s. supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="518" END="534">the supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="534">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="550" END="558">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="558">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="567" END="568">it</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="568">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="690" END="706">the supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="706">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1191" END="1208">u.s. supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="1493" END="1505">supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="1623" END="1635">supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="1701" END="1718">u.s. supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="1742" END="1775">supreme court of the united states</charseq>
+    </name>
+    <name>
+      <charseq START="278" END="295">u.s. supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="371" END="388">u.s. supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="522" END="534">supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="694" END="706">supreme court</charseq>
+    </name>
+    <name>
+      <charseq START="865" END="882">u.s. supreme court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-30" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="65" END="74">the nation</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="74">nation</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1729" END="1732">john</charseq>
+    </extent>
+    <head>
+      <charseq START="1729" END="1732">john</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="189" END="190">me</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="190">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1729" END="1732">john</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1656" END="1658">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1656" END="1658">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1923" END="1947">law professor rick pildes</charseq>
+    </extent>
+    <head>
+      <charseq START="1937" END="1947">rick pildes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-28" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1923" END="1935">law professor</charseq>
+    </extent>
+    <head>
+      <charseq START="1927" END="1935">professor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1956" END="1958">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1956" END="1958">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="199" END="223">law professor rick pildes</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="223">rick pildes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-33" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="199" END="211">law professor</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="211">professor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="226" END="249">a consultant to nbc news</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="237">consultant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="835" END="837">you</charseq>
+    </extent>
+    <head>
+      <charseq START="835" END="837">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1937" END="1947">rick pildes</charseq>
+    </name>
+    <name>
+      <charseq START="213" END="223">rick pildes</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="242" END="249">nbc news</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="249">nbc news</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="242" END="249">nbc news</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001125.1830.0911-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1064" END="1080">the bush campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="1073" END="1080">campaign</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1438" END="1454">the bush campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="1447" END="1454">campaign</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="656" END="672">the bush
+campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="672">campaign</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001125.1830.0911-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="725" END="726">we</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="726">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NBC20001125.1830.0911-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E12" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="65" END="90">the nation's highest court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="90">the nation's highest court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-30" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="74">the nation</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001125.1830.0911-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E17" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="226" END="249">a consultant to nbc news</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-34" ARGNUM="1">
+      <extent>
+        <charseq START="226" END="249">a consultant to nbc news</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-36" ARGNUM="2">
+      <extent>
+        <charseq START="242" END="249">nbc news</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001125.1830.0911-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E19" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="656" END="672">the bush
+campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-44" ARGNUM="1">
+      <extent>
+        <charseq START="660" END="663">bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-43" ARGNUM="2">
+      <extent>
+        <charseq START="656" END="672">the bush
+campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1064" END="1080">the bush campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-8" ARGNUM="1">
+      <extent>
+        <charseq START="1068" END="1071">bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-7" ARGNUM="2">
+      <extent>
+        <charseq START="1064" END="1080">the bush campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1438" END="1454">the bush campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-17" ARGNUM="1">
+      <extent>
+        <charseq START="1442" END="1445">bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-16" ARGNUM="2">
+      <extent>
+        <charseq START="1438" END="1454">the bush campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001125.1830.0911-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="940" END="957">both bush and gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="945" END="948">bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="2">
+      <extent>
+        <charseq START="940" END="957">both bush and gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001125.1830.0911-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E3" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="940" END="957">both bush and gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="954" END="957">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="2">
+      <extent>
+        <charseq START="940" END="957">both bush and gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001125.1830.0911-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001125.1830.0911-E8" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1415" END="1431">the
+gore campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-15" ARGNUM="1">
+      <extent>
+        <charseq START="1419" END="1422">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="2">
+      <extent>
+        <charseq START="1415" END="1431">the
+gore campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

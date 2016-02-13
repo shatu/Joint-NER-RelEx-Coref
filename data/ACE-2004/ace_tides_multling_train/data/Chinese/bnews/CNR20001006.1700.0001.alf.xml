@@ -1,0 +1,726 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNR20001006.1700.0001.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNR20001006.1700.0001">
+<composite_entity ID="CNR20001006.1700.0001-CE1">
+  <entity ID="CNR20001006.1700.0001-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="1-54" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="230" END="231">一县</charseq>
+      </extent>
+      <head>
+        <charseq START="231" END="231">县</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE2">
+  <entity ID="CNR20001006.1700.0001-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="2-2" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="237" END="238">一镇</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="238">镇</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE3">
+  <entity ID="CNR20001006.1700.0001-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="274" END="275">国内</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="275">国内</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-18" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="403" END="404">全国</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="404">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-25" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="519" END="519">内</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="519">内</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE4">
+  <entity ID="CNR20001006.1700.0001-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="296" END="300">温州桥头镇</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="300">桥头镇</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="298" END="300">桥头镇</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNR20001006.1700.0001-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="6-7" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="304" END="311">远东第一钮扣市场</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="311">远东第一钮扣市场</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="304" END="311">远东第一钮扣市场</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE5">
+  <entity ID="CNR20001006.1700.0001-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="296" END="297">温州</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="297">温州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="296" END="297">温州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE6">
+  <entity ID="CNR20001006.1700.0001-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NOM">
+      <extent>
+        <charseq START="314" END="322">近千家纽扣生产企业</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="322">企业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE7">
+  <entity ID="CNR20001006.1700.0001-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="342" END="343">宁波</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="343">宁波</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="342" END="343">宁波</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE8">
+  <entity ID="CNR20001006.1700.0001-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="348" END="349">海宁</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="349">海宁</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="348" END="349">海宁</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE9">
+  <entity ID="CNR20001006.1700.0001-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="10-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="354" END="355">永康</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="355">永康</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="354" END="355">永康</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE10">
+  <entity ID="CNR20001006.1700.0001-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="11-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="360" END="361">胜州</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="361">胜州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="360" END="361">胜州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE11">
+  <entity ID="CNR20001006.1700.0001-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="366" END="367">大唐</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="367">大唐</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="366" END="367">大唐</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE12">
+  <entity ID="CNR20001006.1700.0001-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="13-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="372" END="373">义乌</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="373">义乌</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="372" END="373">义乌</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE13">
+  <entity ID="CNR20001006.1700.0001-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="379" END="380">上虞</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="380">上虞</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="379" END="380">上虞</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE14">
+  <entity ID="CNR20001006.1700.0001-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-16" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="387" END="388">安吉</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="388">安吉</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="387" END="388">安吉</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE15">
+  <entity ID="CNR20001006.1700.0001-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-17" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="394" END="395">徐村</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="395">徐村</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="394" END="395">徐村</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE16">
+  <entity ID="CNR20001006.1700.0001-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="17-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="426" END="429">专业村镇</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="429">村镇</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE17">
+  <entity ID="CNR20001006.1700.0001-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="18-20" TYPE="NOM">
+      <extent>
+        <charseq START="438" END="446">浙江的区域特色产业</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="446">产业</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-22" TYPE="PRO">
+      <extent>
+        <charseq START="516" END="516">其</charseq>
+      </extent>
+      <head>
+        <charseq START="516" END="516">其</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE18">
+  <entity ID="CNR20001006.1700.0001-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="19-23" TYPE="PMM" ROLE="LOC">
+      <extent>
+        <charseq START="518" END="520">国内外</charseq>
+      </extent>
+      <head>
+        <charseq START="518" END="520">国内外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-24" TYPE="PMM" ROLE="LOC">
+      <extent>
+        <charseq START="519" END="520">内外</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="520">内外</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE19">
+  <entity ID="CNR20001006.1700.0001-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-26" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="520" END="520">外</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="520">外</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE20">
+  <entity ID="CNR20001006.1700.0001-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-27" TYPE="APP">
+      <extent>
+        <charseq START="529" END="543">浙江省经济贸易委员会主任金德水</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="21-28" TYPE="NAM">
+      <extent>
+        <charseq START="541" END="543">金德水</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="543">金德水</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="541" END="543">金德水</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNR20001006.1700.0001-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-29" TYPE="NOM">
+      <extent>
+        <charseq START="529" END="540">浙江省经济贸易委员会主任</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="540">主任</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE21">
+  <entity ID="CNR20001006.1700.0001-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="23-30" TYPE="NAM">
+      <extent>
+        <charseq START="529" END="538">浙江省经济贸易委员会</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="538">经济贸易委员会</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="532" END="538">经济贸易委员会</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE22">
+  <entity ID="CNR20001006.1700.0001-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="25-38" TYPE="NOM">
+      <extent>
+        <charseq START="616" END="622">经济活跃的企业</charseq>
+      </extent>
+      <head>
+        <charseq START="621" END="622">企业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE23">
+  <entity ID="CNR20001006.1700.0001-E26" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="26-39" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="630" END="631">各地</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="631">地</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-46" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="212" END="213">各地</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="213">地</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE24">
+  <entity ID="CNR20001006.1700.0001-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="24-1" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="69" END="72">一个城镇</charseq>
+      </extent>
+      <head>
+        <charseq START="71" END="72">城镇</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE25">
+  <entity ID="CNR20001006.1700.0001-E27" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="27-43" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="111" END="115">特色产业区</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="115">产业区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-45" TYPE="NOM">
+      <extent>
+        <charseq START="74" END="76">产业区</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="76">产业区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE26">
+  <entity ID="CNR20001006.1700.0001-E28" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="28-47" TYPE="NOM">
+      <extent>
+        <charseq START="100" END="103">权威人士</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="103">人士</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE27">
+  <entity ID="CNR20001006.1700.0001-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="29-3" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="250" END="251">全省</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="251">省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="438" END="439">浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="439">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="529" END="531">浙江省</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="531">浙江省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="554">我们浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="554">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-33" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="551" END="552">我们</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="552">我们</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="582" END="585">我们浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="584" END="585">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-35" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="582" END="583">我们</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="583">我们</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-36" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="600" END="601">我省</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="601">省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-37" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="600" END="600">我</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="600">我</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="670" END="671">浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="671">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="701" END="704">我们浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="704">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-42" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="701" END="702">我们</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="702">我们</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-44" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="130" END="132">这个省</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="132">省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-48" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="107" END="109">浙
+江</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="109">浙
+江</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-53" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="205" END="206">浙江</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="206">浙江</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="107" END="109">浙
+江</charseq>
+      </name>
+      <name>
+        <charseq START="205" END="206">浙江</charseq>
+      </name>
+      <name>
+        <charseq START="438" END="439">浙江</charseq>
+      </name>
+      <name>
+        <charseq START="529" END="531">浙江省</charseq>
+      </name>
+      <name>
+        <charseq START="553" END="554">浙江</charseq>
+      </name>
+      <name>
+        <charseq START="584" END="585">浙江</charseq>
+      </name>
+      <name>
+        <charseq START="670" END="671">浙江</charseq>
+      </name>
+      <name>
+        <charseq START="703" END="704">浙江</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE28">
+  <entity ID="CNR20001006.1700.0001-E30" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+    <entity_mention ID="30-49" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="155">省市</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="155">省市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-52" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="193" END="193">其</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="193">其</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE29">
+  <entity ID="CNR20001006.1700.0001-E31" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+    <entity_mention ID="31-50" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="154">省</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="154">省</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001006.1700.0001-CE30">
+  <entity ID="CNR20001006.1700.0001-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="32-51" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="155" END="155">市</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="155">市</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNR20001006.1700.0001-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="296" END="300">温州桥头镇</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E4" ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="296" END="300">温州桥头镇</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E5" ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="296" END="297">温州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001006.1700.0001-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="529" END="540">浙江省经济贸易委员会主任</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E22" ENTITYMENTIONID="22-29" ARGNUM="1">
+      <extent>
+        <charseq START="529" END="540">浙江省经济贸易委员会主任</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E23" ENTITYMENTIONID="23-30" ARGNUM="2">
+      <extent>
+        <charseq START="529" END="538">浙江省经济贸易委员会</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001006.1700.0001-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="529" END="538">浙江省经济贸易委员会</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E23" ENTITYMENTIONID="23-30" ARGNUM="1">
+      <extent>
+        <charseq START="529" END="538">浙江省经济贸易委员会</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E29" ENTITYMENTIONID="29-31" ARGNUM="2">
+      <extent>
+        <charseq START="529" END="531">浙江省</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001006.1700.0001-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="438" END="446">浙江的区域特色产业</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E18" ENTITYMENTIONID="18-20" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="446">浙江的区域特色产业</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001006.1700.0001-E29" ENTITYMENTIONID="29-21" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="439">浙江</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001203.0900.0606.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001203.0900.0606">
+<entity ID="CNN20001203.0900.0606-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="149" END="160">holly firfer</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="160">holly firfer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1155" END="1155">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1155" END="1155">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1159" END="1169">holy firfer</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1169">holy firfer</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="149" END="160">holly firfer</charseq>
+    </name>
+    <name>
+      <charseq START="1159" END="1169">holy firfer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001203.0900.0606-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-1" TYPE="NAM" LDCTYPE="NAM" ROLE="PER">
+    <extent>
+      <charseq START="64" END="72">americans</charseq>
+    </extent>
+    <head>
+      <charseq START="64" END="72">americans</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="64" END="72">americans</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001203.0900.0606-E4" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="4-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="237" END="250">northern china</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="250">china</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="246" END="250">china</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001203.0900.0606-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="304" END="321">millions of asians</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="321">asians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="489" END="495">the fda</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="495">fda</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="493" END="495">fda</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001203.0900.0606-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="617" END="633">your local grocer</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="633">grocer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="617" END="620">your</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="620">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1123" END="1126">your</charseq>
+    </extent>
+    <head>
+      <charseq START="1123" END="1126">your</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="710" END="714">japan</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="714">japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="710" END="714">japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001203.0900.0606-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="781" END="787">someone</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="787">someone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="857" END="868">some experts</charseq>
+    </extent>
+    <head>
+      <charseq START="862" END="868">experts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="971" END="977">experts</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="977">experts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001203.0900.0606-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1123" END="1133">your doctor</charseq>
+    </extent>
+    <head>
+      <charseq START="1128" END="1133">doctor</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001203.0900.0606-R1" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="CNN20001203.0900.0606-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001203.0900.0606-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1123" END="1133">your doctor</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-12" ARGNUM="1">
+      <extent>
+        <charseq START="1123" END="1133">your doctor</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="2">
+      <extent>
+        <charseq START="1123" END="1126">your</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001203.0900.0606-R2" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="CNN20001203.0900.0606-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001203.0900.0606-E8" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="617" END="633">your local grocer</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-6" ARGNUM="1">
+      <extent>
+        <charseq START="617" END="633">your local grocer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-7" ARGNUM="2">
+      <extent>
+        <charseq START="617" END="620">your</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0038.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0038.arb">
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE1">
+  <entity ID="20000815_AFP_ARB.0038.arb-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-7" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="901" END="906">للعراق</charseq>
+      </extent>
+      <head>
+        <charseq START="901" END="906">للعراق</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1090" END="1095">العراق</charseq>
+      </extent>
+      <head>
+        <charseq START="1090" END="1095">العراق</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-9" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="1083" END="1083">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="1083" END="1083">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1184" END="1188">بلاده</charseq>
+      </extent>
+      <head>
+        <charseq START="1184" END="1187">بلاد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-21" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="1190" END="1190">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1190">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1279" END="1284">العراق</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1284">العراق</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-46" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="775" END="780">العراق</charseq>
+      </extent>
+      <head>
+        <charseq START="775" END="780">العراق</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1090" END="1095">العراق</charseq>
+      </name>
+      <name>
+        <charseq START="1279" END="1284">العراق</charseq>
+      </name>
+      <name>
+        <charseq START="775" END="780">العراق</charseq>
+      </name>
+      <name>
+        <charseq START="901" END="906">للعراق</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE2">
+  <entity ID="20000815_AFP_ARB.0038.arb-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="798" END="816">المسؤولين العراقيين</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="806">المسؤولين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE3">
+  <entity ID="20000815_AFP_ARB.0038.arb-E4" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="4-13" TYPE="NOM">
+      <extent>
+        <charseq START="1050" END="1069">لجنة مراقبة العقوبات</charseq>
+      </extent>
+      <head>
+        <charseq START="1050" END="1053">لجنة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE4">
+  <entity ID="20000815_AFP_ARB.0038.arb-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-14" TYPE="APP">
+      <extent>
+        <charseq START="1146" END="1179">نائب الرئيس العراقي طه
+ياسين رمضان</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="5-15" TYPE="NOM">
+      <extent>
+        <charseq START="1146" END="1164">نائب الرئيس العراقي</charseq>
+      </extent>
+      <head>
+        <charseq START="1146" END="1149">نائب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-20" TYPE="PRO">
+      <extent>
+        <charseq START="1188" END="1188">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1188">ه</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0038.arb-E7" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="7-18" TYPE="NAM">
+      <extent>
+        <charseq START="1166" END="1179">طه
+ياسين رمضان</charseq>
+      </extent>
+      <head>
+        <charseq START="1166" END="1179">طه
+ياسين رمضان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1166" END="1179">طه
+ياسين رمضان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE5">
+  <entity ID="20000815_AFP_ARB.0038.arb-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-16" TYPE="NOM">
+      <extent>
+        <charseq START="1151" END="1164">الرئيس العراقي</charseq>
+      </extent>
+      <head>
+        <charseq START="1151" END="1156">الرئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE6">
+  <entity ID="20000815_AFP_ARB.0038.arb-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="8-25" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1310" END="1322">الامم
+المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="1310" END="1322">الامم
+المتحدة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-26" TYPE="PRO">
+      <extent>
+        <charseq START="1327" END="1327">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="1327" END="1327">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1310" END="1322">الامم
+المتحدة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE7">
+  <entity ID="20000815_AFP_ARB.0038.arb-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="129" END="133">بغداد</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="133">بغداد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-10" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="968" END="968">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="968">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="973" END="977">بغداد</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="977">بغداد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-34" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="313" END="317">بغداد</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="317">بغداد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-44" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="713" END="717">بغداد</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="717">بغداد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="973" END="977">بغداد</charseq>
+      </name>
+      <name>
+        <charseq START="313" END="317">بغداد</charseq>
+      </name>
+      <name>
+        <charseq START="713" END="717">بغداد</charseq>
+      </name>
+      <name>
+        <charseq START="129" END="133">بغداد</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE8">
+  <entity ID="20000815_AFP_ARB.0038.arb-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-27" TYPE="NAM">
+      <extent>
+        <charseq START="141" END="144">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="144">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="141" END="144">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE9">
+  <entity ID="20000815_AFP_ARB.0038.arb-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-12" TYPE="NOM">
+      <extent>
+        <charseq START="153" END="182">مدير برنامج النفط مقابل الغذاء</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="156">مدير</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-22" TYPE="NAM">
+      <extent>
+        <charseq START="1254" END="1258">سيفان</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1258">سيفان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-23" TYPE="PRO">
+      <extent>
+        <charseq START="1273" END="1273">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1273">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-28" TYPE="APP">
+      <extent>
+        <charseq START="153" END="194">مدير برنامج النفط مقابل الغذاء بينون سيفان</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-33" TYPE="NAM">
+      <extent>
+        <charseq START="287" END="291">سيفان</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="291">سيفان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-39" TYPE="PRO">
+      <extent>
+        <charseq START="589" END="589">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="589">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-42" TYPE="NAM">
+      <extent>
+        <charseq START="707" END="711">سيفان</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="711">سيفان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-43" TYPE="PRO">
+      <extent>
+        <charseq START="701" END="701">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="701">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1254" END="1258">سيفان</charseq>
+      </name>
+      <name>
+        <charseq START="287" END="291">سيفان</charseq>
+      </name>
+      <name>
+        <charseq START="707" END="711">سيفان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0038.arb-E13" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="13-30" TYPE="NAM">
+      <extent>
+        <charseq START="184" END="194">بينون سيفان</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="194">بينون سيفان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="184" END="194">بينون سيفان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE10">
+  <entity ID="20000815_AFP_ARB.0038.arb-E12" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="12-4" TYPE="NOM">
+      <extent>
+        <charseq START="860" END="896">البرنامج الذي بدأ العمل به في اواخر 1</charseq>
+      </extent>
+      <head>
+        <charseq START="860" END="867">البرنامج</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-5" TYPE="WHQ">
+      <extent>
+        <charseq START="869" END="872">الذي</charseq>
+      </extent>
+      <head>
+        <charseq START="869" END="872">الذي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-6" TYPE="PRO">
+      <extent>
+        <charseq START="885" END="885">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="885">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-29" TYPE="NAM">
+      <extent>
+        <charseq START="158" END="182">برنامج النفط مقابل الغذاء</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="182">برنامج النفط مقابل الغذاء</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-32" TYPE="NOM">
+      <extent>
+        <charseq START="270" END="277">البرنامج</charseq>
+      </extent>
+      <head>
+        <charseq START="270" END="277">البرنامج</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-35" TYPE="NOM">
+      <extent>
+        <charseq START="350" END="357">البرنامج</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="357">البرنامج</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="158" END="182">برنامج النفط مقابل الغذاء</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE11">
+  <entity ID="20000815_AFP_ARB.0038.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="3-3" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="808" END="816">العراقيين</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="816">العراقيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-17" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1158" END="1164">العراقي</charseq>
+      </extent>
+      <head>
+        <charseq START="1158" END="1164">العراقي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0038.arb-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-31" TYPE="MWH" ROLE="GPE">
+      <extent>
+        <charseq START="211" END="231">العراق
+والامم المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="231">العراق
+والامم المتحدة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE12">
+  <entity ID="20000815_AFP_ARB.0038.arb-E15" TYPE="PER" CLASS="USP">
+    <entity_mention ID="15-36" TYPE="PRO">
+      <extent>
+        <charseq START="439" END="440">نا</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="440">نا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-37" TYPE="PRO">
+      <extent>
+        <charseq START="452" END="452">ن</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="452">ن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-38" TYPE="PRO">
+      <extent>
+        <charseq START="481" END="481">ن</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="481">ن</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE13">
+  <entity ID="20000815_AFP_ARB.0038.arb-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-40" TYPE="PTV" ROLE="GPE">
+      <extent>
+        <charseq START="633" END="642">كل الاطراف</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="634">كل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-41" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="636" END="642">الاطراف</charseq>
+      </extent>
+      <head>
+        <charseq START="636" END="642">الاطراف</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0038.arb-CE14">
+  <entity ID="20000815_AFP_ARB.0038.arb-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-45" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="733" END="739">نيويورك</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="739">نيويورك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="733" END="739">نيويورك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20000815_AFP_ARB.0038.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="153" END="182">مدير برنامج النفط مقابل الغذاء</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E11" ENTITYMENTIONID="11-12" ARGNUM="1">
+      <extent>
+        <charseq START="153" END="182">مدير برنامج النفط مقابل الغذاء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E12" ENTITYMENTIONID="12-29" ARGNUM="2">
+      <extent>
+        <charseq START="158" END="182">برنامج النفط مقابل الغذاء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0038.arb-R2" TYPE="DISC">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="633" END="642">كل الاطراف</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E16" ENTITYMENTIONID="16-40" ARGNUM="1">
+      <extent>
+        <charseq START="633" END="642">كل الاطراف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E16" ENTITYMENTIONID="16-41" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="642">الاطراف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0038.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="798" END="816">المسؤولين العراقيين</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="798" END="816">المسؤولين العراقيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="808" END="816">العراقيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0038.arb-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1146" END="1164">نائب الرئيس العراقي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E5" ENTITYMENTIONID="5-15" ARGNUM="1">
+      <extent>
+        <charseq START="1146" END="1164">نائب الرئيس العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E6" ENTITYMENTIONID="6-16" ARGNUM="2">
+      <extent>
+        <charseq START="1151" END="1164">الرئيس العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0038.arb-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1146" END="1164">نائب الرئيس العراقي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E6" ENTITYMENTIONID="6-16" ARGNUM="1">
+      <extent>
+        <charseq START="1151" END="1164">الرئيس العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E3" ENTITYMENTIONID="3-17" ARGNUM="2">
+      <extent>
+        <charseq START="1158" END="1164">العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0038.arb-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1184" END="1188">بلاده</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E1" ENTITYMENTIONID="1-19" ARGNUM="1">
+      <extent>
+        <charseq START="1184" END="1188">بلاده</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0038.arb-E5" ENTITYMENTIONID="5-20" ARGNUM="2">
+      <extent>
+        <charseq START="1188" END="1188">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_160.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_160.eng">
+<composite_entity ID="chtb_160.eng-CE1">
+  <entity ID="chtb_160.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="1-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1451" END="1452">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1451" END="1452">US</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE2">
+  <entity ID="chtb_160.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="2-9" TYPE="NOM">
+      <extent>
+        <charseq START="1502" END="1524">8 foreign capital
+banks</charseq>
+      </extent>
+      <head>
+        <charseq START="1520" END="1524">banks</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE3">
+  <entity ID="chtb_160.eng-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1573" END="1589">Shanghai's
+Pudong</charseq>
+      </extent>
+      <head>
+        <charseq START="1584" END="1589">Pudong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1584" END="1589">Pudong</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE4">
+  <entity ID="chtb_160.eng-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1573" END="1580">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="1573" END="1580">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-32" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2091" END="2098">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="2091" END="2098">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1573" END="1580">Shanghai</charseq>
+      </name>
+      <name>
+        <charseq START="2091" END="2098">Shanghai</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE5">
+  <entity ID="chtb_160.eng-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-13" TYPE="NOM">
+      <extent>
+        <charseq START="1622" END="1678">158 foreign capital operation-type
+financial institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="1667" END="1678">institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-14" TYPE="WHQ">
+      <extent>
+        <charseq START="1688" END="1692">which</charseq>
+      </extent>
+      <head>
+        <charseq START="1688" END="1692">which</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE6">
+  <entity ID="chtb_160.eng-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-15" TYPE="PTV">
+      <extent>
+        <charseq START="1681" END="1692">132 of which</charseq>
+      </extent>
+      <head>
+        <charseq START="1681" END="1683">132</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_160.eng-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="7-16" TYPE="BAR">
+      <extent>
+        <charseq START="1698" END="1730">branches of foreign capital
+banks</charseq>
+      </extent>
+      <head>
+        <charseq START="1698" END="1705">branches</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE7">
+  <entity ID="chtb_160.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-17" TYPE="BAR">
+      <extent>
+        <charseq START="1710" END="1730">foreign capital
+banks</charseq>
+      </extent>
+      <head>
+        <charseq START="1726" END="1730">banks</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE8">
+  <entity ID="chtb_160.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="9-18" TYPE="BAR">
+      <extent>
+        <charseq START="1751" END="1813">representative office of foreign capital
+financial institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="1766" END="1771">office</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE9">
+  <entity ID="chtb_160.eng-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="11-22" TYPE="NOM">
+      <extent>
+        <charseq START="1865" END="1905">the main international banks in
+Australia</charseq>
+      </extent>
+      <head>
+        <charseq START="1888" END="1892">banks</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE10">
+  <entity ID="chtb_160.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-24" TYPE="NOM">
+      <extent>
+        <charseq START="1918" END="1951">a representative office in Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="1935" END="1940">office</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE11">
+  <entity ID="chtb_160.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-28" TYPE="NOM">
+      <extent>
+        <charseq START="2025" END="2043">a
+branch in Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="2027" END="2032">branch</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-46" TYPE="NOM">
+      <extent>
+        <charseq START="558" END="573">a Beijing branch</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="573">branch</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE12">
+  <entity ID="chtb_160.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-31" TYPE="NOM">
+      <extent>
+        <charseq START="2079" END="2098">a branch in Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="2081" END="2086">branch</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE13">
+  <entity ID="chtb_160.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="15-1" TYPE="NAM">
+      <extent>
+        <charseq START="122" END="139">Xinhua News Agency</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="139">Xinhua News Agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="122" END="139">Xinhua News Agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE14">
+  <entity ID="chtb_160.eng-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-25" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1945" END="1951">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="1945" END="1951">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-29" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2037" END="2043">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="2037" END="2043">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-33" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="142" END="148">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="148">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-38" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="233" END="236">here</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="236">here</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1945" END="1951">Beijing</charseq>
+      </name>
+      <name>
+        <charseq START="2037" END="2043">Beijing</charseq>
+      </name>
+      <name>
+        <charseq START="142" END="148">Beijing</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_160.eng-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="25-47" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="560" END="566">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="560" END="566">Beijing</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE15">
+  <entity ID="chtb_160.eng-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-4" TYPE="NAM">
+      <extent>
+        <charseq START="1190" END="1202">Xianglong Dai</charseq>
+      </extent>
+      <head>
+        <charseq START="1190" END="1202">Xianglong Dai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-26" TYPE="PRO">
+      <extent>
+        <charseq START="577" END="578">He</charseq>
+      </extent>
+      <head>
+        <charseq START="577" END="578">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-34" TYPE="APP">
+      <extent>
+        <charseq START="162" END="219">The president of the People's Bank of China, Xianglong Dai</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-35" TYPE="NOM">
+      <extent>
+        <charseq START="162" END="204">The president of the People's Bank of China</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="174">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-44" TYPE="NAM">
+      <extent>
+        <charseq START="455" END="467">Xianglong Dai</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="467">Xianglong Dai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="455" END="467">Xianglong Dai</charseq>
+      </name>
+      <name>
+        <charseq START="1190" END="1202">Xianglong Dai</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_160.eng-E18" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="18-36" TYPE="NAM">
+      <extent>
+        <charseq START="207" END="219">Xianglong Dai</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="219">Xianglong Dai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="207" END="219">Xianglong Dai</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE16">
+  <entity ID="chtb_160.eng-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-37" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="204">the People's Bank of China</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="204">People's Bank of China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="183" END="204">People's Bank of China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE17">
+  <entity ID="chtb_160.eng-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="887" END="891">China</charseq>
+      </extent>
+      <head>
+        <charseq START="887" END="891">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1006" END="1010">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1010">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1312" END="1316">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1316">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1604" END="1608">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1604" END="1608">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-39" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="253" END="257">China</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="257">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-42" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="426" END="430">China</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="430">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1604" END="1608">China</charseq>
+      </name>
+      <name>
+        <charseq START="253" END="257">China</charseq>
+      </name>
+      <name>
+        <charseq START="426" END="430">China</charseq>
+      </name>
+      <name>
+        <charseq START="887" END="891">China</charseq>
+      </name>
+      <name>
+        <charseq START="1006" END="1010">China</charseq>
+      </name>
+      <name>
+        <charseq START="1312" END="1316">China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_160.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="26-48" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="586" END="590">China</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="590">China</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE18">
+  <entity ID="chtb_160.eng-E21" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="USP">
+    <entity_mention ID="21-40" TYPE="NOM">
+      <extent>
+        <charseq START="283" END="301">the opened-up
+areas</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="301">areas</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE19">
+  <entity ID="chtb_160.eng-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="22-5" TYPE="BAR">
+      <extent>
+        <charseq START="1227" END="1264">foreign capital financial
+institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1264">institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-7" TYPE="BAR">
+      <extent>
+        <charseq START="1375" END="1413">foreign
+capital financial institution's</charseq>
+      </extent>
+      <head>
+        <charseq START="1401" END="1413">institution's</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-19" TYPE="BAR">
+      <extent>
+        <charseq START="1776" END="1813">foreign capital
+financial institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="1802" END="1813">institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-41" TYPE="BAR">
+      <extent>
+        <charseq START="333" END="362">foreign financial institutions</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="362">institutions</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE20">
+  <entity ID="chtb_160.eng-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="23-43" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="436" END="450">other countries</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="450">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_160.eng-CE21">
+  <entity ID="chtb_160.eng-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="10-21" TYPE="PTV">
+      <extent>
+        <charseq START="1858" END="1905">one of the main international banks in
+Australia</charseq>
+      </extent>
+      <head>
+        <charseq START="1858" END="1860">one</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_160.eng-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="24-20" TYPE="NAM">
+      <extent>
+        <charseq START="1834" END="1853">The Ocean Bank Group</charseq>
+      </extent>
+      <head>
+        <charseq START="1838" END="1853">Ocean Bank Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-23" TYPE="PRO">
+      <extent>
+        <charseq START="1908" END="1909">It</charseq>
+      </extent>
+      <head>
+        <charseq START="1908" END="1909">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-27" TYPE="PRO">
+      <extent>
+        <charseq START="1991" END="1992">it</charseq>
+      </extent>
+      <head>
+        <charseq START="1991" END="1992">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-30" TYPE="PRO">
+      <extent>
+        <charseq START="2060" END="2061">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2060" END="2061">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-45" TYPE="NAM">
+      <extent>
+        <charseq START="524" END="543">the Ocean Bank Group</charseq>
+      </extent>
+      <head>
+        <charseq START="528" END="543">Ocean Bank Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1838" END="1853">Ocean Bank Group</charseq>
+      </name>
+      <name>
+        <charseq START="528" END="543">Ocean Bank Group</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_160.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="162" END="204">The president of the People's Bank of China</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E17" ENTITYMENTIONID="17-35" ARGNUM="1">
+      <extent>
+        <charseq START="162" END="204">The president of the People's Bank of China</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E19" ENTITYMENTIONID="19-37" ARGNUM="2">
+      <extent>
+        <charseq START="179" END="204">the People's Bank of China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="207" END="450">Xianglong Dai pointed
+out here yesterday that China will continue to expand the opened-up
+areas, strengthen co-operation with foreign financial institutions,
+and promote financial and economic trade interaction between China
+and other countries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E18" ENTITYMENTIONID="18-36" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="219">Xianglong Dai</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E16" ENTITYMENTIONID="16-38" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="236">here</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="558" END="573">a Beijing branch</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E13" ENTITYMENTIONID="13-46" ARGNUM="1">
+      <extent>
+        <charseq START="558" END="573">a Beijing branch</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E25" ENTITYMENTIONID="25-47" ARGNUM="2">
+      <extent>
+        <charseq START="560" END="566">Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1573" END="1589">Shanghai's
+Pudong</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E3" ENTITYMENTIONID="3-10" ARGNUM="1">
+      <extent>
+        <charseq START="1573" END="1589">Shanghai's
+Pudong</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E4" ENTITYMENTIONID="4-11" ARGNUM="2">
+      <extent>
+        <charseq START="1573" END="1580">Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R5" TYPE="DISC">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1681" END="1692">132 of which</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E6" ENTITYMENTIONID="6-15" ARGNUM="1">
+      <extent>
+        <charseq START="1681" END="1692">132 of which</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E5" ENTITYMENTIONID="5-14" ARGNUM="2">
+      <extent>
+        <charseq START="1688" END="1692">which</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1698" END="1730">branches of foreign capital
+banks</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E7" ENTITYMENTIONID="7-16" ARGNUM="1">
+      <extent>
+        <charseq START="1698" END="1730">branches of foreign capital
+banks</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E8" ENTITYMENTIONID="8-17" ARGNUM="2">
+      <extent>
+        <charseq START="1710" END="1730">foreign capital
+banks</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R7" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1751" END="1813">representative office of foreign capital
+financial institutions</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E9" ENTITYMENTIONID="9-18" ARGNUM="1">
+      <extent>
+        <charseq START="1751" END="1813">representative office of foreign capital
+financial institutions</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E22" ENTITYMENTIONID="22-19" ARGNUM="2">
+      <extent>
+        <charseq START="1776" END="1813">foreign capital
+financial institutions</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1858" END="1905">one of the main international banks in
+Australia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E10" ENTITYMENTIONID="10-21" ARGNUM="1">
+      <extent>
+        <charseq START="1858" END="1905">one of the main international banks in
+Australia</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E11" ENTITYMENTIONID="11-22" ARGNUM="2">
+      <extent>
+        <charseq START="1865" END="1905">the main international banks in
+Australia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1918" END="1951">a representative office in Beijing</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E12" ENTITYMENTIONID="12-24" ARGNUM="1">
+      <extent>
+        <charseq START="1918" END="1951">a representative office in Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E16" ENTITYMENTIONID="16-25" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="1951">Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2025" END="2043">a
+branch in Beijing</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E13" ENTITYMENTIONID="13-28" ARGNUM="1">
+      <extent>
+        <charseq START="2025" END="2043">a
+branch in Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E16" ENTITYMENTIONID="16-29" ARGNUM="2">
+      <extent>
+        <charseq START="2037" END="2043">Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_160.eng-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2079" END="2098">a branch in Shanghai</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E14" ENTITYMENTIONID="14-31" ARGNUM="1">
+      <extent>
+        <charseq START="2079" END="2098">a branch in Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_160.eng-E4" ENTITYMENTIONID="4-32" ARGNUM="2">
+      <extent>
+        <charseq START="2091" END="2098">Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

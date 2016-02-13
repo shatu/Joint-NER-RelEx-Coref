@@ -1,0 +1,1181 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000915_AFP_ARB.0050.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000915_AFP_ARB.0050.eng">
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE1">
+  <entity ID="20000915_AFP_ARB.0050.eng-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="PRO">
+      <extent>
+        <charseq START="551" END="552">We</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="552">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-19" TYPE="PRO">
+      <extent>
+        <charseq START="1033" END="1034">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1034">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-38" TYPE="PRO">
+      <extent>
+        <charseq START="1504" END="1505">We</charseq>
+      </extent>
+      <head>
+        <charseq START="1504" END="1505">We</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE2">
+  <entity ID="20000915_AFP_ARB.0050.eng-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-8" TYPE="NOM">
+      <extent>
+        <charseq START="759" END="774">a
+representative</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="774">representative</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE3">
+  <entity ID="20000915_AFP_ARB.0050.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="805" END="815">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="815">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="965" END="975">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="965" END="975">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-17" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="992" END="1008">the Afghan people</charseq>
+      </extent>
+      <head>
+        <charseq START="1003" END="1008">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1360" END="1370">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1360" END="1370">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1450" END="1460">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1450" END="1460">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-50" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="1780" END="1793">the population</charseq>
+      </extent>
+      <head>
+        <charseq START="1784" END="1793">population</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-57" TYPE="BAR" ROLE="LOC">
+      <extent>
+        <charseq START="1911" END="1929">land in the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1911" END="1914">land</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-58" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1919" END="1929">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1923" END="1929">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="805" END="815">Afghanistan</charseq>
+      </name>
+      <name>
+        <charseq START="965" END="975">Afghanistan</charseq>
+      </name>
+      <name>
+        <charseq START="1360" END="1370">Afghanistan</charseq>
+      </name>
+      <name>
+        <charseq START="1450" END="1460">Afghanistan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000915_AFP_ARB.0050.eng-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="31-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="600" END="605">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="600" END="605">Afghan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-18" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="996" END="1001">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="996" END="1001">Afghan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1107" END="1112">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1112">Afghan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-66" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="206" END="211">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="211">Afghan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-72" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="305" END="310">Afghan</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="310">Afghan</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE4">
+  <entity ID="20000915_AFP_ARB.0050.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-10" TYPE="PRO">
+      <extent>
+        <charseq START="824" END="826">his</charseq>
+      </extent>
+      <head>
+        <charseq START="824" END="826">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="NAM">
+      <extent>
+        <charseq START="834" END="887">Sabghatallah Majdadi, who was acting president in 1992</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="853">Sabghatallah Majdadi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-12" TYPE="WHQ">
+      <extent>
+        <charseq START="856" END="858">who</charseq>
+      </extent>
+      <head>
+        <charseq START="856" END="858">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="834" END="853">Sabghatallah Majdadi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000915_AFP_ARB.0050.eng-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-13" TYPE="BAR">
+      <extent>
+        <charseq START="864" END="887">acting president in 1992</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="879">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE5">
+  <entity ID="20000915_AFP_ARB.0050.eng-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-20" TYPE="BAR">
+      <extent>
+        <charseq START="1052" END="1135">Participants in this conference, mainly Mujahideen and Afghan
+intellectuals in exile</charseq>
+      </extent>
+      <head>
+        <charseq START="1052" END="1063">Participants</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE6">
+  <entity ID="20000915_AFP_ARB.0050.eng-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-21" TYPE="BAR">
+      <extent>
+        <charseq START="1092" END="1101">Mujahideen</charseq>
+      </extent>
+      <head>
+        <charseq START="1092" END="1101">Mujahideen</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE7">
+  <entity ID="20000915_AFP_ARB.0050.eng-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-22" TYPE="BAR">
+      <extent>
+        <charseq START="1107" END="1135">Afghan
+intellectuals in exile</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1126">intellectuals</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE8">
+  <entity ID="20000915_AFP_ARB.0050.eng-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-25" TYPE="NOM">
+      <extent>
+        <charseq START="1183" END="1215">The United Nations representative</charseq>
+      </extent>
+      <head>
+        <charseq START="1202" END="1215">representative</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE9">
+  <entity ID="20000915_AFP_ARB.0050.eng-E10" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="10-26" TYPE="PRE">
+      <extent>
+        <charseq START="1187" END="1200">United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1187" END="1200">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-33" TYPE="PRE">
+      <extent>
+        <charseq START="1413" END="1426">United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="1413" END="1426">United Nations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE10">
+  <entity ID="20000915_AFP_ARB.0050.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-27" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1276" END="1302">the international community</charseq>
+      </extent>
+      <head>
+        <charseq START="1294" END="1302">community</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE11">
+  <entity ID="20000915_AFP_ARB.0050.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-29" TYPE="APP">
+      <extent>
+        <charseq START="1375" END="1494">Jean Pierre Castilla, the head of the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="12-30" TYPE="NAM">
+      <extent>
+        <charseq START="1375" END="1394">Jean Pierre Castilla</charseq>
+      </extent>
+      <head>
+        <charseq START="1375" END="1394">Jean Pierre Castilla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1375" END="1394">Jean Pierre Castilla</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000915_AFP_ARB.0050.eng-E13" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="13-31" TYPE="NOM">
+      <extent>
+        <charseq START="1397" END="1494">the head of the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+      </extent>
+      <head>
+        <charseq START="1401" END="1404">head</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE12">
+  <entity ID="20000915_AFP_ARB.0050.eng-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-32" TYPE="NOM">
+      <extent>
+        <charseq START="1409" END="1494">the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+      </extent>
+      <head>
+        <charseq START="1436" END="1445">delegation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-35" TYPE="WHQ">
+      <extent>
+        <charseq START="1463" END="1467">whose</charseq>
+      </extent>
+      <head>
+        <charseq START="1463" END="1467">whose</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE13">
+  <entity ID="20000915_AFP_ARB.0050.eng-E15" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="15-36" TYPE="NOM">
+      <extent>
+        <charseq START="1463" END="1480">whose headquarters</charseq>
+      </extent>
+      <head>
+        <charseq START="1469" END="1480">headquarters</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE14">
+  <entity ID="20000915_AFP_ARB.0050.eng-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-37" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1489" END="1494">Tehran</charseq>
+      </extent>
+      <head>
+        <charseq START="1489" END="1494">Tehran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1489" END="1494">Tehran</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE15">
+  <entity ID="20000915_AFP_ARB.0050.eng-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-39" TYPE="BAR">
+      <extent>
+        <charseq START="1561" END="1568">brothers</charseq>
+      </extent>
+      <head>
+        <charseq START="1561" END="1568">brothers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE16">
+  <entity ID="20000915_AFP_ARB.0050.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-40" TYPE="NOM">
+      <extent>
+        <charseq START="1608" END="1616">all sides</charseq>
+      </extent>
+      <head>
+        <charseq START="1612" END="1616">sides</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE17">
+  <entity ID="20000915_AFP_ARB.0050.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="20-46" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1701" END="1705">Kabul</charseq>
+      </extent>
+      <head>
+        <charseq START="1701" END="1705">Kabul</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1701" END="1705">Kabul</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE18">
+  <entity ID="20000915_AFP_ARB.0050.eng-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-48" TYPE="PRE">
+      <extent>
+        <charseq START="1756" END="1768">Muslim Sharia</charseq>
+      </extent>
+      <head>
+        <charseq START="1763" END="1768">Sharia</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE19">
+  <entity ID="20000915_AFP_ARB.0050.eng-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-51" TYPE="BAR">
+      <extent>
+        <charseq START="1798" END="1839">Opposition forces led by Ahmed Shah Masoud</charseq>
+      </extent>
+      <head>
+        <charseq START="1809" END="1814">forces</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE20">
+  <entity ID="20000915_AFP_ARB.0050.eng-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-52" TYPE="NAM">
+      <extent>
+        <charseq START="1823" END="1839">Ahmed Shah Masoud</charseq>
+      </extent>
+      <head>
+        <charseq START="1823" END="1839">Ahmed Shah Masoud</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1823" END="1839">Ahmed Shah Masoud</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE21">
+  <entity ID="20000915_AFP_ARB.0050.eng-E24" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="24-56" TYPE="PTV">
+      <extent>
+        <charseq START="1904" END="1929">80% of land in the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1904" END="1906">80%</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE22">
+  <entity ID="20000915_AFP_ARB.0050.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-59" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1964" END="1971">Pakistan</charseq>
+      </extent>
+      <head>
+        <charseq START="1964" END="1971">Pakistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1964" END="1971">Pakistan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE23">
+  <entity ID="20000915_AFP_ARB.0050.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="26-60" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1974" END="1985">Saudi Arabia</charseq>
+      </extent>
+      <head>
+        <charseq START="1974" END="1985">Saudi Arabia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-61" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1991" END="2014">the
+United Arab Emirates</charseq>
+      </extent>
+      <head>
+        <charseq START="1995" END="2014">United Arab Emirates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1974" END="1985">Saudi Arabia</charseq>
+      </name>
+      <name>
+        <charseq START="1995" END="2014">United Arab Emirates</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE24">
+  <entity ID="20000915_AFP_ARB.0050.eng-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="92" END="98">Nicosia</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="98">Nicosia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="92" END="98">Nicosia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE25">
+  <entity ID="20000915_AFP_ARB.0050.eng-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="27-2" TYPE="NAM">
+      <extent>
+        <charseq START="529" END="547">Agence France Press</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="547">Agence France Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-62" TYPE="NAM">
+      <extent>
+        <charseq START="106" END="108">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="108">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="106" END="108">AFP</charseq>
+      </name>
+      <name>
+        <charseq START="529" END="547">Agence France Press</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE26">
+  <entity ID="20000915_AFP_ARB.0050.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="28-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1162" END="1167">Cyprus</charseq>
+      </extent>
+      <head>
+        <charseq START="1162" END="1167">Cyprus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-63" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="139" END="144">Cyprus</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="144">Cyprus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1162" END="1167">Cyprus</charseq>
+      </name>
+      <name>
+        <charseq START="139" END="144">Cyprus</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE27">
+  <entity ID="20000915_AFP_ARB.0050.eng-E29" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="29-64" TYPE="NOM">
+      <extent>
+        <charseq START="179" END="218">dozens of opponents of the Afghan regime</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="197">opponents</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE28">
+  <entity ID="20000915_AFP_ARB.0050.eng-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="30-65" TYPE="NOM">
+      <extent>
+        <charseq START="202" END="218">the Afghan regime</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="218">regime</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE29">
+  <entity ID="20000915_AFP_ARB.0050.eng-E32" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="32-15" TYPE="PRE">
+      <extent>
+        <charseq START="915" END="921">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="921">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-42" TYPE="PRE">
+      <extent>
+        <charseq START="1626" END="1632">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="1626" END="1632">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-54" TYPE="PRE">
+      <extent>
+        <charseq START="1864" END="1870">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="1864" END="1870">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-68" TYPE="PRE">
+      <extent>
+        <charseq START="265" END="271">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="271">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-75" TYPE="PRE">
+      <extent>
+        <charseq START="423" END="429">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="429">Taliban</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000915_AFP_ARB.0050.eng-E33" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="33-5" TYPE="NAM">
+      <extent>
+        <charseq START="622" END="632">the Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="632">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-7" TYPE="NAM">
+      <extent>
+        <charseq START="736" END="746">the Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="746">Taliban</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-41" TYPE="NOM">
+      <extent>
+        <charseq START="1622" END="1641">The Taliban movement</charseq>
+      </extent>
+      <head>
+        <charseq START="1634" END="1641">movement</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-47" TYPE="PRO">
+      <extent>
+        <charseq START="1737" END="1739">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1737" END="1739">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-53" TYPE="NOM">
+      <extent>
+        <charseq START="1860" END="2014">the
+Taliban regime, which now controls over 80% of land in the country
+but is so far only recognized by Pakistan, Saudi Arabia and the
+United Arab Emirates</charseq>
+      </extent>
+      <head>
+        <charseq START="1872" END="1877">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-55" TYPE="WHQ">
+      <extent>
+        <charseq START="1880" END="1884">which</charseq>
+      </extent>
+      <head>
+        <charseq START="1880" END="1884">which</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-67" TYPE="NOM">
+      <extent>
+        <charseq START="261" END="280">the Taliban movement</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="280">movement</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-74" TYPE="NOM">
+      <extent>
+        <charseq START="411" END="438">the
+Islamic Taliban movement</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="438">movement</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="626" END="632">Taliban</charseq>
+      </name>
+      <name>
+        <charseq START="740" END="746">Taliban</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE30">
+  <entity ID="20000915_AFP_ARB.0050.eng-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="34-14" TYPE="BAR">
+      <extent>
+        <charseq START="915" END="937">Taliban representatives</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="937">representatives</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-69" TYPE="BAR">
+      <extent>
+        <charseq START="242" END="280">representatives of the Taliban movement</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="256">representatives</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE31">
+  <entity ID="20000915_AFP_ARB.0050.eng-E35" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="35-6" TYPE="PRO">
+      <extent>
+        <charseq START="707" END="708">he</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="708">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-70" TYPE="NOM">
+      <extent>
+        <charseq START="285" END="404">A spokesman for the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="295">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-77" TYPE="NAM">
+      <extent>
+        <charseq START="513" END="522">Abdurrahim</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="522">Abdurrahim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="513" END="522">Abdurrahim</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE32">
+  <entity ID="20000915_AFP_ARB.0050.eng-E36" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="36-43" TYPE="NOM">
+      <extent>
+        <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+      </extent>
+      <head>
+        <charseq START="1662" END="1667">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="36-71" TYPE="NOM">
+      <extent>
+        <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="321">government</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE33">
+  <entity ID="20000915_AFP_ARB.0050.eng-E37" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="37-45" TYPE="NAM">
+      <extent>
+        <charseq START="1676" END="1694">Birhanaldin
+Rabbani</charseq>
+      </extent>
+      <head>
+        <charseq START="1676" END="1694">Birhanaldin
+Rabbani</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="37-73" TYPE="NAM">
+      <extent>
+        <charseq START="374" END="392">Birhanaldin Rabbani</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="392">Birhanaldin Rabbani</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1676" END="1694">Birhanaldin
+Rabbani</charseq>
+      </name>
+      <name>
+        <charseq START="374" END="392">Birhanaldin Rabbani</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000915_AFP_ARB.0050.eng-CE34">
+  <entity ID="20000915_AFP_ARB.0050.eng-E38" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="38-44" TYPE="PRE">
+      <extent>
+        <charseq START="1654" END="1660">Islamic</charseq>
+      </extent>
+      <head>
+        <charseq START="1654" END="1660">Islamic</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-49" TYPE="PRE">
+      <extent>
+        <charseq START="1756" END="1761">Muslim</charseq>
+      </extent>
+      <head>
+        <charseq START="1756" END="1761">Muslim</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-76" TYPE="PRE">
+      <extent>
+        <charseq START="415" END="421">Islamic</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="421">Islamic</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20000915_AFP_ARB.0050.eng-R1" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="202" END="218">the Afghan regime</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E30" ENTITYMENTIONID="30-65" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="218">the Afghan regime</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E31" ENTITYMENTIONID="31-66" ARGNUM="2">
+      <extent>
+        <charseq START="206" END="211">Afghan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="242" END="280">representatives of the Taliban movement</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E34" ENTITYMENTIONID="34-69" ARGNUM="1">
+      <extent>
+        <charseq START="242" END="280">representatives of the Taliban movement</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E33" ENTITYMENTIONID="33-67" ARGNUM="2">
+      <extent>
+        <charseq START="261" END="280">the Taliban movement</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="285" END="404">A spokesman for the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E35" ENTITYMENTIONID="35-70" ARGNUM="1">
+      <extent>
+        <charseq START="285" END="404">A spokesman for the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-71" ARGNUM="2">
+      <extent>
+        <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R4" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-71" ARGNUM="1">
+      <extent>
+        <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E31" ENTITYMENTIONID="31-72" ARGNUM="2">
+      <extent>
+        <charseq START="305" END="310">Afghan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E37" ENTITYMENTIONID="37-73" ARGNUM="1">
+      <extent>
+        <charseq START="374" END="392">Birhanaldin Rabbani</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-71" ARGNUM="2">
+      <extent>
+        <charseq START="301" END="404">the Afghan government in exile, internationally
+recognized and headed by Birhanaldin Rabbani (1992-1996)</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="5-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E37" ENTITYMENTIONID="37-45" ARGNUM="1">
+      <extent>
+        <charseq START="1676" END="1694">Birhanaldin
+Rabbani</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-43" ARGNUM="2">
+      <extent>
+        <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R6" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="411" END="438">the
+Islamic Taliban movement</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E33" ENTITYMENTIONID="33-74" ARGNUM="1">
+      <extent>
+        <charseq START="411" END="438">the
+Islamic Taliban movement</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E32" ENTITYMENTIONID="32-75" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="429">Taliban</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="915" END="937">Taliban representatives</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E34" ENTITYMENTIONID="34-14" ARGNUM="1">
+      <extent>
+        <charseq START="915" END="937">Taliban representatives</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E32" ENTITYMENTIONID="32-15" ARGNUM="2">
+      <extent>
+        <charseq START="915" END="921">Taliban</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1183" END="1215">The United Nations representative</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E9" ENTITYMENTIONID="9-25" ARGNUM="1">
+      <extent>
+        <charseq START="1183" END="1215">The United Nations representative</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E10" ENTITYMENTIONID="10-26" ARGNUM="2">
+      <extent>
+        <charseq START="1187" END="1200">United Nations</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1409" END="1494">the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E14" ENTITYMENTIONID="14-32" ARGNUM="1">
+      <extent>
+        <charseq START="1409" END="1494">the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E10" ENTITYMENTIONID="10-33" ARGNUM="2">
+      <extent>
+        <charseq START="1413" END="1426">United Nations</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R10" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1409" END="1494">the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E14" ENTITYMENTIONID="14-32" ARGNUM="1">
+      <extent>
+        <charseq START="1409" END="1494">the United Nations special
+delegation on Afghanistan, whose headquarters are in Tehran</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E3" ENTITYMENTIONID="3-34" ARGNUM="2">
+      <extent>
+        <charseq START="1450" END="1460">Afghanistan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R11" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="11-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1463" END="1480">whose headquarters</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E14" ENTITYMENTIONID="14-35" ARGNUM="1">
+      <extent>
+        <charseq START="1463" END="1467">whose</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E15" ENTITYMENTIONID="15-36" ARGNUM="2">
+      <extent>
+        <charseq START="1463" END="1480">whose headquarters</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1463" END="1494">whose headquarters are in Tehran</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E15" ENTITYMENTIONID="15-36" ARGNUM="1">
+      <extent>
+        <charseq START="1463" END="1480">whose headquarters</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E16" ENTITYMENTIONID="16-37" ARGNUM="2">
+      <extent>
+        <charseq START="1489" END="1494">Tehran</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R13" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-43" ARGNUM="1">
+      <extent>
+        <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E38" ENTITYMENTIONID="38-44" ARGNUM="2">
+      <extent>
+        <charseq START="1654" END="1660">Islamic</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R15" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1650" END="1705">the Islamic regime led by Birhanaldin
+Rabbani from Kabul</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E36" ENTITYMENTIONID="36-43" ARGNUM="1">
+      <extent>
+        <charseq START="1650" END="1694">the Islamic regime led by Birhanaldin
+Rabbani</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E20" ENTITYMENTIONID="20-46" ARGNUM="2">
+      <extent>
+        <charseq START="1701" END="1705">Kabul</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R16" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="16-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1798" END="1839">Opposition forces led by Ahmed Shah Masoud</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E22" ENTITYMENTIONID="22-51" ARGNUM="1">
+      <extent>
+        <charseq START="1798" END="1839">Opposition forces led by Ahmed Shah Masoud</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E23" ENTITYMENTIONID="23-52" ARGNUM="2">
+      <extent>
+        <charseq START="1823" END="1839">Ahmed Shah Masoud</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0050.eng-R17" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1904" END="1929">80% of land in the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E24" ENTITYMENTIONID="24-56" ARGNUM="1">
+      <extent>
+        <charseq START="1904" END="1929">80% of land in the country</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000915_AFP_ARB.0050.eng-E3" ENTITYMENTIONID="3-57" ARGNUM="2">
+      <extent>
+        <charseq START="1911" END="1929">land in the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

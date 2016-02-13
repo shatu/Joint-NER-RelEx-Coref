@@ -1,0 +1,9 @@
+#DirectoryIndex index.html
+#Options +Indexes
+
+AuthName "ACE-2004 Multilingual Training Corpus"
+AuthType Basic
+AuthUserFile /home/roth/cogcomp/webpass/users
+
+require valid-user
+

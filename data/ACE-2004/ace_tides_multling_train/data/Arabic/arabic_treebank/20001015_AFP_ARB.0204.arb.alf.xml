@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0204.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0204.arb">
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE1">
+  <entity ID="20001015_AFP_ARB.0204.arb-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="579" END="583">تركيا</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="583">تركيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="579" END="583">تركيا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0204.arb-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="8-14" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="696" END="702">التركية</charseq>
+      </extent>
+      <head>
+        <charseq START="696" END="702">التركية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE2">
+  <entity ID="20001015_AFP_ARB.0204.arb-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="3-7" TYPE="NAM">
+      <extent>
+        <charseq START="831" END="852">ادارة حلف شمال الاطلسي</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="852">حلف شمال الاطلسي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="837" END="852">حلف شمال الاطلسي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE3">
+  <entity ID="20001015_AFP_ARB.0204.arb-E4" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="4-8" TYPE="NOM">
+      <extent>
+        <charseq START="890" END="907">الطائرات اليونانية</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="897">الطائرات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-10" TYPE="PRO">
+      <extent>
+        <charseq START="912" END="912">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="912" END="912">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE4">
+  <entity ID="20001015_AFP_ARB.0204.arb-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="5-11" TYPE="NOM">
+      <extent>
+        <charseq START="630" END="653">لقيادة الاركان اليونانية</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="643">لقيادة الاركان</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE5">
+  <entity ID="20001015_AFP_ARB.0204.arb-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-13" TYPE="NOM">
+      <extent>
+        <charseq START="688" END="702">السلطات التركية</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="694">السلطات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-17" TYPE="PRO">
+      <extent>
+        <charseq START="686" END="686">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="686" END="686">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE6">
+  <entity ID="20001015_AFP_ARB.0204.arb-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="7-15" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="735" END="768">جزيرتي ليمنوس وايكاريا
+اليونانيتين</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="756">ليمنوس وايكاريا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="742" END="756">ليمنوس وايكاريا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE7">
+  <entity ID="20001015_AFP_ARB.0204.arb-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="110" END="114">اثينا</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="114">اثينا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-23" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="229" END="233">اثينا</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="233">اثينا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="229" END="233">اثينا</charseq>
+      </name>
+      <name>
+        <charseq START="110" END="114">اثينا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE8">
+  <entity ID="20001015_AFP_ARB.0204.arb-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-18" TYPE="NAM">
+      <extent>
+        <charseq START="123" END="126">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="126">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="123" END="126">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE9">
+  <entity ID="20001015_AFP_ARB.0204.arb-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-4" TYPE="NAM">
+      <extent>
+        <charseq START="797" END="809">تسوهاتسوبولوس</charseq>
+      </extent>
+      <head>
+        <charseq START="797" END="809">تسوهاتسوبولوس</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-19" TYPE="APP">
+      <extent>
+        <charseq START="137" END="175">وزير الدفاع اليوناني اكيس تسوهاتسوبولوس</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-20" TYPE="NOM">
+      <extent>
+        <charseq START="137" END="156">وزير الدفاع اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="140">وزير</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-26" TYPE="NOM">
+      <extent>
+        <charseq START="341" END="355">الوزير اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="346">الوزير</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="797" END="809">تسوهاتسوبولوس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0204.arb-E13" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="13-22" TYPE="NAM">
+      <extent>
+        <charseq START="158" END="175">اكيس تسوهاتسوبولوس</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="175">اكيس تسوهاتسوبولوس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="158" END="175">اكيس تسوهاتسوبولوس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE10">
+  <entity ID="20001015_AFP_ARB.0204.arb-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="815" END="821">اليونان</charseq>
+      </extent>
+      <head>
+        <charseq START="815" END="821">اليونان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-6" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="823" END="823">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="823" END="823">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="815" END="821">اليونان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0204.arb-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="12-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="899" END="907">اليونانية</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="907">اليونانية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-12" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="645" END="653">اليونانية</charseq>
+      </extent>
+      <head>
+        <charseq START="645" END="653">اليونانية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="758" END="768">اليونانيتين</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="768">اليونانيتين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-21" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="149" END="156">اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="156">اليوناني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-27" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="348" END="355">اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="355">اليوناني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-32" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="505" END="512">اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="512">اليوناني</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE11">
+  <entity ID="20001015_AFP_ARB.0204.arb-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="236" END="240">انقرة</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="240">انقرة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="236" END="240">انقرة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE12">
+  <entity ID="20001015_AFP_ARB.0204.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-2" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="563" END="569">للحلفاء</charseq>
+      </extent>
+      <head>
+        <charseq START="563" END="569">للحلفاء</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="260" END="266">الحلفاء</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="266">الحلفاء</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE13">
+  <entity ID="20001015_AFP_ARB.0204.arb-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-28" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="377" END="383">سالونيك</charseq>
+      </extent>
+      <head>
+        <charseq START="377" END="383">سالونيك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="377" END="383">سالونيك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE14">
+  <entity ID="20001015_AFP_ARB.0204.arb-E17" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="17-29" TYPE="NOM">
+      <extent>
+        <charseq START="386" END="397">شمال اليونان</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="397">اليونان</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE15">
+  <entity ID="20001015_AFP_ARB.0204.arb-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="18-30" TYPE="PRO">
+      <extent>
+        <charseq START="486" END="486">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="486">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-31" TYPE="NAM">
+      <extent>
+        <charseq START="488" END="512">هيئة اركان الجيش اليوناني</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="503">هيئة اركان الجيش</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-33" TYPE="PRO">
+      <extent>
+        <charseq START="542" END="543">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="542" END="543">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="488" END="503">هيئة اركان الجيش</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0204.arb-CE16">
+  <entity ID="20001015_AFP_ARB.0204.arb-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-34" TYPE="NOM">
+      <extent>
+        <charseq START="538" END="550">قواتها
+الجوية</charseq>
+      </extent>
+      <head>
+        <charseq START="538" END="541">قوات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0204.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="137" END="156">وزير الدفاع اليوناني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E11" ENTITYMENTIONID="11-20" ARGNUM="1">
+      <extent>
+        <charseq START="137" END="156">وزير الدفاع اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-21" ARGNUM="2">
+      <extent>
+        <charseq START="149" END="156">اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="341" END="355">الوزير اليوناني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E11" ENTITYMENTIONID="11-26" ARGNUM="1">
+      <extent>
+        <charseq START="341" END="355">الوزير اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-27" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="355">اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="488" END="512">هيئة اركان الجيش اليوناني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E18" ENTITYMENTIONID="18-31" ARGNUM="1">
+      <extent>
+        <charseq START="488" END="512">هيئة اركان الجيش اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-32" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="512">اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="538" END="550">قواتها
+الجوية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E18" ENTITYMENTIONID="18-33" ARGNUM="1">
+      <extent>
+        <charseq START="542" END="543">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E19" ENTITYMENTIONID="19-34" ARGNUM="2">
+      <extent>
+        <charseq START="538" END="550">قواتها
+الجوية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="630" END="653">لقيادة الاركان اليونانية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E5" ENTITYMENTIONID="5-11" ARGNUM="1">
+      <extent>
+        <charseq START="630" END="653">لقيادة الاركان اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-12" ARGNUM="2">
+      <extent>
+        <charseq START="645" END="653">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="688" END="702">السلطات التركية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E6" ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="688" END="702">السلطات التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E8" ENTITYMENTIONID="8-14" ARGNUM="2">
+      <extent>
+        <charseq START="696" END="702">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R7" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="735" END="768">جزيرتي ليمنوس وايكاريا
+اليونانيتين</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E7" ENTITYMENTIONID="7-15" ARGNUM="1">
+      <extent>
+        <charseq START="735" END="768">جزيرتي ليمنوس وايكاريا
+اليونانيتين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-16" ARGNUM="2">
+      <extent>
+        <charseq START="758" END="768">اليونانيتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0204.arb-R8" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="890" END="907">الطائرات اليونانية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E12" ENTITYMENTIONID="12-9" ARGNUM="1">
+      <extent>
+        <charseq START="899" END="907">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0204.arb-E4" ENTITYMENTIONID="4-8" ARGNUM="2">
+      <extent>
+        <charseq START="890" END="907">الطائرات اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

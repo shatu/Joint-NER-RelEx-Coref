@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="VOA20001002.2100.0990.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001002.2100.0990">
+<composite_entity ID="VOA20001002.2100.0990-CE1">
+  <entity ID="VOA20001002.2100.0990-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="1-24" TYPE="BAR">
+      <extent>
+        <charseq START="950" END="968">Rugby union players</charseq>
+      </extent>
+      <head>
+        <charseq START="962" END="968">players</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE2">
+  <entity ID="VOA20001002.2100.0990-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="PRE">
+      <extent>
+        <charseq START="950" END="960">Rugby union</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="960">Rugby union</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE3">
+  <entity ID="VOA20001002.2100.0990-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="1059" END="1082">The Scottish researchers</charseq>
+      </extent>
+      <head>
+        <charseq START="1072" END="1082">researchers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-5" TYPE="PRO">
+      <extent>
+        <charseq START="1145" END="1148">They</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1148">They</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE4">
+  <entity ID="VOA20001002.2100.0990-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1063" END="1070">Scottish</charseq>
+      </extent>
+      <head>
+        <charseq START="1063" END="1070">Scottish</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE5">
+  <entity ID="VOA20001002.2100.0990-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1248" END="1257">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1248" END="1257">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1248" END="1257">Washington</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE6">
+  <entity ID="VOA20001002.2100.0990-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-1" TYPE="NOM">
+      <extent>
+        <charseq START="146" END="153">a player</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="153">player</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE7">
+  <entity ID="VOA20001002.2100.0990-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="7-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="196">British</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="196">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-14" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="354" END="360">British</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="360">British</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-22" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="740" END="746">British</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="746">British</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE8">
+  <entity ID="VOA20001002.2100.0990-E8" TYPE="PER" CLASS="USP">
+    <entity_mention ID="8-10" TYPE="PRO">
+      <extent>
+        <charseq START="218" END="219">we</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="219">we</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE9">
+  <entity ID="VOA20001002.2100.0990-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="9-7" TYPE="NAM">
+      <extent>
+        <charseq START="1238" END="1245">VOA News</charseq>
+      </extent>
+      <head>
+        <charseq START="1238" END="1245">VOA News</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-11" TYPE="NAM">
+      <extent>
+        <charseq START="235" END="237">VOA</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="237">VOA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1238" END="1245">VOA News</charseq>
+      </name>
+      <name>
+        <charseq START="235" END="237">VOA</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE10">
+  <entity ID="VOA20001002.2100.0990-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-6" TYPE="NAM">
+      <extent>
+        <charseq START="1223" END="1235">David McClary</charseq>
+      </extent>
+      <head>
+        <charseq START="1223" END="1235">David McClary</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-12" TYPE="NAM">
+      <extent>
+        <charseq START="235" END="253">VOA's David McClary</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="253">David McClary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1223" END="1235">David McClary</charseq>
+      </name>
+      <name>
+        <charseq START="241" END="253">David McClary</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE11">
+  <entity ID="VOA20001002.2100.0990-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NOM">
+      <extent>
+        <charseq START="336" END="388">nearly 300 former British professional soccer players</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="388">players</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE12">
+  <entity ID="VOA20001002.2100.0990-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-15" TYPE="HLS">
+      <extent>
+        <charseq START="401" END="411">nearly half</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="411">half</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE13">
+  <entity ID="VOA20001002.2100.0990-E13" TYPE="PER" CLASS="USP">
+    <entity_mention ID="13-16" TYPE="HLS">
+      <extent>
+        <charseq START="496" END="499">Most</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="499">Most</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE14">
+  <entity ID="VOA20001002.2100.0990-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-17" TYPE="HLS">
+      <extent>
+        <charseq START="541" END="574">Nearly one third of those surveyed</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="556">third</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE15">
+  <entity ID="VOA20001002.2100.0990-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-18" TYPE="PRO">
+      <extent>
+        <charseq START="561" END="574">those surveyed</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="565">those</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE16">
+  <entity ID="VOA20001002.2100.0990-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-19" TYPE="NOM">
+      <extent>
+        <charseq START="673" END="773">The Coventry University researchers who report the
+findings in the British journal of sports medicine</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="707">researchers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-21" TYPE="WHQ">
+      <extent>
+        <charseq START="709" END="711">who</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="711">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE17">
+  <entity ID="VOA20001002.2100.0990-E17" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="17-20" TYPE="PRE">
+      <extent>
+        <charseq START="677" END="695">Coventry University</charseq>
+      </extent>
+      <head>
+        <charseq START="677" END="695">Coventry University</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001002.2100.0990-CE18">
+  <entity ID="VOA20001002.2100.0990-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="18-23" TYPE="PRO">
+      <extent>
+        <charseq START="819" END="834">those so injured</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="823">those</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="VOA20001002.2100.0990-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="235" END="253">VOA's David McClary</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E10" ENTITYMENTIONID="10-12" ARGNUM="1">
+      <extent>
+        <charseq START="235" END="253">VOA's David McClary</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E9" ENTITYMENTIONID="9-11" ARGNUM="2">
+      <extent>
+        <charseq START="235" END="237">VOA</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1223" END="1257">David McClary, VOA News, Washington</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E10" ENTITYMENTIONID="10-6" ARGNUM="1">
+      <extent>
+        <charseq START="1223" END="1235">David McClary</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E9" ENTITYMENTIONID="9-7" ARGNUM="2">
+      <extent>
+        <charseq START="1238" END="1245">VOA News</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="336" END="388">nearly 300 former British professional soccer players</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E11" ENTITYMENTIONID="11-13" ARGNUM="1">
+      <extent>
+        <charseq START="336" END="388">nearly 300 former British professional soccer players</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E7" ENTITYMENTIONID="7-14" ARGNUM="2">
+      <extent>
+        <charseq START="354" END="360">British</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R3" TYPE="DISC">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="541" END="574">Nearly one third of those surveyed</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E14" ENTITYMENTIONID="14-17" ARGNUM="1">
+      <extent>
+        <charseq START="541" END="574">Nearly one third of those surveyed</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E15" ENTITYMENTIONID="15-18" ARGNUM="2">
+      <extent>
+        <charseq START="561" END="574">those surveyed</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="673" END="773">The Coventry University researchers who report the
+findings in the British journal of sports medicine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E16" ENTITYMENTIONID="16-19" ARGNUM="1">
+      <extent>
+        <charseq START="673" END="773">The Coventry University researchers who report the
+findings in the British journal of sports medicine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E17" ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="677" END="695">Coventry University</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R5" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="950" END="968">Rugby union players</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E1" ENTITYMENTIONID="1-24" ARGNUM="1">
+      <extent>
+        <charseq START="950" END="968">Rugby union players</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="950" END="960">Rugby union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1059" END="1082">The Scottish researchers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="1059" END="1082">The Scottish researchers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E4" ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="1063" END="1070">Scottish</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001002.2100.0990-R8" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="8-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1223" END="1257">David McClary, VOA News, Washington</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E10" ENTITYMENTIONID="10-6" ARGNUM="1">
+      <extent>
+        <charseq START="1223" END="1235">David McClary</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001002.2100.0990-E5" ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="1248" END="1257">Washington</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

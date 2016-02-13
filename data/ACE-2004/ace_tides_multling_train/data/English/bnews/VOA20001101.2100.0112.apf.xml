@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001101.2100.0112.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001101.2100.0112">
+<entity ID="VOA20001101.2100.0112-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="382" END="416">Yemeni President Ali
+Abdullah Saleh</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="416">Ali
+Abdullah Saleh</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-17" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="382" END="397">Yemeni President</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="397">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="399" END="416">Ali
+Abdullah Saleh</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.0112-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-1" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="81">The United States</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="81">United States</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="202" END="203">US</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="203">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="214" END="215">US</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="215">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="266" END="271">the
+US</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="271">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="270" END="271">US</charseq>
+    </name>
+    <name>
+      <charseq START="69" END="81">United States</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.0112-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="120" END="124">Yemen</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="124">Yemen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="314" END="319">Yemeni</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="319">Yemeni</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="382" END="387">Yemeni</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="387">Yemeni</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="120" END="124">Yemen</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.0112-E4" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="4-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="174" END="185">the USS Cole</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="185">USS Cole</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="178" END="185">USS Cole</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.0112-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="199" END="211">17
+US sailors</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="211">sailors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001101.2100.0112-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="214" END="259">US State Department Spokesman, Richard Boucher</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="259">Richard Boucher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="214" END="242">US State Department Spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="242">Spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="245" END="259">Richard Boucher</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.0112-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="9-8" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="214" END="232">US State Department</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="232">State Department</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001101.2100.0112-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="314" END="333">Yemeni investigators</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="333">investigators</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001101.2100.0112-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="349" END="365">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="365">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-14" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="349" END="357">President</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="357">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="359" END="365">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VOA20001101.2100.0112-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="199" END="211">17
+US sailors</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-4" ARGNUM="1">
+      <extent>
+        <charseq START="199" END="211">17
+US sailors</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="203">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.0112-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E2" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="214" END="232">US State Department</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-8" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="232">US State Department</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-9" ARGNUM="2">
+      <extent>
+        <charseq START="214" END="215">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.0112-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E3" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="314" END="333">Yemeni investigators</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-11" ARGNUM="1">
+      <extent>
+        <charseq START="314" END="333">Yemeni investigators</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-12" ARGNUM="2">
+      <extent>
+        <charseq START="314" END="319">Yemeni</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.0112-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="382" END="397">Yemeni President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-17" ARGNUM="1">
+      <extent>
+        <charseq START="382" END="397">Yemeni President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-16" ARGNUM="2">
+      <extent>
+        <charseq START="382" END="387">Yemeni</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.0112-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.0112-E9" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="214" END="242">US State Department Spokesman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="242">US State Department Spokesman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-8" ARGNUM="2">
+      <extent>
+        <charseq START="214" END="232">US State Department</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

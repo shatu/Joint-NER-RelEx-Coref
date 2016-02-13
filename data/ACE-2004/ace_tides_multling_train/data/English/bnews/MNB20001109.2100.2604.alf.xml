@@ -1,0 +1,976 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="MNB20001109.2100.2604.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="MNB20001109.2100.2604">
+<composite_entity ID="MNB20001109.2100.2604-CE1">
+  <entity ID="MNB20001109.2100.2604-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-79" TYPE="NOM">
+      <extent>
+        <charseq START="739" END="758">these
+two candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="758">candidates</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE2">
+  <entity ID="MNB20001109.2100.2604-E2" TYPE="PER" CLASS="NEG">
+    <entity_mention ID="2-2" TYPE="HLS">
+      <extent>
+        <charseq START="803" END="813">neither
+one</charseq>
+      </extent>
+      <head>
+        <charseq START="811" END="813">one</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE3">
+  <entity ID="MNB20001109.2100.2604-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NAM">
+      <extent>
+        <charseq START="943" END="946">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="943" END="946">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="943" END="946">bush</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE4">
+  <entity ID="MNB20001109.2100.2604-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM">
+      <extent>
+        <charseq START="958" END="961">gore</charseq>
+      </extent>
+      <head>
+        <charseq START="958" END="961">gore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="958" END="961">gore</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE5">
+  <entity ID="MNB20001109.2100.2604-E5" TYPE="GPE" SUBTYPE="County-or-District" CLASS="GEN">
+    <entity_mention ID="5-6" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="964" END="969">county</charseq>
+      </extent>
+      <head>
+        <charseq START="964" END="969">county</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE6">
+  <entity ID="MNB20001109.2100.2604-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-11" TYPE="BAR">
+      <extent>
+        <charseq START="1107" END="1141">people who believe in school player</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1112">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-12" TYPE="WHQ">
+      <extent>
+        <charseq START="1114" END="1116">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1114" END="1116">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE7">
+  <entity ID="MNB20001109.2100.2604-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="7-26" TYPE="WHQ">
+      <extent>
+        <charseq START="1194" END="1196">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1194" END="1196">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE8">
+  <entity ID="MNB20001109.2100.2604-E8" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="8-13" TYPE="PRE">
+      <extent>
+        <charseq START="1129" END="1134">school</charseq>
+      </extent>
+      <head>
+        <charseq START="1129" END="1134">school</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE9">
+  <entity ID="MNB20001109.2100.2604-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-14" TYPE="PRE">
+      <extent>
+        <charseq START="1144" END="1146">gay</charseq>
+      </extent>
+      <head>
+        <charseq START="1144" END="1146">gay</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE10">
+  <entity ID="MNB20001109.2100.2604-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-9" TYPE="NAM">
+      <extent>
+        <charseq START="1075" END="1082">wal-mart</charseq>
+      </extent>
+      <head>
+        <charseq START="1075" END="1082">wal-mart</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE11">
+  <entity ID="MNB20001109.2100.2604-E11" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+    <entity_mention ID="11-17" TYPE="BAR">
+      <extent>
+        <charseq START="1175" END="1188">ford explorers</charseq>
+      </extent>
+      <head>
+        <charseq START="1180" END="1188">explorers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE12">
+  <entity ID="MNB20001109.2100.2604-E12" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+    <entity_mention ID="12-18" TYPE="BAR">
+      <extent>
+        <charseq START="1204" END="1223">volvo
+station wagons</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1223">wagons</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE13">
+  <entity ID="MNB20001109.2100.2604-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="13-19" TYPE="PRE">
+      <extent>
+        <charseq START="1204" END="1208">volvo</charseq>
+      </extent>
+      <head>
+        <charseq START="1204" END="1208">volvo</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE14">
+  <entity ID="MNB20001109.2100.2604-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="14-20" TYPE="PRE">
+      <extent>
+        <charseq START="1175" END="1178">ford</charseq>
+      </extent>
+      <head>
+        <charseq START="1175" END="1178">ford</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE15">
+  <entity ID="MNB20001109.2100.2604-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-10" TYPE="NAM">
+      <extent>
+        <charseq START="1091" END="1104">martha stewart</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1104">martha stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1091" END="1104">martha stewart</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE16">
+  <entity ID="MNB20001109.2100.2604-E16" TYPE="PER" CLASS="USP">
+    <entity_mention ID="16-25" TYPE="NOM">
+      <extent>
+        <charseq START="1391" END="1410">more and more
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="1405" END="1410">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-28" TYPE="PRO">
+      <extent>
+        <charseq START="1468" END="1471">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1468" END="1471">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-29" TYPE="PRO">
+      <extent>
+        <charseq START="1489" END="1492">they</charseq>
+      </extent>
+      <head>
+        <charseq START="1489" END="1492">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE17">
+  <entity ID="MNB20001109.2100.2604-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="17-30" TYPE="BAR">
+      <extent>
+        <charseq START="1544" END="1555">name-callers</charseq>
+      </extent>
+      <head>
+        <charseq START="1549" END="1555">callers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE18">
+  <entity ID="MNB20001109.2100.2604-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="18-31" TYPE="BAR">
+      <extent>
+        <charseq START="1582" END="1600">special prosecutors</charseq>
+      </extent>
+      <head>
+        <charseq START="1590" END="1600">prosecutors</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE19">
+  <entity ID="MNB20001109.2100.2604-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="19-32" TYPE="BAR">
+      <extent>
+        <charseq START="1615" END="1621">lawyers</charseq>
+      </extent>
+      <head>
+        <charseq START="1615" END="1621">lawyers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE20">
+  <entity ID="MNB20001109.2100.2604-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="20-33" TYPE="NOM">
+      <extent>
+        <charseq START="1652" END="1670">the ordinary
+person</charseq>
+      </extent>
+      <head>
+        <charseq START="1665" END="1670">person</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE21">
+  <entity ID="MNB20001109.2100.2604-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="21-36" TYPE="NOM">
+      <extent>
+        <charseq START="1781" END="1791">a president</charseq>
+      </extent>
+      <head>
+        <charseq START="1783" END="1791">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE22">
+  <entity ID="MNB20001109.2100.2604-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="22-38" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1889" END="1895">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1895">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1889" END="1895">florida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE23">
+  <entity ID="MNB20001109.2100.2604-E25" TYPE="PER" CLASS="USP">
+    <entity_mention ID="25-45" TYPE="NOM">
+      <extent>
+        <charseq START="2046" END="2056">more people</charseq>
+      </extent>
+      <head>
+        <charseq START="2051" END="2056">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-46" TYPE="PRO">
+      <extent>
+        <charseq START="2094" END="2097">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2094" END="2097">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-48" TYPE="PRO">
+      <extent>
+        <charseq START="2125" END="2128">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2125" END="2128">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-49" TYPE="PRO">
+      <extent>
+        <charseq START="2180" END="2183">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2180" END="2183">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-51" TYPE="PRO">
+      <extent>
+        <charseq START="2212" END="2215">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2212" END="2215">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-53" TYPE="PRO">
+      <extent>
+        <charseq START="2266" END="2269">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2266" END="2269">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-58" TYPE="PRO">
+      <extent>
+        <charseq START="2249" END="2252">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2249" END="2252">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE24">
+  <entity ID="MNB20001109.2100.2604-E26" TYPE="PER" CLASS="USP">
+    <entity_mention ID="26-50" TYPE="NOM">
+      <extent>
+        <charseq START="2190" END="2197">a winner</charseq>
+      </extent>
+      <head>
+        <charseq START="2192" END="2197">winner</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-52" TYPE="NOM">
+      <extent>
+        <charseq START="2276" END="2283">a winner</charseq>
+      </extent>
+      <head>
+        <charseq START="2278" END="2283">winner</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE25">
+  <entity ID="MNB20001109.2100.2604-E27" TYPE="PER" CLASS="USP">
+    <entity_mention ID="27-57" TYPE="PRO">
+      <extent>
+        <charseq START="2379" END="2380">us</charseq>
+      </extent>
+      <head>
+        <charseq START="2379" END="2380">us</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE26">
+  <entity ID="MNB20001109.2100.2604-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="28-55" TYPE="NAM">
+      <extent>
+        <charseq START="2302" END="2320">new york daily news</charseq>
+      </extent>
+      <head>
+        <charseq START="2302" END="2320">new york daily news</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2302" END="2320">new york daily news</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE27">
+  <entity ID="MNB20001109.2100.2604-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="23-1" TYPE="PRO">
+      <extent>
+        <charseq START="65" END="66">we</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-59" TYPE="NAM">
+      <extent>
+        <charseq START="2245" END="2247">nbc</charseq>
+      </extent>
+      <head>
+        <charseq START="2245" END="2247">nbc</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-62" TYPE="PRO">
+      <extent>
+        <charseq START="108" END="109">us</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="109">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-66" TYPE="PRO">
+      <extent>
+        <charseq START="316" END="318">our</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="318">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-67" TYPE="PRO">
+      <extent>
+        <charseq START="342" END="344">our</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="344">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-68" TYPE="PRO">
+      <extent>
+        <charseq START="364" END="365">we</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="365">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-70" TYPE="PRO">
+      <extent>
+        <charseq START="392" END="395">here</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="395">here</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2245" END="2247">nbc</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE28">
+  <entity ID="MNB20001109.2100.2604-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="29-15" TYPE="BAR">
+      <extent>
+        <charseq START="1158" END="1188">people who drive ford explorers</charseq>
+      </extent>
+      <head>
+        <charseq START="1158" END="1163">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-16" TYPE="WHQ">
+      <extent>
+        <charseq START="1165" END="1167">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1165" END="1167">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE29">
+  <entity ID="MNB20001109.2100.2604-E30" TYPE="GPE" SUBTYPE="County-or-District" CLASS="GEN">
+    <entity_mention ID="30-7" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="974" END="979">county</charseq>
+      </extent>
+      <head>
+        <charseq START="974" END="979">county</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE30">
+  <entity ID="MNB20001109.2100.2604-E31" TYPE="PER" CLASS="USP">
+    <entity_mention ID="31-60" TYPE="PTV">
+      <extent>
+        <charseq START="81" END="141">many of the people joining us here tonight for this
+broadcast</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="84">many</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE31">
+  <entity ID="MNB20001109.2100.2604-E32" TYPE="PER" CLASS="USP">
+    <entity_mention ID="32-61" TYPE="NOM">
+      <extent>
+        <charseq START="89" END="141">the people joining us here tonight for this
+broadcast</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="98">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE32">
+  <entity ID="MNB20001109.2100.2604-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="24-42" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1966" END="1975">the people</charseq>
+      </extent>
+      <head>
+        <charseq START="1970" END="1975">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="MNB20001109.2100.2604-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="33-3" TYPE="BAR" ROLE="PER">
+      <extent>
+        <charseq START="861" END="869">americans</charseq>
+      </extent>
+      <head>
+        <charseq START="861" END="869">americans</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1052" END="1061">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1056" END="1061">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-21" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="1252" END="1262">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="1256" END="1262">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-22" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="1277" END="1278">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1277" END="1278">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1357" END="1373">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="1361" END="1373">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1746" END="1762">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="1750" END="1762">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-35" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="1772" END="1773">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1772" END="1773">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-37" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="1811" END="1812">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1811" END="1812">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-39" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="1898" END="1907">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="1902" END="1907">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-40" TYPE="APP" ROLE="PER">
+      <extent>
+        <charseq START="1945" END="1975">the ultimate judges, the people</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="33-41" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="1945" END="1963">the ultimate judges</charseq>
+      </extent>
+      <head>
+        <charseq START="1958" END="1963">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-43" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="1978" END="1982">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1978" END="1982">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-63" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="215" END="224">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="224">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-72" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="426" END="437">this country</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="437">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-76" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="546" END="556">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="556">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-77" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="561" END="562">we</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="562">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1361" END="1373">united states</charseq>
+      </name>
+      <name>
+        <charseq START="1750" END="1762">united states</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE33">
+  <entity ID="MNB20001109.2100.2604-E34" TYPE="PER" CLASS="USP">
+    <entity_mention ID="34-23" TYPE="NOM">
+      <extent>
+        <charseq START="1332" END="1373">the next
+president of of the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="1341" END="1349">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-27" TYPE="PRO">
+      <extent>
+        <charseq START="1328" END="1330">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1328" END="1330">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-64" TYPE="NOM">
+      <extent>
+        <charseq START="252" END="268">a
+president-elect</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="262">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE34">
+  <entity ID="MNB20001109.2100.2604-E35" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="35-44" TYPE="PRO">
+      <extent>
+        <charseq START="2028" END="2028">i</charseq>
+      </extent>
+      <head>
+        <charseq START="2028" END="2028">i</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-47" TYPE="PRO">
+      <extent>
+        <charseq START="2083" END="2084">me</charseq>
+      </extent>
+      <head>
+        <charseq START="2083" END="2084">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-54" TYPE="NAM">
+      <extent>
+        <charseq START="2286" END="2298">mike barnicle</charseq>
+      </extent>
+      <head>
+        <charseq START="2286" END="2298">mike barnicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-56" TYPE="PRO">
+      <extent>
+        <charseq START="2330" END="2332">you</charseq>
+      </extent>
+      <head>
+        <charseq START="2330" END="2332">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-65" TYPE="NAM">
+      <extent>
+        <charseq START="286" END="298">mike barnicle</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="298">mike barnicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-69" TYPE="NAM">
+      <extent>
+        <charseq START="374" END="377">mike</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="377">mike</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-71" TYPE="PRO">
+      <extent>
+        <charseq START="403" END="405">you</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="405">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-75" TYPE="PRO">
+      <extent>
+        <charseq START="512" END="512">i</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="512">i</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2286" END="2298">mike barnicle</charseq>
+      </name>
+      <name>
+        <charseq START="286" END="298">mike barnicle</charseq>
+      </name>
+      <name>
+        <charseq START="374" END="377">mike</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE35">
+  <entity ID="MNB20001109.2100.2604-E36" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="36-73" TYPE="NOM">
+      <extent>
+        <charseq START="458" END="468">an american</charseq>
+      </extent>
+      <head>
+        <charseq START="461" END="468">american</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE36">
+  <entity ID="MNB20001109.2100.2604-E37" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="37-74" TYPE="NAM">
+      <extent>
+        <charseq START="485" END="489">brian</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="489">brian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="485" END="489">brian</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="MNB20001109.2100.2604-CE37">
+  <entity ID="MNB20001109.2100.2604-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="38-78" TYPE="BAR">
+      <extent>
+        <charseq START="667" END="672">people</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="672">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="MNB20001109.2100.2604-R1" TYPE="DISC">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="81" END="141">many of the people joining us here tonight for this
+broadcast</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E31" ENTITYMENTIONID="31-60" ARGNUM="1">
+      <extent>
+        <charseq START="81" END="141">many of the people joining us here tonight for this
+broadcast</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E32" ENTITYMENTIONID="32-61" ARGNUM="2">
+      <extent>
+        <charseq START="89" END="141">the people joining us here tonight for this
+broadcast</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1158" END="1188">people who drive ford explorers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E29" ENTITYMENTIONID="29-15" ARGNUM="1">
+      <extent>
+        <charseq START="1158" END="1188">people who drive ford explorers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E11" ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="1175" END="1188">ford explorers</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1194" END="1223">who drive volvo
+station wagons</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E7" ENTITYMENTIONID="7-26" ARGNUM="1">
+      <extent>
+        <charseq START="1194" END="1196">who</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E12" ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="1204" END="1223">volvo
+station wagons</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R4" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1175" END="1188">ford explorers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E11" ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="1175" END="1188">ford explorers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E14" ENTITYMENTIONID="14-20" ARGNUM="1">
+      <extent>
+        <charseq START="1175" END="1178">ford</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R5" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1204" END="1223">volvo
+station wagons</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E13" ENTITYMENTIONID="13-19" ARGNUM="1">
+      <extent>
+        <charseq START="1204" END="1208">volvo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E12" ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="1204" END="1223">volvo
+station wagons</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1332" END="1373">the next
+president of of the united states</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E34" ENTITYMENTIONID="34-23" ARGNUM="1">
+      <extent>
+        <charseq START="1332" END="1373">the next
+president of of the united states</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E33" ENTITYMENTIONID="33-24" ARGNUM="2">
+      <extent>
+        <charseq START="1357" END="1373">the united states</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MNB20001109.2100.2604-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="2286" END="2320">mike barnicle, "new york daily news</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E35" ENTITYMENTIONID="35-54" ARGNUM="1">
+      <extent>
+        <charseq START="2286" END="2298">mike barnicle</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="MNB20001109.2100.2604-E28" ENTITYMENTIONID="28-55" ARGNUM="2">
+      <extent>
+        <charseq START="2302" END="2320">new york daily news</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

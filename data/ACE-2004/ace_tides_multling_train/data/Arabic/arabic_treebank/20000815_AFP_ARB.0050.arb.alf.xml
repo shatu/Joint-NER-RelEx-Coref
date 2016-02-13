@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0050.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0050.arb">
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE1">
+  <entity ID="20000815_AFP_ARB.0050.arb-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-2" TYPE="BAR">
+      <extent>
+        <charseq START="428" END="464">مدنيا
+مسلحا في كدارة في المنطقة ذاتها</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="432">مدنيا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE2">
+  <entity ID="20000815_AFP_ARB.0050.arb-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="443" END="464">كدارة في المنطقة ذاتها</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="447">كدارة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="443" END="447">كدارة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE3">
+  <entity ID="20000815_AFP_ARB.0050.arb-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="BAR">
+      <extent>
+        <charseq START="474" END="478">ولدان</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="478">ولدان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-7" TYPE="PRO">
+      <extent>
+        <charseq START="483" END="483">ا</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="483">ا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE4">
+  <entity ID="20000815_AFP_ARB.0050.arb-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="494" END="512">الحطاطبة قرب تيبازه</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="501">الحطاطبة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="494" END="501">الحطاطبة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE5">
+  <entity ID="20000815_AFP_ARB.0050.arb-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="5-9" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="507" END="512">تيبازه</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="512">تيبازه</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="507" END="512">تيبازه</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE6">
+  <entity ID="20000815_AFP_ARB.0050.arb-E6" TYPE="PER" CLASS="USP">
+    <entity_mention ID="6-10" TYPE="PTV">
+      <extent>
+        <charseq START="521" END="540">مجموعة اسلامية
+مسلحة</charseq>
+      </extent>
+      <head>
+        <charseq START="521" END="526">مجموعة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-13" TYPE="PRO">
+      <extent>
+        <charseq START="550" END="551">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="551">ها</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE7">
+  <entity ID="20000815_AFP_ARB.0050.arb-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-12" TYPE="NOM">
+      <extent>
+        <charseq START="545" END="551">عناصرها</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="549">عناصر</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE8">
+  <entity ID="20000815_AFP_ARB.0050.arb-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+    <entity_mention ID="8-14" TYPE="BAR">
+      <extent>
+        <charseq START="560" END="569">غابة قريبة</charseq>
+      </extent>
+      <head>
+        <charseq START="560" END="563">غابة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE9">
+  <entity ID="20000815_AFP_ARB.0050.arb-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="9-15" TYPE="PRO">
+      <extent>
+        <charseq START="581" END="581">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="581">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-16" TYPE="NAM">
+      <extent>
+        <charseq START="583" END="606">صحيفة "لو كوتيديان
+دوران</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="606">"لو كوتيديان
+دوران</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="589" END="606">"لو كوتيديان
+دوران</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE10">
+  <entity ID="20000815_AFP_ARB.0050.arb-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-17" TYPE="PRO">
+      <extent>
+        <charseq START="617" END="617">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="617" END="617">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-18" TYPE="NOM">
+      <extent>
+        <charseq START="619" END="623">الصحف</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="623">الصحف</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-19" TYPE="NOM">
+      <extent>
+        <charseq START="130" END="134">الصحف</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="134">الصحف</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-20" TYPE="PRO">
+      <extent>
+        <charseq START="128" END="128">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="128">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-40" TYPE="PRO">
+      <extent>
+        <charseq START="946" END="947">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="947">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-41" TYPE="NOM">
+      <extent>
+        <charseq START="949" END="953">الصحف</charseq>
+      </extent>
+      <head>
+        <charseq START="949" END="953">الصحف</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE11">
+  <entity ID="20000815_AFP_ARB.0050.arb-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="11-21" TYPE="PRO">
+      <extent>
+        <charseq START="304" END="304">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="304">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-22" TYPE="BAR">
+      <extent>
+        <charseq START="306" END="312">صحف عدة</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="308">صحف</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE12">
+  <entity ID="20000815_AFP_ARB.0050.arb-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-23" TYPE="NOM">
+      <extent>
+        <charseq START="628" END="636">قوى الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="628" END="636">قوى الامن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-24" TYPE="PRO">
+      <extent>
+        <charseq START="641" END="641">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="641" END="641">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-32" TYPE="NOM">
+      <extent>
+        <charseq START="799" END="807">قوى الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="799" END="807">قوى الامن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-33" TYPE="PRO">
+      <extent>
+        <charseq START="812" END="812">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="812" END="812">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE13">
+  <entity ID="20000815_AFP_ARB.0050.arb-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-26" TYPE="NOM">
+      <extent>
+        <charseq START="652" END="663">مسلحين اثنين</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="657">مسلحين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE14">
+  <entity ID="20000815_AFP_ARB.0050.arb-E14" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="14-27" TYPE="NAM">
+      <extent>
+        <charseq START="725" END="770">جبل غزالة قرب
+تياريت (340 كيلومترا غرب العاصمة</charseq>
+      </extent>
+      <head>
+        <charseq START="729" END="733">غزالة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="729" END="733">غزالة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE15">
+  <entity ID="20000815_AFP_ARB.0050.arb-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-28" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="739" END="744">تياريت</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="744">تياريت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="739" END="744">تياريت</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE16">
+  <entity ID="20000815_AFP_ARB.0050.arb-E16" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="16-29" TYPE="NOM">
+      <extent>
+        <charseq START="760" END="770">غرب العاصمة</charseq>
+      </extent>
+      <head>
+        <charseq START="764" END="770">العاصمة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE17">
+  <entity ID="20000815_AFP_ARB.0050.arb-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="17-30" TYPE="PRO">
+      <extent>
+        <charseq START="780" END="780">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="780">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-31" TYPE="NAM">
+      <extent>
+        <charseq START="782" END="793">صحيفة "الخبر</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="793">"الخبر</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="788" END="793">"الخبر</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE18">
+  <entity ID="20000815_AFP_ARB.0050.arb-E18" TYPE="WEA" SUBTYPE="Exploding" CLASS="USP">
+    <entity_mention ID="18-34" TYPE="PTV">
+      <extent>
+        <charseq START="833" END="849">حوالى عشرين
+قنبلة</charseq>
+      </extent>
+      <head>
+        <charseq START="833" END="837">حوالى</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE19">
+  <entity ID="20000815_AFP_ARB.0050.arb-E19" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="19-35" TYPE="NOM">
+      <extent>
+        <charseq START="839" END="849">عشرين
+قنبلة</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="849">قنبلة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE20">
+  <entity ID="20000815_AFP_ARB.0050.arb-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-36" TYPE="NOM">
+      <extent>
+        <charseq START="874" END="903">34 شخصا بينهم 14 مسلحا اسلاميا</charseq>
+      </extent>
+      <head>
+        <charseq START="877" END="880">شخصا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-37" TYPE="PRO">
+      <extent>
+        <charseq START="885" END="886">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="886">هم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE21">
+  <entity ID="20000815_AFP_ARB.0050.arb-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-38" TYPE="NOM">
+      <extent>
+        <charseq START="888" END="903">14 مسلحا اسلاميا</charseq>
+      </extent>
+      <head>
+        <charseq START="891" END="895">مسلحا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE22">
+  <entity ID="20000815_AFP_ARB.0050.arb-E23" TYPE="PER" CLASS="USP">
+    <entity_mention ID="23-42" TYPE="PTV">
+      <extent>
+        <charseq START="999" END="1010">نحو 300 قتيل</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1001">نحو</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE23">
+  <entity ID="20000815_AFP_ARB.0050.arb-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-43" TYPE="NOM">
+      <extent>
+        <charseq START="1003" END="1010">300 قتيل</charseq>
+      </extent>
+      <head>
+        <charseq START="1007" END="1010">قتيل</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE24">
+  <entity ID="20000815_AFP_ARB.0050.arb-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="103" END="109">الجزائر</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="109">الجزائر</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-47" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="183" END="189">الجزائر</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="189">الجزائر</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="183" END="189">الجزائر</charseq>
+      </name>
+      <name>
+        <charseq START="103" END="109">الجزائر</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE25">
+  <entity ID="20000815_AFP_ARB.0050.arb-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="25-44" TYPE="NAM">
+      <extent>
+        <charseq START="117" END="120">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="120">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="117" END="120">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE26">
+  <entity ID="20000815_AFP_ARB.0050.arb-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-45" TYPE="NOM">
+      <extent>
+        <charseq START="154" END="164">اربعة اشخاص</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="164">اشخاص</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-46" TYPE="PRO">
+      <extent>
+        <charseq START="171" END="172">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="172">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE27">
+  <entity ID="20000815_AFP_ARB.0050.arb-E27" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="27-51" TYPE="PTV">
+      <extent>
+        <charseq START="198" END="293">مجموعات اسلامية مسلحة في منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="204">مجموعات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE28">
+  <entity ID="20000815_AFP_ARB.0050.arb-E28" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="28-11" TYPE="PRE">
+      <extent>
+        <charseq START="528" END="534">اسلامية</charseq>
+      </extent>
+      <head>
+        <charseq START="528" END="534">اسلامية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-25" TYPE="PRE">
+      <extent>
+        <charseq START="643" END="663">اسلاميين مسلحين اثنين</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="650">اسلاميين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-39" TYPE="PRE">
+      <extent>
+        <charseq START="897" END="903">اسلاميا</charseq>
+      </extent>
+      <head>
+        <charseq START="897" END="903">اسلاميا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-48" TYPE="PRE">
+      <extent>
+        <charseq START="206" END="212">اسلامية</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="212">اسلامية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE29">
+  <entity ID="20000815_AFP_ARB.0050.arb-E29" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="29-4" TYPE="NOM">
+      <extent>
+        <charseq START="452" END="464">المنطقة ذاتها</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="458">المنطقة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-5" TYPE="PRO">
+      <extent>
+        <charseq START="463" END="464">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="464">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-49" TYPE="NOM">
+      <extent>
+        <charseq START="223" END="293">منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="228">منطقتي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-50" TYPE="MWH">
+      <extent>
+        <charseq START="230" END="293">بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="293">بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE30">
+  <entity ID="20000815_AFP_ARB.0050.arb-E30" TYPE="PER" CLASS="USP">
+    <entity_mention ID="30-52" TYPE="BAR">
+      <extent>
+        <charseq START="317" END="321">شرطيا</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="321">شرطيا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE31">
+  <entity ID="20000815_AFP_ARB.0050.arb-E31" TYPE="PER" CLASS="USP">
+    <entity_mention ID="31-53" TYPE="PRO">
+      <extent>
+        <charseq START="338" END="338">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="338">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-54" TYPE="PTV">
+      <extent>
+        <charseq START="340" END="351">مجموعة مسلحة</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="345">مجموعة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE32">
+  <entity ID="20000815_AFP_ARB.0050.arb-E32" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="32-55" TYPE="NOM">
+      <extent>
+        <charseq START="357" END="361">دورية</charseq>
+      </extent>
+      <head>
+        <charseq START="357" END="361">دورية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE33">
+  <entity ID="20000815_AFP_ARB.0050.arb-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="33-56" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="377" END="393">بقلية قرب بومرداس</charseq>
+      </extent>
+      <head>
+        <charseq START="377" END="381">بقلية</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="377" END="381">بقلية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE34">
+  <entity ID="20000815_AFP_ARB.0050.arb-E34" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="34-57" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="387" END="393">بومرداس</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="393">بومرداس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="387" END="393">بومرداس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0050.arb-CE35">
+  <entity ID="20000815_AFP_ARB.0050.arb-E35" TYPE="PER" CLASS="USP">
+    <entity_mention ID="35-58" TYPE="PTV">
+      <extent>
+        <charseq START="405" END="421">مجموعة مسلحة اخرى</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="410">مجموعة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-59" TYPE="PRO">
+      <extent>
+        <charseq START="426" END="426">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="426">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20000815_AFP_ARB.0050.arb-R1" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="198" END="293">مجموعات اسلامية مسلحة في منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E27" ENTITYMENTIONID="27-51" ARGNUM="1">
+      <extent>
+        <charseq START="198" END="293">مجموعات اسلامية مسلحة في منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E28" ENTITYMENTIONID="28-48" ARGNUM="2">
+      <extent>
+        <charseq START="206" END="212">اسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="198" END="293">مجموعات اسلامية مسلحة في منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E27" ENTITYMENTIONID="27-51" ARGNUM="1">
+      <extent>
+        <charseq START="198" END="293">مجموعات اسلامية مسلحة في منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E29" ENTITYMENTIONID="29-49" ARGNUM="2">
+      <extent>
+        <charseq START="223" END="293">منطقتي بومرداس (50 كيلومترا شرق العاصمة)
+وتيبازه (70 كيلومترا الى الغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R3" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="377" END="393">بقلية قرب بومرداس</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E33" ENTITYMENTIONID="33-56" ARGNUM="1">
+      <extent>
+        <charseq START="377" END="393">بقلية قرب بومرداس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E34" ENTITYMENTIONID="34-57" ARGNUM="2">
+      <extent>
+        <charseq START="387" END="393">بومرداس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="428" END="464">مدنيا
+مسلحا في كدارة في المنطقة ذاتها</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="428" END="464">مدنيا
+مسلحا في كدارة في المنطقة ذاتها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E2" ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="443" END="464">كدارة في المنطقة ذاتها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="428" END="464">مدنيا
+مسلحا في كدارة في المنطقة ذاتها</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E2" ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="443" END="464">كدارة في المنطقة ذاتها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E29" ENTITYMENTIONID="29-4" ARGNUM="2">
+      <extent>
+        <charseq START="452" END="464">المنطقة ذاتها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R6" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="494" END="512">الحطاطبة قرب تيبازه</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E4" ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="494" END="512">الحطاطبة قرب تيبازه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E5" ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="507" END="512">تيبازه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R7" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="521" END="540">مجموعة اسلامية
+مسلحة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E6" ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="521" END="540">مجموعة اسلامية
+مسلحة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E28" ENTITYMENTIONID="28-11" ARGNUM="2">
+      <extent>
+        <charseq START="528" END="534">اسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R8" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="643" END="663">اسلاميين مسلحين اثنين</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E13" ENTITYMENTIONID="13-26" ARGNUM="1">
+      <extent>
+        <charseq START="652" END="663">مسلحين اثنين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E28" ENTITYMENTIONID="28-25" ARGNUM="2">
+      <extent>
+        <charseq START="643" END="663">اسلاميين مسلحين اثنين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R9" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="725" END="770">جبل غزالة قرب
+تياريت (340 كيلومترا غرب العاصمة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E14" ENTITYMENTIONID="14-27" ARGNUM="1">
+      <extent>
+        <charseq START="725" END="770">جبل غزالة قرب
+تياريت (340 كيلومترا غرب العاصمة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E15" ENTITYMENTIONID="15-28" ARGNUM="2">
+      <extent>
+        <charseq START="739" END="744">تياريت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="725" END="770">جبل غزالة قرب
+تياريت (340 كيلومترا غرب العاصمة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E15" ENTITYMENTIONID="15-28" ARGNUM="1">
+      <extent>
+        <charseq START="739" END="744">تياريت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E16" ENTITYMENTIONID="16-29" ARGNUM="2">
+      <extent>
+        <charseq START="760" END="770">غرب العاصمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R11" TYPE="DISC">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="833" END="849">حوالى عشرين
+قنبلة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E18" ENTITYMENTIONID="18-34" ARGNUM="1">
+      <extent>
+        <charseq START="833" END="849">حوالى عشرين
+قنبلة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E19" ENTITYMENTIONID="19-35" ARGNUM="2">
+      <extent>
+        <charseq START="839" END="849">عشرين
+قنبلة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R12" TYPE="DISC">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="874" END="903">34 شخصا بينهم 14 مسلحا اسلاميا</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E21" ENTITYMENTIONID="21-38" ARGNUM="1">
+      <extent>
+        <charseq START="888" END="903">14 مسلحا اسلاميا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E20" ENTITYMENTIONID="20-36" ARGNUM="2">
+      <extent>
+        <charseq START="874" END="903">34 شخصا بينهم 14 مسلحا اسلاميا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R13" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="874" END="903">34 شخصا بينهم 14 مسلحا اسلاميا</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E21" ENTITYMENTIONID="21-38" ARGNUM="1">
+      <extent>
+        <charseq START="888" END="903">14 مسلحا اسلاميا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E28" ENTITYMENTIONID="28-39" ARGNUM="2">
+      <extent>
+        <charseq START="897" END="903">اسلاميا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0050.arb-R14" TYPE="DISC">
+  <relation_mention ID="14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="999" END="1010">نحو 300 قتيل</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E23" ENTITYMENTIONID="23-42" ARGNUM="1">
+      <extent>
+        <charseq START="999" END="1010">نحو 300 قتيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0050.arb-E24" ENTITYMENTIONID="24-43" ARGNUM="2">
+      <extent>
+        <charseq START="1003" END="1010">300 قتيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_171.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_171.man">
+<composite_entity ID="chtb_171.man-CE1">
+  <entity ID="chtb_171.man-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM">
+      <extent>
+        <charseq START="46" END="50">安第斯议会</charseq>
+      </extent>
+      <head>
+        <charseq START="46" END="50">安第斯议会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-13" TYPE="NAM">
+      <extent>
+        <charseq START="153" END="158">安第斯议
+会</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="158">安第斯议
+会</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="46" END="50">安第斯议会</charseq>
+      </name>
+      <name>
+        <charseq START="153" END="158">安第斯议
+会</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_171.man-CE2">
+  <entity ID="chtb_171.man-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="57" END="58">利马</charseq>
+      </extent>
+      <head>
+        <charseq START="57" END="58">利马</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="57" END="58">利马</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_171.man-CE3">
+  <entity ID="chtb_171.man-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="APP">
+      <extent>
+        <charseq START="64" END="74">秘鲁总统阿尔贝托・藤森</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="3-4" TYPE="NAM">
+      <extent>
+        <charseq START="68" END="74">阿尔贝托・藤森</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="74">阿尔贝托・藤森</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-7" TYPE="NOM">
+      <extent>
+        <charseq START="85" END="88">藤森总统</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="88">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-8" TYPE="NAM">
+      <extent>
+        <charseq START="85" END="86">藤森</charseq>
+      </extent>
+      <head>
+        <charseq START="85" END="86">藤森</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-11" TYPE="PRO">
+      <extent>
+        <charseq START="127" END="127">他</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="127">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="68" END="74">阿尔贝托・藤森</charseq>
+      </name>
+      <name>
+        <charseq START="85" END="86">藤森</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_171.man-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-5" TYPE="NOM">
+      <extent>
+        <charseq START="64" END="67">秘鲁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="66" END="67">总统</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_171.man-CE4">
+  <entity ID="chtb_171.man-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="64" END="65">秘鲁</charseq>
+      </extent>
+      <head>
+        <charseq START="64" END="65">秘鲁</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="64" END="65">秘鲁</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_171.man-CE5">
+  <entity ID="chtb_171.man-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-9" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="96" END="100">安第斯国家</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="100">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-12" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="131" END="132">各国</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="132">各国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_171.man-CE6">
+  <entity ID="chtb_171.man-E7" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="7-10" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="96" END="98">安第斯</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="98">安第斯</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_171.man-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="64" END="67">秘鲁总统</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_171.man-E4" ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="67">秘鲁总统</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_171.man-E5" ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="64" END="65">秘鲁</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_171.man-R2" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="96" END="100">安第斯国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_171.man-E6" ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="96" END="100">安第斯国家</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_171.man-E7" ENTITYMENTIONID="7-10" ARGNUM="2">
+      <extent>
+        <charseq START="96" END="98">安第斯</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

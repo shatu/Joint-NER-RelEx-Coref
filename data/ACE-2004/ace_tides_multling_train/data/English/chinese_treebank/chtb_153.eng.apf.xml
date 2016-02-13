@@ -1,0 +1,1476 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_153.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_153.eng">
+<entity ID="chtb_153.eng-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="580">Stone Business Administration Institute</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2116" END="2181">the US New York University Stone Business
+Administration Institute</charseq>
+    </extent>
+    <head>
+      <charseq START="2143" END="2181">Stone Business
+Administration Institute</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2143" END="2181">Stone Business
+Administration Institute</charseq>
+    </name>
+    <name>
+      <charseq START="542" END="580">Stone Business Administration Institute</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E2" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="2-63" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2123" END="2141">New York University</charseq>
+    </extent>
+    <head>
+      <charseq START="2123" END="2141">New York University</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-64" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="522" END="540">New York University</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="540">New York University</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="611" END="617">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="617">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="PRO" LDCTYPE="HLS" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="639" END="649">9.4 million</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="649">million</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="623" END="649">a population of 9.4 million</charseq>
+    </extent>
+    <head>
+      <charseq START="625" END="634">population</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="658" END="739">the biggest international harbor city and external trading shore
+in northern China</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="721">city and external trading shore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="743" END="749">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="749">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-15" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="919" END="933">the entire city</charseq>
+    </extent>
+    <head>
+      <charseq START="930" END="933">city</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1112" END="1118">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1118">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1214" END="1220">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1214" END="1220">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1337" END="1343">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1337" END="1343">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1390" END="1401">Tianjin City</charseq>
+    </extent>
+    <head>
+      <charseq START="1390" END="1401">Tianjin City</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1565" END="1571">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1565" END="1571">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-54" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2067" END="2073">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="2067" END="2073">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2371" END="2377">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="2371" END="2377">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-65" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="165" END="171">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="171">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="290" END="296">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="296">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-77" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="380">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="380">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1214" END="1220">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="1337" END="1343">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="1390" END="1401">Tianjin City</charseq>
+    </name>
+    <name>
+      <charseq START="1565" END="1571">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="2067" END="2073">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="2371" END="2377">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="165" END="171">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="290" END="296">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="374" END="380">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="611" END="617">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="743" END="749">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="1112" END="1118">Tianjin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E4" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="4-10" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="670" END="689">international harbor</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="689">harbor</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E5" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="726" END="739">northern China</charseq>
+    </extent>
+    <head>
+      <charseq START="735" END="739">China</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1282" END="1287">people</charseq>
+    </extent>
+    <head>
+      <charseq START="1282" END="1287">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="7-27" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1303" END="1343">foreign
+corporations investing in Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1311" END="1322">corporations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="8-30" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1358" END="1372">US corporations</charseq>
+    </extent>
+    <head>
+      <charseq START="1361" END="1372">corporations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="9-14" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="875" END="890">foreign merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="883" END="890">merchant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-32" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1405" END="1420">foreign
+merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="1413" END="1420">merchant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-38" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1866" END="1881">foreign merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="1874" END="1881">merchant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-73" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="300" END="315">foreign merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="315">merchant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1509" END="1528">the Motorola Company</charseq>
+    </extent>
+    <head>
+      <charseq START="1513" END="1528">Motorola Company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1665" END="1676">this company</charseq>
+    </extent>
+    <head>
+      <charseq START="1670" END="1676">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1846" END="1923">the
+most successful foreign merchant investment corporation investing in
+China</charseq>
+    </extent>
+    <head>
+      <charseq START="1894" END="1904">corporation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1935" END="1942">Motorola</charseq>
+    </extent>
+    <head>
+      <charseq START="1935" END="1942">Motorola</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1513" END="1528">Motorola Company</charseq>
+    </name>
+    <name>
+      <charseq START="1935" END="1942">Motorola</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1919" END="1923">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1919" END="1923">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1919" END="1923">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="13-44" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1951" END="1959">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1969" END="1977">Mobil Oil</charseq>
+    </extent>
+    <head>
+      <charseq START="1969" END="1977">Mobil Oil</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1969" END="1977">Mobil Oil</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="145" END="162">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="162">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="145" END="162">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1980" END="1983">OTIS</charseq>
+    </extent>
+    <head>
+      <charseq START="1980" END="1983">OTIS</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1980" END="1983">OTIS</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1986" END="1988">IBM</charseq>
+    </extent>
+    <head>
+      <charseq START="1986" END="1988">IBM</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1986" END="1988">IBM</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1991" END="1994">AT&amp;T</charseq>
+    </extent>
+    <head>
+      <charseq START="1991" END="1994">AT&amp;T</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1991" END="1994">AT&amp;T</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1997" END="1999">P&amp;G</charseq>
+    </extent>
+    <head>
+      <charseq START="1997" END="1999">P&amp;G</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1997" END="1999">P&amp;G</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2002" END="2010">Coca-Cola</charseq>
+    </extent>
+    <head>
+      <charseq START="2002" END="2010">Coca-Cola</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2002" END="2010">Coca-Cola</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2013" END="2032">Chase Manhattan Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="2013" END="2032">Chase Manhattan Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2013" END="2032">Chase Manhattan Bank</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="22-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2035" END="2037">SKB</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2037">SKB</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2035" END="2037">SKB</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="23-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2040" END="2042">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2042">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2099" END="2237">The 62 people of the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+    </extent>
+    <head>
+      <charseq START="2106" END="2111">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2116" END="2237">the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+    </extent>
+    <head>
+      <charseq START="2233" END="2237">group</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2329" END="2332">They</charseq>
+    </extent>
+    <head>
+      <charseq START="2329" END="2332">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="454" END="580">the '97 MBA class
+international on-site observation group of the US New York University
+Stone Business Administration Institute</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="510">group</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="25-59" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="2250" END="2313">various big corporations, companies,
+financial groups, and banks</charseq>
+    </extent>
+    <head>
+      <charseq START="2262" END="2313">corporations, companies,
+financial groups, and banks</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-66" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="189" END="206">reporter Daojia Li</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="206">Daojia Li</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-67" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="189" END="196">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="196">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="198" END="206">Daojia Li</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="29-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1079" END="1171">2,000 US capital
+corporations in Tianjin with total investment values of 2 billion US
+dollars</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1107">corporations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-23" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1175" END="1189">US corporations</charseq>
+    </extent>
+    <head>
+      <charseq START="1178" END="1189">corporations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-68" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="209" END="231">US capital corporations</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="231">corporations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-70" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="245" END="339">the corporations with the most
+profits among Tianjin's foreign merchant investment corporations</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="260">corporations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="30-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="519" END="520">US</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="520">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1551" END="1552">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1552">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="976" END="977">US</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="977">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1000" END="1001">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1001">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-19" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1085" END="1086">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1085" END="1086">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1162" END="1163">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1163">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1175" END="1176">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1175" END="1176">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1358" END="1359">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1358" END="1359">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-35" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1626" END="1627">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1626" END="1627">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-39" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1723" END="1724">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1723" END="1724">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-40" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1761" END="1762">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1761" END="1762">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-41" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1825" END="1826">US</charseq>
+    </extent>
+    <head>
+      <charseq START="1825" END="1826">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-58" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2120" END="2121">US</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2121">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-69" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="209" END="210">US</charseq>
+    </extent>
+    <head>
+      <charseq START="209" END="210">US</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="32-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="858" END="933">more than 10,000 foreign merchant investment
+corporations in the entire city</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="914">corporations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="290" END="339">Tianjin's foreign merchant investment corporations</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="339">corporations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.eng-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="585" END="594">Disheng Ye</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="594">Disheng Ye</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1031" END="1040">Disheng Ye</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1040">Disheng Ye</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="393">Tianjin's vice-Mayor</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="393">Mayor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="396" END="405">Disheng Ye</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="405">Disheng Ye</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="413" END="414">he</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="414">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="396" END="405">Disheng Ye</charseq>
+    </name>
+    <name>
+      <charseq START="585" END="594">Disheng Ye</charseq>
+    </name>
+    <name>
+      <charseq START="1031" END="1040">Disheng Ye</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.eng-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-57" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2116" END="2197">the US New York University Stone Business
+Administration Institute's '97 MBA class</charseq>
+    </extent>
+    <head>
+      <charseq START="2193" END="2197">class</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-80" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="458" END="470">'97 MBA class</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="470">class</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_153.eng-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E35" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2116" END="2237">the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-56" ARGNUM="1">
+      <extent>
+        <charseq START="2116" END="2237">the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-57" ARGNUM="2">
+      <extent>
+        <charseq START="2116" END="2197">the US New York University Stone Business
+Administration Institute's '97 MBA class</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="454" END="580">the '97 MBA class
+international on-site observation group of the US New York University
+Stone Business Administration Institute</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-79" ARGNUM="1">
+      <extent>
+        <charseq START="454" END="580">the '97 MBA class
+international on-site observation group of the US New York University
+Stone Business Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-80" ARGNUM="2">
+      <extent>
+        <charseq START="458" END="470">'97 MBA class</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2116" END="2237">the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-56" ARGNUM="1">
+      <extent>
+        <charseq START="2116" END="2237">the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-57" ARGNUM="2">
+      <extent>
+        <charseq START="2116" END="2197">the US New York University Stone Business
+Administration Institute's '97 MBA class</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="145" END="206">Xinhua News Agency, Tianjin, March 20th, by reporter Daojia Li</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-66" ARGNUM="1">
+      <extent>
+        <charseq START="189" END="206">reporter Daojia Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-65" ARGNUM="2">
+      <extent>
+        <charseq START="165" END="171">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E15" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="145" END="206">Xinhua News Agency, Tianjin, March 20th, by reporter Daojia Li</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-66" ARGNUM="1">
+      <extent>
+        <charseq START="189" END="206">reporter Daojia Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-1" ARGNUM="2">
+      <extent>
+        <charseq START="145" END="162">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E30" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="209" END="231">US capital corporations</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-68" ARGNUM="1">
+      <extent>
+        <charseq START="209" END="231">US capital corporations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-69" ARGNUM="2">
+      <extent>
+        <charseq START="209" END="210">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1079" END="1171">2,000 US capital
+corporations in Tianjin with total investment values of 2 billion US
+dollars</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-21" ARGNUM="1">
+      <extent>
+        <charseq START="1079" END="1171">2,000 US capital
+corporations in Tianjin with total investment values of 2 billion US
+dollars</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-19" ARGNUM="2">
+      <extent>
+        <charseq START="1085" END="1086">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1175" END="1189">US corporations</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-23" ARGNUM="1">
+      <extent>
+        <charseq START="1175" END="1189">US corporations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-24" ARGNUM="2">
+      <extent>
+        <charseq START="1175" END="1176">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E32" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="245" END="339">the corporations with the most
+profits among Tianjin's foreign merchant investment corporations</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-70" ARGNUM="1">
+      <extent>
+        <charseq START="245" END="339">the corporations with the most
+profits among Tianjin's foreign merchant investment corporations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-71" ARGNUM="2">
+      <extent>
+        <charseq START="290" END="339">Tianjin's foreign merchant investment corporations</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="290" END="339">Tianjin's foreign merchant investment corporations</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-73" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="315">foreign merchant</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-72" ARGNUM="2">
+      <extent>
+        <charseq START="290" END="296">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="374" END="393">Tianjin's vice-Mayor</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-75" ARGNUM="1">
+      <extent>
+        <charseq START="374" END="393">Tianjin's vice-Mayor</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-77" ARGNUM="2">
+      <extent>
+        <charseq START="374" END="380">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R9" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E1" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="454" END="580">the '97 MBA class
+international on-site observation group of the US New York University
+Stone Business Administration Institute</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-79" ARGNUM="1">
+      <extent>
+        <charseq START="454" END="580">the '97 MBA class
+international on-site observation group of the US New York University
+Stone Business Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E2" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-64" ARGNUM="2">
+      <extent>
+        <charseq START="522" END="540">New York University</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="10-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2116" END="2181">the US New York University Stone Business
+Administration Institute</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-62" ARGNUM="1">
+      <extent>
+        <charseq START="2116" END="2181">the US New York University Stone Business
+Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-63" ARGNUM="2">
+      <extent>
+        <charseq START="2123" END="2141">New York University</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E30" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="515" END="580">the US New York University
+Stone Business Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-3" ARGNUM="2">
+      <extent>
+        <charseq START="519" END="520">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E5" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="658" END="739">the biggest international harbor city and external trading shore
+in northern China</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-9" ARGNUM="1">
+      <extent>
+        <charseq START="658" END="739">the biggest international harbor city and external trading shore
+in northern China</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="2">
+      <extent>
+        <charseq START="726" END="739">northern China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R13" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="858" END="933">more than 10,000 foreign merchant investment
+corporations in the entire city</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-13" ARGNUM="1">
+      <extent>
+        <charseq START="858" END="933">more than 10,000 foreign merchant investment
+corporations in the entire city</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-15" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="933">the entire city</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R15" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E3" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1079" END="1171">2,000 US capital
+corporations in Tianjin with total investment values of 2 billion US
+dollars</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-21" ARGNUM="1">
+      <extent>
+        <charseq START="1079" END="1171">2,000 US capital
+corporations in Tianjin with total investment values of 2 billion US
+dollars</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-22" ARGNUM="2">
+      <extent>
+        <charseq START="1112" END="1118">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R17" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E30" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1358" END="1372">US corporations</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-30" ARGNUM="1">
+      <extent>
+        <charseq START="1358" END="1372">US corporations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-29" ARGNUM="2">
+      <extent>
+        <charseq START="1358" END="1359">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R18" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-45" ARGNUM="1">
+      <extent>
+        <charseq START="1969" END="1977">Mobil Oil</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R19" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-46" ARGNUM="1">
+      <extent>
+        <charseq START="1980" END="1983">OTIS</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R20" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-47" ARGNUM="1">
+      <extent>
+        <charseq START="1986" END="1988">IBM</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R21" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-48" ARGNUM="1">
+      <extent>
+        <charseq START="1991" END="1994">AT&amp;T</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R22" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-49" ARGNUM="1">
+      <extent>
+        <charseq START="1997" END="1999">P&amp;G</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R23" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-50" ARGNUM="1">
+      <extent>
+        <charseq START="2002" END="2010">Coca-Cola</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R24" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-51" ARGNUM="1">
+      <extent>
+        <charseq START="2013" END="2032">Chase Manhattan Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R25" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-52" ARGNUM="1">
+      <extent>
+        <charseq START="2035" END="2037">SKB</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R26" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E13" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-53" ARGNUM="1">
+      <extent>
+        <charseq START="2040" END="2042">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1945" END="2042">large companies such as Mobil Oil, OTIS, IBM, AT&amp;T,
+P&amp;G, Coca-Cola, Chase Manhattan Bank, SKB, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R27" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E25" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2099" END="2326">The 62 people of the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group, came from various big corporations, companies,
+financial groups, and banks respectively</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-55" ARGNUM="1">
+      <extent>
+        <charseq START="2099" END="2237">The 62 people of the US New York University Stone Business
+Administration Institute's '97 MBA class international on-site
+observation group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-59" ARGNUM="2">
+      <extent>
+        <charseq START="2250" END="2313">various big corporations, companies,
+financial groups, and banks</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R29" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E1" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2116" END="2197">the US New York University Stone Business
+Administration Institute's '97 MBA class</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-57" ARGNUM="1">
+      <extent>
+        <charseq START="2116" END="2197">the US New York University Stone Business
+Administration Institute's '97 MBA class</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-62" ARGNUM="2">
+      <extent>
+        <charseq START="2116" END="2181">the US New York University Stone Business
+Administration Institute</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.eng-R31" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.eng-E30" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2120" END="2141">US New York University</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-63" ARGNUM="1">
+      <extent>
+        <charseq START="2123" END="2141">New York University</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-58" ARGNUM="2">
+      <extent>
+        <charseq START="2120" END="2121">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

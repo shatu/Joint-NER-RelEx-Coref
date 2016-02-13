@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VAR20001015.1300.1364.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001015.1300.1364">
+<entity ID="VAR20001015.1300.1364-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="104" END="132">ملاحو أتوبيس الأمريكي ديسكفري</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="108">ملاحو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="227" END="228">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="228">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="212" END="219">الملاحون</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="219">الملاحون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="334" END="334">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="334">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="339" END="364">ملاحو ديسكفري اليوم مهمتهم</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="343">ملاحو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="363" END="364">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="364">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1364-E2" TYPE="VEH" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="110" END="132">أتوبيس الأمريكي ديسكفري</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="115">أتوبيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="126" END="132">ديسكفري</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="132">ديسكفري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="186" END="205">بمحطة الفضاء
+الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="190">بمحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-13" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="345" END="351">ديسكفري</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="351">ديسكفري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="126" END="132">ديسكفري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1364-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="117" END="124">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="124">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1364-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="199" END="205">الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="205">الدولية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1364-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="278" END="278">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="278">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="284" END="303">ملاحو الرحلة التالية</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="288">ملاحو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VAR20001015.1300.1364-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E3" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E2" ARGNUM="1" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="104" END="132">ملاحو أتوبيس الأمريكي ديسكفري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="110" END="132">أتوبيس الأمريكي ديسكفري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="117" END="124">الأمريكي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1364-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E2" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="104" END="132">ملاحو أتوبيس الأمريكي ديسكفري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="104" END="132">ملاحو أتوبيس الأمريكي ديسكفري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="126" END="132">ديسكفري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="339" END="364">ملاحو ديسكفري اليوم مهمتهم</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-12" ARGNUM="1">
+      <extent>
+        <charseq START="339" END="364">ملاحو ديسكفري اليوم مهمتهم</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-13" ARGNUM="2">
+      <extent>
+        <charseq START="345" END="351">ديسكفري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1364-R3" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001015.1300.1364-E5" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="186" END="205">بمحطة الفضاء
+الدولية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="186" END="205">بمحطة الفضاء
+الدولية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="199" END="205">الدولية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

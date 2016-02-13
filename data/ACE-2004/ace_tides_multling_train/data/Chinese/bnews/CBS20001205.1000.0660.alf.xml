@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CBS20001205.1000.0660.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CBS20001205.1000.0660">
+<composite_entity ID="CBS20001205.1000.0660-CE1">
+  <entity ID="CBS20001205.1000.0660-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="1-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="202" END="203">亚洲</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="203">亚洲</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="202" END="203">亚洲</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE2">
+  <entity ID="CBS20001205.1000.0660-E2" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="230" END="231">国际</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="231">国际</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE3">
+  <entity ID="CBS20001205.1000.0660-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="256" END="257">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="257">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="256" END="257">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE4">
+  <entity ID="CBS20001205.1000.0660-E4" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="4-9" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="346" END="349">中共当局</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="349">当局</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="346" END="347">中共</charseq>
+      </extent>
+      <head>
+        <charseq START="346" END="347">中共</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="66">中共</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">中共</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="346" END="347">中共</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CBS20001205.1000.0660-E6" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="6-3" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="256" END="259">中国大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="259">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-5" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="295" END="296">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="296">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-16" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="74" END="75">中共</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="75">中共</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="75">中共</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CBS20001205.1000.0660-E10" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="10-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="337" END="338">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="338">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-17" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="103">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="103">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="185" END="186">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="186">大陆</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE5">
+  <entity ID="CBS20001205.1000.0660-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="69">中共中新社</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="69">中新社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="67" END="69">中新社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE6">
+  <entity ID="CBS20001205.1000.0660-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-7" TYPE="NAM">
+      <extent>
+        <charseq START="329" END="331">周精英</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="331">周精英</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-12" TYPE="APP">
+      <extent>
+        <charseq START="74" END="86">中共社会科学院研究员周精英</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="7-13" TYPE="NAM">
+      <extent>
+        <charseq START="84" END="86">周精英</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="86">周精英</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-24" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="181">周精英</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="181">周精英</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="84" END="86">周精英</charseq>
+      </name>
+      <name>
+        <charseq START="179" END="181">周精英</charseq>
+      </name>
+      <name>
+        <charseq START="329" END="331">周精英</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CBS20001205.1000.0660-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-14" TYPE="NOM">
+      <extent>
+        <charseq START="74" END="83">中共社会科学院研究员</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="83">研究员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE7">
+  <entity ID="CBS20001205.1000.0660-E9" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="9-15" TYPE="NAM">
+      <extent>
+        <charseq START="74" END="80">中共社会科学院</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="80">社会科学院</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="76" END="80">社会科学院</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE8">
+  <entity ID="CBS20001205.1000.0660-E11" TYPE="PER" CLASS="USP">
+    <entity_mention ID="11-18" TYPE="EPM">
+      <extent>
+        <charseq START="128" END="149">每百万个劳动力中从事研发活动的科学家和工程师</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="149">每百万个劳动力中从事研发活动的科学家和工程师</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-19" TYPE="PMM">
+      <extent>
+        <charseq START="143" END="149">科学家和工程师</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="149">科学家和工程师</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE9">
+  <entity ID="CBS20001205.1000.0660-E12" TYPE="PER" CLASS="USP">
+    <entity_mention ID="12-20" TYPE="NOM">
+      <extent>
+        <charseq START="143" END="145">科学家</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="145">科学家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE10">
+  <entity ID="CBS20001205.1000.0660-E13" TYPE="PER" CLASS="USP">
+    <entity_mention ID="13-21" TYPE="NOM">
+      <extent>
+        <charseq START="147" END="149">工程师</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="149">工程师</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE11">
+  <entity ID="CBS20001205.1000.0660-E14" TYPE="PER" CLASS="USP">
+    <entity_mention ID="14-22" TYPE="NOM">
+      <extent>
+        <charseq START="129" END="134">百万个劳动力</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="134">劳动力</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE12">
+  <entity ID="CBS20001205.1000.0660-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+    <entity_mention ID="15-6" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="319" END="322">发达国家</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="322">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="160" END="163">发达国家</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="163">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001205.1000.0660-CE13">
+  <entity ID="CBS20001205.1000.0660-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-26" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="202" END="205">亚洲国家</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="205">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CBS20001205.1000.0660-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="69">中共中新社</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E5" ENTITYMENTIONID="5-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="69">中共中新社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E4" ENTITYMENTIONID="4-11" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="66">中共</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001205.1000.0660-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="74" END="83">中共社会科学院研究员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E8" ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="74" END="83">中共社会科学院研究员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E9" ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="74" END="80">中共社会科学院</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001205.1000.0660-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="74" END="80">中共社会科学院</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E9" ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="74" END="80">中共社会科学院</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E6" ENTITYMENTIONID="6-16" ARGNUM="2">
+      <extent>
+        <charseq START="74" END="75">中共</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001205.1000.0660-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="202" END="205">亚洲国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E16" ENTITYMENTIONID="16-26" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="205">亚洲国家</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E1" ENTITYMENTIONID="1-27" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="203">亚洲</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001205.1000.0660-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="256" END="259">中国大陆</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E6" ENTITYMENTIONID="6-3" ARGNUM="1">
+      <extent>
+        <charseq START="256" END="259">中国大陆</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001205.1000.0660-E3" ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="256" END="257">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

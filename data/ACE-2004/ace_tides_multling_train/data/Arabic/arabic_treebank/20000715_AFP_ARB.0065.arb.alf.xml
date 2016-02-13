@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000715_AFP_ARB.0065.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000715_AFP_ARB.0065.arb">
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE1">
+  <entity ID="20000715_AFP_ARB.0065.arb-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-21" TYPE="NOM">
+      <extent>
+        <charseq START="448" END="457">المتظاهرين</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="457">المتظاهرين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE2">
+  <entity ID="20000715_AFP_ARB.0065.arb-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="93" END="97">درسدن</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="97">درسدن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-6" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="170" END="174">درسدن</charseq>
+      </extent>
+      <head>
+        <charseq START="170" END="174">درسدن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-11" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="241" END="247">المدينة</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="247">المدينة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="93" END="97">درسدن</charseq>
+      </name>
+      <name>
+        <charseq START="170" END="174">درسدن</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE3">
+  <entity ID="20000715_AFP_ARB.0065.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="100" END="106">المانيا</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="106">المانيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="100" END="106">المانيا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE4">
+  <entity ID="20000715_AFP_ARB.0065.arb-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="4-3" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="118">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="118">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="115" END="118">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE5">
+  <entity ID="20000715_AFP_ARB.0065.arb-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="5-4" TYPE="PRO">
+      <extent>
+        <charseq START="126" END="126">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="126">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="128" END="133">الشرطة</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="133">الشرطة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-14" TYPE="PRO">
+      <extent>
+        <charseq START="297" END="297">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="297">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-15" TYPE="NOM">
+      <extent>
+        <charseq START="299" END="304">الشرطة</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="304">الشرطة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE6">
+  <entity ID="20000715_AFP_ARB.0065.arb-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="BAR">
+      <extent>
+        <charseq START="192" END="247">300 ناشط من النازيين الجدد كانوا يتظاهرون في وسط المدينة</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="199">ناشط</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-9" TYPE="PRO">
+      <extent>
+        <charseq START="222" END="223">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="223">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-10" TYPE="PRO">
+      <extent>
+        <charseq START="231" END="232">ون</charseq>
+      </extent>
+      <head>
+        <charseq START="231" END="232">ون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE7">
+  <entity ID="20000715_AFP_ARB.0065.arb-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM">
+      <extent>
+        <charseq START="204" END="217">النازيين الجدد</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="211">النازيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-19" TYPE="NAM">
+      <extent>
+        <charseq START="336" END="349">النازيين الجدد</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="343">النازيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="204" END="211">النازيين</charseq>
+      </name>
+      <name>
+        <charseq START="336" END="343">النازيين</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE8">
+  <entity ID="20000715_AFP_ARB.0065.arb-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-12" TYPE="BAR">
+      <extent>
+        <charseq START="260" END="287">200 متظاهر من اليسار المتطرف</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="269">متظاهر</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-16" TYPE="BAR">
+      <extent>
+        <charseq START="309" END="373">ناشطي اليسار المتطرف رشقوا النازيين الجدد بالحجارة
+والبيض والتفاح</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="313">ناشطي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-18" TYPE="PRO">
+      <extent>
+        <charseq START="333" END="334">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="334">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE9">
+  <entity ID="20000715_AFP_ARB.0065.arb-E9" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="9-13" TYPE="NOM">
+      <extent>
+        <charseq START="274" END="287">اليسار المتطرف</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="279">اليسار</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-17" TYPE="NOM">
+      <extent>
+        <charseq START="315" END="328">اليسار المتطرف</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="320">اليسار</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0065.arb-CE10">
+  <entity ID="20000715_AFP_ARB.0065.arb-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-20" TYPE="NOM">
+      <extent>
+        <charseq START="383" END="392">قوات الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="386">قوات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20000715_AFP_ARB.0065.arb-R1" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="192" END="247">300 ناشط من النازيين الجدد كانوا يتظاهرون في وسط المدينة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E6" ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="247">300 ناشط من النازيين الجدد كانوا يتظاهرون في وسط المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E7" ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="217">النازيين الجدد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.arb-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="192" END="247">300 ناشط من النازيين الجدد كانوا يتظاهرون في وسط المدينة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E6" ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="247">300 ناشط من النازيين الجدد كانوا يتظاهرون في وسط المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E2" ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="241" END="247">المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.arb-R3" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="260" END="287">200 متظاهر من اليسار المتطرف</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E8" ENTITYMENTIONID="8-12" ARGNUM="1">
+      <extent>
+        <charseq START="260" END="287">200 متظاهر من اليسار المتطرف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E9" ENTITYMENTIONID="9-13" ARGNUM="2">
+      <extent>
+        <charseq START="274" END="287">اليسار المتطرف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="309" END="373">ناشطي اليسار المتطرف رشقوا النازيين الجدد بالحجارة
+والبيض والتفاح</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E8" ENTITYMENTIONID="8-16" ARGNUM="1">
+      <extent>
+        <charseq START="309" END="373">ناشطي اليسار المتطرف رشقوا النازيين الجدد بالحجارة
+والبيض والتفاح</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0065.arb-E9" ENTITYMENTIONID="9-17" ARGNUM="2">
+      <extent>
+        <charseq START="315" END="328">اليسار المتطرف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

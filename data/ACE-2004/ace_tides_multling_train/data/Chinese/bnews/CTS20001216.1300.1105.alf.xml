@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CTS20001216.1300.1105.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001216.1300.1105">
+<composite_entity ID="CTS20001216.1300.1105-CE1">
+  <entity ID="CTS20001216.1300.1105-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="311" END="312">美隆</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="312">美隆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="322" END="323">当地</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="323">当地</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-11" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="380" END="381">当地</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="381">当地</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="311" END="312">美隆</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE2">
+  <entity ID="CTS20001216.1300.1105-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-7" TYPE="NOM">
+      <extent>
+        <charseq START="322" END="325">当地居民</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="325">居民</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE3">
+  <entity ID="CTS20001216.1300.1105-E3" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="3-12" TYPE="NOM">
+      <extent>
+        <charseq START="329" END="331">镇公所</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="331">镇公所</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE4">
+  <entity ID="CTS20001216.1300.1105-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="4-13" TYPE="NOM">
+      <extent>
+        <charseq START="343" END="345">镇公所</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="345">镇公所</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE5">
+  <entity ID="CTS20001216.1300.1105-E5" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="5-9" TYPE="NAM">
+      <extent>
+        <charseq START="361" END="367">水池北源保护区</charseq>
+      </extent>
+      <head>
+        <charseq START="361" END="367">水池北源保护区</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="361" END="367">水池北源保护区</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE6">
+  <entity ID="CTS20001216.1300.1105-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-10" TYPE="NOM">
+      <extent>
+        <charseq START="380" END="384">当地
+居民</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="384">居民</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE7">
+  <entity ID="CTS20001216.1300.1105-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="72">台电的中山营业处</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="72">中山营业处</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-19" TYPE="NAM">
+      <extent>
+        <charseq START="123" END="129">台电中山营业处</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="129">中山营业处</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="125" END="129">中山营业处</charseq>
+      </name>
+      <name>
+        <charseq START="68" END="72">中山营业处</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE8">
+  <entity ID="CTS20001216.1300.1105-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-3" TYPE="NAM">
+      <extent>
+        <charseq START="299" END="300">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="300">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-14" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="66">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-20" TYPE="NAM">
+      <extent>
+        <charseq START="123" END="124">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="124">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-25" TYPE="NAM">
+      <extent>
+        <charseq START="171" END="172">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="172">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-27" TYPE="NAM">
+      <extent>
+        <charseq START="207" END="208">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="208">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-29" TYPE="NAM">
+      <extent>
+        <charseq START="238" END="239">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="239">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-32" TYPE="NAM">
+      <extent>
+        <charseq START="273" END="274">台电</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="274">台电</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="66">台电</charseq>
+      </name>
+      <name>
+        <charseq START="123" END="124">台电</charseq>
+      </name>
+      <name>
+        <charseq START="171" END="172">台电</charseq>
+      </name>
+      <name>
+        <charseq START="207" END="208">台电</charseq>
+      </name>
+      <name>
+        <charseq START="238" END="239">台电</charseq>
+      </name>
+      <name>
+        <charseq START="273" END="274">台电</charseq>
+      </name>
+      <name>
+        <charseq START="299" END="300">台电</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE9">
+  <entity ID="CTS20001216.1300.1105-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-5" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="74" END="77">鸟松地区</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="77">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="74" END="75">鸟松</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="75">鸟松</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-17" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="92" END="93">当地</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="93">当地</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="163" END="164">鸟松</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="164">鸟松</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="75">鸟松</charseq>
+      </name>
+      <name>
+        <charseq START="163" END="164">鸟松</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE10">
+  <entity ID="CTS20001216.1300.1105-E10" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NOM">
+      <extent>
+        <charseq START="80" END="82">变电所</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="82">变电所</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE11">
+  <entity ID="CTS20001216.1300.1105-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="11-2" TYPE="NOM">
+      <extent>
+        <charseq START="280" END="281">乡民</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="281">乡民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-16" TYPE="NOM">
+      <extent>
+        <charseq START="92" END="95">当地居民</charseq>
+      </extent>
+      <head>
+        <charseq START="94" END="95">居民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-26" TYPE="NOM">
+      <extent>
+        <charseq START="194" END="195">居民</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="195">居民</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE12">
+  <entity ID="CTS20001216.1300.1105-E12" TYPE="PER" CLASS="USP">
+    <entity_mention ID="12-18" TYPE="NOM">
+      <extent>
+        <charseq START="109" END="110">居民</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="110">居民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-22" TYPE="NOM">
+      <extent>
+        <charseq START="154" END="158">激动的民众</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="158">民众</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-30" TYPE="NOM">
+      <extent>
+        <charseq START="257" END="260">抗争民众</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="260">民众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE13">
+  <entity ID="CTS20001216.1300.1105-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="NOM">
+      <extent>
+        <charseq START="140" END="141">警方</charseq>
+      </extent>
+      <head>
+        <charseq START="140" END="141">警方</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE14">
+  <entity ID="CTS20001216.1300.1105-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-23" TYPE="NOM">
+      <extent>
+        <charseq START="160" END="167">抗议的鸟松
+村民</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="167">村民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-31" TYPE="NOM">
+      <extent>
+        <charseq START="264" END="267">抗争民众</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="267">民众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001216.1300.1105-CE15">
+  <entity ID="CTS20001216.1300.1105-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-28" TYPE="PRO">
+      <extent>
+        <charseq START="225" END="226">双方</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="226">双方</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CTS20001216.1300.1105-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="72">台电的中山营业处</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E7" ENTITYMENTIONID="7-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="72">台电的中山营业处</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E8" ENTITYMENTIONID="8-14" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="66">台电</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="123" END="129">台电中山营业处</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E7" ENTITYMENTIONID="7-19" ARGNUM="1">
+      <extent>
+        <charseq START="123" END="129">台电中山营业处</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E8" ENTITYMENTIONID="8-20" ARGNUM="2">
+      <extent>
+        <charseq START="123" END="124">台电</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001216.1300.1105-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="92" END="95">当地居民</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E11" ENTITYMENTIONID="11-16" ARGNUM="1">
+      <extent>
+        <charseq START="92" END="95">当地居民</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E9" ENTITYMENTIONID="9-17" ARGNUM="2">
+      <extent>
+        <charseq START="92" END="93">当地</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001216.1300.1105-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="160" END="167">抗议的鸟松
+村民</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E14" ENTITYMENTIONID="14-23" ARGNUM="1">
+      <extent>
+        <charseq START="160" END="167">抗议的鸟松
+村民</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E9" ENTITYMENTIONID="9-24" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="164">鸟松</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001216.1300.1105-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="322" END="325">当地居民</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E2" ENTITYMENTIONID="2-7" ARGNUM="1">
+      <extent>
+        <charseq START="322" END="325">当地居民</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E1" ENTITYMENTIONID="1-8" ARGNUM="2">
+      <extent>
+        <charseq START="322" END="323">当地</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001216.1300.1105-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="380" END="384">当地
+居民</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E6" ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="380" END="384">当地
+居民</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001216.1300.1105-E1" ENTITYMENTIONID="1-11" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="381">当地</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

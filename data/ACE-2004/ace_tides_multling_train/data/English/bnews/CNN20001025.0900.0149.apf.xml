@@ -1,0 +1,564 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001025.0900.0149.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001025.0900.0149">
+<entity ID="CNN20001025.0900.0149-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="407" END="418">running mate</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="418">mate</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="407" END="432">running mate joe lieberman</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="432">joe lieberman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="420" END="432">joe lieberman</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001025.0900.0149-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="557" END="558">we</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="558">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E3" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="737" END="794">the candidate who was
+ahead on labor day never went behind</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="749">candidate</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="751" END="753">who</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="753">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="809" END="809">i</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="809">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-14" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1158" END="1192">46% of the likely voters questioned</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1160">46%</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1165" END="1192">the likely voters questioned</charseq>
+    </extent>
+    <head>
+      <charseq START="1176" END="1181">voters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-16" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1213" END="1215">45%</charseq>
+    </extent>
+    <head>
+      <charseq START="1213" END="1215">45%</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1240" END="1252">the pollsters</charseq>
+    </extent>
+    <head>
+      <charseq START="1244" END="1252">pollsters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-18" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="999" END="1001">cnn</charseq>
+    </extent>
+    <head>
+      <charseq START="999" END="1001">cnn</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1004" END="1012">usa today</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1012">usa today</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-20" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1015" END="1020">gallup</charseq>
+    </extent>
+    <head>
+      <charseq START="1015" END="1020">gallup</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-21" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="906" END="911">gallup</charseq>
+    </extent>
+    <head>
+      <charseq START="906" END="911">gallup</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-22" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="631" END="636">gallup</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="636">gallup</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-23" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="161" END="171">his brother</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="171">brother</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="161" END="205">his brother jeb, who is governor of the
+state</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="175">jeb</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-30" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="178" END="180">who</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="180">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-31" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="185" END="205">governor of the
+state</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="192">governor</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="173" END="175">jeb</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001025.0900.0149-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="64" END="77">george w. bush</charseq>
+    </extent>
+    <head>
+      <charseq START="64" END="77">george w. bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="488" END="491">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="491">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="139" END="142">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="142">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="954" END="957">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="957">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1230" END="1233">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1230" END="1233">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="161" END="163">his</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="163">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="488" END="491">bush</charseq>
+    </name>
+    <name>
+      <charseq START="139" END="142">bush</charseq>
+    </name>
+    <name>
+      <charseq START="954" END="957">bush</charseq>
+    </name>
+    <name>
+      <charseq START="1230" END="1233">bush</charseq>
+    </name>
+    <name>
+      <charseq START="64" END="77">george w. bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001025.0900.0149-E14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="14-27" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="97" END="130">the hotly contested sunshine state</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="130">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="197" END="205">the
+state</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="205">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="222" END="248">arizona senator john m cain</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="248">john m cain</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-34" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="222" END="236">arizona senator</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="236">senator</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="238" END="248">john m cain</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001025.0900.0149-E19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="19-35" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="222" END="228">arizona</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="228">arizona</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="444" END="447">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="447">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="467" END="469">him</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="469">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="945" END="948">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="948">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1042" END="1045">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1042" END="1045">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1207" END="1210">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1210">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="262" END="265">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="265">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="368" END="385">the vice president</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="385">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="945" END="948">gore</charseq>
+    </name>
+    <name>
+      <charseq START="1042" END="1045">gore</charseq>
+    </name>
+    <name>
+      <charseq START="1207" END="1210">gore</charseq>
+    </name>
+    <name>
+      <charseq START="262" END="265">gore</charseq>
+    </name>
+    <name>
+      <charseq START="444" END="447">gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001025.0900.0149-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-37" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="295" END="299">aides</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="299">aides</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001025.0900.0149-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="22-4" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="444" END="460">gore's home
+state</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="460">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="344" END="352">tennessee</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="352">tennessee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="344" END="352">tennessee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001025.0900.0149-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E22" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="262" END="365">gore is
+expected to deliver what aides are calling a major speech on
+education in tennessee this morning</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-36" ARGNUM="1">
+      <extent>
+        <charseq START="262" END="265">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-38" ARGNUM="2">
+      <extent>
+        <charseq START="344" END="352">tennessee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R2" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E12" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="161" END="171">his brother</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-28" ARGNUM="1">
+      <extent>
+        <charseq START="161" END="163">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-23" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="171">his brother</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E14" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="185" END="205">governor of the
+state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-31" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="205">governor of the
+state</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="2">
+      <extent>
+        <charseq START="197" END="205">the
+state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E19" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="222" END="236">arizona senator</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="1">
+      <extent>
+        <charseq START="222" END="236">arizona senator</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-35" ARGNUM="2">
+      <extent>
+        <charseq START="222" END="228">arizona</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E22" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="444" END="460">gore's home
+state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-3" ARGNUM="1">
+      <extent>
+        <charseq START="444" END="447">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-4" ARGNUM="2">
+      <extent>
+        <charseq START="444" END="460">gore's home
+state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E6" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1158" END="1192">46% of the likely voters questioned</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-14" ARGNUM="1">
+      <extent>
+        <charseq START="1158" END="1192">46% of the likely voters questioned</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-15" ARGNUM="2">
+      <extent>
+        <charseq START="1165" END="1192">the likely voters questioned</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001025.0900.0149-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001025.0900.0149-E14" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="64" END="136">george w. bush is campaigning in the hotly contested sunshine state
+today</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-1" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="77">george w. bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-27" ARGNUM="2">
+      <extent>
+        <charseq START="97" END="130">the hotly contested sunshine state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

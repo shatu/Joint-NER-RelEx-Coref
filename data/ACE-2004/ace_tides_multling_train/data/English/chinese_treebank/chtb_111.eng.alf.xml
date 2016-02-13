@@ -1,0 +1,1091 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_111.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_111.eng">
+<composite_entity ID="chtb_111.eng-CE1">
+  <entity ID="chtb_111.eng-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="36-59" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="806" END="875">countries in Central and South
+America, such as Mexico, Argentina, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="814">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE2">
+  <entity ID="chtb_111.eng-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="819" END="843">Central and South
+America</charseq>
+      </extent>
+      <head>
+        <charseq START="819" END="843">Central and South
+America</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="819" END="843">Central and South
+America</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE3">
+  <entity ID="chtb_111.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="854" END="859">Mexico</charseq>
+      </extent>
+      <head>
+        <charseq START="854" END="859">Mexico</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="854" END="859">Mexico</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE4">
+  <entity ID="chtb_111.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="862" END="870">Argentina</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="870">Argentina</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="862" END="870">Argentina</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE5">
+  <entity ID="chtb_111.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="4-6" TYPE="BAR">
+      <extent>
+        <charseq START="952" END="1069">Powerful enterprises
+from developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="961" END="971">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE6">
+  <entity ID="chtb_111.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="5-7" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="989" END="997">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE7">
+  <entity ID="chtb_111.eng-E6" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1002" END="1005">Asia</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1005">Asia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1002" END="1005">Asia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE8">
+  <entity ID="chtb_111.eng-E7" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-9" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1011" END="1020">the Middle</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1020">Middle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1015" END="1020">Middle</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE9">
+  <entity ID="chtb_111.eng-E8" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="8-10" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1026" END="1039">Eastern Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1039">Eastern Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1026" END="1039">Eastern Europe</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE10">
+  <entity ID="chtb_111.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1052" END="1057">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1052" END="1057">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1052" END="1057">Russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE11">
+  <entity ID="chtb_111.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="10-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1060" END="1064">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1064">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1060" END="1064">China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE12">
+  <entity ID="chtb_111.eng-E11" TYPE="GPE" SUBTYPE="Other" CLASS="GEN">
+    <entity_mention ID="11-14" TYPE="MWH" ROLE="GPE">
+      <extent>
+        <charseq START="1157" END="1237">countries and regions whose enterprises are
+listed on the New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1157" END="1177">countries and regions</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-15" TYPE="WHQ" ROLE="GPE">
+      <extent>
+        <charseq START="1179" END="1183">whose</charseq>
+      </extent>
+      <head>
+        <charseq START="1179" END="1183">whose</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE13">
+  <entity ID="chtb_111.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="12-16" TYPE="NOM">
+      <extent>
+        <charseq START="1179" END="1195">whose enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1185" END="1195">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE14">
+  <entity ID="chtb_111.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-17" TYPE="NOM">
+      <extent>
+        <charseq START="1277" END="1345">61 foreign enterprises recently listed on the
+New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1288" END="1298">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE15">
+  <entity ID="chtb_111.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-20" TYPE="BAR">
+      <extent>
+        <charseq START="1505" END="1523">foreign enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1513" END="1523">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-21" TYPE="NOM">
+      <extent>
+        <charseq START="1574" END="1600">so many foreign
+enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1590" END="1600">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-27" TYPE="BAR">
+      <extent>
+        <charseq START="1881" END="1899">foreign enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1889" END="1899">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE16">
+  <entity ID="chtb_111.eng-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-30" TYPE="BAR">
+      <extent>
+        <charseq START="1991" END="2024">financial experts from Wall Street</charseq>
+      </extent>
+      <head>
+        <charseq START="2001" END="2007">experts</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE17">
+  <entity ID="chtb_111.eng-E18" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="18-31" TYPE="NAM">
+      <extent>
+        <charseq START="2014" END="2024">Wall Street</charseq>
+      </extent>
+      <head>
+        <charseq START="2014" END="2024">Wall Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2014" END="2024">Wall Street</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE18">
+  <entity ID="chtb_111.eng-E15" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="15-57" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="711" END="713">etc</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="713">etc</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE19">
+  <entity ID="chtb_111.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="16-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1620" END="1621">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1620" END="1621">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-24" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1695" END="1696">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1695" END="1696">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-29" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1962" END="1963">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1962" END="1963">US</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_111.eng-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="2215" END="2220">the US</charseq>
+      </extent>
+      <head>
+        <charseq START="2219" END="2220">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2219" END="2220">US</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE20">
+  <entity ID="chtb_111.eng-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="19-32" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="873" END="875">etc</charseq>
+      </extent>
+      <head>
+        <charseq START="873" END="875">etc</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE21">
+  <entity ID="chtb_111.eng-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="21-35" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="1067" END="1069">etc</charseq>
+      </extent>
+      <head>
+        <charseq START="1067" END="1069">etc</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE22">
+  <entity ID="chtb_111.eng-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="23-37" TYPE="BAR">
+      <extent>
+        <charseq START="2037" END="2092">foreign enterprises
+entering the New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="2045" END="2055">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-38" TYPE="NOM">
+      <extent>
+        <charseq START="2125" END="2141">these enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="2131" END="2141">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-39" TYPE="BAR">
+      <extent>
+        <charseq START="2227" END="2245">foreign enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="2235" END="2245">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-40" TYPE="PRO">
+      <extent>
+        <charseq START="2297" END="2300">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2297" END="2300">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-41" TYPE="PRO">
+      <extent>
+        <charseq START="2361" END="2364">they</charseq>
+      </extent>
+      <head>
+        <charseq START="2361" END="2364">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE23">
+  <entity ID="chtb_111.eng-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="24-1" TYPE="NAM">
+      <extent>
+        <charseq START="132" END="149">Xinhua News Agency</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="149">Xinhua News Agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="132" END="149">Xinhua News Agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE24">
+  <entity ID="chtb_111.eng-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="22-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2339" END="2346">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="2339" END="2346">New York</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_111.eng-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="25-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="897" END="904">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="897" END="904">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-44" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="152" END="159">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="159">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="897" END="904">New York</charseq>
+      </name>
+      <name>
+        <charseq START="152" END="159">New York</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE25">
+  <entity ID="chtb_111.eng-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-45" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="200">reporter Xisheng, Zhou</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="200">Xisheng, Zhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="188" END="200">Xisheng, Zhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_111.eng-E27" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="27-46" TYPE="PRE">
+      <extent>
+        <charseq START="179" END="186">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="186">reporter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE26">
+  <entity ID="chtb_111.eng-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="28-47" TYPE="NOM">
+      <extent>
+        <charseq START="220" END="305">a large number of foreign enterprises of great
+strength and great developmental vision</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="233">number</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-48" TYPE="BAR">
+      <extent>
+        <charseq START="238" END="305">foreign enterprises of great
+strength and great developmental vision</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="256">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-50" TYPE="BAR">
+      <extent>
+        <charseq START="386" END="442">foreign enterprises listed on the
+New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="404">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE27">
+  <entity ID="chtb_111.eng-E29" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+    <entity_mention ID="29-13" TYPE="NAM">
+      <extent>
+        <charseq START="1102" END="1128">the New
+York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1106" END="1128">New
+York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-18" TYPE="NAM">
+      <extent>
+        <charseq START="1319" END="1345">the
+New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1323" END="1345">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-19" TYPE="NAM">
+      <extent>
+        <charseq START="1448" END="1474">the New York
+Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1452" END="1474">New York
+Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-22" TYPE="NOM">
+      <extent>
+        <charseq START="1616" END="1648">the US securities exchange market</charseq>
+      </extent>
+      <head>
+        <charseq START="1643" END="1648">market</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-25" TYPE="NAM">
+      <extent>
+        <charseq START="1716" END="1742">the New
+York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1720" END="1742">New
+York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-26" TYPE="PRO">
+      <extent>
+        <charseq START="1798" END="1800">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1798" END="1800">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-28" TYPE="NAM">
+      <extent>
+        <charseq START="1911" END="1937">the
+New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1915" END="1937">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-33" TYPE="NAM">
+      <extent>
+        <charseq START="2066" END="2092">the New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="2070" END="2092">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-42" TYPE="NAM">
+      <extent>
+        <charseq START="549" END="575">the New York Stock
+Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="575">New York Stock
+Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-43" TYPE="NAM">
+      <extent>
+        <charseq START="1211" END="1237">the New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="1215" END="1237">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-49" TYPE="NAM">
+      <extent>
+        <charseq START="320" END="346">the New York
+Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="346">New York
+Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-51" TYPE="NAM">
+      <extent>
+        <charseq START="416" END="442">the
+New York Stock Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="442">New York Stock Exchange</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1106" END="1128">New
+York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="1323" END="1345">New York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="1452" END="1474">New York
+Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="1720" END="1742">New
+York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="1915" END="1937">New York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="2070" END="2092">New York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="553" END="575">New York Stock
+Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="1215" END="1237">New York Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="324" END="346">New York
+Stock Exchange</charseq>
+      </name>
+      <name>
+        <charseq START="420" END="442">New York Stock Exchange</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE28">
+  <entity ID="chtb_111.eng-E30" TYPE="PER" CLASS="USP">
+    <entity_mention ID="30-52" TYPE="BAR">
+      <extent>
+        <charseq START="537" END="575">people from the New York Stock
+Exchange</charseq>
+      </extent>
+      <head>
+        <charseq START="537" END="542">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE29">
+  <entity ID="chtb_111.eng-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="31-53" TYPE="BAR">
+      <extent>
+        <charseq START="598" END="641">big enterprises entering the New York
+market</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="612">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE30">
+  <entity ID="chtb_111.eng-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="32-54" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="660" END="713">economically developed countries in Europe,
+Japan, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="683" END="691">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE31">
+  <entity ID="chtb_111.eng-E33" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="33-55" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="696" END="701">Europe</charseq>
+      </extent>
+      <head>
+        <charseq START="696" END="701">Europe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="696" END="701">Europe</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE32">
+  <entity ID="chtb_111.eng-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="34-56" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="704" END="708">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="704" END="708">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="704" END="708">Japan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_111.eng-CE33">
+  <entity ID="chtb_111.eng-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="35-58" TYPE="BAR">
+      <extent>
+        <charseq START="772" END="924">non-governmental enterprises from countries in Central and South
+America, such as Mexico, Argentina, etc., that have come to New York
+to enter the market</charseq>
+      </extent>
+      <head>
+        <charseq START="789" END="799">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_111.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="152" END="200">New York, January 13th, by reporter Xisheng, Zhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E26" ENTITYMENTIONID="26-45" ARGNUM="1">
+      <extent>
+        <charseq START="179" END="200">reporter Xisheng, Zhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E25" ENTITYMENTIONID="25-44" ARGNUM="2">
+      <extent>
+        <charseq START="152" END="159">New York</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="132" END="200">Xinhua News Agency, New York, January 13th, by reporter Xisheng, Zhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E26" ENTITYMENTIONID="26-45" ARGNUM="1">
+      <extent>
+        <charseq START="179" END="200">reporter Xisheng, Zhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E24" ENTITYMENTIONID="24-1" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="149">Xinhua News Agency</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R3" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="220" END="346">a large number of foreign enterprises of great
+strength and great developmental vision have entered the New York
+Stock Exchange</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E28" ENTITYMENTIONID="28-48" ARGNUM="1">
+      <extent>
+        <charseq START="238" END="305">foreign enterprises of great
+strength and great developmental vision</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-49" ARGNUM="2">
+      <extent>
+        <charseq START="320" END="346">the New York
+Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="386" END="442">foreign enterprises listed on the
+New York Stock Exchange</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E28" ENTITYMENTIONID="28-50" ARGNUM="1">
+      <extent>
+        <charseq START="386" END="442">foreign enterprises listed on the
+New York Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-51" ARGNUM="2">
+      <extent>
+        <charseq START="416" END="442">the
+New York Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="537" END="575">people from the New York Stock
+Exchange</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E30" ENTITYMENTIONID="30-52" ARGNUM="1">
+      <extent>
+        <charseq START="537" END="575">people from the New York Stock
+Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-42" ARGNUM="2">
+      <extent>
+        <charseq START="549" END="575">the New York Stock
+Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="598" END="713">big enterprises entering the New York
+market were mainly from economically developed countries in Europe,
+Japan, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E31" ENTITYMENTIONID="31-53" ARGNUM="1">
+      <extent>
+        <charseq START="598" END="641">big enterprises entering the New York
+market</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E32" ENTITYMENTIONID="32-54" ARGNUM="2">
+      <extent>
+        <charseq START="660" END="713">economically developed countries in Europe,
+Japan, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="660" END="713">economically developed countries in Europe,
+Japan, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E32" ENTITYMENTIONID="32-54" ARGNUM="1">
+      <extent>
+        <charseq START="660" END="713">economically developed countries in Europe,
+Japan, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E33" ENTITYMENTIONID="33-55" ARGNUM="2">
+      <extent>
+        <charseq START="696" END="701">Europe</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="772" END="924">non-governmental enterprises from countries in Central and South
+America, such as Mexico, Argentina, etc., that have come to New York
+to enter the market</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E35" ENTITYMENTIONID="35-58" ARGNUM="1">
+      <extent>
+        <charseq START="772" END="924">non-governmental enterprises from countries in Central and South
+America, such as Mexico, Argentina, etc., that have come to New York
+to enter the market</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E36" ENTITYMENTIONID="36-59" ARGNUM="2">
+      <extent>
+        <charseq START="806" END="875">countries in Central and South
+America, such as Mexico, Argentina, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="806" END="876">countries in Central and South
+America, such as Mexico, Argentina, etc.</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E36" ENTITYMENTIONID="36-59" ARGNUM="1">
+      <extent>
+        <charseq START="806" END="875">countries in Central and South
+America, such as Mexico, Argentina, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="819" END="843">Central and South
+America</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="952" END="1069">Powerful enterprises
+from developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E4" ENTITYMENTIONID="4-6" ARGNUM="1">
+      <extent>
+        <charseq START="952" END="1069">Powerful enterprises
+from developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E6" ENTITYMENTIONID="6-8" ARGNUM="2">
+      <extent>
+        <charseq START="1002" END="1005">Asia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E7" ENTITYMENTIONID="7-9" ARGNUM="2">
+      <extent>
+        <charseq START="1011" END="1020">the Middle</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R13" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="978" END="1069">developing countries in Asia and the Middle and Eastern Europe,
+including Russia, China, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E8" ENTITYMENTIONID="8-10" ARGNUM="2">
+      <extent>
+        <charseq START="1026" END="1039">Eastern Europe</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R14" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="14-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1179" END="1237">whose enterprises are
+listed on the New York Stock Exchange</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E12" ENTITYMENTIONID="12-16" ARGNUM="1">
+      <extent>
+        <charseq START="1179" END="1195">whose enterprises</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-43" ARGNUM="2">
+      <extent>
+        <charseq START="1211" END="1237">the New York Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R15" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="15-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1277" END="1345">61 foreign enterprises recently listed on the
+New York Stock Exchange</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E13" ENTITYMENTIONID="13-17" ARGNUM="1">
+      <extent>
+        <charseq START="1277" END="1345">61 foreign enterprises recently listed on the
+New York Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-18" ARGNUM="2">
+      <extent>
+        <charseq START="1319" END="1345">the
+New York Stock Exchange</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R16" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="16-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1574" END="1648">so many foreign
+enterprises are listed on the US securities exchange market</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E14" ENTITYMENTIONID="14-21" ARGNUM="1">
+      <extent>
+        <charseq START="1574" END="1600">so many foreign
+enterprises</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E29" ENTITYMENTIONID="29-22" ARGNUM="2">
+      <extent>
+        <charseq START="1616" END="1648">the US securities exchange market</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_111.eng-R17" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1991" END="2024">financial experts from Wall Street</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E17" ENTITYMENTIONID="17-30" ARGNUM="1">
+      <extent>
+        <charseq START="1991" END="2024">financial experts from Wall Street</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_111.eng-E18" ENTITYMENTIONID="18-31" ARGNUM="2">
+      <extent>
+        <charseq START="2014" END="2024">Wall Street</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

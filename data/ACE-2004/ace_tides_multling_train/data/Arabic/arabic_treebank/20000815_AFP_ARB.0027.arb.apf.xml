@@ -1,0 +1,1295 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0027.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0027.arb">
+<entity ID="20000815_AFP_ARB.0027.arb-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="548" END="553">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="553">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-88" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2126" END="2131">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="2126" END="2131">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="613" END="648">المنتخب
+الجامايكي الى اولمبياد سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="619">المنتخب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="666" END="673">كينغستون</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="673">كينغستون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="666" END="673">كينغستون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="698" END="719">رئيس الاتحاد الجامايكي</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="701">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="721" END="732">ادريان والاس</charseq>
+    </extent>
+    <head>
+      <charseq START="721" END="732">ادريان والاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="721" END="732">ادريان والاس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="703" END="719">الاتحاد الجامايكي</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="709">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="777" END="813">بيفيرلي ماكدونالد صاحبة المركز الثالث</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="793">بيفيرلي ماكدونالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="795" END="813">صاحبة المركز الثالث</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="799">صاحبة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-18" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="816" END="819">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="819">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="821" END="821">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="821">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="880" END="880">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="880">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="882" END="890">ماكدونالد</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="890">ماكدونالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="908" END="909">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="908" END="909">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="914" END="914">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="914">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="929" END="930">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="929" END="930">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="941" END="942">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="942">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="945" END="945">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="945">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="981" END="981">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="981">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="992" END="992">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="992">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1008" END="1009">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1008" END="1009">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1023" END="1024">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1023" END="1024">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="777" END="793">بيفيرلي ماكدونالد</charseq>
+    </name>
+    <name>
+      <charseq START="882" END="890">ماكدونالد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1019" END="1040">مدربها رايموند ستيوارت</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1022">مدرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1026" END="1040">رايموند ستيوارت</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1040">رايموند ستيوارت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1026" END="1040">رايموند ستيوارت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1052" END="1065">دانيال زيمرمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1052" END="1065">دانيال زيمرمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1067" END="1075">مدرب اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1067" END="1070">مدرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1052" END="1065">دانيال زيمرمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E13" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="13-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1136" END="1147">اتحاد اللعبة</charseq>
+    </extent>
+    <head>
+      <charseq START="1136" END="1140">اتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-40" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1150" END="1153">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1150" END="1153">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1158" END="1158">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1158">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1196" END="1211">المنتخب الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1196" END="1202">المنتخب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-43" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1204" END="1211">الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1204" END="1211">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-83" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2083" END="2117">الاميركيتين ماريون جونز واينغر
+ميلر</charseq>
+    </extent>
+    <head>
+      <charseq START="2083" END="2093">الاميركيتين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1245" END="1280">للرياضيين الثلاثة الاوائل في كل سباق</charseq>
+    </extent>
+    <head>
+      <charseq START="1245" END="1253">للرياضيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1263" END="1269">الاوائل</charseq>
+    </extent>
+    <head>
+      <charseq START="1263" END="1269">الاوائل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="98" END="105">يوبليانا</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="105">يوبليانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-99" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="248" END="256">ليوبليانا</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="256">ليوبليانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="248" END="256">ليوبليانا</charseq>
+    </name>
+    <name>
+      <charseq START="98" END="105">يوبليانا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1300" END="1313">الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1300" END="1306">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1526" END="1539">الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1526" END="1532">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-50" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="1424" END="1438">لوسيرن
+السويسري</charseq>
+    </extent>
+    <head>
+      <charseq START="1424" END="1429">لوسيرن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="21-51" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1431" END="1438">السويسري</charseq>
+    </extent>
+    <head>
+      <charseq START="1431" END="1438">السويسري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1508" END="1508">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1508" END="1508">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1510" END="1539">لجنة التحكيم في الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1510" END="1513">لجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="23-62" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="1696" END="1710">هيتشتل البلجيكي</charseq>
+    </extent>
+    <head>
+      <charseq START="1696" END="1701">هيتشتل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="24-63" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1703" END="1710">البلجيكي</charseq>
+    </extent>
+    <head>
+      <charseq START="1703" END="1710">البلجيكي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-67" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="1856" END="1869">نيورو الايطالي</charseq>
+    </extent>
+    <head>
+      <charseq START="1856" END="1860">نيورو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="26-68" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1862" END="1869">الايطالي</charseq>
+    </extent>
+    <head>
+      <charseq START="1862" END="1869">الايطالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-72" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1924" END="1980">الايطالية مانويلا كاديو التي انهت السباق بزمن 18ر12 ثانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1924" END="1932">الايطالية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-73" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1934" END="1946">مانويلا كاديو</charseq>
+    </extent>
+    <head>
+      <charseq START="1934" END="1946">مانويلا كاديو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-74" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1948" END="1951">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1948" END="1951">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1956" END="1956">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1956" END="1956">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1934" END="1946">مانويلا كاديو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="28-79" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="2024" END="2029">زيوريخ</charseq>
+    </extent>
+    <head>
+      <charseq START="2024" END="2029">زيوريخ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-85" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2095" END="2105">ماريون جونز</charseq>
+    </extent>
+    <head>
+      <charseq START="2095" END="2105">ماريون جونز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2095" END="2105">ماريون جونز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-86" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2108" END="2117">اينغر
+ميلر</charseq>
+    </extent>
+    <head>
+      <charseq START="2108" END="2117">اينغر
+ميلر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2108" END="2117">اينغر
+ميلر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E32" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="32-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2120" END="2163">بطلتي العالم في سباقي 100 و200 م على التوالي</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2124">بطلتي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="33-89" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="113" END="117">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="117">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="113" END="117">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="576" END="576">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="576">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="679" END="679">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="679">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="757" END="758">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="758">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="932" END="936">لاوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="932" END="936">لاوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1072" END="1075">اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1072" END="1075">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1320" END="1323">اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1320" END="1323">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1361" END="1362">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1361" END="1362">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-49" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1410" END="1410">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1410" END="1410">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1444" END="1445">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1444" END="1445">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1450" END="1450">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1450" END="1450">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1463" END="1464">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1463" END="1464">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-55" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1470" END="1470">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="1470" END="1470">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-59" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1541" END="1544">اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1541" END="1544">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1617" END="1618">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1617" END="1618">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1666" END="1667">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1666" END="1667">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1720" END="1720">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1720" END="1720">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-65" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1801" END="1805">لاوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1801" END="1805">لاوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1816" END="1817">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1816" END="1817">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-69" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1878" END="1878">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1878" END="1878">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-70" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1895" END="1895">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1895" END="1895">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-71" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1918" END="1918">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="1918" END="1918">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-76" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1989" END="1989">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1989" END="1989">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1991" END="1994">اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1991" END="1994">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1999" END="2000">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1999" END="2000">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-80" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2060" END="2060">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="2060" END="2060">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-81" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2071" END="2071">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2071" END="2071">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-82" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2077" END="2077">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="2077" END="2077">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-91" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="125" END="125">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="125">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-92" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="127" END="144">العداءة الجامايكية</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="133">العداءة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-94" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="146" END="155">مرلين اوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="155">مرلين اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-95" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="173">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="173">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="262" END="262">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="262">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-101" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="292">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="292">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="294" END="306">اوتي (40 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="297">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-103" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="386" END="387">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="387">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="434" END="435">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="435">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-106" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="437" END="442">كعداءة</charseq>
+    </extent>
+    <head>
+      <charseq START="437" END="442">كعداءة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-107" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="467" END="468">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="468">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-108" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="495" END="538">اوتي الحائزة 34 ميدالية في الالعاب الاولمبية</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="498">اوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-109" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="506" END="506">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="506">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="932" END="936">لاوتي</charseq>
+    </name>
+    <name>
+      <charseq START="1072" END="1075">اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="1320" END="1323">اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="1541" END="1544">اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="1801" END="1805">لاوتي</charseq>
+    </name>
+    <name>
+      <charseq START="1991" END="1994">اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="146" END="155">مرلين اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="294" END="297">اوتي</charseq>
+    </name>
+    <name>
+      <charseq START="495" END="498">اوتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="35-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="621" END="629">الجامايكي</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="629">الجامايكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-12" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="711" END="719">الجامايكي</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="719">الجامايكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-93" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="135" END="144">الجامايكية</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="144">الجامايكية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="37-97" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="229" END="246">العاصمة السلوفينية</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="235">العاصمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="38-98" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="237" END="246">السلوفينية</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="246">السلوفينية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0027.arb-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="40-6" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="635" END="648">اولمبياد سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="648">سيدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="763" END="767">سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="763" END="767">سيدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="970" END="974">سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="974">سيدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-104" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="401" END="405">سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="405">سيدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="763" END="767">سيدني</charseq>
+    </name>
+    <name>
+      <charseq START="970" END="974">سيدني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000815_AFP_ARB.0027.arb-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E35" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="127" END="144">العداءة الجامايكية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-92" ARGNUM="1">
+      <extent>
+        <charseq START="127" END="144">العداءة الجامايكية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-93" ARGNUM="2">
+      <extent>
+        <charseq START="135" END="144">الجامايكية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E38" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="229" END="246">العاصمة السلوفينية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-97" ARGNUM="1">
+      <extent>
+        <charseq START="229" END="246">العاصمة السلوفينية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-98" ARGNUM="2">
+      <extent>
+        <charseq START="237" END="246">السلوفينية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E35" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="613" END="648">المنتخب
+الجامايكي الى اولمبياد سيدني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="613" END="648">المنتخب
+الجامايكي الى اولمبياد سيدني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-5" ARGNUM="2">
+      <extent>
+        <charseq START="621" END="629">الجامايكي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E5" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="698" END="719">رئيس الاتحاد الجامايكي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-10" ARGNUM="1">
+      <extent>
+        <charseq START="698" END="719">رئيس الاتحاد الجامايكي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="719">الاتحاد الجامايكي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E35" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="703" END="719">الاتحاد الجامايكي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="1">
+      <extent>
+        <charseq START="703" END="719">الاتحاد الجامايكي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-12" ARGNUM="2">
+      <extent>
+        <charseq START="711" END="719">الجامايكي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R6" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E7" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1019" END="1040">مدربها رايموند ستيوارت</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-33" ARGNUM="1">
+      <extent>
+        <charseq START="1019" END="1040">مدربها رايموند ستيوارت</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-32" ARGNUM="2">
+      <extent>
+        <charseq START="1023" END="1024">ها</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R7" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E34" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1067" END="1075">مدرب اوتي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-37" ARGNUM="1">
+      <extent>
+        <charseq START="1067" END="1075">مدرب اوتي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-38" ARGNUM="2">
+      <extent>
+        <charseq START="1072" END="1075">اوتي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E15" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1196" END="1211">المنتخب الاميركي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-42" ARGNUM="1">
+      <extent>
+        <charseq START="1196" END="1211">المنتخب الاميركي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-43" ARGNUM="2">
+      <extent>
+        <charseq START="1204" END="1211">الاميركي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E21" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1424" END="1438">لوسيرن
+السويسري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-50" ARGNUM="1">
+      <extent>
+        <charseq START="1424" END="1438">لوسيرن
+السويسري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-51" ARGNUM="2">
+      <extent>
+        <charseq START="1431" END="1438">السويسري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R10" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E19" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1510" END="1539">لجنة التحكيم في الاتحاد الدولي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-57" ARGNUM="1">
+      <extent>
+        <charseq START="1510" END="1539">لجنة التحكيم في الاتحاد الدولي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-58" ARGNUM="2">
+      <extent>
+        <charseq START="1526" END="1539">الاتحاد الدولي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E24" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1696" END="1710">هيتشتل البلجيكي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-62" ARGNUM="1">
+      <extent>
+        <charseq START="1696" END="1710">هيتشتل البلجيكي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-63" ARGNUM="2">
+      <extent>
+        <charseq START="1703" END="1710">البلجيكي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E26" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1856" END="1869">نيورو الايطالي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-67" ARGNUM="1">
+      <extent>
+        <charseq START="1856" END="1869">نيورو الايطالي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-68" ARGNUM="2">
+      <extent>
+        <charseq START="1862" END="1869">الايطالي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R13" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E26" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1924" END="1980">الايطالية مانويلا كاديو التي انهت السباق بزمن 18ر12 ثانية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-73" ARGNUM="1">
+      <extent>
+        <charseq START="1934" END="1946">مانويلا كاديو</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-72" ARGNUM="2">
+      <extent>
+        <charseq START="1924" END="1980">الايطالية مانويلا كاديو التي انهت السباق بزمن 18ر12 ثانية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R14" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E15" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2083" END="2117">الاميركيتين ماريون جونز واينغر
+ميلر</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-85" ARGNUM="1">
+      <extent>
+        <charseq START="2095" END="2105">ماريون جونز</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-83" ARGNUM="2">
+      <extent>
+        <charseq START="2083" END="2117">الاميركيتين ماريون جونز واينغر
+ميلر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0027.arb-R15" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0027.arb-E15" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2083" END="2117">الاميركيتين ماريون جونز واينغر
+ميلر</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-86" ARGNUM="1">
+      <extent>
+        <charseq START="2108" END="2117">اينغر
+ميلر</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-83" ARGNUM="2">
+      <extent>
+        <charseq START="2083" END="2117">الاميركيتين ماريون جونز واينغر
+ميلر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

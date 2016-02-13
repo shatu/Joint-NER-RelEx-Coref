@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001101.2100.3077.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001101.2100.3077">
+<entity ID="VOA20001101.2100.3077-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="80" END="89">Amazon.com</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="89">Amazon.com</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="92" END="121">the leading US online retailer</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="121">retailer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="194" END="199">Amazon</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="199">Amazon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="210" END="212">its</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="212">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="315" END="320">Amazon</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="320">Amazon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="340">its</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="340">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="384" END="389">Amazon</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="389">Amazon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="423" END="425">its</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="425">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="384" END="389">Amazon</charseq>
+    </name>
+    <name>
+      <charseq START="80" END="89">Amazon.com</charseq>
+    </name>
+    <name>
+      <charseq START="194" END="199">Amazon</charseq>
+    </name>
+    <name>
+      <charseq START="315" END="320">Amazon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.3077-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="104" END="105">US</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="105">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="449" END="465">the United
+States</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="465">United
+States</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="453" END="465">United
+States</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.3077-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="147" END="151">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="151">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="147" END="151">Japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.3077-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="468" END="484">Elaine Johanneson</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="484">Elaine Johanneson</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="468" END="484">Elaine Johanneson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.3077-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="487" END="494">VOA news</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="494">VOA news</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="487" END="494">VOA news</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.3077-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="497" END="504">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="504">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="497" END="504">New York</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VOA20001101.2100.3077-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="92" END="121">the leading US online retailer</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="92" END="121">the leading US online retailer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="104" END="105">US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.3077-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E7" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="468" END="504">Elaine Johanneson, VOA news, New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="468" END="484">Elaine Johanneson</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-14" ARGNUM="2">
+      <extent>
+        <charseq START="487" END="494">VOA news</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.3077-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.3077-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="468" END="504">Elaine Johanneson, VOA news, New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="468" END="484">Elaine Johanneson</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="2">
+      <extent>
+        <charseq START="497" END="504">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

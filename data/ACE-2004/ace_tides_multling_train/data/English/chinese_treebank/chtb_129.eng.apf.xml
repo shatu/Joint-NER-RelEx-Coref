@@ -1,0 +1,2312 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_129.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_129.eng">
+<entity ID="chtb_129.eng-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1091" END="1096">Dupont</charseq>
+    </extent>
+    <head>
+      <charseq START="1091" END="1096">Dupont</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1091" END="1096">Dupont</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1099" END="1100">HP</charseq>
+    </extent>
+    <head>
+      <charseq START="1099" END="1100">HP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1099" END="1100">HP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1103" END="1109">Siemens</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1109">Siemens</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1103" END="1109">Siemens</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1112" END="1120">Panasonic</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1120">Panasonic</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1112" END="1120">Panasonic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1123" END="1128">Daewoo</charseq>
+    </extent>
+    <head>
+      <charseq START="1123" END="1128">Daewoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1123" END="1128">Daewoo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1207" END="1232">America's Chevron and Eton</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1232">Chevron and Eton</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1235" END="1290">France's
+Elf, Shenggeban and the French Electric Company</charseq>
+    </extent>
+    <head>
+      <charseq START="1244" END="1290">Elf, Shenggeban and the French Electric Company</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1235" END="1240">France</charseq>
+    </extent>
+    <head>
+      <charseq START="1235" END="1240">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1235" END="1240">France</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1293" END="1309">Germany's Deutsch</charseq>
+    </extent>
+    <head>
+      <charseq START="1303" END="1309">Deutsch</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3342" END="3358">Germany's
+Deutsch</charseq>
+    </extent>
+    <head>
+      <charseq START="3352" END="3358">Deutsch</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1303" END="1309">Deutsch</charseq>
+    </name>
+    <name>
+      <charseq START="3352" END="3358">Deutsch</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1293" END="1299">Germany</charseq>
+    </extent>
+    <head>
+      <charseq START="1293" END="1299">Germany</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-64" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3342" END="3348">Germany</charseq>
+    </extent>
+    <head>
+      <charseq START="3342" END="3348">Germany</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1293" END="1299">Germany</charseq>
+    </name>
+    <name>
+      <charseq START="3342" END="3348">Germany</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1312" END="1334">UK's Imperial Chemicals</charseq>
+    </extent>
+    <head>
+      <charseq START="1317" END="1334">Imperial Chemicals</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3361" END="3387">the UK's Imperial Chemicals</charseq>
+    </extent>
+    <head>
+      <charseq START="3370" END="3387">Imperial Chemicals</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1317" END="1334">Imperial Chemicals</charseq>
+    </name>
+    <name>
+      <charseq START="3370" END="3387">Imperial Chemicals</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1312" END="1313">UK</charseq>
+    </extent>
+    <head>
+      <charseq START="1312" END="1313">UK</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-66" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3361" END="3366">the UK</charseq>
+    </extent>
+    <head>
+      <charseq START="3365" END="3366">UK</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1312" END="1313">UK</charseq>
+    </name>
+    <name>
+      <charseq START="3365" END="3366">UK</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-22" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1508" END="1509">26</charseq>
+    </extent>
+    <head>
+      <charseq START="1508" END="1509">26</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-23" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1523" END="1546">the top
+100 in the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1531" END="1533">100</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E15" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="15-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1538" END="1546">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1542" END="1546">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1776" END="1787">Qingdao Beer</charseq>
+    </extent>
+    <head>
+      <charseq START="1776" END="1787">Qingdao Beer</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1776" END="1787">Qingdao Beer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1793" END="1808">Shandong Huaneng</charseq>
+    </extent>
+    <head>
+      <charseq START="1793" END="1808">Shandong Huaneng</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1793" END="1808">Shandong Huaneng</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1869" END="1877">Hong Kong</charseq>
+    </extent>
+    <head>
+      <charseq START="1869" END="1877">Hong Kong</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1869" END="1877">Hong Kong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="19-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1207" END="1213">America</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1213">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1883" END="1888">the US</charseq>
+    </extent>
+    <head>
+      <charseq START="1887" END="1888">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-42" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2177" END="2178">US</charseq>
+    </extent>
+    <head>
+      <charseq START="2177" END="2178">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-45" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2348" END="2349">US</charseq>
+    </extent>
+    <head>
+      <charseq START="2348" END="2349">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-49" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2681" END="2682">US</charseq>
+    </extent>
+    <head>
+      <charseq START="2681" END="2682">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2711" END="2712">US</charseq>
+    </extent>
+    <head>
+      <charseq START="2711" END="2712">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-57" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3059" END="3060">US</charseq>
+    </extent>
+    <head>
+      <charseq START="3059" END="3060">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-58" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3090" END="3091">US</charseq>
+    </extent>
+    <head>
+      <charseq START="3090" END="3091">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-62" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3327" END="3332">the US</charseq>
+    </extent>
+    <head>
+      <charseq START="3331" END="3332">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-79" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4194" END="4195">US</charseq>
+    </extent>
+    <head>
+      <charseq START="4194" END="4195">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-82" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4425" END="4426">US</charseq>
+    </extent>
+    <head>
+      <charseq START="4425" END="4426">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-83" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4522" END="4523">US</charseq>
+    </extent>
+    <head>
+      <charseq START="4522" END="4523">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-87" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4852" END="4853">US</charseq>
+    </extent>
+    <head>
+      <charseq START="4852" END="4853">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-88" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4966" END="4967">US</charseq>
+    </extent>
+    <head>
+      <charseq START="4966" END="4967">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-108" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="604" END="605">US</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="605">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-110" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="761" END="762">US</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="762">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1207" END="1213">America</charseq>
+    </name>
+    <name>
+      <charseq START="1887" END="1888">US</charseq>
+    </name>
+    <name>
+      <charseq START="3331" END="3332">US</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1923" END="1931">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1942" END="1985">Shandong's Chenmin Paper
+Manufacturing Group</charseq>
+    </extent>
+    <head>
+      <charseq START="1953" END="1985">Chenmin Paper
+Manufacturing Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1953" END="1985">Chenmin Paper
+Manufacturing Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="22-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1988" END="2007">Jinan's Qingqi Group</charseq>
+    </extent>
+    <head>
+      <charseq START="1996" END="2007">Qingqi Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1996" END="2007">Qingqi Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2010" END="2031">Yantai's Zhangyu Group</charseq>
+    </extent>
+    <head>
+      <charseq START="2019" END="2031">Zhangyu Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2019" END="2031">Zhangyu Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="24-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="108" END="125">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="125">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="108" END="125">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2010" END="2015">Yantai</charseq>
+    </extent>
+    <head>
+      <charseq START="2010" END="2015">Yantai</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2010" END="2015">Yantai</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2034" END="2056">Xinhua's Pharmacy Group</charseq>
+    </extent>
+    <head>
+      <charseq START="2043" END="2056">Pharmacy Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2043" END="2056">Pharmacy Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="27-39" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2034" END="2039">Xinhua</charseq>
+    </extent>
+    <head>
+      <charseq START="2034" END="2039">Xinhua</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2034" END="2039">Xinhua</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="28-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2062" END="2082">Lutai's Textile Group</charseq>
+    </extent>
+    <head>
+      <charseq START="2070" END="2082">Textile Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2070" END="2082">Textile Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="29-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2062" END="2066">Lutai</charseq>
+    </extent>
+    <head>
+      <charseq START="2062" END="2066">Lutai</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2062" END="2066">Lutai</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="30-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2234" END="2271">seven enterprises in Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="2240" END="2250">enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2548" END="2593">Shandong's China Power Generation Company,
+Ltd</charseq>
+    </extent>
+    <head>
+      <charseq START="2559" END="2593">China Power Generation Company,
+Ltd</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2559" END="2593">China Power Generation Company,
+Ltd</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="32-48" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2605" END="2613">the State</charseq>
+    </extent>
+    <head>
+      <charseq START="2609" END="2613">State</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-89" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="5076" END="5085">the nation</charseq>
+    </extent>
+    <head>
+      <charseq START="5080" END="5085">nation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-91" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="5128" END="5132">China</charseq>
+    </extent>
+    <head>
+      <charseq START="5128" END="5132">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="5128" END="5132">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="33-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2912" END="2979">Australia's Southern Australia - Shandong
+Stock-holding Company, Ltd</charseq>
+    </extent>
+    <head>
+      <charseq START="2924" END="2979">Southern Australia - Shandong
+Stock-holding Company, Ltd</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2924" END="2979">Southern Australia - Shandong
+Stock-holding Company, Ltd</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="34-53" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2912" END="2920">Australia</charseq>
+    </extent>
+    <head>
+      <charseq START="2912" END="2920">Australia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2912" END="2920">Australia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E35" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="35-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2985" END="3013">the Yellow River delta region</charseq>
+    </extent>
+    <head>
+      <charseq START="3008" END="3013">region</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E36" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="36-55" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2989" END="3000">Yellow River</charseq>
+    </extent>
+    <head>
+      <charseq START="2989" END="3000">Yellow River</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E37" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="37-56" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2989" END="3006">Yellow River delta</charseq>
+    </extent>
+    <head>
+      <charseq START="3002" END="3006">delta</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="38-61" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3327" END="3339">the US's Eton</charseq>
+    </extent>
+    <head>
+      <charseq START="3336" END="3339">Eton</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3336" END="3339">Eton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E39" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="39-68" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3596" END="3605">expressway</charseq>
+    </extent>
+    <head>
+      <charseq START="3596" END="3605">expressway</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E40" TYPE="LOC" SUBTYPE="Region-International" CLASS="USP">
+  <entity_mention ID="40-70" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3762" END="3769">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="3762" END="3769">overseas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E41" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="41-71" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3708" END="3715">merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="3708" END="3715">merchant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E42" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="42-72" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3876" END="3908">The economic development district</charseq>
+    </extent>
+    <head>
+      <charseq START="3901" END="3908">district</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-73" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3921" END="3972">a hotspot for attracting
+foreign merchant investment</charseq>
+    </extent>
+    <head>
+      <charseq START="3923" END="3929">hotspot</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-81" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="4379" END="4390">the
+district</charseq>
+    </extent>
+    <head>
+      <charseq START="4383" END="4390">district</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-85" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="4682" END="4714">the economic
+development district</charseq>
+    </extent>
+    <head>
+      <charseq START="4707" END="4714">district</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E44" TYPE="PER" CLASS="USP">
+  <entity_mention ID="44-75" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3946" END="3961">foreign merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="3954" END="3961">merchant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-109" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="694" END="710">foreign
+merchants</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="710">merchants</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-112" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="904" END="920">foreign merchants</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="920">merchants</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E45" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="45-76" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="3987" END="4044">Shandong's various types of economic development districts</charseq>
+    </extent>
+    <head>
+      <charseq START="4036" END="4044">districts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="46-80" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4360" END="4390">enterprises within the
+district</charseq>
+    </extent>
+    <head>
+      <charseq START="4360" END="4370">enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E47" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="47-90" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="5128" END="5168">China's main coastal provinces and cities</charseq>
+    </extent>
+    <head>
+      <charseq START="5149" END="5168">provinces and cities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E48" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="48-92" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="5141" END="5147">coastal</charseq>
+    </extent>
+    <head>
+      <charseq START="5141" END="5147">coastal</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E49" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="49-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1988" END="1992">Jinan</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1992">Jinan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="49-74" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="128" END="132">Jinan</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="132">Jinan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1988" END="1992">Jinan</charseq>
+    </name>
+    <name>
+      <charseq START="128" END="132">Jinan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E50" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="50-94" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="3647" END="3657">the outside</charseq>
+    </extent>
+    <head>
+      <charseq START="3651" END="3657">outside</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="51-95" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1337" END="1339">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1337" END="1339">etc</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3390" END="3392">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="3390" END="3392">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="52-96" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1131" END="1133">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1131" END="1133">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="53-97" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2085" END="2087">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="2085" END="2087">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E54" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="54-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="152" END="172">reporter Xueqing Dong</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="172">Xueqing Dong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-100" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="152" END="159">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="159">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="161" END="172">Xueqing Dong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E56" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="56-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="175" END="188">Mingquan Zhang</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="188">Mingquan Zhang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-103" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="262">vice director of Shandong Province's Foreign Economy
+and Trade Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="203">director</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="175" END="188">Mingquan Zhang</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E58" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="58-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1023" END="1030">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1023" END="1030">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1161" END="1168">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1168">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1365" END="1372">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1365" END="1372">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1464" END="1471">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1464" END="1471">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1720" END="1727">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1720" END="1727">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1942" END="1949">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1942" END="1949">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2255" END="2271">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="2255" END="2271">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2548" END="2555">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="2548" END="2555">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-51" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2769" END="2785">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="2769" END="2785">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-59" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3148" END="3155">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="3148" END="3155">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3522" END="3538">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="3522" END="3538">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-69" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3847" END="3854">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="3847" END="3854">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-77" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3987" END="3994">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="3987" END="3994">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-78" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="4155" END="4173">the entire province</charseq>
+    </extent>
+    <head>
+      <charseq START="4166" END="4173">province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-84" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="4657" END="4664">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="4657" END="4664">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-86" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="4808" END="4824">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="4808" END="4824">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-104" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="208" END="224">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="224">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-106" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="309" END="316">Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="316">Shandong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="58-107" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="506" END="522">Shandong Province</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="522">Shandong Province</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1161" END="1168">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="1365" END="1372">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="1464" END="1471">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="1720" END="1727">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="1942" END="1949">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="2255" END="2271">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="2548" END="2555">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="2769" END="2785">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="3148" END="3155">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="3522" END="3538">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="3847" END="3854">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="3987" END="3994">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="4657" END="4664">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="4808" END="4824">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="208" END="224">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="309" END="316">Shandong</charseq>
+    </name>
+    <name>
+      <charseq START="506" END="522">Shandong Province</charseq>
+    </name>
+    <name>
+      <charseq START="1023" END="1030">Shandong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E59" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="59-105" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="228" END="262">Foreign Economy
+and Trade Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="262">Foreign Economy
+and Trade Committee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="228" END="262">Foreign Economy
+and Trade Committee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_129.eng-E62" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="62-111" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="856" END="920">recently approved enterprises to be invested by
+foreign merchants</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="884">enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_129.eng-E63" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="63-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1086">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1197">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-20" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1420" END="1471">multinational companies coming to invest in
+Shandong</charseq>
+    </extent>
+    <head>
+      <charseq START="1434" END="1442">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1550" END="1578">These multinational companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1570" END="1578">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-60" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="3309" END="3317">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-93" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3395" END="3397">all</charseq>
+    </extent>
+    <head>
+      <charseq START="3395" END="3397">all</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-113" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="986" END="1008">multinational companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1008">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_129.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E54" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E49" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="108" END="172">Xinhua News Agency, Jinan, January 18th, by reporter Xueqing Dong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="54-99" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="172">reporter Xueqing Dong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-74" ARGNUM="2">
+      <extent>
+        <charseq START="128" END="132">Jinan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E56" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E59" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="191" END="262">vice director of Shandong Province's Foreign Economy
+and Trade Committee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="56-103" ARGNUM="1">
+      <extent>
+        <charseq START="191" END="262">vice director of Shandong Province's Foreign Economy
+and Trade Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="59-105" ARGNUM="2">
+      <extent>
+        <charseq START="228" END="262">Foreign Economy
+and Trade Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R3" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E44" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E62" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="856" END="920">recently approved enterprises to be invested by
+foreign merchants</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-112" ARGNUM="1">
+      <extent>
+        <charseq START="904" END="920">foreign merchants</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="62-111" ARGNUM="2">
+      <extent>
+        <charseq START="856" END="920">recently approved enterprises to be invested by
+foreign merchants</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-4" ARGNUM="1">
+      <extent>
+        <charseq START="1091" END="1096">Dupont</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="1099" END="1100">HP</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R6" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E14" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1508" END="1546">26 were ranked the top
+100 in the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="1">
+      <extent>
+        <charseq START="1508" END="1509">26</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-23" ARGNUM="2">
+      <extent>
+        <charseq START="1523" END="1546">the top
+100 in the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R7" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E58" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1942" END="1985">Shandong's Chenmin Paper
+Manufacturing Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-32" ARGNUM="1">
+      <extent>
+        <charseq START="1942" END="1985">Shandong's Chenmin Paper
+Manufacturing Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-33" ARGNUM="2">
+      <extent>
+        <charseq START="1942" END="1949">Shandong</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E49" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1988" END="2007">Jinan's Qingqi Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-34" ARGNUM="1">
+      <extent>
+        <charseq START="1988" END="2007">Jinan's Qingqi Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-35" ARGNUM="2">
+      <extent>
+        <charseq START="1988" END="1992">Jinan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E25" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2010" END="2031">Yantai's Zhangyu Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-36" ARGNUM="1">
+      <extent>
+        <charseq START="2010" END="2031">Yantai's Zhangyu Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-37" ARGNUM="2">
+      <extent>
+        <charseq START="2010" END="2015">Yantai</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E27" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2034" END="2056">Xinhua's Pharmacy Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-38" ARGNUM="1">
+      <extent>
+        <charseq START="2034" END="2056">Xinhua's Pharmacy Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-39" ARGNUM="2">
+      <extent>
+        <charseq START="2034" END="2039">Xinhua</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E29" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2062" END="2082">Lutai's Textile Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-40" ARGNUM="1">
+      <extent>
+        <charseq START="2062" END="2082">Lutai's Textile Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-41" ARGNUM="2">
+      <extent>
+        <charseq START="2062" END="2066">Lutai</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E58" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2234" END="2271">seven enterprises in Shandong Province</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-43" ARGNUM="1">
+      <extent>
+        <charseq START="2234" END="2271">seven enterprises in Shandong Province</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-44" ARGNUM="2">
+      <extent>
+        <charseq START="2255" END="2271">Shandong Province</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R13" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E58" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2548" END="2593">Shandong's China Power Generation Company,
+Ltd</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-46" ARGNUM="1">
+      <extent>
+        <charseq START="2548" END="2593">Shandong's China Power Generation Company,
+Ltd</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-47" ARGNUM="2">
+      <extent>
+        <charseq START="2548" END="2555">Shandong</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R14" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E34" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2912" END="2979">Australia's Southern Australia - Shandong
+Stock-holding Company, Ltd</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-52" ARGNUM="1">
+      <extent>
+        <charseq START="2912" END="2979">Australia's Southern Australia - Shandong
+Stock-holding Company, Ltd</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-53" ARGNUM="2">
+      <extent>
+        <charseq START="2912" END="2920">Australia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R15" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E19" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3327" END="3339">the US's Eton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-61" ARGNUM="1">
+      <extent>
+        <charseq START="3327" END="3339">the US's Eton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-62" ARGNUM="2">
+      <extent>
+        <charseq START="3327" END="3332">the US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R16" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E10" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3342" END="3358">Germany's
+Deutsch</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-63" ARGNUM="1">
+      <extent>
+        <charseq START="3342" END="3358">Germany's
+Deutsch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-64" ARGNUM="2">
+      <extent>
+        <charseq START="3342" END="3348">Germany</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="16-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1293" END="1309">Germany's Deutsch</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="1293" END="1309">Germany's Deutsch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-16" ARGNUM="2">
+      <extent>
+        <charseq START="1293" END="1299">Germany</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R17" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E12" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3361" END="3387">the UK's Imperial Chemicals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-65" ARGNUM="1">
+      <extent>
+        <charseq START="3361" END="3387">the UK's Imperial Chemicals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-66" ARGNUM="2">
+      <extent>
+        <charseq START="3361" END="3366">the UK</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="17-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1312" END="1334">UK's Imperial Chemicals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="1">
+      <extent>
+        <charseq START="1312" END="1334">UK's Imperial Chemicals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="1312" END="1313">UK</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R18" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E46" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E42" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="4360" END="4390">enterprises within the
+district</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="46-80" ARGNUM="1">
+      <extent>
+        <charseq START="4360" END="4390">enterprises within the
+district</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-81" ARGNUM="2">
+      <extent>
+        <charseq START="4379" END="4390">the
+district</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R19" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E47" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E32" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="5128" END="5168">China's main coastal provinces and cities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="47-90" ARGNUM="1">
+      <extent>
+        <charseq START="5128" END="5168">China's main coastal provinces and cities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-91" ARGNUM="2">
+      <extent>
+        <charseq START="5128" END="5132">China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R20" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E59" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E58" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="208" END="262">Shandong Province's Foreign Economy
+and Trade Committee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="59-105" ARGNUM="1">
+      <extent>
+        <charseq START="228" END="262">Foreign Economy
+and Trade Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-104" ARGNUM="2">
+      <extent>
+        <charseq START="208" END="224">Shandong Province</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R21" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="1103" END="1109">Siemens</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R22" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="1112" END="1120">Panasonic</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R23" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="1123" END="1128">Daewoo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R24" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E52" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="52-96" ARGNUM="1">
+      <extent>
+        <charseq START="1131" END="1133">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-3" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1133">such multi-national companies as Dupont, HP, Siemens,
+Panasonic, Daewoo, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R25" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="1">
+      <extent>
+        <charseq START="1207" END="1232">America's Chevron and Eton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-10" ARGNUM="2">
+      <extent>
+        <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R26" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-13" ARGNUM="1">
+      <extent>
+        <charseq START="1235" END="1290">France's
+Elf, Shenggeban and the French Electric Company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-10" ARGNUM="2">
+      <extent>
+        <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R27" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="1293" END="1309">Germany's Deutsch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-10" ARGNUM="2">
+      <extent>
+        <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="27-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-63" ARGNUM="1">
+      <extent>
+        <charseq START="3342" END="3358">Germany's
+Deutsch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-60" ARGNUM="2">
+      <extent>
+        <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R28" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="28-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="1">
+      <extent>
+        <charseq START="1312" END="1334">UK's Imperial Chemicals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-10" ARGNUM="2">
+      <extent>
+        <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="28-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-65" ARGNUM="1">
+      <extent>
+        <charseq START="3361" END="3387">the UK's Imperial Chemicals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-60" ARGNUM="2">
+      <extent>
+        <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R29" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E51" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="51-95" ARGNUM="1">
+      <extent>
+        <charseq START="1337" END="1339">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-10" ARGNUM="2">
+      <extent>
+        <charseq START="1171" END="1339">ten
+multinational companies such as America's Chevron and Eton, France's
+Elf, Shenggeban and the French Electric Company, Germany's Deutsch,
+UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="29-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="51-98" ARGNUM="1">
+      <extent>
+        <charseq START="3390" END="3392">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-60" ARGNUM="2">
+      <extent>
+        <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R30" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E19" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1207" END="1232">America's Chevron and Eton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="1">
+      <extent>
+        <charseq START="1207" END="1232">America's Chevron and Eton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-12" ARGNUM="2">
+      <extent>
+        <charseq START="1207" END="1213">America</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R31" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E8" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1235" END="1290">France's
+Elf, Shenggeban and the French Electric Company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-13" ARGNUM="1">
+      <extent>
+        <charseq START="1235" END="1290">France's
+Elf, Shenggeban and the French Electric Company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="2">
+      <extent>
+        <charseq START="1235" END="1240">France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R34" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E14" ARGNUM="2" />
+  <relation_mention ID="34-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1508" END="1546">26 were ranked the top
+100 in the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="1">
+      <extent>
+        <charseq START="1508" END="1509">26</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-23" ARGNUM="2">
+      <extent>
+        <charseq START="1523" END="1546">the top
+100 in the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R35" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E15" ARGNUM="2" />
+  <relation_mention ID="35-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1523" END="1546">the top
+100 in the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-23" ARGNUM="1">
+      <extent>
+        <charseq START="1523" END="1546">the top
+100 in the world</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-24" ARGNUM="2">
+      <extent>
+        <charseq START="1538" END="1546">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R36" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="36-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-32" ARGNUM="1">
+      <extent>
+        <charseq START="1942" END="1985">Shandong's Chenmin Paper
+Manufacturing Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R37" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="37-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-34" ARGNUM="1">
+      <extent>
+        <charseq START="1988" END="2007">Jinan's Qingqi Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R38" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="38-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-36" ARGNUM="1">
+      <extent>
+        <charseq START="2010" END="2031">Yantai's Zhangyu Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R39" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="39-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-38" ARGNUM="1">
+      <extent>
+        <charseq START="2034" END="2056">Xinhua's Pharmacy Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R40" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="40-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-40" ARGNUM="1">
+      <extent>
+        <charseq START="2062" END="2082">Lutai's Textile Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R41" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E53" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E20" ARGNUM="2" />
+  <relation_mention ID="41-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="53-97" ARGNUM="1">
+      <extent>
+        <charseq START="2085" END="2087">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="2">
+      <extent>
+        <charseq START="1902" END="2087">5
+more share-holding companies, such as Shandong's Chenmin Paper
+Manufacturing Group, Jinan's Qingqi Group, Yantai's Zhangyu Group,
+Xinhua's Pharmacy Group and Lutai's Textile Group, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R42" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E37" ARGNUM="2" />
+  <relation_mention ID="42-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2989" END="3006">Yellow River delta</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-55" ARGNUM="1">
+      <extent>
+        <charseq START="2989" END="3000">Yellow River</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-56" ARGNUM="2">
+      <extent>
+        <charseq START="2989" END="3006">Yellow River delta</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R43" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E35" ARGNUM="2" />
+  <relation_mention ID="43-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2985" END="3013">the Yellow River delta region</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-56" ARGNUM="1">
+      <extent>
+        <charseq START="2989" END="3006">Yellow River delta</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-54" ARGNUM="2">
+      <extent>
+        <charseq START="2985" END="3013">the Yellow River delta region</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R44" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E63" ARGNUM="2" />
+  <relation_mention ID="44-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-61" ARGNUM="1">
+      <extent>
+        <charseq START="3327" END="3339">the US's Eton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-60" ARGNUM="2">
+      <extent>
+        <charseq START="3282" END="3392">world famous multinational companies such as the US's Eton, Germany's
+Deutsch, the UK's Imperial Chemicals, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R48" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E45" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E58" ARGNUM="2" />
+  <relation_mention ID="48-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3987" END="4044">Shandong's various types of economic development districts</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-76" ARGNUM="1">
+      <extent>
+        <charseq START="3987" END="4044">Shandong's various types of economic development districts</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-77" ARGNUM="2">
+      <extent>
+        <charseq START="3987" END="3994">Shandong</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_129.eng-R49" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_129.eng-E54" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_129.eng-E24" ARGNUM="2" />
+  <relation_mention ID="49-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="108" END="172">Xinhua News Agency, Jinan, January 18th, by reporter Xueqing Dong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="54-99" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="172">reporter Xueqing Dong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-1" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="125">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

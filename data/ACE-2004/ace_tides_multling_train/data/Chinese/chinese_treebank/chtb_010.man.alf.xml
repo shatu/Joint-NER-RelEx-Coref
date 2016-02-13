@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_010.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_010.man">
+<composite_entity ID="chtb_010.man-CE1">
+  <entity ID="chtb_010.man-E1" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="1-5" TYPE="NOM">
+      <extent>
+        <charseq START="208" END="217">日本著
+名的评级机构</charseq>
+      </extent>
+      <head>
+        <charseq START="216" END="217">机构</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_010.man-E9" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="9-2" TYPE="APP">
+      <extent>
+        <charseq START="208" END="225">日本著
+名的评级机构日本公社债研究所</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="9-3" TYPE="NAM">
+      <extent>
+        <charseq START="218" END="225">日本公社债研究所</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="225">公社债研究所</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-12" TYPE="NAM">
+      <extent>
+        <charseq START="323" END="330">日本公社债研究所</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="330">公社债研究所</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-27" TYPE="NAM">
+      <extent>
+        <charseq START="125" END="132">日本公社债研究所</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="132">公社债研究所</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="325" END="330">公社债研究所</charseq>
+      </name>
+      <name>
+        <charseq START="127" END="132">公社债研究所</charseq>
+      </name>
+      <name>
+        <charseq START="220" END="225">公社债研究所</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE2">
+  <entity ID="chtb_010.man-E2" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="2-9" TYPE="NOM">
+      <extent>
+        <charseq START="259" END="260">国际</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="260">国际</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE3">
+  <entity ID="chtb_010.man-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="3-1" TYPE="NAM">
+      <extent>
+        <charseq START="61" END="63">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="63">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="61" END="63">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE4">
+  <entity ID="chtb_010.man-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-20" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="64" END="65">北京</charseq>
+      </extent>
+      <head>
+        <charseq START="64" END="65">北京</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="64" END="65">北京</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE5">
+  <entity ID="chtb_010.man-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NAM">
+      <extent>
+        <charseq START="238" END="242">进出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="242">进出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-11" TYPE="NAM">
+      <extent>
+        <charseq START="303" END="307">进出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="307">进出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-18" TYPE="NAM">
+      <extent>
+        <charseq START="392" END="399">中国进
+出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="399">进
+出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-21" TYPE="NAM">
+      <extent>
+        <charseq START="74" END="80">中国进出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="80">进出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-29" TYPE="NAM">
+      <extent>
+        <charseq START="135" END="141">中国进出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="141">进出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-33" TYPE="NAM">
+      <extent>
+        <charseq START="186" END="192">中国进出口银行</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="192">进出口银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="303" END="307">进出口银行</charseq>
+      </name>
+      <name>
+        <charseq START="394" END="399">进
+出口银行</charseq>
+      </name>
+      <name>
+        <charseq START="76" END="80">进出口银行</charseq>
+      </name>
+      <name>
+        <charseq START="137" END="141">进出口银行</charseq>
+      </name>
+      <name>
+        <charseq START="188" END="192">进出口银行</charseq>
+      </name>
+      <name>
+        <charseq START="238" END="242">进出口银行</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE6">
+  <entity ID="chtb_010.man-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="285" END="286">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="286">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="340" END="341">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="341">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="392" END="393">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="393">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-22" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="74" END="75">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="75">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-26" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="110" END="111">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="111">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="135" END="136">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="136">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="186" END="187">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="186" END="187">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="285" END="286">中国</charseq>
+      </name>
+      <name>
+        <charseq START="340" END="341">中国</charseq>
+      </name>
+      <name>
+        <charseq START="392" END="393">中国</charseq>
+      </name>
+      <name>
+        <charseq START="74" END="75">中国</charseq>
+      </name>
+      <name>
+        <charseq START="110" END="111">中国</charseq>
+      </name>
+      <name>
+        <charseq START="135" END="136">中国</charseq>
+      </name>
+      <name>
+        <charseq START="186" END="187">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE7">
+  <entity ID="chtb_010.man-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="218" END="219">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="219">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="208" END="209">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="209">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="247" END="248">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="248">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="323" END="324">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="324">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-23" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="84" END="85">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="85">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="100" END="101">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="101">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="125" END="126">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="126">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="156">日
+本</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="156">日
+本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="195" END="196">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="196">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="323" END="324">日本</charseq>
+      </name>
+      <name>
+        <charseq START="84" END="85">日本</charseq>
+      </name>
+      <name>
+        <charseq START="100" END="101">日本</charseq>
+      </name>
+      <name>
+        <charseq START="125" END="126">日本</charseq>
+      </name>
+      <name>
+        <charseq START="154" END="156">日
+本</charseq>
+      </name>
+      <name>
+        <charseq START="195" END="196">日本</charseq>
+      </name>
+      <name>
+        <charseq START="218" END="219">日本</charseq>
+      </name>
+      <name>
+        <charseq START="208" END="209">日本</charseq>
+      </name>
+      <name>
+        <charseq START="247" END="248">日本</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE8">
+  <entity ID="chtb_010.man-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-15" TYPE="NOM">
+      <extent>
+        <charseq START="352" END="353">银行</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="353">银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-16" TYPE="NOM">
+      <extent>
+        <charseq START="360" END="361">银行</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="361">银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="NOM">
+      <extent>
+        <charseq START="371" END="372">银行</charseq>
+      </extent>
+      <head>
+        <charseq START="371" END="372">银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-25" TYPE="NOM">
+      <extent>
+        <charseq START="110" END="113">中国银行</charseq>
+      </extent>
+      <head>
+        <charseq START="112" END="113">银行</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE9">
+  <entity ID="chtb_010.man-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="10-31" TYPE="NOM">
+      <extent>
+        <charseq START="154" END="160">日
+本评级机构</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="160">机构</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_010.man-CE10">
+  <entity ID="chtb_010.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-35" TYPE="NAM">
+      <extent>
+        <charseq START="195" END="202">日本野村证券公司</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="202">野村证券公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="197" END="202">野村证券公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_010.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="61" END="65">新华社北京</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E3" ENTITYMENTIONID="3-1" ARGNUM="1">
+      <extent>
+        <charseq START="61" END="63">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E4" ENTITYMENTIONID="4-20" ARGNUM="2">
+      <extent>
+        <charseq START="64" END="65">北京</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="74" END="80">中国进出口银行</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E5" ENTITYMENTIONID="5-21" ARGNUM="1">
+      <extent>
+        <charseq START="74" END="80">中国进出口银行</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E6" ENTITYMENTIONID="6-22" ARGNUM="2">
+      <extent>
+        <charseq START="74" END="75">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="135" END="141">中国进出口银行</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E5" ENTITYMENTIONID="5-29" ARGNUM="1">
+      <extent>
+        <charseq START="135" END="141">中国进出口银行</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E6" ENTITYMENTIONID="6-30" ARGNUM="2">
+      <extent>
+        <charseq START="135" END="136">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="186" END="192">中国进出口银行</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E5" ENTITYMENTIONID="5-33" ARGNUM="1">
+      <extent>
+        <charseq START="186" END="192">中国进出口银行</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E6" ENTITYMENTIONID="6-34" ARGNUM="2">
+      <extent>
+        <charseq START="186" END="187">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-4" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="392" END="399">中国进
+出口银行</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E5" ENTITYMENTIONID="5-18" ARGNUM="1">
+      <extent>
+        <charseq START="392" END="399">中国进
+出口银行</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E6" ENTITYMENTIONID="6-19" ARGNUM="2">
+      <extent>
+        <charseq START="392" END="393">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="110" END="113">中国银行</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E8" ENTITYMENTIONID="8-25" ARGNUM="1">
+      <extent>
+        <charseq START="110" END="113">中国银行</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E6" ENTITYMENTIONID="6-26" ARGNUM="2">
+      <extent>
+        <charseq START="110" END="111">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="125" END="132">日本公社债研究所</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E9" ENTITYMENTIONID="9-27" ARGNUM="1">
+      <extent>
+        <charseq START="125" END="132">日本公社债研究所</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-28" ARGNUM="2">
+      <extent>
+        <charseq START="125" END="126">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="4-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="218" END="225">日本公社债研究所</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E9" ENTITYMENTIONID="9-3" ARGNUM="1">
+      <extent>
+        <charseq START="218" END="225">日本公社债研究所</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-4" ARGNUM="2">
+      <extent>
+        <charseq START="218" END="219">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="4-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="323" END="330">日本公社债研究所</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E9" ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="323" END="330">日本公社债研究所</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-13" ARGNUM="2">
+      <extent>
+        <charseq START="323" END="324">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="154" END="160">日
+本评级机构</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E10" ENTITYMENTIONID="10-31" ARGNUM="1">
+      <extent>
+        <charseq START="154" END="160">日
+本评级机构</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-32" ARGNUM="2">
+      <extent>
+        <charseq START="154" END="156">日
+本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="195" END="202">日本野村证券公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E11" ENTITYMENTIONID="11-35" ARGNUM="1">
+      <extent>
+        <charseq START="195" END="202">日本野村证券公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-36" ARGNUM="2">
+      <extent>
+        <charseq START="195" END="196">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_010.man-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="208" END="217">日本著
+名的评级机构</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_010.man-E1" ENTITYMENTIONID="1-5" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="217">日本著
+名的评级机构</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_010.man-E7" ENTITYMENTIONID="7-6" ARGNUM="2">
+      <extent>
+        <charseq START="208" END="209">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0088.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0088.arb">
+<entity ID="20001015_AFP_ARB.0088.arb-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="340" END="368">رئيس الوزراء علي خليف
+قلاييده</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="343">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="353" END="368">علي خليف
+قلاييده</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="368">علي خليف
+قلاييده</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="353" END="368">علي خليف
+قلاييده</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-11" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="672" END="685">الشعب الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="676">الشعب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-17" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="784" END="790">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="784" END="790">العربية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-18" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="793" END="801">الاوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="801">الاوروبية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="813" END="845">صوماليي الشتات سيعودون الى البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="813" END="819">صوماليي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="833" END="834">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="834">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E8" TYPE="ORG" SUBTYPE="Government" CLASS="USP">
+  <entity_mention ID="8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="879" END="895">السلطات الصومالية</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="885">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="874">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="874">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E9" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="9-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="938" END="947">الميليشيات</charseq>
+    </extent>
+    <head>
+      <charseq START="938" END="947">الميليشيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="956" END="982">قوات جديدة من الجيش والشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="959">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="11-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="970" END="974">الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="974">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="977" END="982">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="977" END="982">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="101" END="106">مقديشو</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="106">مقديشو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="101" END="106">مقديشو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="115" END="118">أف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="118">أف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="115" END="118">أف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="515" END="522">صلات حسن</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="522">صلات حسن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="531" END="531">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="531">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="568" END="568">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="744" END="744">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="744" END="744">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="143" END="161">عبد القاسم صلات حسن</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="161">عبد القاسم صلات حسن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="127" END="141">الرئيس الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="132">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="265" END="265">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="265">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="298" END="312">الرئيس الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="303">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="335" END="335">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="335">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="515" END="522">صلات حسن</charseq>
+    </name>
+    <name>
+      <charseq START="143" END="161">عبد القاسم صلات حسن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="434" END="440">الصومال</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="440">الصومال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-5" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="467" END="489">بلد مزقته الحرب الاهلية</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="469">بلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-6" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="475" END="475">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="475">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-10" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="564" END="568">بلاده</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="567">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-12" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="678" END="685">الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="678" END="685">الصومالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-21" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="840" END="845">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="845">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="887" END="895">الصومالية</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="895">الصومالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="134" END="141">الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="141">الصومالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-40" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="261" END="265">بلاده</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="265">بلاده</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="280" END="286">الصومال</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="286">الصومال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-43" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="305" END="312">الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="312">الصومالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="280" END="286">الصومال</charseq>
+    </name>
+    <name>
+      <charseq START="434" END="440">الصومال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="18-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="778" END="801">الدول العربية والاوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="782">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-15" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="771" END="771">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="771" END="771">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="178" END="190">الدول المانحة</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="182">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="19-35" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="199" END="237">اعضاء الجامعة العربية والاتحاد الاوروبي</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="203">اعضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="21-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="205" END="219">الجامعة العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="219">الجامعة العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="205" END="219">الجامعة العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0088.arb-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="222" END="237">الاتحاد الاوروبي</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="237">الاتحاد الاوروبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="222" END="237">الاتحاد الاوروبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001015_AFP_ARB.0088.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E16" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="127" END="141">الرئيس الصومالي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-33" ARGNUM="1">
+      <extent>
+        <charseq START="127" END="141">الرئيس الصومالي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-30" ARGNUM="2">
+      <extent>
+        <charseq START="134" END="141">الصومالي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="298" END="312">الرئيس الصومالي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-42" ARGNUM="1">
+      <extent>
+        <charseq START="298" END="312">الرئيس الصومالي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-43" ARGNUM="2">
+      <extent>
+        <charseq START="305" END="312">الصومالي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0088.arb-R2" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E21" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="199" END="237">اعضاء الجامعة العربية والاتحاد الاوروبي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-35" ARGNUM="1">
+      <extent>
+        <charseq START="199" END="237">اعضاء الجامعة العربية والاتحاد الاوروبي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-37" ARGNUM="2">
+      <extent>
+        <charseq START="205" END="219">الجامعة العربية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0088.arb-R3" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E22" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="199" END="237">اعضاء الجامعة العربية والاتحاد الاوروبي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-35" ARGNUM="1">
+      <extent>
+        <charseq START="199" END="237">اعضاء الجامعة العربية والاتحاد الاوروبي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-38" ARGNUM="2">
+      <extent>
+        <charseq START="222" END="237">الاتحاد الاوروبي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0088.arb-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E16" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="879" END="895">السلطات الصومالية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-22" ARGNUM="1">
+      <extent>
+        <charseq START="879" END="895">السلطات الصومالية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-24" ARGNUM="2">
+      <extent>
+        <charseq START="887" END="895">الصومالية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0088.arb-R6" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E11" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="956" END="982">قوات جديدة من الجيش والشرطة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-26" ARGNUM="1">
+      <extent>
+        <charseq START="956" END="982">قوات جديدة من الجيش والشرطة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-27" ARGNUM="2">
+      <extent>
+        <charseq START="970" END="974">الجيش</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0088.arb-R7" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0088.arb-E12" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="956" END="982">قوات جديدة من الجيش والشرطة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-26" ARGNUM="1">
+      <extent>
+        <charseq START="956" END="982">قوات جديدة من الجيش والشرطة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-28" ARGNUM="2">
+      <extent>
+        <charseq START="977" END="982">الشرطة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

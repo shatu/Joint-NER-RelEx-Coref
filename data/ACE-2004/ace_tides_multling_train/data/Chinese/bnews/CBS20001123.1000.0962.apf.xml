@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CBS20001123.1000.0962.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CBS20001123.1000.0962">
+<entity ID="CBS20001123.1000.0962-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="223" END="229">15.5%的人</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="229">人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CBS20001123.1000.0962-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="255" END="260">阿拉古佳乔娃</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="260">阿拉古佳乔娃</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="244" END="254">俄罗斯最资深的歌唱天后</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="254">天后</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="255" END="260">阿拉古佳乔娃</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E4" TYPE="PER" CLASS="USP">
+  <entity_mention ID="4-7" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="274" END="276">15%</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="276">15%</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CBS20001123.1000.0962-E5" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="361">俄罗斯人</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">俄罗斯人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CBS20001123.1000.0962-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="440" END="442">叶利钦</charseq>
+    </extent>
+    <head>
+      <charseq START="440" END="442">叶利钦</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="427" END="436">俄罗斯国务会
+议中顾</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="436">中顾</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="437" END="439">前总统</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="439">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="440" END="442">叶利钦</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="9-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="427" END="434">俄罗斯国务会
+议</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="434">国务会
+议</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="430" END="434">国务会
+议</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="406" END="417">主张恢复强大俄罗斯的普京</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="417">普京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="469" END="470">普京</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="470">普京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="70" END="71">普京</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="71">普京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="65" END="69">俄罗斯总统</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="69">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="416" END="417">普京</charseq>
+    </name>
+    <name>
+      <charseq START="469" END="470">普京</charseq>
+    </name>
+    <name>
+      <charseq START="70" END="71">普京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="235" END="237">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="237">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="244" END="246">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="246">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="347" END="348">俄国</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="348">俄国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="412" END="414">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="414">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="427" END="429">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="429">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="473" END="478">强大俄
+罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="478">俄
+罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="93" END="95">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="93" END="95">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-36" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="157" END="159">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="159">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="177" END="179">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="179">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="347" END="348">俄国</charseq>
+    </name>
+    <name>
+      <charseq START="412" END="414">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="427" END="429">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="475" END="478">俄
+罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="93" END="95">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="157" END="159">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="177" END="179">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="235" END="237">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="244" END="246">俄罗斯</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E14" TYPE="PER" CLASS="USP">
+  <entity_mention ID="14-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="79" END="82">国务委员</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="82">委员</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CBS20001123.1000.0962-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="296">亚科夫列夫</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="296">亚科夫列夫</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="109" END="113">亚科夫列会</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="113">亚科夫列会</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="102" END="108">圣彼得堡市
+长</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="108">市
+长</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="116" END="118">召集人</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="118">召集人</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="292" END="296">亚科夫列夫</charseq>
+    </name>
+    <name>
+      <charseq START="109" END="113">亚科夫列会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="102" END="105">圣彼得堡</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="105">圣彼得堡</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="102" END="105">圣彼得堡</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="19-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="133" END="135">下议院</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="135">下议院</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CBS20001123.1000.0962-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="20-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="374" END="376">前苏联</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="376">苏联</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="447" END="449">前苏联</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="449">苏联</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="147" END="149">前苏联</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="149">苏联</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-40" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="215" END="217">前苏联</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="217">苏联</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="375" END="376">苏联</charseq>
+    </name>
+    <name>
+      <charseq START="448" END="449">苏联</charseq>
+    </name>
+    <name>
+      <charseq START="148" END="149">苏联</charseq>
+    </name>
+    <name>
+      <charseq START="216" END="217">苏联</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="21-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="177" END="185">俄罗斯全俄民意协会</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="185">全俄民意协会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="180" END="185">全俄民意协会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CBS20001123.1000.0962-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="204" END="210">49.9%的人</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="210">人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CBS20001123.1000.0962-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E13" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="65" END="69">俄罗斯总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-25" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="69">俄罗斯总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-26" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="67">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001123.1000.0962-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E17" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="102" END="108">圣彼得堡市
+长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-31" ARGNUM="1">
+      <extent>
+        <charseq START="102" END="108">圣彼得堡市
+长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-32" ARGNUM="2">
+      <extent>
+        <charseq START="102" END="105">圣彼得堡</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001123.1000.0962-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E13" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="177" END="185">俄罗斯全俄民意协会</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-37" ARGNUM="1">
+      <extent>
+        <charseq START="177" END="185">俄罗斯全俄民意协会</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-38" ARGNUM="2">
+      <extent>
+        <charseq START="177" END="179">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001123.1000.0962-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E13" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="244" END="254">俄罗斯最资深的歌唱天后</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="244" END="254">俄罗斯最资深的歌唱天后</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-6" ARGNUM="2">
+      <extent>
+        <charseq START="244" END="246">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001123.1000.0962-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E9" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="427" END="436">俄罗斯国务会
+议中顾</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-17" ARGNUM="1">
+      <extent>
+        <charseq START="427" END="436">俄罗斯国务会
+议中顾</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-18" ARGNUM="2">
+      <extent>
+        <charseq START="427" END="434">俄罗斯国务会
+议</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CBS20001123.1000.0962-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CBS20001123.1000.0962-E13" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="427" END="434">俄罗斯国务会
+议</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-18" ARGNUM="1">
+      <extent>
+        <charseq START="427" END="434">俄罗斯国务会
+议</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-19" ARGNUM="2">
+      <extent>
+        <charseq START="427" END="429">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

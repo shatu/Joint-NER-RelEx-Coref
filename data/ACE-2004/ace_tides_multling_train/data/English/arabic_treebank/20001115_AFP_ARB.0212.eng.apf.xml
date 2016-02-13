@@ -1,0 +1,717 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0212.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0212.eng">
+<entity ID="20001115_AFP_ARB.0212.eng-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="1-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="475" END="506">the Globalization Studies Center</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="506">Globalization Studies Center</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="479" END="506">Globalization Studies Center</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="576" END="735">the second top-ranking American diplomat in a few days to
+announce his intention of resigning at the end of President Bill
+Clinton's second term next January 20</charseq>
+    </extent>
+    <head>
+      <charseq START="608" END="615">diplomat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="943" END="948">Talbot</charseq>
+    </extent>
+    <head>
+      <charseq START="943" END="948">Talbot</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-16" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="971" END="1009">former correspondent with Time magazine</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="990">correspondent</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-18" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1026" END="1060">assistant to the Secretary of State</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1034">assistant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-20" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1086" END="1102">roving ambassador</charseq>
+    </extent>
+    <head>
+      <charseq START="1093" END="1102">ambassador</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="951" END="965">a Yale graduate</charseq>
+    </extent>
+    <head>
+      <charseq START="958" END="965">graduate</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-26" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1108" END="1153">special advisor on former Soviet
+Union Affairs</charseq>
+    </extent>
+    <head>
+      <charseq START="1116" END="1122">advisor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="123" END="136">Stewart Talbot</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="136">Stewart Talbot</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="139" END="176">America's Assistant Secretary of State</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="167">Secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-33" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="182" END="248">"second in
+charge" at the State Department after Madeleine Albright</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="188">second</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="566" END="571">Talbot</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="571">Talbot</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="457" END="462">Talbot</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="462">Talbot</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="123" END="136">Stewart Talbot</charseq>
+    </name>
+    <name>
+      <charseq START="566" END="571">Talbot</charseq>
+    </name>
+    <name>
+      <charseq START="457" END="462">Talbot</charseq>
+    </name>
+    <name>
+      <charseq START="943" END="948">Talbot</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="599" END="606">American</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="606">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="139" END="145">America</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="145">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="139" END="145">America</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="684" END="705">President Bill
+Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="705">Bill
+Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-23" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="684" END="692">President</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="692">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="694" END="705">Bill
+Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="778" END="788">Dennis Ross</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="788">Dennis Ross</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="816" END="817">he</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="817">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="842" END="844">his</charseq>
+    </extent>
+    <head>
+      <charseq START="842" END="844">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="740" END="775">The special envoy to the Middle East</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="756">envoy</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="778" END="788">Dennis Ross</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="7-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="548" END="561">the university</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="561">university</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-15" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="953" END="956">Yale</charseq>
+    </extent>
+    <head>
+      <charseq START="953" END="956">Yale</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="331" END="345">Yale University</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="345">Yale University</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="423" END="449">this prestigious university</charseq>
+    </extent>
+    <head>
+      <charseq START="440" END="449">university</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="331" END="345">Yale University</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="997" END="1009">Time magazine</charseq>
+    </extent>
+    <head>
+      <charseq START="997" END="1009">Time magazine</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="997" END="1009">Time magazine</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="643" END="645">his</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="645">his</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-27" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1127" END="1145">former Soviet
+Union</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1145">Soviet
+Union</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E17" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="17-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="761" END="775">the Middle East</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="775">Middle East</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="765" END="775">Middle East</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="869" END="874">family</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="874">family</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="21-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="172" END="176">State</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="176">State</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="204" END="223">the State Department</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="223">State Department</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="208" END="223">State Department</charseq>
+    </name>
+    <name>
+      <charseq START="172" END="176">State</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1039" END="1060">the Secretary of State</charseq>
+    </extent>
+    <head>
+      <charseq START="1043" END="1060">Secretary of State</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="231" END="248">Madeleine Albright</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="248">Madeleine Albright</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1043" END="1060">Secretary of State</charseq>
+    </name>
+    <name>
+      <charseq START="231" END="248">Madeleine Albright</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E23" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="23-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="890" END="915">the current administration</charseq>
+    </extent>
+    <head>
+      <charseq START="902" END="915">administration</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="278" END="295">the administration</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="295">administration</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E24" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="24-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="305" END="385">one of the departments at
+Yale University in the state of Connecticut (northeast)</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="326">departments</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E26" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="26-21" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="350" END="384">the state of Connecticut (northeast</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="358">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="363" END="373">Connecticut</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="373">Connecticut</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="363" END="373">Connecticut</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E27" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="27-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="376" END="384">northeast</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="384">northeast</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="376" END="384">northeast</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0212.eng-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="405" END="449">the Chancellor of this prestigious university</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="418">Chancellor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="390" END="402">Richard Levin</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="402">Richard Levin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="390" END="402">Richard Levin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001115_AFP_ARB.0212.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="139" END="176">America's Assistant Secretary of State</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-32" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="176">America's Assistant Secretary of State</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-34" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="145">America</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="576" END="735">the second top-ranking American diplomat in a few days to
+announce his intention of resigning at the end of President Bill
+Clinton's second term next January 20</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="576" END="735">the second top-ranking American diplomat in a few days to
+announce his intention of resigning at the end of President Bill
+Clinton's second term next January 20</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="599" END="606">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E21" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="139" END="176">America's Assistant Secretary of State</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-32" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="176">America's Assistant Secretary of State</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-12" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="176">State</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="182" END="248">"second in
+charge" at the State Department after Madeleine Albright</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-33" ARGNUM="1">
+      <extent>
+        <charseq START="182" END="248">"second in
+charge" at the State Department after Madeleine Albright</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-35" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="223">the State Department</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E21" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="182" END="248">"second in
+charge" at the State Department after Madeleine Albright</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-36" ARGNUM="1">
+      <extent>
+        <charseq START="231" END="248">Madeleine Albright</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-35" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="223">the State Department</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E7" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="305" END="385">one of the departments at
+Yale University in the state of Connecticut (northeast)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-38" ARGNUM="1">
+      <extent>
+        <charseq START="305" END="385">one of the departments at
+Yale University in the state of Connecticut (northeast)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-39" ARGNUM="2">
+      <extent>
+        <charseq START="331" END="345">Yale University</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E26" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="305" END="385">one of the departments at
+Yale University in the state of Connecticut (northeast)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-39" ARGNUM="1">
+      <extent>
+        <charseq START="331" END="345">Yale University</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-21" ARGNUM="2">
+      <extent>
+        <charseq START="350" END="384">the state of Connecticut (northeast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E27" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="350" END="384">the state of Connecticut (northeast</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-21" ARGNUM="1">
+      <extent>
+        <charseq START="350" END="384">the state of Connecticut (northeast</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-40" ARGNUM="2">
+      <extent>
+        <charseq START="376" END="384">northeast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E7" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="405" END="449">the Chancellor of this prestigious university</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-42" ARGNUM="1">
+      <extent>
+        <charseq START="405" END="449">the Chancellor of this prestigious university</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-45" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="449">this prestigious university</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R10" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E17" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="740" END="775">The special envoy to the Middle East</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-28" ARGNUM="1">
+      <extent>
+        <charseq START="740" END="775">The special envoy to the Middle East</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-29" ARGNUM="2">
+      <extent>
+        <charseq START="761" END="775">the Middle East</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R11" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E7" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="951" END="965">a Yale graduate</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-24" ARGNUM="1">
+      <extent>
+        <charseq START="951" END="965">a Yale graduate</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-15" ARGNUM="2">
+      <extent>
+        <charseq START="953" END="956">Yale</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E8" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="971" END="1009">former correspondent with Time magazine</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-16" ARGNUM="1">
+      <extent>
+        <charseq START="971" END="1009">former correspondent with Time magazine</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="2">
+      <extent>
+        <charseq START="997" END="1009">Time magazine</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0212.eng-R13" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0212.eng-E22" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1026" END="1060">assistant to the Secretary of State</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-18" ARGNUM="1">
+      <extent>
+        <charseq START="1026" END="1060">assistant to the Secretary of State</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-19" ARGNUM="2">
+      <extent>
+        <charseq START="1039" END="1060">the Secretary of State</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

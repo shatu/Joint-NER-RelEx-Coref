@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000915_AFP_ARB.0067.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000915_AFP_ARB.0067.eng">
+<entity ID="20000915_AFP_ARB.0067.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="395" END="405">22 hostages</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="405">hostages</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E2" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="410" END="433">the southern Philippines</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="433">Philippines</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="850" END="873">the southern Philippines</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="873">Philippines</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="863" END="873">Philippines</charseq>
+    </name>
+    <name>
+      <charseq START="423" END="433">Philippines</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="438" END="460">Spokesman Kenneth Bacon</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="460">Kenneth Bacon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="619" END="623">Bacon</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="623">Bacon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="712" END="724">The spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="724">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="619" END="623">Bacon</charseq>
+    </name>
+    <name>
+      <charseq START="448" END="460">Kenneth Bacon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="560" END="574">the
+Philippines</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="574">Philippines</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="186" END="195">Philippine</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="195">Philippine</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-36" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="313">his government</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="313">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="564" END="574">Philippines</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="636" END="638">you</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="638">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E6" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="774" END="793">Abu
+Sayyaf positions</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="793">positions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="774" END="783">Abu
+Sayyaf</charseq>
+    </extent>
+    <head>
+      <charseq START="774" END="783">Abu
+Sayyaf</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="8-16" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="875" END="879">where</charseq>
+    </extent>
+    <head>
+      <charseq START="875" END="879">where</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="828" END="910">the island of Jolo
+in the southern Philippines where rebels are holding 22 hostages</charseq>
+    </extent>
+    <head>
+      <charseq START="832" END="837">island</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="842" END="845">Jolo</charseq>
+    </extent>
+    <head>
+      <charseq START="842" END="845">Jolo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="842" END="845">Jolo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="881" END="886">rebels</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="886">rebels</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="900" END="910">22 hostages</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="910">hostages</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="336" END="343">military</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="343">military</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-20" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="596" END="603">military</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="603">military</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="108">Manila</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="108">Manila</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="287" END="292">Manila</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="292">Manila</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="287" END="292">Manila</charseq>
+    </name>
+    <name>
+      <charseq START="103" END="108">Manila</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="116" END="118">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="118">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="116" END="118">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="137" END="183">a spokesman for the American Defense department</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="147">spokesman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="153" END="183">the American Defense department</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="183">Defense department</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="166" END="183">Defense department</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="157" END="164">American</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="164">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="235" END="242">American</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="242">American</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="467" END="483">President Estrada</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="483">Estrada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="467" END="475">President</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="475">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="186" END="220">Philippine President Joseph Estrada</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="220">Joseph Estrada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-28" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="186" END="205">Philippine President</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="205">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="302">his</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="302">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="207" END="220">Joseph Estrada</charseq>
+    </name>
+    <name>
+      <charseq START="477" END="483">Estrada</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="495" END="526">the
+Secretary of Defense (Cohen)</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="525">Cohen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="495" END="518">the
+Secretary of Defense</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="518">Secretary of Defense</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="235" END="292">American Defense
+Secretary William Cohen, who is in Manila</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="274">William Cohen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-31" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="235" END="260">American Defense
+Secretary</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="260">Defense
+Secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-33" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="277" END="279">who</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="279">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="262" END="274">William Cohen</charseq>
+    </name>
+    <name>
+      <charseq START="521" END="525">Cohen</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-37" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="385">fundamentalists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0067.eng-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-38" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="363" END="369">Islamic</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="369">Islamic</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20000915_AFP_ARB.0067.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E15" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="137" END="183">a spokesman for the American Defense department</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-24" ARGNUM="1">
+      <extent>
+        <charseq START="137" END="183">a spokesman for the American Defense department</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-25" ARGNUM="2">
+      <extent>
+        <charseq START="153" END="183">the American Defense department</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E16" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="153" END="183">the American Defense department</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-25" ARGNUM="1">
+      <extent>
+        <charseq START="153" END="183">the American Defense department</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-26" ARGNUM="2">
+      <extent>
+        <charseq START="157" END="164">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R14" TYPE="METONYMY">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E22" ARGNUM="2" />
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E12" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="277" END="292">who is in Manila</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-33" ARGNUM="1">
+      <extent>
+        <charseq START="277" END="279">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-34" ARGNUM="2">
+      <extent>
+        <charseq START="287" END="292">Manila</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="300" END="313">his government</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-35" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="302">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-36" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="313">his government</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="186" END="205">Philippine President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-28" ARGNUM="1">
+      <extent>
+        <charseq START="186" END="205">Philippine President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-29" ARGNUM="2">
+      <extent>
+        <charseq START="186" END="195">Philippine</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R5" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E23" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-37" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-38" ARGNUM="2">
+      <extent>
+        <charseq START="363" END="369">Islamic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E2" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-37" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="410" END="433">the southern Philippines</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E2" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="363" END="433">Islamic fundamentalists
+holding 22 hostages in the southern Philippines</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="395" END="405">22 hostages</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="410" END="433">the southern Philippines</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E6" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="774" END="793">Abu
+Sayyaf positions</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-14" ARGNUM="1">
+      <extent>
+        <charseq START="774" END="783">Abu
+Sayyaf</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="2">
+      <extent>
+        <charseq START="774" END="793">Abu
+Sayyaf positions</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E2" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="828" END="910">the island of Jolo
+in the southern Philippines where rebels are holding 22 hostages</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-21" ARGNUM="1">
+      <extent>
+        <charseq START="828" END="910">the island of Jolo
+in the southern Philippines where rebels are holding 22 hostages</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-15" ARGNUM="2">
+      <extent>
+        <charseq START="850" END="873">the southern Philippines</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E8" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="875" END="910">where rebels are holding 22 hostages</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-17" ARGNUM="1">
+      <extent>
+        <charseq START="881" END="886">rebels</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-16" ARGNUM="2">
+      <extent>
+        <charseq START="875" END="879">where</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E8" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="875" END="910">where rebels are holding 22 hostages</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="1">
+      <extent>
+        <charseq START="900" END="910">22 hostages</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-16" ARGNUM="2">
+      <extent>
+        <charseq START="875" END="879">where</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0067.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0067.eng-E16" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="235" END="260">American Defense
+Secretary</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="1">
+      <extent>
+        <charseq START="235" END="260">American Defense
+Secretary</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-32" ARGNUM="2">
+      <extent>
+        <charseq START="235" END="242">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

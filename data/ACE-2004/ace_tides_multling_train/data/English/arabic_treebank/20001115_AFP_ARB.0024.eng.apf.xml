@@ -1,0 +1,1557 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0024.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0024.eng">
+<entity ID="20001115_AFP_ARB.0024.eng-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="586" END="590">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="590">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-63" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2106" END="2110">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="2106" END="2110">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2139" END="2140">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2139" END="2140">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-65" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2182" END="2184">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2182" END="2184">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2211" END="2212">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2211" END="2212">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2123" END="2131">Best Team</charseq>
+    </extent>
+    <head>
+      <charseq START="2123" END="2131">Best Team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-69" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2254" END="2270">The Japanese team</charseq>
+    </extent>
+    <head>
+      <charseq START="2267" END="2270">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-71" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2316" END="2319">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2316" END="2319">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-73" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2373" END="2374">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2373" END="2374">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="506" END="510">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="510">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2123" END="2131">Best Team</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E2" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="2-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="751" END="755">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="755">Asian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E3" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="3-10" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="783" END="792">Uzbekistan</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="792">Uzbekistan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-62" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2092" END="2101">Uzbekistan</charseq>
+    </extent>
+    <head>
+      <charseq START="2092" END="2101">Uzbekistan</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E4" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="4-11" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="807" END="812">Kuwait</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="812">Kuwait</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="5-12" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="849" END="859">South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="859">South Korea</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2392" END="2402">South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="2392" END="2402">South Korea</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="916" END="920">Qatar</charseq>
+    </extent>
+    <head>
+      <charseq START="916" END="920">Qatar</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="513" END="514">He</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="514">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="617" END="619">his</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="619">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="689" END="697">al-Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="697">al-Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="958" END="978">42-year-old al-Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="978">al-Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="MWH" LDCATR="TRUE">
+    <extent>
+      <charseq START="1019" END="1036">a player
+and coach</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1036">player
+and coach</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1039" END="1040">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1040">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1051" END="1053">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1053">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1103" END="1122">al-Akhdhar's captain</charseq>
+    </extent>
+    <head>
+      <charseq START="1116" END="1122">captain</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1211" END="1212">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1211" END="1212">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1321" END="1329">Al-Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="1321" END="1329">Al-Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1588" END="1589">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1588" END="1589">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-85" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="213">Saudi national team coach Nasser
+al-Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="213">Nasser
+al-Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-86" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="196">Saudi national team coach</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="196">coach</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-89" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="218" END="242">the best coach in October</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="231">coach</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-90" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="248" END="250">his</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="250">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-93" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="354" END="362">Al-Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="362">Al-Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1321" END="1329">Al-Jawher</charseq>
+    </name>
+    <name>
+      <charseq START="198" END="213">Nasser
+al-Jawher</charseq>
+    </name>
+    <name>
+      <charseq START="354" END="362">Al-Jawher</charseq>
+    </name>
+    <name>
+      <charseq START="689" END="697">al-Jawher</charseq>
+    </name>
+    <name>
+      <charseq START="970" END="978">al-Jawher</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1051" END="1061">his country</charseq>
+    </extent>
+    <head>
+      <charseq START="1055" END="1061">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1186" END="1197">Saudi Arabia</charseq>
+    </extent>
+    <head>
+      <charseq START="1186" END="1197">Saudi Arabia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-88" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="176">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="176">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-97" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="453" END="457">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="457">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1186" END="1197">Saudi Arabia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1169" END="1175">Bahrain</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1175">Bahrain</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1169" END="1175">Bahrain</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1178" END="1183">Kuwait</charseq>
+    </extent>
+    <head>
+      <charseq START="1178" END="1183">Kuwait</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1178" END="1183">Kuwait</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1203" END="1207">Qatar</charseq>
+    </extent>
+    <head>
+      <charseq START="1203" END="1207">Qatar</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1203" END="1207">Qatar</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E12" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="12-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1242" END="1250">al-Nasser</charseq>
+    </extent>
+    <head>
+      <charseq START="1242" END="1250">al-Nasser</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1279" END="1286">the club</charseq>
+    </extent>
+    <head>
+      <charseq START="1283" END="1286">club</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1602" END="1608">al-Nasr</charseq>
+    </extent>
+    <head>
+      <charseq START="1602" END="1608">al-Nasr</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1630" END="1633">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1630" END="1633">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1242" END="1250">al-Nasser</charseq>
+    </name>
+    <name>
+      <charseq START="1602" END="1608">al-Nasr</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-33" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1384" END="1389">Hungry</charseq>
+    </extent>
+    <head>
+      <charseq START="1384" END="1389">Hungry</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1384" END="1389">Hungry</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1375" END="1381">England</charseq>
+    </extent>
+    <head>
+      <charseq START="1375" END="1381">England</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1375" END="1381">England</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1366" END="1372">Germany</charseq>
+    </extent>
+    <head>
+      <charseq START="1366" END="1372">Germany</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1366" END="1372">Germany</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1395" END="1402">Malaysia</charseq>
+    </extent>
+    <head>
+      <charseq START="1395" END="1402">Malaysia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1395" END="1402">Malaysia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </extent>
+    <head>
+      <charseq START="1438" END="1444">coaches</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="18-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1449" END="1457">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1453" END="1457">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1553" END="1565">Willy Pilachi</charseq>
+    </extent>
+    <head>
+      <charseq START="1553" END="1565">Willy Pilachi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1553" END="1565">Willy Pilachi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="110" END="121">Kuala Lumpur</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="121">Kuala Lumpur</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="110" END="121">Kuala Lumpur</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1535" END="1550">Billy Buckingham</charseq>
+    </extent>
+    <head>
+      <charseq START="1535" END="1550">Billy Buckingham</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1535" END="1550">Billy Buckingham</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1520" END="1532">Anton
+Pichnik</charseq>
+    </extent>
+    <head>
+      <charseq START="1520" END="1532">Anton
+Pichnik</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1520" END="1532">Anton
+Pichnik</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1506" END="1517">Henri Michel</charseq>
+    </extent>
+    <head>
+      <charseq START="1506" END="1517">Henri Michel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1506" END="1517">Henri Michel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1489" END="1503">Firink Boshkash</charseq>
+    </extent>
+    <head>
+      <charseq START="1489" END="1503">Firink Boshkash</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1489" END="1503">Firink Boshkash</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E25" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="25-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1475" END="1486">Joel Santana</charseq>
+    </extent>
+    <head>
+      <charseq START="1475" END="1486">Joel Santana</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1475" END="1486">Joel Santana</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-48" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1732" END="1746">The Best Player</charseq>
+    </extent>
+    <head>
+      <charseq START="1736" END="1746">Best Player</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1762" END="1838">Japanese Hiroshimi Nanami who was
+chosen Best Player in the Asia Championship</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1786">Hiroshimi Nanami</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-51" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="1788" END="1790">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1788" END="1790">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1803" END="1838">Best Player in the Asia Championship</charseq>
+    </extent>
+    <head>
+      <charseq START="1803" END="1838">Best Player in the Asia Championship</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1843" END="1848">Nanami</charseq>
+    </extent>
+    <head>
+      <charseq START="1843" END="1848">Nanami</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-57" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1943" END="1944">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1943" END="1944">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1962" END="1968">himself</charseq>
+    </extent>
+    <head>
+      <charseq START="1962" END="1968">himself</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2026" END="2027">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2027">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-60" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2040" END="2050">Best
+Player</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2050">Best
+Player</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1771" END="1786">Hiroshimi Nanami</charseq>
+    </name>
+    <name>
+      <charseq START="1803" END="1838">Best Player in the Asia Championship</charseq>
+    </name>
+    <name>
+      <charseq START="1843" END="1848">Nanami</charseq>
+    </name>
+    <name>
+      <charseq START="2040" END="2050">Best
+Player</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="28-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1762" END="1769">Japanese</charseq>
+    </extent>
+    <head>
+      <charseq START="1762" END="1769">Japanese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-70" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2258" END="2265">Japanese</charseq>
+    </extent>
+    <head>
+      <charseq START="2258" END="2265">Japanese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E29" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="29-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1886" END="1905">Italian club Venizia</charseq>
+    </extent>
+    <head>
+      <charseq START="1899" END="1905">Venizia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-55" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1886" END="1897">Italian club</charseq>
+    </extent>
+    <head>
+      <charseq START="1894" END="1897">club</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1899" END="1905">Venizia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="31-56" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1886" END="1892">Italian</charseq>
+    </extent>
+    <head>
+      <charseq START="1886" END="1892">Italian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="33-67" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2241" END="2249">Hiroshima</charseq>
+    </extent>
+    <head>
+      <charseq START="2241" END="2249">Hiroshima</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2241" END="2249">Hiroshima</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-75" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2458" END="2478">Iranian Karim
+Bagheri</charseq>
+    </extent>
+    <head>
+      <charseq START="2466" END="2478">Karim
+Bagheri</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-83" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2543" END="2549">Bagheri</charseq>
+    </extent>
+    <head>
+      <charseq START="2543" END="2549">Bagheri</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2466" END="2478">Karim
+Bagheri</charseq>
+    </name>
+    <name>
+      <charseq START="2543" END="2549">Bagheri</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="36-76" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2458" END="2464">Iranian</charseq>
+    </extent>
+    <head>
+      <charseq START="2458" END="2464">Iranian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E37" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="37-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2483" END="2493">South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="2483" END="2493">South Korea</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2684" END="2698">the latter team</charseq>
+    </extent>
+    <head>
+      <charseq START="2695" END="2698">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2483" END="2493">South Korea</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2624" END="2644">the Korean goalkeeper</charseq>
+    </extent>
+    <head>
+      <charseq START="2635" END="2644">goalkeeper</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="39-79" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2628" END="2633">Korean</charseq>
+    </extent>
+    <head>
+      <charseq START="2628" END="2633">Korean</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="40-82" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1927" END="1931">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="1927" END="1931">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1927" END="1931">Japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="41-81" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="130" END="132">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="132">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="130" END="132">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E42" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="42-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2407" END="2426">The Asian Federation</charseq>
+    </extent>
+    <head>
+      <charseq START="2411" END="2426">Asian Federation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-84" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="138" END="164">The Asian Soccer Federation</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="164">Asian Soccer Federation</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2411" END="2426">Asian Federation</charseq>
+    </name>
+    <name>
+      <charseq START="142" END="164">Asian Soccer Federation</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E44" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="44-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="545" END="549">their</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="549">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="569" END="572">they</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="572">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="713" END="724">Saudi Arabia</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="724">Saudi Arabia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="892" END="893">it</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="893">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-20" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1051" END="1068">his country's team</charseq>
+    </extent>
+    <head>
+      <charseq START="1065" END="1068">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1103" END="1112">al-Akhdhar</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1112">al-Akhdhar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1161" END="1164">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1164">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2067" END="2078">Saudi Arabia</charseq>
+    </extent>
+    <head>
+      <charseq START="2067" END="2078">Saudi Arabia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-87" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="190">Saudi national team</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="190">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-91" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="276" END="283">the team</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="283">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-96" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="435" END="462">the title-holding Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="462">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-98" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="480" END="482">its</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="482">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1103" END="1112">al-Akhdhar</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="47-92" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="332" END="338">Lebanon</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="338">Lebanon</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="332" END="338">Lebanon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E48" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="48-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1571" END="1583">Milan Machala</charseq>
+    </extent>
+    <head>
+      <charseq START="1571" END="1583">Milan Machala</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-94" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="389" END="407">Czech Milan Machala</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="407">Milan Machala</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1571" END="1583">Milan Machala</charseq>
+    </name>
+    <name>
+      <charseq START="395" END="407">Milan Machala</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0024.eng-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="49-95" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="389" END="393">Czech</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="393">Czech</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001115_AFP_ARB.0024.eng-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E44" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="172" END="190">Saudi national team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-87" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="190">Saudi national team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-88" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="176">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="435" END="462">the title-holding Saudi team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-96" ARGNUM="1">
+      <extent>
+        <charseq START="435" END="462">the title-holding Saudi team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-97" ARGNUM="2">
+      <extent>
+        <charseq START="453" END="457">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-3" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1051" END="1068">his country's team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-20" ARGNUM="1">
+      <extent>
+        <charseq START="1051" END="1068">his country's team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="1051" END="1061">his country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E44" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="172" END="196">Saudi national team coach</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-86" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="196">Saudi national team coach</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="44-87" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="190">Saudi national team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1103" END="1122">al-Akhdhar's captain</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-23" ARGNUM="1">
+      <extent>
+        <charseq START="1103" END="1122">al-Akhdhar's captain</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="44-21" ARGNUM="2">
+      <extent>
+        <charseq START="1103" END="1112">al-Akhdhar</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E49" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="389" END="407">Czech Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-94" ARGNUM="1">
+      <extent>
+        <charseq START="389" END="407">Czech Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-95" ARGNUM="2">
+      <extent>
+        <charseq START="389" END="393">Czech</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1051" END="1061">his country</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-18" ARGNUM="1">
+      <extent>
+        <charseq START="1051" END="1053">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="1051" END="1061">his country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E15" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1321" END="1372">Al-Jawher has played many training rounds in Germany</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-29" ARGNUM="1">
+      <extent>
+        <charseq START="1321" END="1329">Al-Jawher</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-35" ARGNUM="2">
+      <extent>
+        <charseq START="1366" END="1372">Germany</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E14" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1321" END="1381">Al-Jawher has played many training rounds in Germany, England</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-29" ARGNUM="1">
+      <extent>
+        <charseq START="1321" END="1329">Al-Jawher</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-34" ARGNUM="2">
+      <extent>
+        <charseq START="1375" END="1381">England</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E13" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1321" END="1389">Al-Jawher has played many training rounds in Germany, England, Hungry</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-29" ARGNUM="1">
+      <extent>
+        <charseq START="1321" END="1329">Al-Jawher</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-33" ARGNUM="2">
+      <extent>
+        <charseq START="1384" END="1389">Hungry</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E16" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1321" END="1402">Al-Jawher has played many training rounds in Germany, England, Hungry
+and Malaysia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-29" ARGNUM="1">
+      <extent>
+        <charseq START="1321" END="1329">Al-Jawher</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-36" ARGNUM="2">
+      <extent>
+        <charseq START="1395" END="1402">Malaysia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E18" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1457">the best coaches in the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="1">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-38" ARGNUM="2">
+      <extent>
+        <charseq START="1449" END="1457">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R13" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E28" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1762" END="1838">Japanese Hiroshimi Nanami who was
+chosen Best Player in the Asia Championship</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-49" ARGNUM="1">
+      <extent>
+        <charseq START="1762" END="1838">Japanese Hiroshimi Nanami who was
+chosen Best Player in the Asia Championship</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-50" ARGNUM="2">
+      <extent>
+        <charseq START="1762" END="1769">Japanese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R14" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E31" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1886" END="1897">Italian club</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-55" ARGNUM="1">
+      <extent>
+        <charseq START="1886" END="1897">Italian club</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-56" ARGNUM="2">
+      <extent>
+        <charseq START="1886" END="1892">Italian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R15" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E28" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2254" END="2270">The Japanese team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-69" ARGNUM="1">
+      <extent>
+        <charseq START="2254" END="2270">The Japanese team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-70" ARGNUM="2">
+      <extent>
+        <charseq START="2258" END="2265">Japanese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R16" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E36" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2458" END="2478">Iranian Karim
+Bagheri</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-75" ARGNUM="1">
+      <extent>
+        <charseq START="2458" END="2478">Iranian Karim
+Bagheri</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-76" ARGNUM="2">
+      <extent>
+        <charseq START="2458" END="2464">Iranian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R17" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E39" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2624" END="2644">the Korean goalkeeper</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-78" ARGNUM="1">
+      <extent>
+        <charseq START="2624" END="2644">the Korean goalkeeper</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-79" ARGNUM="2">
+      <extent>
+        <charseq START="2628" END="2633">Korean</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R18" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-45" ARGNUM="1">
+      <extent>
+        <charseq START="1475" END="1486">Joel Santana</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R19" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-44" ARGNUM="1">
+      <extent>
+        <charseq START="1489" END="1503">Firink Boshkash</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R20" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-43" ARGNUM="1">
+      <extent>
+        <charseq START="1506" END="1517">Henri Michel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R21" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-42" ARGNUM="1">
+      <extent>
+        <charseq START="1520" END="1532">Anton
+Pichnik</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R22" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-41" ARGNUM="1">
+      <extent>
+        <charseq START="1535" END="1550">Billy Buckingham</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R23" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-40" ARGNUM="1">
+      <extent>
+        <charseq START="1553" END="1565">Willy Pilachi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0024.eng-R24" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0024.eng-E17" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-39" ARGNUM="1">
+      <extent>
+        <charseq START="1571" END="1583">Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1583">the best coaches in the world
+of the likes of Joel Santana, Firink Boshkash, Henri Michel, Anton
+Pichnik, Billy Buckingham, Willy Pilachi and Milan Machala</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

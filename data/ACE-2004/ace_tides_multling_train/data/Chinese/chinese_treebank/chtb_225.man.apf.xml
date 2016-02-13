@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_225.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_225.man">
+<entity ID="chtb_225.man-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="227" END="236">百分之
+九十以上的人</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="236">人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E2" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-7" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="241" END="242">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="242">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="473" END="474">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="474">国际</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="280" END="281">我们</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="281">我们</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="399" END="400">我们</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="400">我们</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="350" END="353">南斯拉夫</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="353">南斯拉夫</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="350" END="353">南斯拉夫</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="367" END="370">西方国家</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="370">国家</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-20" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="385" END="386">它们</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="386">它们</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="379" END="383">塞尔维亚人</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="383">塞尔维亚人</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="407" END="413">所有塞尔维亚人</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="413">塞尔维亚人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="436" END="437">布哈</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="437">布哈</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="423" END="435">波黑“塞尔维亚共和国”外长</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="435">外长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="436" END="437">布哈</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="442" END="444">法新社</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="444">法新社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="442" END="444">法新社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="69" END="71">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="71">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="71">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="72" END="76">贝尔格莱德</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="76">贝尔格莱德</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="72" END="76">贝尔格莱德</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="86" END="87">王森</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="87">王森</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="84" END="85">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="85">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="86" END="87">王森</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="262" END="267">克拉伊什尼克</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="267">克拉伊什尼克</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="358" END="363">克拉伊什尼克</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="363">克拉伊什尼克</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="106" END="111">克拉伊什尼克</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="111">克拉伊什尼克</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-41" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="91" END="105">波黑“塞尔维亚共和国”议会主席</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="105">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="262" END="267">克拉伊什尼克</charseq>
+    </name>
+    <name>
+      <charseq START="358" END="363">克拉伊什尼克</charseq>
+    </name>
+    <name>
+      <charseq START="106" END="111">克拉伊什尼克</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="91" END="103">波黑“塞尔维亚共和国”议会</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="103">议会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="102" END="103">议会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="18-4" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="221" END="222">全民</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="222">全民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-12" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="312" END="313">全民</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="313">全民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="423" END="432">波黑“塞尔维亚共和国</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="432">塞尔维亚共和国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-31" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="463" END="464">全民</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="464">全民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="136" END="137">全民</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="137">全民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-49" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="91" END="100">波黑“塞尔维亚共和国</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="100">塞尔维亚共和国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="426" END="432">塞尔维亚共和国</charseq>
+    </name>
+    <name>
+      <charseq START="94" END="100">塞尔维亚共和国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="241" END="246">国际联络小组</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="246">小组</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="473" END="478">国际联络小组</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="478">小组</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="142" END="145">联络小组</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="145">小组</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E20" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="20-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="205" END="206">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="206">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="250" END="251">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="251">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="298" END="299">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="299">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="345" END="346">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="346">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="423" END="424">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="424">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="457" END="458">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="458">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="150">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="150">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="160" END="161">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="161">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="91" END="92">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="92">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="184" END="185">波黑</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="185">波黑</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="205" END="206">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="250" END="251">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="298" END="299">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="345" END="346">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="423" END="424">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="457" END="458">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="149" END="150">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="160" END="161">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="91" END="92">波黑</charseq>
+    </name>
+    <name>
+      <charseq START="184" END="185">波黑</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_225.man-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="160" END="166">波黑塞族领导人</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="166">领导人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_225.man-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="205" END="208">波黑塞族</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="208">塞族</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="345" END="348">波黑塞族</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="348">塞族</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="457" END="460">波黑塞族</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="460">塞族</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="469" END="470">塞族</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="470">塞族</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="160" END="163">波黑塞族</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="163">塞族</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="347" END="348">塞族</charseq>
+    </name>
+    <name>
+      <charseq START="459" END="460">塞族</charseq>
+    </name>
+    <name>
+      <charseq START="469" END="470">塞族</charseq>
+    </name>
+    <name>
+      <charseq START="162" END="163">塞族</charseq>
+    </name>
+    <name>
+      <charseq START="207" END="208">塞族</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_225.man-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_225.man-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E20" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="91" END="100">波黑“塞尔维亚共和国</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-49" ARGNUM="1">
+      <extent>
+        <charseq START="91" END="100">波黑“塞尔维亚共和国</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-50" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="92">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="423" END="432">波黑“塞尔维亚共和国</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="1">
+      <extent>
+        <charseq START="423" END="432">波黑“塞尔维亚共和国</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-27" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="424">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_225.man-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="91" END="103">波黑“塞尔维亚共和国”议会</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-42" ARGNUM="1">
+      <extent>
+        <charseq START="91" END="103">波黑“塞尔维亚共和国”议会</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-49" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="100">波黑“塞尔维亚共和国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_225.man-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E17" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="91" END="105">波黑“塞尔维亚共和国”议会主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-41" ARGNUM="1">
+      <extent>
+        <charseq START="91" END="105">波黑“塞尔维亚共和国”议会主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-42" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="103">波黑“塞尔维亚共和国”议会</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R4" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="chtb_225.man-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E22" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="160" END="166">波黑塞族领导人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-46" ARGNUM="1">
+      <extent>
+        <charseq START="160" END="166">波黑塞族领导人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-47" ARGNUM="2">
+      <extent>
+        <charseq START="160" END="163">波黑塞族</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_225.man-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E20" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="160" END="163">波黑塞族</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-47" ARGNUM="1">
+      <extent>
+        <charseq START="160" END="163">波黑塞族</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-48" ARGNUM="2">
+      <extent>
+        <charseq START="160" END="161">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="205" END="208">波黑塞族</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-2" ARGNUM="1">
+      <extent>
+        <charseq START="205" END="208">波黑塞族</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-3" ARGNUM="2">
+      <extent>
+        <charseq START="205" END="206">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="345" END="348">波黑塞族</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-14" ARGNUM="1">
+      <extent>
+        <charseq START="345" END="348">波黑塞族</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-16" ARGNUM="2">
+      <extent>
+        <charseq START="345" END="346">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="457" END="460">波黑塞族</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-29" ARGNUM="1">
+      <extent>
+        <charseq START="457" END="460">波黑塞族</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-30" ARGNUM="2">
+      <extent>
+        <charseq START="457" END="458">波黑</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_225.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E18" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="423" END="435">波黑“塞尔维亚共和国”外长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-25" ARGNUM="1">
+      <extent>
+        <charseq START="423" END="435">波黑“塞尔维亚共和国”外长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="432">波黑“塞尔维亚共和国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_225.man-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_225.man-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_225.man-E12" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="69" END="76">新华社贝尔格莱德</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-1" ARGNUM="1">
+      <extent>
+        <charseq START="69" END="71">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-35" ARGNUM="2">
+      <extent>
+        <charseq START="72" END="76">贝尔格莱德</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

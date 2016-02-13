@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0072.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0072.eng">
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0072.eng-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="1-29" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="718" END="726">Europeans</charseq>
+      </extent>
+      <head>
+        <charseq START="718" END="726">Europeans</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E3" TYPE="GPE" SUBTYPE="Continent" CLASS="ATR">
+    <entity_mention ID="3-7" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="824" END="831">European</charseq>
+      </extent>
+      <head>
+        <charseq START="824" END="831">European</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0072.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="2-6" TYPE="BAR">
+      <extent>
+        <charseq START="824" END="852">European and
+French companies</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="852">companies</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0072.eng-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="136" END="142">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="142">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-21" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="203" END="209">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="209">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="136" END="142">Baghdad</charseq>
+      </name>
+      <name>
+        <charseq START="203" END="209">Baghdad</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0072.eng-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-14" TYPE="NAM">
+      <extent>
+        <charseq START="151" END="153">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="153">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="151" END="153">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0072.eng-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-15" TYPE="APP">
+      <extent>
+        <charseq START="159" END="234">The head of the French Interests Section in Baghdad, Ambassador Andre
+Janier</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="7-16" TYPE="NOM">
+      <extent>
+        <charseq START="159" END="209">The head of the French Interests Section in Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="166">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-28" TYPE="NOM">
+      <extent>
+        <charseq START="635" END="653">The French diplomat</charseq>
+      </extent>
+      <head>
+        <charseq START="646" END="653">diplomat</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-17" TYPE="NAM">
+      <extent>
+        <charseq START="212" END="234">Ambassador Andre
+Janier</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="234">Andre
+Janier</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-25" TYPE="NAM">
+      <extent>
+        <charseq START="442" END="447">Janier</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="447">Janier</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="442" END="447">Janier</charseq>
+      </name>
+      <name>
+        <charseq START="223" END="234">Andre
+Janier</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-18" TYPE="PRE">
+      <extent>
+        <charseq START="212" END="221">Ambassador</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="221">Ambassador</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0072.eng-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="10-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="171" END="209">the French Interests Section in Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="198">Section</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0072.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="12-11" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1013" END="1016">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="1013" END="1016">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-12" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="1102" END="1104">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1102" END="1104">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-22" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="262" END="265">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="265">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-26" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="615" END="618">Iraq</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="618">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="262" END="265">Iraq</charseq>
+      </name>
+      <name>
+        <charseq START="615" END="618">Iraq</charseq>
+      </name>
+      <name>
+        <charseq START="1013" END="1016">Iraq</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0072.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="13-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="343" END="359">the two countries</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="359">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0072.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="14-3" TYPE="NAM">
+      <extent>
+        <charseq START="426" END="438">al-Jamhouriya</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="438">al-Jamhouriya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="426" END="438">al-Jamhouriya</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="15-2" TYPE="APP">
+      <extent>
+        <charseq START="402" END="438">the official newspaper
+"al-Jamhouriya</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-24" TYPE="NOM">
+      <extent>
+        <charseq START="402" END="423">the official newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="423">newspaper</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0072.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0072.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="4-10" TYPE="HLS" ROLE="GPE">
+      <extent>
+        <charseq START="458" END="463">French</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="463">French</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="11-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="837" END="842">French</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="842">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-13" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="639" END="644">French</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="644">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-20" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="175" END="180">French</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="180">French</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0072.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-4" TYPE="HLS" ROLE="PER">
+      <extent>
+        <charseq START="732" END="737">French</charseq>
+      </extent>
+      <head>
+        <charseq START="732" END="737">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-5" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="674" END="675">we</charseq>
+      </extent>
+      <head>
+        <charseq START="674" END="675">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-9" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="455" END="463">we French</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="456">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="624" END="629">France</charseq>
+      </extent>
+      <head>
+        <charseq START="624" END="629">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="624" END="629">France</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0072.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="159" END="209">The head of the French Interests Section in Baghdad</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E7" ENTITYMENTIONID="7-16" ARGNUM="1">
+      <extent>
+        <charseq START="159" END="209">The head of the French Interests Section in Baghdad</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E10" ENTITYMENTIONID="10-19" ARGNUM="2">
+      <extent>
+        <charseq START="171" END="209">the French Interests Section in Baghdad</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0072.eng-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="171" END="209">the French Interests Section in Baghdad</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E10" ENTITYMENTIONID="10-19" ARGNUM="1">
+      <extent>
+        <charseq START="171" END="209">the French Interests Section in Baghdad</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E5" ENTITYMENTIONID="5-21" ARGNUM="2">
+      <extent>
+        <charseq START="203" END="209">Baghdad</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0072.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="635" END="653">The French diplomat</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E7" ENTITYMENTIONID="7-28" ARGNUM="1">
+      <extent>
+        <charseq START="635" END="653">The French diplomat</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E11" ENTITYMENTIONID="11-13" ARGNUM="2">
+      <extent>
+        <charseq START="639" END="644">French</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0072.eng-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="824" END="852">European and
+French companies</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E2" ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="824" END="852">European and
+French companies</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E3" ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="824" END="831">European</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0072.eng-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="824" END="852">European and
+French companies</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E2" ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="824" END="852">European and
+French companies</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0072.eng-E11" ENTITYMENTIONID="11-8" ARGNUM="2">
+      <extent>
+        <charseq START="837" END="842">French</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

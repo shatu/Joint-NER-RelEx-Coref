@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNR20001030.1700.0962.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNR20001030.1700.0962">
+<composite_entity ID="CNR20001030.1700.0962-CE1">
+  <entity ID="CNR20001030.1700.0962-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="1-4" TYPE="NOM">
+      <extent>
+        <charseq START="217" END="220">创新人才</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="220">人才</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE2">
+  <entity ID="CNR20001030.1700.0962-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="223" END="224">江苏</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="224">江苏</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="223" END="224">江苏</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE3">
+  <entity ID="CNR20001030.1700.0962-E4" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="4-9" TYPE="NOM">
+      <extent>
+        <charseq START="251" END="268">国务院确定的第一批88所全国重点大学</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="268">大学</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE4">
+  <entity ID="CNR20001030.1700.0962-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-15" TYPE="PMM">
+      <extent>
+        <charseq START="88" END="103">中共中央政治局常委、国务院副总理</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="103">中共中央政治局常委、国务院副总理</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE5">
+  <entity ID="CNR20001030.1700.0962-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="67">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="67">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="67">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE6">
+  <entity ID="CNR20001030.1700.0962-E3" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="3-8" TYPE="HLS">
+      <extent>
+        <charseq START="251" END="270">国务院确定的第一批88所全国重点大学之一</charseq>
+      </extent>
+      <head>
+        <charseq START="270" END="270">一</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNR20001030.1700.0962-E5" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="5-11" TYPE="NOM">
+      <extent>
+        <charseq START="286" END="310">以工为主、理工结合、文管经法相配套的综合性理工大学</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="310">大学</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNR20001030.1700.0962-E7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="7-3" TYPE="NAM">
+      <extent>
+        <charseq START="196" END="201">江苏理工大学</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="201">江苏理工大学</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-6" TYPE="NAM">
+      <extent>
+        <charseq START="244" END="249">江苏理工大学</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="249">江苏理工大学</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-12" TYPE="NAM">
+      <extent>
+        <charseq START="71" END="76">江苏理工大学</charseq>
+      </extent>
+      <head>
+        <charseq START="71" END="76">江苏理工大学</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-22" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="120">江苏理工大学</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="120">江苏理工大学</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="244" END="249">江苏理工大学</charseq>
+      </name>
+      <name>
+        <charseq START="71" END="76">江苏理工大学</charseq>
+      </name>
+      <name>
+        <charseq START="115" END="120">江苏理工大学</charseq>
+      </name>
+      <name>
+        <charseq START="196" END="201">江苏理工大学</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE7">
+  <entity ID="CNR20001030.1700.0962-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-2" TYPE="PRO">
+      <extent>
+        <charseq START="192" END="192">他</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="192">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-13" TYPE="APP">
+      <extent>
+        <charseq START="88" END="106">中共中央政治局常委、国务院副总理李岚清</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="8-14" TYPE="NAM">
+      <extent>
+        <charseq START="104" END="106">李岚清</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="106">李岚清</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="104" END="106">李岚清</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNR20001030.1700.0962-E10" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="10-16" TYPE="NOM">
+      <extent>
+        <charseq START="88" END="96">中共中央政治局常委</charseq>
+      </extent>
+      <head>
+        <charseq START="95" END="96">常委</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNR20001030.1700.0962-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-17" TYPE="NOM">
+      <extent>
+        <charseq START="98" END="103">国务院副总理</charseq>
+      </extent>
+      <head>
+        <charseq START="101" END="103">副总理</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE8">
+  <entity ID="CNR20001030.1700.0962-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="12-18" TYPE="NAM">
+      <extent>
+        <charseq START="88" END="94">中共中央政治局</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="94">政治局</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="92" END="94">政治局</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE9">
+  <entity ID="CNR20001030.1700.0962-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-19" TYPE="NAM">
+      <extent>
+        <charseq START="88" END="91">中共中央</charseq>
+      </extent>
+      <head>
+        <charseq START="90" END="91">中央</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="90" END="91">中央</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE10">
+  <entity ID="CNR20001030.1700.0962-E14" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="14-20" TYPE="NAM">
+      <extent>
+        <charseq START="88" END="89">中共</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="89">中共</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="88" END="89">中共</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE11">
+  <entity ID="CNR20001030.1700.0962-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="15-7" TYPE="NAM">
+      <extent>
+        <charseq START="251" END="253">国务院</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="253">国务院</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-21" TYPE="NAM">
+      <extent>
+        <charseq START="98" END="100">国务院</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="100">国务院</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="251" END="253">国务院</charseq>
+      </name>
+      <name>
+        <charseq START="98" END="100">国务院</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE12">
+  <entity ID="CNR20001030.1700.0962-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-10" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="263" END="264">全国</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="264">全国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="126" END="127">国家</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="127">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="137" END="138">国家</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="138">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-27" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="179" END="180">祖国</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="180">祖国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE13">
+  <entity ID="CNR20001030.1700.0962-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="17-24" TYPE="NOM">
+      <extent>
+        <charseq START="137" END="142">国家机械工业</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="142">工业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001030.1700.0962-CE14">
+  <entity ID="CNR20001030.1700.0962-E18" TYPE="PER" CLASS="USP">
+    <entity_mention ID="18-26" TYPE="NOM">
+      <extent>
+        <charseq START="149" END="155">大批优
+秀人才</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="155">人才</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNR20001030.1700.0962-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="88" END="96">中共中央政治局常委</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E10" ENTITYMENTIONID="10-16" ARGNUM="1">
+      <extent>
+        <charseq START="88" END="96">中共中央政治局常委</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E12" ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="88" END="94">中共中央政治局</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001030.1700.0962-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="88" END="94">中共中央政治局</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E12" ENTITYMENTIONID="12-18" ARGNUM="1">
+      <extent>
+        <charseq START="88" END="94">中共中央政治局</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E13" ENTITYMENTIONID="13-19" ARGNUM="2">
+      <extent>
+        <charseq START="88" END="91">中共中央</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001030.1700.0962-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="88" END="91">中共中央</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E13" ENTITYMENTIONID="13-19" ARGNUM="1">
+      <extent>
+        <charseq START="88" END="91">中共中央</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E14" ENTITYMENTIONID="14-20" ARGNUM="2">
+      <extent>
+        <charseq START="88" END="89">中共</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001030.1700.0962-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="98" END="103">国务院副总理</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E11" ENTITYMENTIONID="11-17" ARGNUM="1">
+      <extent>
+        <charseq START="98" END="103">国务院副总理</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E15" ENTITYMENTIONID="15-21" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="100">国务院</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001030.1700.0962-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="137" END="142">国家机械工业</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E17" ENTITYMENTIONID="17-24" ARGNUM="1">
+      <extent>
+        <charseq START="137" END="142">国家机械工业</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E16" ENTITYMENTIONID="16-25" ARGNUM="2">
+      <extent>
+        <charseq START="137" END="138">国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001030.1700.0962-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="251" END="270">国务院确定的第一批88所全国重点大学之一</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E3" ENTITYMENTIONID="3-8" ARGNUM="1">
+      <extent>
+        <charseq START="251" END="270">国务院确定的第一批88所全国重点大学之一</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001030.1700.0962-E4" ENTITYMENTIONID="4-9" ARGNUM="2">
+      <extent>
+        <charseq START="251" END="268">国务院确定的第一批88所全国重点大学</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

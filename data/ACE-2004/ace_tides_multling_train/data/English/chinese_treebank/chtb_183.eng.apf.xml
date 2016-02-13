@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_183.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_183.eng">
+<entity ID="chtb_183.eng-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-8" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="867" END="872">People</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="872">People</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E2" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="2-10" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="895" END="920">overseas Chinese in France</charseq>
+    </extent>
+    <head>
+      <charseq START="904" END="910">Chinese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E3" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="3-13" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="923" END="937">Chinese friends</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="937">friends</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E4" TYPE="PER" CLASS="USP">
+  <entity_mention ID="4-15" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="943" END="1000">all of the Emperor's offspring who love the Chinese nation</charseq>
+    </extent>
+    <head>
+      <charseq START="943" END="945">all</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="950" END="972">the Emperor's offspring</charseq>
+    </extent>
+    <head>
+      <charseq START="964" END="972">offspring</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-18" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="974" END="976">who</charseq>
+    </extent>
+    <head>
+      <charseq START="974" END="976">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="950" END="960">the Emperor</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="960">Emperor</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-21" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1049" END="1090">people of all nationalities
+in the country</charseq>
+    </extent>
+    <head>
+      <charseq START="1049" END="1054">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E7" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="417" END="422">abroad</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="422">abroad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="895" END="902">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="895" END="902">overseas</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-36" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="298" END="305">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="305">overseas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="37" END="54">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="37" END="54">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="37" END="54">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="9-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="57" END="61">Paris</charseq>
+    </extent>
+    <head>
+      <charseq START="57" END="61">Paris</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="57" END="61">Paris</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="78" END="97">reporter Qihua Zhang</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="97">Qihua Zhang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="78" END="85">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="85">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="87" END="97">Qihua Zhang</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E12" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="12-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="115" END="143">the Chinese embassy in France</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="133">embassy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="915" END="920">France</charseq>
+    </extent>
+    <head>
+      <charseq START="915" END="920">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="138" END="143">France</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="143">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="327" END="332">France</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="332">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="138" END="143">France</charseq>
+    </name>
+    <name>
+      <charseq START="327" END="332">France</charseq>
+    </name>
+    <name>
+      <charseq START="915" END="920">France</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-3" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="533" END="543">our country</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="543">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-4" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="533" END="535">our</charseq>
+    </extent>
+    <head>
+      <charseq START="533" END="535">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="712" END="716">China</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="716">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-14" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="923" END="929">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="929">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="983" END="1000">the Chinese nation</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="1000">nation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="987" END="993">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="993">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-22" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1080" END="1090">the country</charseq>
+    </extent>
+    <head>
+      <charseq START="1084" END="1090">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-23" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1125" END="1138">the motherland</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1138">motherland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1157" END="1174">the Chinese people</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1174">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-25" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1161" END="1167">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1167">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-31" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="119" END="125">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="125">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-41" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="489" END="502">the motherland</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="502">motherland</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="712" END="716">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="506" END="507">He</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="507">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="673" END="686">Ambassador Cai</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="686">Cai</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="673" END="682">Ambassador</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="682">Ambassador</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="220" END="240">ambassador Fangbo Cai</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="240">Fangbo Cai</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-33" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="220" END="229">ambassador</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="229">ambassador</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="360" END="373">ambassador Cai</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="373">Cai</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-38" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="360" END="369">ambassador</charseq>
+    </extent>
+    <head>
+      <charseq START="360" END="369">ambassador</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="231" END="240">Fangbo Cai</charseq>
+    </name>
+    <name>
+      <charseq START="371" END="373">Cai</charseq>
+    </name>
+    <name>
+      <charseq START="684" END="686">Cai</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_183.eng-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-34" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="284" END="332">more than 500 overseas Chinese
+residing in France</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="313">Chinese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_183.eng-E19" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="19-39" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="397" END="502">elders
+and brothers abroad who have always shown concern in the construction
+undertaking in the motherland</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="415">elders
+and brothers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="424" END="426">who</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="426">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_183.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="37" END="97">Xinhua News Agency, Paris, Feb. 13th, by reporter Qihua Zhang</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-27" ARGNUM="1">
+      <extent>
+        <charseq START="78" END="97">reporter Qihua Zhang</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-1" ARGNUM="2">
+      <extent>
+        <charseq START="37" END="54">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E13" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="115" END="143">the Chinese embassy in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-29" ARGNUM="1">
+      <extent>
+        <charseq START="115" END="143">the Chinese embassy in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-30" ARGNUM="2">
+      <extent>
+        <charseq START="138" END="143">France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E14" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="115" END="143">the Chinese embassy in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-29" ARGNUM="1">
+      <extent>
+        <charseq START="115" END="143">the Chinese embassy in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-31" ARGNUM="2">
+      <extent>
+        <charseq START="119" END="125">Chinese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E13" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="284" END="332">more than 500 overseas Chinese
+residing in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="1">
+      <extent>
+        <charseq START="284" END="332">more than 500 overseas Chinese
+residing in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-35" ARGNUM="2">
+      <extent>
+        <charseq START="327" END="332">France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E7" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="284" END="332">more than 500 overseas Chinese
+residing in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="1">
+      <extent>
+        <charseq START="284" END="332">more than 500 overseas Chinese
+residing in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-36" ARGNUM="2">
+      <extent>
+        <charseq START="298" END="305">overseas</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E13" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="895" END="920">overseas Chinese in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-10" ARGNUM="1">
+      <extent>
+        <charseq START="895" END="920">overseas Chinese in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-11" ARGNUM="2">
+      <extent>
+        <charseq START="915" END="920">France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E7" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="895" END="920">overseas Chinese in France</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-10" ARGNUM="1">
+      <extent>
+        <charseq START="895" END="920">overseas Chinese in France</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="895" END="902">overseas</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R8" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E14" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="923" END="937">Chinese friends</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-13" ARGNUM="1">
+      <extent>
+        <charseq START="923" END="937">Chinese friends</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-14" ARGNUM="2">
+      <extent>
+        <charseq START="923" END="929">Chinese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R9" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E4" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="950" END="972">the Emperor's offspring</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-17" ARGNUM="1">
+      <extent>
+        <charseq START="950" END="960">the Emperor</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-16" ARGNUM="2">
+      <extent>
+        <charseq START="950" END="972">the Emperor's offspring</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R10" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E14" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="974" END="1000">who love the Chinese nation</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-18" ARGNUM="1">
+      <extent>
+        <charseq START="974" END="976">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="983" END="1000">the Chinese nation</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R11" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E14" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1049" END="1090">people of all nationalities
+in the country</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-21" ARGNUM="1">
+      <extent>
+        <charseq START="1049" END="1090">people of all nationalities
+in the country</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-22" ARGNUM="2">
+      <extent>
+        <charseq START="1080" END="1090">the country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E9" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="37" END="97">Xinhua News Agency, Paris, Feb. 13th, by reporter Qihua Zhang</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-27" ARGNUM="1">
+      <extent>
+        <charseq START="78" END="97">reporter Qihua Zhang</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-26" ARGNUM="2">
+      <extent>
+        <charseq START="57" END="61">Paris</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_183.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_183.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_183.eng-E7" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="397" END="502">elders
+and brothers abroad who have always shown concern in the construction
+undertaking in the motherland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-39" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="502">elders
+and brothers abroad who have always shown concern in the construction
+undertaking in the motherland</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="2">
+      <extent>
+        <charseq START="417" END="422">abroad</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

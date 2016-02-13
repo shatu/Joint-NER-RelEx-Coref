@@ -1,0 +1,839 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="APW20001019.0539.0213.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="APW20001019.0539.0213">
+<entity ID="APW20001019.0539.0213-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1096" END="1127">McLaren teammate
+David Coulthard</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1127">David Coulthard</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-13" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1096" END="1111">McLaren teammate</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1111">teammate</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1113" END="1127">David Coulthard</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1061" END="1067">McLaren</charseq>
+    </extent>
+    <head>
+      <charseq START="1061" END="1067">McLaren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-12" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1096" END="1102">McLaren</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1102">McLaren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-69" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="819" END="825">McLaren</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="825">McLaren</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1256" END="1282">teammate Rubens Barrichello</charseq>
+    </extent>
+    <head>
+      <charseq START="1265" END="1282">Rubens Barrichello</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-17" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1256" END="1263">teammate</charseq>
+    </extent>
+    <head>
+      <charseq START="1256" END="1263">teammate</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1265" END="1282">Rubens Barrichello</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E6" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="6-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1319" END="1327">a McLaren</charseq>
+    </extent>
+    <head>
+      <charseq START="1321" END="1327">McLaren</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1441" END="1454">Jody Scheckter</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1454">Jody Scheckter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1441" END="1454">Jody Scheckter</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1975" END="1980">Suzuka</charseq>
+    </extent>
+    <head>
+      <charseq START="1975" END="1980">Suzuka</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="278" END="283">Suzuka</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="283">Suzuka</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1975" END="1980">Suzuka</charseq>
+    </name>
+    <name>
+      <charseq START="278" END="283">Suzuka</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-41" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2075" END="2081">Italian</charseq>
+    </extent>
+    <head>
+      <charseq START="2075" END="2081">Italian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2331" END="2341">the drivers</charseq>
+    </extent>
+    <head>
+      <charseq START="2335" END="2341">drivers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1202" END="1217">the constructors</charseq>
+    </extent>
+    <head>
+      <charseq START="1206" END="1217">constructors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="909" END="924">the constructors</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="924">constructors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-51" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1370" END="1384">the constructor</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1384">constructor</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="121" END="136">SEPANG, Malaysia</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="126">SEPANG</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="121" END="126">SEPANG</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="129" END="136">Malaysia</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="136">Malaysia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="129" END="136">Malaysia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="139" END="140">AP</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="140">AP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="139" END="140">AP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="943" END="952">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="943" END="952">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1241" END="1250">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="1241" END="1250">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1584" END="1593">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="1584" END="1593">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1699" END="1708">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="1699" END="1708">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1812" END="1812">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1812" END="1812">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1829" END="1829">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1829" END="1829">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1852" END="1852">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1852" END="1852">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1868" END="1868">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1868" END="1868">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1919" END="1919">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1919" END="1919">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1987" END="1987">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1987" END="1987">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1900" END="1909">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="1900" END="1909">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2040" END="2049">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2049">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2153" END="2153">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2153" END="2153">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2196" END="2196">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2196" END="2196">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2177" END="2186">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="2177" END="2186">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2416" END="2416">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2416" END="2416">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2448" END="2457">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="2448" END="2457">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2467" END="2467">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2467" END="2467">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="145" END="162">Michael Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="162">Michael Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="288" END="297">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="288" END="297">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="396" END="396">I</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="396">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="606" END="615">Schumacher</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="615">Schumacher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-63" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="618" END="678">the German star who won titles in 1994 and 1995 with
+Benetton</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="632">star</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-65" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="634" END="636">who</charseq>
+    </extent>
+    <head>
+      <charseq START="634" END="636">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1241" END="1250">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="1584" END="1593">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="1699" END="1708">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="1900" END="1909">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="2040" END="2049">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="2177" END="2186">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="2448" END="2457">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="145" END="162">Michael Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="288" END="297">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="606" END="615">Schumacher</charseq>
+    </name>
+    <name>
+      <charseq START="943" END="952">Schumacher</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1771" END="1781">Alain Prost</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1781">Alain Prost</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1771" END="1781">Alain Prost</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="841" END="842">we</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="842">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="892" END="893">we</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="893">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="982" END="983">We</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="983">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="971" END="973">our</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="973">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1032" END="1034">our</charseq>
+    </extent>
+    <head>
+      <charseq START="1032" END="1034">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-8" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1047" END="1053">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1047" END="1053">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-14" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1182" END="1188">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1188">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-19" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1352" END="1358">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1352" END="1358">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-21" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1462" END="1468">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1462" END="1468">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-22" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1520" END="1526">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1520" END="1526">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1612" END="1613">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1612" END="1613">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1651" END="1652">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1651" END="1652">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1965" END="1966">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1965" END="1966">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1997" END="1998">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1997" END="1998">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2071" END="2086">the Italian team</charseq>
+    </extent>
+    <head>
+      <charseq START="2083" END="2086">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1889" END="1895">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="1889" END="1895">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-56" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="185" END="191">Ferrari</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="191">Ferrari</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="542" END="543">we</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="543">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="560" END="562">our</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="562">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1889" END="1895">Ferrari</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001019.0539.0213-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="19-64" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="622" END="627">German</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="627">German</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-66" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="671" END="678">Benetton</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="678">Benetton</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001019.0539.0213-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1083" END="1090">Hakkinen</charseq>
+    </extent>
+    <head>
+      <charseq START="1083" END="1090">Hakkinen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="774" END="825">two-time defending champion Mika
+Hakkinen of McLaren</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="814">Mika
+Hakkinen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-68" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="774" END="800">two-time defending champion</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="800">champion</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1083" END="1090">Hakkinen</charseq>
+    </name>
+    <name>
+      <charseq START="802" END="814">Mika
+Hakkinen</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="APW20001019.0539.0213-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E14" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="121" END="136">SEPANG, Malaysia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-1" ARGNUM="1">
+      <extent>
+        <charseq START="121" END="136">SEPANG, Malaysia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-53" ARGNUM="2">
+      <extent>
+        <charseq START="129" END="136">Malaysia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E19" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="618" END="678">the German star who won titles in 1994 and 1995 with
+Benetton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-63" ARGNUM="1">
+      <extent>
+        <charseq START="618" END="678">the German star who won titles in 1994 and 1995 with
+Benetton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-64" ARGNUM="2">
+      <extent>
+        <charseq START="622" END="627">German</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E21" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="618" END="678">the German star who won titles in 1994 and 1995 with
+Benetton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-65" ARGNUM="1">
+      <extent>
+        <charseq START="634" END="636">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-66" ARGNUM="2">
+      <extent>
+        <charseq START="671" END="678">Benetton</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E2" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="774" END="825">two-time defending champion Mika
+Hakkinen of McLaren</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-67" ARGNUM="1">
+      <extent>
+        <charseq START="774" END="825">two-time defending champion Mika
+Hakkinen of McLaren</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-69" ARGNUM="2">
+      <extent>
+        <charseq START="819" END="825">McLaren</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E18" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2040" END="2086">Schumacher has a contract with the Italian team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-39" ARGNUM="1">
+      <extent>
+        <charseq START="2040" END="2049">Schumacher</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-40" ARGNUM="2">
+      <extent>
+        <charseq START="2071" END="2086">the Italian team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E9" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2071" END="2086">the Italian team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-40" ARGNUM="1">
+      <extent>
+        <charseq START="2071" END="2086">the Italian team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-41" ARGNUM="2">
+      <extent>
+        <charseq START="2075" END="2081">Italian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R7" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E2" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1096" END="1111">McLaren teammate</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-13" ARGNUM="1">
+      <extent>
+        <charseq START="1096" END="1111">McLaren teammate</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-12" ARGNUM="2">
+      <extent>
+        <charseq START="1096" END="1102">McLaren</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001019.0539.0213-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001019.0539.0213-E18" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1441" END="1468">Jody Scheckter paced Ferrari</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-20" ARGNUM="1">
+      <extent>
+        <charseq START="1441" END="1454">Jody Scheckter</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-21" ARGNUM="2">
+      <extent>
+        <charseq START="1462" END="1468">Ferrari</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

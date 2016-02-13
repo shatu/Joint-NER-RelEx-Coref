@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001125.1400.0193.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001125.1400.0193">
+<entity ID="CNN20001125.1400.0193-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="109">former senate majority leader george mitchell</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="109">george mitchell</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="65" END="93">former senate majority leader</charseq>
+    </extent>
+    <head>
+      <charseq START="88" END="93">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="162" END="163">he</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="163">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="95" END="109">george mitchell</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001125.1400.0193-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="72" END="77">senate</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="77">senate</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="117" END="127">tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="127">tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="117" END="127">tallahassee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001125.1400.0193-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="143" END="159">the gore campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="159">campaign</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="147" END="150">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="150">gore</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="253" END="257">texas</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="257">texas</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="253" END="257">texas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001125.1400.0193-E8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="263" END="269">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="269">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="263" END="269">florida</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001125.1400.0193-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="9-10" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="275" END="286">other states</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="286">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="405" END="413">the voter</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="413">voter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E11" TYPE="ORG" SUBTYPE="Government" CLASS="NEG">
+  <entity_mention ID="11-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="472" END="497">no court, state or federal</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="479">court</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001125.1400.0193-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="GEN">
+  <entity_mention ID="12-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="482" END="486">state</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="486">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001125.1400.0193-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001125.1400.0193-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001125.1400.0193-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="65" END="93">former senate majority leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-4" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="93">former senate majority leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="72" END="77">senate</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001125.1400.0193-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001125.1400.0193-E5" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="CNN20001125.1400.0193-E6" ARGNUM="1" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="143" END="159">the gore campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="143" END="159">the gore campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="147" END="150">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

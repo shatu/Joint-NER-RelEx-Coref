@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001010.1400.0981.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001010.1400.0981">
+<entity ID="CNN20001010.1400.0981-E1" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="65" END="72">analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="72">analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0981-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="175" END="177">ibm</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="177">ibm</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="215" END="216">it</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="216">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="397" END="399">ibm</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="399">ibm</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="194" END="196">its</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="196">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="175" END="177">ibm</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0981-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="290" END="297">new york</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="297">new york</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="290" END="297">new york</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0981-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="324" END="336">new york
+city</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="336">new york
+city</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="324" END="336">new york
+city</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0981-E5" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="397" END="432">ibm
+chip plants in vermont and japan</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="411">plants</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0981-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="416" END="422">vermont</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="422">vermont</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="416" END="422">vermont</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0981-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="428" END="432">japan</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="432">japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="428" END="432">japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0981-E9" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="252" END="336">an advanced
+semiconductor plan in the new york, about 60 miles north of new york
+city</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="281">plan</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0981-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="10-11" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="123" END="131">chipmaker</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="131">chipmaker</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0981-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="88" END="111">the semiconductor sector</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="111">sector</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001010.1400.0981-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="397" END="432">ibm
+chip plants in vermont and japan</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="432">ibm
+chip plants in vermont and japan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="428" END="432">japan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001010.1400.0981-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="252" END="336">an advanced
+semiconductor plan in the new york, about 60 miles north of new york
+city</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-10" ARGNUM="1">
+      <extent>
+        <charseq START="252" END="336">an advanced
+semiconductor plan in the new york, about 60 miles north of new york
+city</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="290" END="297">new york</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001010.1400.0981-R3" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E4" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="252" END="336">an advanced
+semiconductor plan in the new york, about 60 miles north of new york
+city</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-10" ARGNUM="1">
+      <extent>
+        <charseq START="252" END="336">an advanced
+semiconductor plan in the new york, about 60 miles north of new york
+city</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="324" END="336">new york
+city</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001010.1400.0981-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0981-E7" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="397" END="432">ibm
+chip plants in vermont and japan</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="432">ibm
+chip plants in vermont and japan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="416" END="422">vermont</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

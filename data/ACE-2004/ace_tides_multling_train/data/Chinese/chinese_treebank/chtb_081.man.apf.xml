@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_081.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_081.man">
+<entity ID="chtb_081.man-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="225" END="233">中国的主要外汇银行</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="233">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="236" END="236">它</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="236">它</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="461" END="464">中国银行</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="464">中国银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="545" END="549">中国
+银行</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="549">中国
+银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="553" END="553">其</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="553">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="585" END="588">中国银行</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="588">中国银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="89" END="92">中国银行</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="92">中国银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="205" END="208">中国银行</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="208">中国银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-59" TYPE="PRO" LDCTYPE="HLS" LDCATR="TRUE">
+    <extent>
+      <charseq START="210" END="221">中国四大国有商业银行之一</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="221">一</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="545" END="549">中国
+银行</charseq>
+    </name>
+    <name>
+      <charseq START="585" END="588">中国银行</charseq>
+    </name>
+    <name>
+      <charseq START="89" END="92">中国银行</charseq>
+    </name>
+    <name>
+      <charseq START="205" END="208">中国银行</charseq>
+    </name>
+    <name>
+      <charseq START="461" END="464">中国银行</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E3" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="240" END="240">外</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="240">外</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="4-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="267">机电产品出口企业</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="267">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="323" END="324">企业</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="324">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+  <entity_mention ID="5-44" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="271" END="274">全国各地</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="274">地</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-45" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="283" END="284">各地</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="284">地</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="277" END="290">进出口银行在各地的分支
+机构</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="290">机构</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="341" END="345">政策性银行</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="345">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="676" END="680">政策性银行</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="680">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="380">商业银行遍布全国的营业性分支机构</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="380">机构</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="9-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="368">商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="368">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="399" END="402">商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="402">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="682" END="685">商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="685">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="10-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="446" END="451">国有商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="451">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="11-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="507" END="510">出口企业</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="510">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="561" END="562">企业</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="562">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="545" END="551">中国
+银行总行</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="551">总行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="553" END="557">其分支机构</charseq>
+    </extent>
+    <head>
+      <charseq START="556" END="557">机构</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="585" END="596">中国银行系统的十七家分行</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="596">分行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="632" END="639">两个银行的负责人</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="639">负责人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="59" END="61">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="59" END="61">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="59" END="61">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="18-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="753" END="758">其他商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="758">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="19-41" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="248" END="251">分支机构</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="251">机构</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="62" END="63">北京</charseq>
+    </extent>
+    <head>
+      <charseq START="62" END="63">北京</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="62" END="63">北京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="75" END="77">周根良</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="77">周根良</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="73" END="74">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="73" END="74">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="75" END="77">周根良</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="480" END="481">两行</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="481">行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="632" END="635">两个银行</charseq>
+    </extent>
+    <head>
+      <charseq START="634" END="635">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="701" END="702">两行</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="702">行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="114" END="115">两行</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="115">行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_081.man-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="320" END="321">银行</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="321">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="435">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="435">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="497" END="503">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="503">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="576" END="582">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="582">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="739" END="745">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="745">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="277" END="281">进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="281">进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="81" END="87">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="87">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="141" END="147">中国进出口银行</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="147">中国进出口银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="149" END="163">一九九四年成立的一家政策性银行</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="163">银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-56" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="165" END="165">其</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="165">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="497" END="503">中国进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="576" END="582">中国进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="739" END="745">中国进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="277" END="281">进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="81" END="87">中国进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="141" END="147">中国进出口银行</charseq>
+    </name>
+    <name>
+      <charseq START="429" END="435">中国进出口银行</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="27-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="225" END="226">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="225" END="226">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-7" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="239" END="239">内</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="239">内</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-11" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="271" END="272">全国</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="272">全国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-17" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="371" END="372">全国</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="372">国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="713" END="714">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="714">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="173" END="174">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="174">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="210" END="211">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="211">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="713" END="714">中国</charseq>
+    </name>
+    <name>
+      <charseq START="173" END="174">中国</charseq>
+    </name>
+    <name>
+      <charseq START="210" END="211">中国</charseq>
+    </name>
+    <name>
+      <charseq START="225" END="226">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_081.man-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="29-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="210" END="219">中国四大国有商业银行</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="219">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_081.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_081.man-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E20" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="59" END="63">新华社北京</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-1" ARGNUM="1">
+      <extent>
+        <charseq START="59" END="61">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-47" ARGNUM="2">
+      <extent>
+        <charseq START="62" END="63">北京</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_081.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E29" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="210" END="221">中国四大国有商业银行之一</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-59" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="221">中国四大国有商业银行之一</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-60" ARGNUM="2">
+      <extent>
+        <charseq START="210" END="219">中国四大国有商业银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_081.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E27" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="225" END="233">中国的主要外汇银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="225" END="233">中国的主要外汇银行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-3" ARGNUM="2">
+      <extent>
+        <charseq START="225" END="226">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_081.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E27" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="271" END="274">全国各地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-44" ARGNUM="1">
+      <extent>
+        <charseq START="271" END="274">全国各地</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-11" ARGNUM="2">
+      <extent>
+        <charseq START="271" END="272">全国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_081.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E5" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="277" END="290">进出口银行在各地的分支
+机构</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="277" END="290">进出口银行在各地的分支
+机构</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-45" ARGNUM="2">
+      <extent>
+        <charseq START="283" END="284">各地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_081.man-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E1" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="585" END="596">中国银行系统的十七家分行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-31" ARGNUM="1">
+      <extent>
+        <charseq START="585" END="596">中国银行系统的十七家分行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-32" ARGNUM="2">
+      <extent>
+        <charseq START="585" END="588">中国银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_081.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E23" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="632" END="639">两个银行的负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-33" ARGNUM="1">
+      <extent>
+        <charseq START="632" END="639">两个银行的负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-34" ARGNUM="2">
+      <extent>
+        <charseq START="632" END="635">两个银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_081.man-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E27" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="210" END="219">中国四大国有商业银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-60" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="219">中国四大国有商业银行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-61" ARGNUM="2">
+      <extent>
+        <charseq START="210" END="211">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_081.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E24" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="277" END="290">进出口银行在各地的分支
+机构</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="277" END="290">进出口银行在各地的分支
+机构</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-42" ARGNUM="2">
+      <extent>
+        <charseq START="277" END="281">进出口银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_081.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E9" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="365" END="380">商业银行遍布全国的营业性分支机构</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="365" END="380">商业银行遍布全国的营业性分支机构</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-16" ARGNUM="2">
+      <extent>
+        <charseq START="365" END="368">商业银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_081.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E27" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="365" END="380">商业银行遍布全国的营业性分支机构</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="365" END="380">商业银行遍布全国的营业性分支机构</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-17" ARGNUM="2">
+      <extent>
+        <charseq START="371" END="372">全国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R12" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_081.man-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E1" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="545" END="551">中国
+银行总行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-43" ARGNUM="1">
+      <extent>
+        <charseq START="545" END="551">中国
+银行总行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-26" ARGNUM="2">
+      <extent>
+        <charseq START="545" END="549">中国
+银行</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_081.man-R13" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_081.man-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_081.man-E1" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="553" END="557">其分支机构</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-27" ARGNUM="1">
+      <extent>
+        <charseq START="553" END="557">其分支机构</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-28" ARGNUM="2">
+      <extent>
+        <charseq START="553" END="553">其</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

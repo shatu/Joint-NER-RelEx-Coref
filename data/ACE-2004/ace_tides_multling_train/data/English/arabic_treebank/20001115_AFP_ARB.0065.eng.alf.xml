@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0065.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0065.eng">
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0065.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="657" END="679">the former Soviet Union</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="679">Soviet Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="668" END="679">Soviet Union</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0065.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="935" END="940">Sweden</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="940">Sweden</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-28" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1430" END="1435">Sweden</charseq>
+      </extent>
+      <head>
+        <charseq START="1430" END="1435">Sweden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="935" END="940">Sweden</charseq>
+      </name>
+      <name>
+        <charseq START="1430" END="1435">Sweden</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0065.eng-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-9" TYPE="PRE">
+      <extent>
+        <charseq START="946" END="954">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="954">terrorist</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0065.eng-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-10" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="964" END="972">Amsterdam</charseq>
+      </extent>
+      <head>
+        <charseq START="964" END="972">Amsterdam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="964" END="972">Amsterdam</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0065.eng-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="975" END="984">Copenhagen</charseq>
+      </extent>
+      <head>
+        <charseq START="975" END="984">Copenhagen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="975" END="984">Copenhagen</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0065.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="990" END="998">Stockholm</charseq>
+      </extent>
+      <head>
+        <charseq START="990" END="998">Stockholm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="990" END="998">Stockholm</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0065.eng-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-13" TYPE="NOM">
+      <extent>
+        <charseq START="1023" END="1064">The defense council in the Lockerbie court</charseq>
+      </extent>
+      <head>
+        <charseq START="1035" END="1041">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-21" TYPE="NOM">
+      <extent>
+        <charseq START="1595" END="1605">the defense</charseq>
+      </extent>
+      <head>
+        <charseq START="1599" END="1605">defense</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0065.eng-E8" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+    <entity_mention ID="8-27" TYPE="BAR">
+      <extent>
+        <charseq START="1272" END="1276">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1272" END="1276">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-31" TYPE="BAR">
+      <extent>
+        <charseq START="1531" END="1535">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1531" END="1535">court</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0065.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-29" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1455" END="1462">Scotland</charseq>
+      </extent>
+      <head>
+        <charseq START="1455" END="1462">Scotland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1455" END="1462">Scotland</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="29-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1140" END="1147">Scottish</charseq>
+      </extent>
+      <head>
+        <charseq START="1140" END="1147">Scottish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-24" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1327" END="1334">Scottish</charseq>
+      </extent>
+      <head>
+        <charseq START="1327" END="1334">Scottish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-25" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2064" END="2071">Scottish</charseq>
+      </extent>
+      <head>
+        <charseq START="2064" END="2071">Scottish</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-65" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="406" END="413">Scottish</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="413">Scottish</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0065.eng-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-33" TYPE="ARC">
+      <extent>
+        <charseq START="1711" END="1842">The court president, Ronald Sutherland, who adjourned the session for
+a short while in an attempt to find a solution to this dilemma</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-34" TYPE="NOM">
+      <extent>
+        <charseq START="1711" END="1729">The court president</charseq>
+      </extent>
+      <head>
+        <charseq START="1721" END="1729">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-36" TYPE="WHQ">
+      <extent>
+        <charseq START="1751" END="1753">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1751" END="1753">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E12" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="12-35" TYPE="NAM">
+      <extent>
+        <charseq START="1732" END="1748">Ronald Sutherland</charseq>
+      </extent>
+      <head>
+        <charseq START="1732" END="1748">Ronald Sutherland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1732" END="1748">Ronald Sutherland</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0065.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-37" TYPE="APP">
+      <extent>
+        <charseq START="1902" END="1966">The two Libyans, Alameen Khalifa Fahima and Abdulbasit al-Maqrahi</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="13-38" TYPE="NOM">
+      <extent>
+        <charseq START="1902" END="1916">The two Libyans</charseq>
+      </extent>
+      <head>
+        <charseq START="1910" END="1916">Libyans</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E15" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="15-39" TYPE="CMC">
+      <extent>
+        <charseq START="1919" END="1966">Alameen Khalifa Fahima and Abdulbasit al-Maqrahi</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0065.eng-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-40" TYPE="NAM">
+      <extent>
+        <charseq START="1919" END="1940">Alameen Khalifa Fahima</charseq>
+      </extent>
+      <head>
+        <charseq START="1919" END="1940">Alameen Khalifa Fahima</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1919" END="1940">Alameen Khalifa Fahima</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0065.eng-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-41" TYPE="NAM">
+      <extent>
+        <charseq START="1946" END="1966">Abdulbasit al-Maqrahi</charseq>
+      </extent>
+      <head>
+        <charseq START="1946" END="1966">Abdulbasit al-Maqrahi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1946" END="1966">Abdulbasit al-Maqrahi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0065.eng-E17" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="17-42" TYPE="NOM">
+      <extent>
+        <charseq START="1994" END="2132">a bomb from Malta which was used to explode
+the Pan Am plane over the Scottish village of Lockerbie on December
+21, 1988 killing 270 people</charseq>
+      </extent>
+      <head>
+        <charseq START="1996" END="1999">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-49" TYPE="WHQ">
+      <extent>
+        <charseq START="2012" END="2016">which</charseq>
+      </extent>
+      <head>
+        <charseq START="2012" END="2016">which</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0065.eng-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="18-43" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2006" END="2010">Malta</charseq>
+      </extent>
+      <head>
+        <charseq START="2006" END="2010">Malta</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2006" END="2010">Malta</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0065.eng-E20" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="20-44" TYPE="NOM">
+      <extent>
+        <charseq START="2038" END="2092">the Pan Am plane over the Scottish village of Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="2049" END="2053">plane</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0065.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="21-45" TYPE="PRE">
+      <extent>
+        <charseq START="2042" END="2047">Pan Am</charseq>
+      </extent>
+      <head>
+        <charseq START="2042" END="2047">Pan Am</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0065.eng-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-46" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="2060" END="2092">the Scottish village of Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2079">village</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-47" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="2084" END="2092">Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="2084" END="2092">Lockerbie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2084" END="2092">Lockerbie</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="24-50" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="198">Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="198">Lockerbie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-51" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1050" END="1058">Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="1050" END="1058">Lockerbie</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-52" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1111" END="1119">Lockerbie</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1119">Lockerbie</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0065.eng-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-48" TYPE="NOM">
+      <extent>
+        <charseq START="2123" END="2132">270 people</charseq>
+      </extent>
+      <head>
+        <charseq START="2127" END="2132">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0065.eng-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="96" END="114">Camp Zeist (Holland</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="105">Camp Zeist</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-56" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="208" END="226">Camp Zeist (Holland</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="217">Camp Zeist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="208" END="217">Camp Zeist</charseq>
+      </name>
+      <name>
+        <charseq START="96" END="105">Camp Zeist</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE21">
+  <entity ID="20001115_AFP_ARB.0065.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-53" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="114">Holland</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="114">Holland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-55" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="220" END="226">Holland</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="226">Holland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="108" END="114">Holland</charseq>
+      </name>
+      <name>
+        <charseq START="220" END="226">Holland</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE22">
+  <entity ID="20001115_AFP_ARB.0065.eng-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="26-54" TYPE="NAM">
+      <extent>
+        <charseq START="124" END="126">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="126">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="124" END="126">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE23">
+  <entity ID="20001115_AFP_ARB.0065.eng-E27" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="27-57" TYPE="NOM">
+      <extent>
+        <charseq START="149" END="226">the judges in charge of looking into the Lockerbie
+case in Camp Zeist (Holland</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="158">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-58" TYPE="NOM">
+      <extent>
+        <charseq START="738" END="747">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="747">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-59" TYPE="NOM">
+      <extent>
+        <charseq START="1387" END="1396">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="1391" END="1396">judges</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-60" TYPE="NOM">
+      <extent>
+        <charseq START="1549" END="1558">the judges</charseq>
+      </extent>
+      <head>
+        <charseq START="1553" END="1558">judges</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE24">
+  <entity ID="20001115_AFP_ARB.0065.eng-E28" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="28-2" TYPE="PRO">
+      <extent>
+        <charseq START="637" END="639">his</charseq>
+      </extent>
+      <head>
+        <charseq START="637" END="639">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-5" TYPE="NAM">
+      <extent>
+        <charseq START="758" END="766">Abu Talib</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="766">Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-6" TYPE="NOM">
+      <extent>
+        <charseq START="814" END="824">the witness</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="824">witness</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-7" TYPE="NAM">
+      <extent>
+        <charseq START="867" END="887">46-year-old Abu Talib</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="887">Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-15" TYPE="PRO">
+      <extent>
+        <charseq START="1088" END="1090">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1088" END="1090">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-16" TYPE="NAM">
+      <extent>
+        <charseq START="1181" END="1189">Abu Talib</charseq>
+      </extent>
+      <head>
+        <charseq START="1181" END="1189">Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-17" TYPE="PRO">
+      <extent>
+        <charseq START="1289" END="1290">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1289" END="1290">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-18" TYPE="NAM">
+      <extent>
+        <charseq START="1413" END="1421">Abu Talib</charseq>
+      </extent>
+      <head>
+        <charseq START="1413" END="1421">Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-19" TYPE="PRO">
+      <extent>
+        <charseq START="1443" END="1445">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1443" END="1445">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-20" TYPE="NAM">
+      <extent>
+        <charseq START="1575" END="1583">Abu Talib</charseq>
+      </extent>
+      <head>
+        <charseq START="1575" END="1583">Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-22" TYPE="NOM">
+      <extent>
+        <charseq START="1678" END="1688">the witness</charseq>
+      </extent>
+      <head>
+        <charseq START="1682" END="1688">witness</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-61" TYPE="NOM">
+      <extent>
+        <charseq START="282" END="417">a witness who is refusing to answer questions and who is
+at the same time serving a life sentence and who is not subject to
+Scottish law</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="290">witness</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-62" TYPE="WHQ">
+      <extent>
+        <charseq START="292" END="294">who</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="294">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-63" TYPE="WHQ">
+      <extent>
+        <charseq START="332" END="334">who</charseq>
+      </extent>
+      <head>
+        <charseq START="332" END="334">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-64" TYPE="WHQ">
+      <extent>
+        <charseq START="384" END="386">who</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="386">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-66" TYPE="NAM">
+      <extent>
+        <charseq START="446" END="531">Palestinian Mahmood Abu Talib, whose
+testimony the court has been hearing since Friday</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="474">Mahmood Abu Talib</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-68" TYPE="WHQ">
+      <extent>
+        <charseq START="477" END="481">whose</charseq>
+      </extent>
+      <head>
+        <charseq START="477" END="481">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="758" END="766">Abu Talib</charseq>
+      </name>
+      <name>
+        <charseq START="879" END="887">Abu Talib</charseq>
+      </name>
+      <name>
+        <charseq START="1181" END="1189">Abu Talib</charseq>
+      </name>
+      <name>
+        <charseq START="1413" END="1421">Abu Talib</charseq>
+      </name>
+      <name>
+        <charseq START="1575" END="1583">Abu Talib</charseq>
+      </name>
+      <name>
+        <charseq START="458" END="474">Mahmood Abu Talib</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE25">
+  <entity ID="20001115_AFP_ARB.0065.eng-E30" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="30-67" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="446" END="456">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="456">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE26">
+  <entity ID="20001115_AFP_ARB.0065.eng-E10" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="10-30" TYPE="PRE">
+      <extent>
+        <charseq START="1474" END="1478">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1474" END="1478">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-32" TYPE="PRE">
+      <extent>
+        <charseq START="1715" END="1719">court</charseq>
+      </extent>
+      <head>
+        <charseq START="1715" END="1719">court</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E31" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="31-14" TYPE="NOM">
+      <extent>
+        <charseq START="1046" END="1064">the Lockerbie court</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1064">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-26" TYPE="NOM">
+      <extent>
+        <charseq START="1166" END="1175">this court</charseq>
+      </extent>
+      <head>
+        <charseq START="1171" END="1175">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-69" TYPE="NOM">
+      <extent>
+        <charseq START="493" END="501">the court</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="501">court</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.eng-CE27">
+  <entity ID="20001115_AFP_ARB.0065.eng-E32" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="32-4" TYPE="NOM">
+      <extent>
+        <charseq START="721" END="730">The lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="730">lawyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-70" TYPE="NAM">
+      <extent>
+        <charseq START="578" END="604">defense lawyer Richard Keen</charseq>
+      </extent>
+      <head>
+        <charseq START="593" END="604">Richard Keen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="593" END="604">Richard Keen</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.eng-E33" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="33-71" TYPE="PRE">
+      <extent>
+        <charseq START="578" END="591">defense lawyer</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="591">lawyer</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0065.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="96" END="114">Camp Zeist (Holland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E19" ENTITYMENTIONID="19-1" ARGNUM="1">
+      <extent>
+        <charseq START="96" END="114">Camp Zeist (Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E25" ENTITYMENTIONID="25-53" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="114">Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="208" END="226">Camp Zeist (Holland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E19" ENTITYMENTIONID="19-56" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="226">Camp Zeist (Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E25" ENTITYMENTIONID="25-55" ARGNUM="2">
+      <extent>
+        <charseq START="220" END="226">Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="149" END="226">the judges in charge of looking into the Lockerbie
+case in Camp Zeist (Holland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E27" ENTITYMENTIONID="27-57" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="226">the judges in charge of looking into the Lockerbie
+case in Camp Zeist (Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E19" ENTITYMENTIONID="19-56" ARGNUM="2">
+      <extent>
+        <charseq START="208" END="226">Camp Zeist (Holland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="446" END="531">Palestinian Mahmood Abu Talib, whose
+testimony the court has been hearing since Friday</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E28" ENTITYMENTIONID="28-66" ARGNUM="1">
+      <extent>
+        <charseq START="446" END="531">Palestinian Mahmood Abu Talib, whose
+testimony the court has been hearing since Friday</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E30" ENTITYMENTIONID="30-67" ARGNUM="2">
+      <extent>
+        <charseq START="446" END="456">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="637" END="716">his having lived in the former Soviet Union
+for a period of 18 months in the 70s</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E28" ENTITYMENTIONID="28-2" ARGNUM="1">
+      <extent>
+        <charseq START="637" END="639">his</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E1" ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="657" END="679">the former Soviet Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="867" END="1020">46-year-old Abu Talib was sentenced to life imprisonment in 1990 in
+Sweden for terrorist acts in Amsterdam, Copenhagen and Stockholm
+between 1985 and 1986</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E28" ENTITYMENTIONID="28-7" ARGNUM="1">
+      <extent>
+        <charseq START="867" END="887">46-year-old Abu Talib</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E2" ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="935" END="940">Sweden</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R7" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1023" END="1064">The defense council in the Lockerbie court</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E7" ENTITYMENTIONID="7-13" ARGNUM="1">
+      <extent>
+        <charseq START="1023" END="1064">The defense council in the Lockerbie court</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E31" ENTITYMENTIONID="31-14" ARGNUM="2">
+      <extent>
+        <charseq START="1046" END="1064">the Lockerbie court</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1711" END="1729">The court president</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E11" ENTITYMENTIONID="11-34" ARGNUM="1">
+      <extent>
+        <charseq START="1711" END="1729">The court president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E10" ENTITYMENTIONID="10-32" ARGNUM="2">
+      <extent>
+        <charseq START="1715" END="1719">court</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R9" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1994" END="2132">a bomb from Malta which was used to explode
+the Pan Am plane over the Scottish village of Lockerbie on December
+21, 1988 killing 270 people</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E17" ENTITYMENTIONID="17-42" ARGNUM="1">
+      <extent>
+        <charseq START="1994" END="2132">a bomb from Malta which was used to explode
+the Pan Am plane over the Scottish village of Lockerbie on December
+21, 1988 killing 270 people</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E18" ENTITYMENTIONID="18-43" ARGNUM="2">
+      <extent>
+        <charseq START="2006" END="2010">Malta</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R10" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2038" END="2092">the Pan Am plane over the Scottish village of Lockerbie</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E21" ENTITYMENTIONID="21-45" ARGNUM="1">
+      <extent>
+        <charseq START="2042" END="2047">Pan Am</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E20" ENTITYMENTIONID="20-44" ARGNUM="2">
+      <extent>
+        <charseq START="2038" END="2092">the Pan Am plane over the Scottish village of Lockerbie</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2038" END="2092">the Pan Am plane over the Scottish village of Lockerbie</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E20" ENTITYMENTIONID="20-44" ARGNUM="1">
+      <extent>
+        <charseq START="2038" END="2092">the Pan Am plane over the Scottish village of Lockerbie</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E22" ENTITYMENTIONID="22-46" ARGNUM="2">
+      <extent>
+        <charseq START="2060" END="2092">the Scottish village of Lockerbie</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2060" END="2092">the Scottish village of Lockerbie</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E22" ENTITYMENTIONID="22-46" ARGNUM="1">
+      <extent>
+        <charseq START="2060" END="2092">the Scottish village of Lockerbie</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E29" ENTITYMENTIONID="29-25" ARGNUM="2">
+      <extent>
+        <charseq START="2064" END="2071">Scottish</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.eng-R13" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1046" END="1064">the Lockerbie court</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E31" ENTITYMENTIONID="31-14" ARGNUM="1">
+      <extent>
+        <charseq START="1046" END="1064">the Lockerbie court</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.eng-E24" ENTITYMENTIONID="24-51" ARGNUM="2">
+      <extent>
+        <charseq START="1050" END="1058">Lockerbie</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

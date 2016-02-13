@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001212.2000.0164.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001212.2000.0164">
+<entity ID="PRI20001212.2000.0164-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="329" END="334">Dublin</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="334">Dublin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="329" END="334">Dublin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E2" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="371" END="375">a pub</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="375">pub</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E3" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="408" END="423">the Irish border</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="423">border</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="520" END="525">border</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="525">border</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="412" END="416">Irish</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="416">Irish</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="95" END="101">Ireland</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="101">Ireland</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="95" END="101">Ireland</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="450" END="472">More than 60,000 people</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="472">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E6" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="481" END="530">the square in the center of
+Dundalk, a border town</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="490">square</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="509" END="515">Dundalk</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="515">Dundalk</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-9" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="518" END="530">a border town</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="530">town</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="509" END="515">Dundalk</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="559" END="599">people from north
+and south of the island</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="564">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="685" END="688">them</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="688">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="744" END="746">you</charseq>
+    </extent>
+    <head>
+      <charseq START="744" END="746">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="800" END="803">your</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="803">your</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="924" END="958">the key players of the
+peace accord</charseq>
+    </extent>
+    <head>
+      <charseq START="932" END="938">players</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001212.2000.0164-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="991" END="1006">Marianne McGuire</charseq>
+    </extent>
+    <head>
+      <charseq START="991" END="1006">Marianne McGuire</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="986" END="986">I</charseq>
+    </extent>
+    <head>
+      <charseq START="986" END="986">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="264" END="285">NPR's Marianne McGuire</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="285">Marianne McGuire</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="991" END="1006">Marianne McGuire</charseq>
+    </name>
+    <name>
+      <charseq START="270" END="285">Marianne McGuire</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="81">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="81">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-21" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="73">President</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="73">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="166" END="168">him</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="168">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="193" END="194">He</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="194">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="378" END="394">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="394">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-26" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="378" END="386">President</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="386">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="627" END="629">his</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="629">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="609" END="621">the President</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="621">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="661" END="671">Mr. Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="671">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-30" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="661" END="662">Mr</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="662">Mr</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="738" END="738">I</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="738">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="861" END="873">The President</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="873">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="915" END="916">he</charseq>
+    </extent>
+    <head>
+      <charseq START="915" END="916">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="388" END="394">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="665" END="671">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="75" END="81">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="185" END="190">London</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="190">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="185" END="190">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="963" END="969">Belfast</charseq>
+    </extent>
+    <head>
+      <charseq START="963" END="969">Belfast</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="173" END="179">Belfast</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="179">Belfast</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="300" END="306">Belfast</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="306">Belfast</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="963" END="969">Belfast</charseq>
+    </name>
+    <name>
+      <charseq START="173" END="179">Belfast</charseq>
+    </name>
+    <name>
+      <charseq START="300" END="306">Belfast</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="19-12" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="590" END="599">the island</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="599">island</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-36" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="246" END="261">Northern Ireland</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="261">Northern Ireland</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="246" END="261">Northern Ireland</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001212.2000.0164-E20" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="20-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="977" END="984">NPR News</charseq>
+    </extent>
+    <head>
+      <charseq START="977" END="984">NPR News</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="264" END="266">NPR</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="266">NPR</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="977" END="984">NPR News</charseq>
+    </name>
+    <name>
+      <charseq START="264" END="266">NPR</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="PRI20001212.2000.0164-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="65" END="101">President Clinton was back in Ireland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="81">President Clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-22" ARGNUM="2">
+      <extent>
+        <charseq START="95" END="101">Ireland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="146" END="190">that will also take him to Belfast and London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-23" ARGNUM="1">
+      <extent>
+        <charseq START="166" END="168">him</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-35" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="179">Belfast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="915" END="969">he meets the key players of the
+peace accord in Belfast</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-33" ARGNUM="1">
+      <extent>
+        <charseq START="915" END="916">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-17" ARGNUM="2">
+      <extent>
+        <charseq START="963" END="969">Belfast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E17" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="146" END="190">that will also take him to Belfast and London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-23" ARGNUM="1">
+      <extent>
+        <charseq START="166" END="168">him</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="2">
+      <extent>
+        <charseq START="185" END="190">London</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E20" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="264" END="285">NPR's Marianne McGuire</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-38" ARGNUM="1">
+      <extent>
+        <charseq START="264" END="285">NPR's Marianne McGuire</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-37" ARGNUM="2">
+      <extent>
+        <charseq START="264" END="266">NPR</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="972" END="1006">From NPR News I am Marianne McGuire</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-19" ARGNUM="1">
+      <extent>
+        <charseq START="986" END="986">I</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-20" ARGNUM="2">
+      <extent>
+        <charseq START="977" END="984">NPR News</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E18" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="264" END="306">NPR's Marianne McGuire reports from Belfast</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-38" ARGNUM="1">
+      <extent>
+        <charseq START="264" END="285">NPR's Marianne McGuire</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-39" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="306">Belfast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E1" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="311" END="447">After shopping in Dublin and drinking a pint of Guinness in a pub,
+President Clinton traveled to the Irish border for an evening
+ceremony</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="1">
+      <extent>
+        <charseq START="378" END="394">President Clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-40" ARGNUM="2">
+      <extent>
+        <charseq START="329" END="334">Dublin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E2" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="311" END="447">After shopping in Dublin and drinking a pint of Guinness in a pub,
+President Clinton traveled to the Irish border for an evening
+ceremony</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="371" END="375">a pub</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="1">
+      <extent>
+        <charseq START="378" END="394">President Clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E3" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="378" END="447">President Clinton traveled to the Irish border for an evening
+ceremony</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="1">
+      <extent>
+        <charseq START="378" END="394">President Clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="408" END="423">the Irish border</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E6" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="450" END="530">More than 60,000 people parked the square in the center of
+Dundalk, a border town</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="450" END="472">More than 60,000 people</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="481" END="530">the square in the center of
+Dundalk, a border town</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E7" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="481" END="530">the square in the center of
+Dundalk, a border town</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="481" END="530">the square in the center of
+Dundalk, a border town</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="509" END="515">Dundalk</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R11" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E3" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="518" END="530">a border town</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="518" END="530">a border town</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-10" ARGNUM="2">
+      <extent>
+        <charseq START="520" END="525">border</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R12" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E19" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="559" END="599">people from north
+and south of the island</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-11" ARGNUM="1">
+      <extent>
+        <charseq START="559" END="599">people from north
+and south of the island</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-12" ARGNUM="2">
+      <extent>
+        <charseq START="590" END="599">the island</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001212.2000.0164-R14" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001212.2000.0164-E18" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="915" END="969">he meets the key players of the
+peace accord in Belfast</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-16" ARGNUM="1">
+      <extent>
+        <charseq START="924" END="958">the key players of the
+peace accord</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-17" ARGNUM="2">
+      <extent>
+        <charseq START="963" END="969">Belfast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

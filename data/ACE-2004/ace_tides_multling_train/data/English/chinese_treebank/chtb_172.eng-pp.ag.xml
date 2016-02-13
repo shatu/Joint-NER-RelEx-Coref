@@ -1,0 +1,823 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="chtb_172" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">chinese_treebank</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">chtb_172.eng.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="chtb_172:T1">
+<Signal id="chtb_172:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="chtb_172:1" timeline="chtb_172:T1">
+<Metadata>
+<MetadataElement name="docid">chtb_172.eng</MetadataElement>
+</Metadata>
+<Anchor id="chtb_172:1:1" offset="207.000000"></Anchor>
+<Anchor id="chtb_172:1:3" offset="211.000000"></Anchor>
+<Anchor id="chtb_172:1:2" offset="222.000000"></Anchor>
+<Anchor id="chtb_172:1:4" offset="222.000000"></Anchor>
+<Anchor id="chtb_172:1:1t" offset="245.000000"></Anchor>
+<Anchor id="chtb_172:1:21" offset="245.000000"></Anchor>
+<Anchor id="chtb_172:1:I" offset="245.000000"></Anchor>
+<Anchor id="chtb_172:1:M" offset="245.000000"></Anchor>
+<Anchor id="chtb_172:1:O" offset="245.000000"></Anchor>
+<Anchor id="chtb_172:1:N" offset="250.000000"></Anchor>
+<Anchor id="chtb_172:1:P" offset="250.000000"></Anchor>
+<Anchor id="chtb_172:1:K" offset="252.000000"></Anchor>
+<Anchor id="chtb_172:1:L" offset="257.000000"></Anchor>
+<Anchor id="chtb_172:1:V" offset="272.000000"></Anchor>
+<Anchor id="chtb_172:1:X" offset="272.000000"></Anchor>
+<Anchor id="chtb_172:1:1u" offset="277.000000"></Anchor>
+<Anchor id="chtb_172:1:22" offset="277.000000"></Anchor>
+<Anchor id="chtb_172:1:J" offset="277.000000"></Anchor>
+<Anchor id="chtb_172:1:W" offset="277.000000"></Anchor>
+<Anchor id="chtb_172:1:Y" offset="277.000000"></Anchor>
+<Anchor id="chtb_172:1:29" offset="399.000000"></Anchor>
+<Anchor id="chtb_172:1:d" offset="399.000000"></Anchor>
+<Anchor id="chtb_172:1:l" offset="399.000000"></Anchor>
+<Anchor id="chtb_172:1:n" offset="399.000000"></Anchor>
+<Anchor id="chtb_172:1:m" offset="404.000000"></Anchor>
+<Anchor id="chtb_172:1:o" offset="404.000000"></Anchor>
+<Anchor id="chtb_172:1:f" offset="406.000000"></Anchor>
+<Anchor id="chtb_172:1:2A" offset="409.000000"></Anchor>
+<Anchor id="chtb_172:1:e" offset="409.000000"></Anchor>
+<Anchor id="chtb_172:1:g" offset="409.000000"></Anchor>
+<Anchor id="chtb_172:1:p" offset="414.000000"></Anchor>
+<Anchor id="chtb_172:1:r" offset="414.000000"></Anchor>
+<Anchor id="chtb_172:1:q" offset="419.000000"></Anchor>
+<Anchor id="chtb_172:1:s" offset="419.000000"></Anchor>
+<Anchor id="chtb_172:1:x" offset="421.000000"></Anchor>
+<Anchor id="chtb_172:1:z" offset="421.000000"></Anchor>
+<Anchor id="chtb_172:1:10" offset="426.000000"></Anchor>
+<Anchor id="chtb_172:1:y" offset="426.000000"></Anchor>
+<Anchor id="chtb_172:1:11" offset="455.000000"></Anchor>
+<Anchor id="chtb_172:1:13" offset="455.000000"></Anchor>
+<Anchor id="chtb_172:1:12" offset="460.000000"></Anchor>
+<Anchor id="chtb_172:1:14" offset="460.000000"></Anchor>
+<Anchor id="chtb_172:1:19" offset="483.000000"></Anchor>
+<Anchor id="chtb_172:1:2h" offset="483.000000"></Anchor>
+<Anchor id="chtb_172:1:2p" offset="483.000000"></Anchor>
+<Anchor id="chtb_172:1:1B" offset="487.000000"></Anchor>
+<Anchor id="chtb_172:1:1A" offset="498.000000"></Anchor>
+<Anchor id="chtb_172:1:1C" offset="498.000000"></Anchor>
+<Anchor id="chtb_172:1:1D" offset="512.000000"></Anchor>
+<Anchor id="chtb_172:1:1G" offset="512.000000"></Anchor>
+<Anchor id="chtb_172:1:1F" offset="517.000000"></Anchor>
+<Anchor id="chtb_172:1:1H" offset="517.000000"></Anchor>
+<Anchor id="chtb_172:1:1I" offset="524.000000"></Anchor>
+<Anchor id="chtb_172:1:1K" offset="524.000000"></Anchor>
+<Anchor id="chtb_172:1:1J" offset="529.000000"></Anchor>
+<Anchor id="chtb_172:1:1L" offset="529.000000"></Anchor>
+<Anchor id="chtb_172:1:2i" offset="529.000000"></Anchor>
+<Anchor id="chtb_172:1:2q" offset="529.000000"></Anchor>
+<Anchor id="chtb_172:1:1M" offset="535.000000"></Anchor>
+<Anchor id="chtb_172:1:1O" offset="535.000000"></Anchor>
+<Anchor id="chtb_172:1:2x" offset="535.000000"></Anchor>
+<Anchor id="chtb_172:1:9" offset="535.000000"></Anchor>
+<Anchor id="chtb_172:1:1N" offset="540.000000"></Anchor>
+<Anchor id="chtb_172:1:1P" offset="540.000000"></Anchor>
+<Anchor id="chtb_172:1:B" offset="544.000000"></Anchor>
+<Anchor id="chtb_172:1:2y" offset="549.000000"></Anchor>
+<Anchor id="chtb_172:1:A" offset="549.000000"></Anchor>
+<Anchor id="chtb_172:1:C" offset="549.000000"></Anchor>
+<Anchor id="chtb_172:1:1V" offset="564.000000"></Anchor>
+<Anchor id="chtb_172:1:1X" offset="568.000000"></Anchor>
+<Anchor id="chtb_172:1:1W" offset="573.000000"></Anchor>
+<Anchor id="chtb_172:1:1Y" offset="573.000000"></Anchor>
+<Anchor id="chtb_172:1:1d" offset="598.000000"></Anchor>
+<Anchor id="chtb_172:1:2I" offset="598.000000"></Anchor>
+<Anchor id="chtb_172:1:2Q" offset="598.000000"></Anchor>
+<Anchor id="chtb_172:1:1l" offset="611.000000"></Anchor>
+<Anchor id="chtb_172:1:1n" offset="611.000000"></Anchor>
+<Anchor id="chtb_172:1:1m" offset="616.000000"></Anchor>
+<Anchor id="chtb_172:1:1o" offset="616.000000"></Anchor>
+<Anchor id="chtb_172:1:1f" offset="618.000000"></Anchor>
+<Anchor id="chtb_172:1:1g" offset="623.000000"></Anchor>
+<Anchor id="chtb_172:1:1p" offset="638.000000"></Anchor>
+<Anchor id="chtb_172:1:1r" offset="638.000000"></Anchor>
+<Anchor id="chtb_172:1:1e" offset="643.000000"></Anchor>
+<Anchor id="chtb_172:1:1q" offset="643.000000"></Anchor>
+<Anchor id="chtb_172:1:1s" offset="643.000000"></Anchor>
+<Anchor id="chtb_172:1:2J" offset="643.000000"></Anchor>
+<Anchor id="chtb_172:1:2R" offset="643.000000"></Anchor>
+<Anchor id="chtb_172:1:15"></Anchor>
+<Anchor id="chtb_172:1:16"></Anchor>
+<Anchor id="chtb_172:1:17"></Anchor>
+<Anchor id="chtb_172:1:18"></Anchor>
+<Anchor id="chtb_172:1:1Q"></Anchor>
+<Anchor id="chtb_172:1:1R"></Anchor>
+<Anchor id="chtb_172:1:1S"></Anchor>
+<Anchor id="chtb_172:1:1U"></Anchor>
+<Anchor id="chtb_172:1:1Z"></Anchor>
+<Anchor id="chtb_172:1:1a"></Anchor>
+<Anchor id="chtb_172:1:1b"></Anchor>
+<Anchor id="chtb_172:1:1c"></Anchor>
+<Anchor id="chtb_172:1:1h"></Anchor>
+<Anchor id="chtb_172:1:1i"></Anchor>
+<Anchor id="chtb_172:1:1j"></Anchor>
+<Anchor id="chtb_172:1:1k"></Anchor>
+<Anchor id="chtb_172:1:1v"></Anchor>
+<Anchor id="chtb_172:1:1w"></Anchor>
+<Anchor id="chtb_172:1:1x"></Anchor>
+<Anchor id="chtb_172:1:1y"></Anchor>
+<Anchor id="chtb_172:1:1z"></Anchor>
+<Anchor id="chtb_172:1:20"></Anchor>
+<Anchor id="chtb_172:1:23"></Anchor>
+<Anchor id="chtb_172:1:24"></Anchor>
+<Anchor id="chtb_172:1:25"></Anchor>
+<Anchor id="chtb_172:1:26"></Anchor>
+<Anchor id="chtb_172:1:27"></Anchor>
+<Anchor id="chtb_172:1:28"></Anchor>
+<Anchor id="chtb_172:1:2B"></Anchor>
+<Anchor id="chtb_172:1:2C"></Anchor>
+<Anchor id="chtb_172:1:2D"></Anchor>
+<Anchor id="chtb_172:1:2F"></Anchor>
+<Anchor id="chtb_172:1:2G"></Anchor>
+<Anchor id="chtb_172:1:2H"></Anchor>
+<Anchor id="chtb_172:1:2K"></Anchor>
+<Anchor id="chtb_172:1:2L"></Anchor>
+<Anchor id="chtb_172:1:2M"></Anchor>
+<Anchor id="chtb_172:1:2N"></Anchor>
+<Anchor id="chtb_172:1:2O"></Anchor>
+<Anchor id="chtb_172:1:2P"></Anchor>
+<Anchor id="chtb_172:1:2S"></Anchor>
+<Anchor id="chtb_172:1:2U"></Anchor>
+<Anchor id="chtb_172:1:2V"></Anchor>
+<Anchor id="chtb_172:1:2W"></Anchor>
+<Anchor id="chtb_172:1:2X"></Anchor>
+<Anchor id="chtb_172:1:2Y"></Anchor>
+<Anchor id="chtb_172:1:2Z"></Anchor>
+<Anchor id="chtb_172:1:2a"></Anchor>
+<Anchor id="chtb_172:1:2b"></Anchor>
+<Anchor id="chtb_172:1:2c"></Anchor>
+<Anchor id="chtb_172:1:2d"></Anchor>
+<Anchor id="chtb_172:1:2e"></Anchor>
+<Anchor id="chtb_172:1:2f"></Anchor>
+<Anchor id="chtb_172:1:2g"></Anchor>
+<Anchor id="chtb_172:1:2j"></Anchor>
+<Anchor id="chtb_172:1:2k"></Anchor>
+<Anchor id="chtb_172:1:2l"></Anchor>
+<Anchor id="chtb_172:1:2m"></Anchor>
+<Anchor id="chtb_172:1:2n"></Anchor>
+<Anchor id="chtb_172:1:2o"></Anchor>
+<Anchor id="chtb_172:1:2r"></Anchor>
+<Anchor id="chtb_172:1:2s"></Anchor>
+<Anchor id="chtb_172:1:2t"></Anchor>
+<Anchor id="chtb_172:1:2u"></Anchor>
+<Anchor id="chtb_172:1:2v"></Anchor>
+<Anchor id="chtb_172:1:2w"></Anchor>
+<Anchor id="chtb_172:1:2z"></Anchor>
+<Anchor id="chtb_172:1:30"></Anchor>
+<Anchor id="chtb_172:1:31"></Anchor>
+<Anchor id="chtb_172:1:32"></Anchor>
+<Anchor id="chtb_172:1:33"></Anchor>
+<Anchor id="chtb_172:1:34"></Anchor>
+<Anchor id="chtb_172:1:5"></Anchor>
+<Anchor id="chtb_172:1:6"></Anchor>
+<Anchor id="chtb_172:1:7"></Anchor>
+<Anchor id="chtb_172:1:8"></Anchor>
+<Anchor id="chtb_172:1:D"></Anchor>
+<Anchor id="chtb_172:1:F"></Anchor>
+<Anchor id="chtb_172:1:G"></Anchor>
+<Anchor id="chtb_172:1:H"></Anchor>
+<Anchor id="chtb_172:1:Q"></Anchor>
+<Anchor id="chtb_172:1:R"></Anchor>
+<Anchor id="chtb_172:1:S"></Anchor>
+<Anchor id="chtb_172:1:U"></Anchor>
+<Anchor id="chtb_172:1:Z"></Anchor>
+<Anchor id="chtb_172:1:a"></Anchor>
+<Anchor id="chtb_172:1:b"></Anchor>
+<Anchor id="chtb_172:1:c"></Anchor>
+<Anchor id="chtb_172:1:h"></Anchor>
+<Anchor id="chtb_172:1:i"></Anchor>
+<Anchor id="chtb_172:1:j"></Anchor>
+<Anchor id="chtb_172:1:k"></Anchor>
+<Anchor id="chtb_172:1:t"></Anchor>
+<Anchor id="chtb_172:1:u"></Anchor>
+<Anchor id="chtb_172:1:v"></Anchor>
+<Anchor id="chtb_172:1:w"></Anchor>
+<Annotation id="chtb_172:1:E10" type="relation_mention_argument" start="chtb_172:1:1z" end="chtb_172:1:20">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:EB</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:Ex</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E12" type="relation" start="chtb_172:1:23" end="chtb_172:1:24">
+<Feature name="id">chtb_172.eng-R1</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E13" type="relation_mention_argument" start="chtb_172:1:25" end="chtb_172:1:26">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E11</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E14" type="relation_mention_argument" start="chtb_172:1:27" end="chtb_172:1:28">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:EG</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E11</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E16" type="relation" start="chtb_172:1:2B" end="chtb_172:1:2C">
+<Feature name="id">chtb_172.eng-R2</Feature>
+<Feature name="subtype">Employ-Undetermined</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E17" type="relation_mention_argument" start="chtb_172:1:2D" end="chtb_172:1:2F">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:EK</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E15</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E18" type="relation_mention_argument" start="chtb_172:1:2G" end="chtb_172:1:2H">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:EO</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E15</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1A" type="relation" start="chtb_172:1:2K" end="chtb_172:1:2L">
+<Feature name="id">chtb_172.eng-R3</Feature>
+<Feature name="subtype">Citizen-or-Resident</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1B" type="relation_mention_argument" start="chtb_172:1:2M" end="chtb_172:1:2N">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:Ep</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E19</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1C" type="relation_mention_argument" start="chtb_172:1:2O" end="chtb_172:1:2P">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:Et</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E19</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1F" type="relation" start="chtb_172:1:2S" end="chtb_172:1:2U">
+<Feature name="id">chtb_172.eng-R4</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1G" type="relation_mention_argument" start="chtb_172:1:2V" end="chtb_172:1:2W">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:Ep</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1D</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1H" type="relation_mention_argument" start="chtb_172:1:2X" end="chtb_172:1:2Y">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:Ev</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1D</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1I" type="entity" start="chtb_172:1:2Z" end="chtb_172:1:2a">
+<Feature name="class">USP</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:E1J</Feature>
+<Feature name="id">chtb_172.eng-E1</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1J" type="composite_entity" start="chtb_172:1:2b" end="chtb_172:1:2c">
+<Feature name="composite_entity_class">USP</Feature>
+<Feature name="id">chtb_172.eng-CE1</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1N" type="relation" start="chtb_172:1:2j" end="chtb_172:1:2k">
+<Feature name="id">chtb_172.eng-R5</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1O" type="relation_mention_argument" start="chtb_172:1:2l" end="chtb_172:1:2m">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:Ed</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1M</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1P" type="relation_mention_argument" start="chtb_172:1:2n" end="chtb_172:1:2o">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:Ef</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1M</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1R" type="relation" start="chtb_172:1:2r" end="chtb_172:1:2s">
+<Feature name="id">chtb_172.eng-R6</Feature>
+<Feature name="subtype">Employ-Staff</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1S" type="relation_mention_argument" start="chtb_172:1:2t" end="chtb_172:1:2u">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:Ed</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1Q</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1U" type="relation_mention_argument" start="chtb_172:1:2v" end="chtb_172:1:2w">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:Eb</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1Q</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1W" type="relation" start="chtb_172:1:2z" end="chtb_172:1:30">
+<Feature name="id">chtb_172.eng-R7</Feature>
+<Feature name="subtype">Employ-Staff</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1X" type="relation_mention_argument" start="chtb_172:1:31" end="chtb_172:1:32">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:E5</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1V</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1Y" type="relation_mention_argument" start="chtb_172:1:33" end="chtb_172:1:34">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_172:1:Eh</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:E1V</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E3" type="entity" start="chtb_172:1:5" end="chtb_172:1:6">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:E4</Feature>
+<Feature name="id">chtb_172.eng-E2</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E4" type="composite_entity" start="chtb_172:1:7" end="chtb_172:1:8">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE2</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E7" type="entity" start="chtb_172:1:D" end="chtb_172:1:F">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:E8</Feature>
+<Feature name="id">chtb_172.eng-E3</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E8" type="composite_entity" start="chtb_172:1:G" end="chtb_172:1:H">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE3</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:ED" type="entity" start="chtb_172:1:Q" end="chtb_172:1:R">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:E4</Feature>
+<Feature name="id">chtb_172.eng-E4</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EI" type="entity" start="chtb_172:1:Z" end="chtb_172:1:a">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:EJ</Feature>
+<Feature name="id">chtb_172.eng-E5</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EJ" type="composite_entity" start="chtb_172:1:b" end="chtb_172:1:c">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE4</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EM" type="entity" start="chtb_172:1:h" end="chtb_172:1:i">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:EN</Feature>
+<Feature name="id">chtb_172.eng-E6</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EN" type="composite_entity" start="chtb_172:1:j" end="chtb_172:1:k">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE5</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:ES" type="entity" start="chtb_172:1:t" end="chtb_172:1:u">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:EJ</Feature>
+<Feature name="id">chtb_172.eng-E7</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EZ" type="entity" start="chtb_172:1:15" end="chtb_172:1:16">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:Ea</Feature>
+<Feature name="id">chtb_172.eng-E8</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ea" type="composite_entity" start="chtb_172:1:17" end="chtb_172:1:18">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE6</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ej" type="entity" start="chtb_172:1:1Q" end="chtb_172:1:1R">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:Ek</Feature>
+<Feature name="id">chtb_172.eng-E9</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ek" type="composite_entity" start="chtb_172:1:1S" end="chtb_172:1:1U">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE7</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:En" type="entity" start="chtb_172:1:1Z" end="chtb_172:1:1a">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_172:1:Eo</Feature>
+<Feature name="id">chtb_172.eng-E10</Feature>
+<Feature name="subtype">Boundary</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">LOC</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eo" type="composite_entity" start="chtb_172:1:1b" end="chtb_172:1:1c">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_172.eng-CE8</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ey" type="relation" start="chtb_172:1:1v" end="chtb_172:1:1w">
+<Feature name="id">chtb_172.eng-R8</Feature>
+<Feature name="subtype">Employ-Staff</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ez" type="relation_mention_argument" start="chtb_172:1:1x" end="chtb_172:1:1y">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_172:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_172:1:Ex</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1" type="entity_mention" start="chtb_172:1:1" end="chtb_172:1:2">
+<Feature name="entity">chtb_172:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:E2</Feature>
+<Feature name="id">2-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">The Soviet Union</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E2" type="entity_mention_head" start="chtb_172:1:3" end="chtb_172:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet Union</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EB" type="entity_mention" start="chtb_172:1:M" end="chtb_172:1:N">
+<Feature name="entity">chtb_172:1:ED</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EC</Feature>
+<Feature name="id">4-4</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EC" type="entity_mention_head" start="chtb_172:1:O" end="chtb_172:1:P">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E11" type="relation_mention" start="chtb_172:1:21" end="chtb_172:1:22">
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_172:1:E12</Feature>
+<Feature name="text">Soviet troops stationed in
+Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E9" type="entity_mention" start="chtb_172:1:I" end="chtb_172:1:J">
+<Feature name="entity">chtb_172:1:E7</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EA</Feature>
+<Feature name="id">3-3</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet troops stationed in
+Poland</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ex" type="relation_mention" start="chtb_172:1:1t" end="chtb_172:1:1u">
+<Feature name="id">8-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_172:1:Ey</Feature>
+<Feature name="text">Soviet troops stationed in
+Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EA" type="entity_mention_head" start="chtb_172:1:K" end="chtb_172:1:L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">troops</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EG" type="entity_mention" start="chtb_172:1:V" end="chtb_172:1:W">
+<Feature name="entity">chtb_172:1:EI</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EH</Feature>
+<Feature name="id">5-5</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Poland</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EH" type="entity_mention_head" start="chtb_172:1:X" end="chtb_172:1:Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EO" type="entity_mention" start="chtb_172:1:l" end="chtb_172:1:m">
+<Feature name="entity">chtb_172:1:ED</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EP</Feature>
+<Feature name="id">4-7</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EP" type="entity_mention_head" start="chtb_172:1:n" end="chtb_172:1:o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E15" type="relation_mention" start="chtb_172:1:29" end="chtb_172:1:2A">
+<Feature name="id">2-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_172:1:E16</Feature>
+<Feature name="text">Soviet side</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EK" type="entity_mention" start="chtb_172:1:d" end="chtb_172:1:e">
+<Feature name="entity">chtb_172:1:EM</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EL</Feature>
+<Feature name="id">6-6</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet side</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EL" type="entity_mention_head" start="chtb_172:1:f" end="chtb_172:1:g">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">side</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EQ" type="entity_mention" start="chtb_172:1:p" end="chtb_172:1:q">
+<Feature name="entity">chtb_172:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:ER</Feature>
+<Feature name="id">7-8</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Polish</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:ER" type="entity_mention_head" start="chtb_172:1:r" end="chtb_172:1:s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Polish</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EV" type="entity_mention" start="chtb_172:1:x" end="chtb_172:1:y">
+<Feature name="entity">chtb_172:1:ED</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EW</Feature>
+<Feature name="id">4-9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EW" type="entity_mention_head" start="chtb_172:1:z" end="chtb_172:1:10">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EX" type="entity_mention" start="chtb_172:1:11" end="chtb_172:1:12">
+<Feature name="entity">chtb_172:1:EZ</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:EY</Feature>
+<Feature name="id">8-10</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Warsaw</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:EY" type="entity_mention_head" start="chtb_172:1:13" end="chtb_172:1:14">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Warsaw</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eb" type="entity_mention" start="chtb_172:1:19" end="chtb_172:1:1A">
+<Feature name="entity">chtb_172:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Ec</Feature>
+<Feature name="id">2-11</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Soviet
+Union</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1M" type="relation_mention" start="chtb_172:1:2h" end="chtb_172:1:2i">
+<Feature name="id">4-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_172:1:E1F</Feature>
+<Feature name="text">the Soviet
+Union withdrawing troops from Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1Q" type="relation_mention" start="chtb_172:1:2p" end="chtb_172:1:2q">
+<Feature name="id">6-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_172:1:E1R</Feature>
+<Feature name="text">the Soviet
+Union withdrawing troops from Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ec" type="entity_mention_head" start="chtb_172:1:1B" end="chtb_172:1:1C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet
+Union</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ed" type="entity_mention" start="chtb_172:1:1D" end="chtb_172:1:1F">
+<Feature name="entity">chtb_172:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Ee</Feature>
+<Feature name="id">1-12</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">troops</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ee" type="entity_mention_head" start="chtb_172:1:1G" end="chtb_172:1:1H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">troops</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ef" type="entity_mention" start="chtb_172:1:1I" end="chtb_172:1:1J">
+<Feature name="entity">chtb_172:1:EI</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Eg</Feature>
+<Feature name="id">5-13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Poland</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eg" type="entity_mention_head" start="chtb_172:1:1K" end="chtb_172:1:1L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eh" type="entity_mention" start="chtb_172:1:1M" end="chtb_172:1:1N">
+<Feature name="entity">chtb_172:1:Ej</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Ei</Feature>
+<Feature name="id">9-14</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Russia</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ei" type="entity_mention_head" start="chtb_172:1:1O" end="chtb_172:1:1P">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Russia</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1V" type="relation_mention" start="chtb_172:1:2x" end="chtb_172:1:2y">
+<Feature name="id">7-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Possessive</Feature>
+<Feature name="relation">chtb_172:1:E1W</Feature>
+<Feature name="text">Russia's troops</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E5" type="entity_mention" start="chtb_172:1:9" end="chtb_172:1:A">
+<Feature name="entity">chtb_172:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:E6</Feature>
+<Feature name="id">1-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Russia's troops</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E6" type="entity_mention_head" start="chtb_172:1:B" end="chtb_172:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">troops</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:El" type="entity_mention" start="chtb_172:1:1V" end="chtb_172:1:1W">
+<Feature name="entity">chtb_172:1:En</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Em</Feature>
+<Feature name="id">10-15</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the border</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Em" type="entity_mention_head" start="chtb_172:1:1X" end="chtb_172:1:1Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">border</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E19" type="relation_mention" start="chtb_172:1:2I" end="chtb_172:1:2J">
+<Feature name="id">3-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_172:1:E1A</Feature>
+<Feature name="text">about 50,000 Soviet troops stationed in Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:E1D" type="relation_mention" start="chtb_172:1:2Q" end="chtb_172:1:2R">
+<Feature name="id">4-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_172:1:E1F</Feature>
+<Feature name="text">about 50,000 Soviet troops stationed in Poland</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ep" type="entity_mention" start="chtb_172:1:1d" end="chtb_172:1:1e">
+<Feature name="entity">chtb_172:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Eq</Feature>
+<Feature name="id">1-16</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">about 50,000 Soviet troops stationed in Poland</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Et" type="entity_mention" start="chtb_172:1:1l" end="chtb_172:1:1m">
+<Feature name="entity">chtb_172:1:ED</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Eu</Feature>
+<Feature name="id">4-17</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Soviet</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eu" type="entity_mention_head" start="chtb_172:1:1n" end="chtb_172:1:1o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Soviet</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Eq" type="entity_mention_head" start="chtb_172:1:1f" end="chtb_172:1:1g">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">troops</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ev" type="entity_mention" start="chtb_172:1:1p" end="chtb_172:1:1q">
+<Feature name="entity">chtb_172:1:EI</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_172:1:Ew</Feature>
+<Feature name="id">5-18</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Poland</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_172:1:Ew" type="entity_mention_head" start="chtb_172:1:1r" end="chtb_172:1:1s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Poland</Feature>
+</Annotation>
+</AG>
+</AGSet>

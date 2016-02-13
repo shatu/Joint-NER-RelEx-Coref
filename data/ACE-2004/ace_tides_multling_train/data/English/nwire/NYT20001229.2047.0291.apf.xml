@@ -1,0 +1,1457 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001229.2047.0291.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001229.2047.0291">
+<entity ID="NYT20001229.2047.0291-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="1-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1313" END="1320">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="1313" END="1320">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-52" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2882" END="2895">New York state</charseq>
+    </extent>
+    <head>
+      <charseq START="2882" END="2889">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-56" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2987" END="2995">the state</charseq>
+    </extent>
+    <head>
+      <charseq START="2991" END="2995">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-59" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3146" END="3153">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="3146" END="3153">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-109" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1046" END="1053">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1053">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1313" END="1320">New York</charseq>
+    </name>
+    <name>
+      <charseq START="2882" END="2889">New York</charseq>
+    </name>
+    <name>
+      <charseq START="3146" END="3153">New York</charseq>
+    </name>
+    <name>
+      <charseq START="1046" END="1053">New York</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1060" END="1099">other,
+smaller states that went for Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1075" END="1080">states</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-3" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="1082" END="1085">that</charseq>
+    </extent>
+    <head>
+      <charseq START="1082" END="1085">that</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1107" END="1271">Curtis B. Gans of the
+Committee for the Study of the American Electorate, a nonpartisan
+research group that has followed presidential elections for a
+quarter-century</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1120">Curtis B. Gans</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1677" END="1680">Gans</charseq>
+    </extent>
+    <head>
+      <charseq START="1677" END="1680">Gans</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1943" END="1946">Gans</charseq>
+    </extent>
+    <head>
+      <charseq START="1943" END="1946">Gans</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1677" END="1680">Gans</charseq>
+    </name>
+    <name>
+      <charseq START="1943" END="1946">Gans</charseq>
+    </name>
+    <name>
+      <charseq START="1107" END="1120">Curtis B. Gans</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E4" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1125" END="1178">the
+Committee for the Study of the American Electorate</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1178">Committee for the Study of the American Electorate</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1181" END="1271">a nonpartisan
+research group that has followed presidential elections for a
+quarter-century</charseq>
+    </extent>
+    <head>
+      <charseq START="1204" END="1208">group</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-8" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="1210" END="1213">that</charseq>
+    </extent>
+    <head>
+      <charseq START="1210" END="1213">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1129" END="1178">Committee for the Study of the American Electorate</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1276" END="1320">Election officials in California and New York</charseq>
+    </extent>
+    <head>
+      <charseq START="1285" END="1293">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="7-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1406" END="1420">both
+big states</charseq>
+    </extent>
+    <head>
+      <charseq START="1415" END="1420">states</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1430" END="1440">Both states</charseq>
+    </extent>
+    <head>
+      <charseq START="1435" END="1440">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E8" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="8-17" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1450" END="1457">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="1450" END="1457">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1524" END="1531">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="1524" END="1531">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1622" END="1634">the absentees</charseq>
+    </extent>
+    <head>
+      <charseq START="1626" END="1634">absentees</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-25" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1797" END="1804">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="1797" END="1804">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-74" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3667" END="3674">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="3667" END="3674">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-87" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3985" END="3992">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="3985" END="3992">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-92" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="4111" END="4118">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="4111" END="4118">absentee</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1701" END="1717">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="1711" END="1717">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-23" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1701" END="1709">President</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1709">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1969" END="1981">the incumbent</charseq>
+    </extent>
+    <head>
+      <charseq START="1973" END="1981">incumbent</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1711" END="1717">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1731" END="1738">Bob Dole</charseq>
+    </extent>
+    <head>
+      <charseq START="1731" END="1738">Bob Dole</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1731" END="1738">Bob Dole</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E14" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="14-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1891" END="1912">political trivia buffs</charseq>
+    </extent>
+    <head>
+      <charseq START="1908" END="1912">buffs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2722" END="2742">the Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="2726" END="2742">Electoral College</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="593" END="613">the Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="613">Electoral College</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="597" END="613">Electoral College</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2114" END="2128">John F. Kennedy</charseq>
+    </extent>
+    <head>
+      <charseq START="2114" END="2128">John F. Kennedy</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2114" END="2128">John F. Kennedy</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2209" END="2221">Richard Nixon</charseq>
+    </extent>
+    <head>
+      <charseq START="2209" END="2221">Richard Nixon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2297" END="2301">Nixon</charseq>
+    </extent>
+    <head>
+      <charseq START="2297" END="2301">Nixon</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2209" END="2221">Richard Nixon</charseq>
+    </name>
+    <name>
+      <charseq START="2297" END="2301">Nixon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E18" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="18-32" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2268" END="2276">president</charseq>
+    </extent>
+    <head>
+      <charseq START="2268" END="2276">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-35" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2401" END="2409">president</charseq>
+    </extent>
+    <head>
+      <charseq START="2401" END="2409">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2534" END="2548">the White House</charseq>
+    </extent>
+    <head>
+      <charseq START="2538" END="2548">White House</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2538" END="2548">White House</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2307" END="2327">the Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="2311" END="2327">Electoral College</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2311" END="2327">Electoral College</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E20" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="20-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2498" END="2527">the leader in the popular vote</charseq>
+    </extent>
+    <head>
+      <charseq START="2502" END="2507">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2558" END="2560">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2558" END="2560">his</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E21" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="21-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2584" END="2604">the Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="2588" END="2604">Electoral College</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2588" END="2604">Electoral College</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2558" END="2569">his opponent</charseq>
+    </extent>
+    <head>
+      <charseq START="2562" END="2569">opponent</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="23-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="442" END="451">WASHINGTON</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="451">WASHINGTON</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2751" END="2766">Washington, D.C.</charseq>
+    </extent>
+    <head>
+      <charseq START="2751" END="2766">Washington, D.C.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-49" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2810" END="2833">the
+District of Columbia</charseq>
+    </extent>
+    <head>
+      <charseq START="2814" END="2833">District of Columbia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2751" END="2766">Washington, D.C.</charseq>
+    </name>
+    <name>
+      <charseq START="2814" END="2833">District of Columbia</charseq>
+    </name>
+    <name>
+      <charseq START="442" END="451">WASHINGTON</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2749" END="2775">a
+Washington, D.C., elector</charseq>
+    </extent>
+    <head>
+      <charseq START="2769" END="2775">elector</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2782" END="2784">her</charseq>
+    </extent>
+    <head>
+      <charseq START="2782" END="2784">her</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="26-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2861" END="2868">Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="2861" END="2868">Congress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2861" END="2868">Congress</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2949" END="2960">Lee Daghlian</charseq>
+    </extent>
+    <head>
+      <charseq START="2949" END="2960">Lee Daghlian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-54" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2963" END="3016">the chief spokesman for the state's Board of
+Elections</charseq>
+    </extent>
+    <head>
+      <charseq START="2973" END="2981">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3290" END="3297">Daghlian</charseq>
+    </extent>
+    <head>
+      <charseq START="3290" END="3297">Daghlian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-63" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3375" END="3376">He</charseq>
+    </extent>
+    <head>
+      <charseq START="3375" END="3376">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2949" END="2960">Lee Daghlian</charseq>
+    </name>
+    <name>
+      <charseq START="3290" END="3297">Daghlian</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E29" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="29-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2987" END="3016">the state's Board of
+Elections</charseq>
+    </extent>
+    <head>
+      <charseq START="2999" END="3016">Board of
+Elections</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2999" END="3016">Board of
+Elections</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E30" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="30-58" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3050" END="3057">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="3050" END="3057">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-60" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3156" END="3163">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="3156" END="3163">absentee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-62" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3304" END="3311">absentee</charseq>
+    </extent>
+    <head>
+      <charseq START="3304" END="3311">absentee</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-64" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3410" END="3445">Sen. Joseph
+Lieberman of Connecticut</charseq>
+    </extent>
+    <head>
+      <charseq START="3415" END="3430">Joseph
+Lieberman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-65" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3410" END="3413">Sen.</charseq>
+    </extent>
+    <head>
+      <charseq START="3410" END="3413">Sen.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3415" END="3430">Joseph
+Lieberman</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E33" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="33-66" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3435" END="3445">Connecticut</charseq>
+    </extent>
+    <head>
+      <charseq START="3435" END="3445">Connecticut</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3435" END="3445">Connecticut</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3450" END="3470">the Democratic ticket</charseq>
+    </extent>
+    <head>
+      <charseq START="3465" END="3470">ticket</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E35" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="35-68" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3454" END="3463">Democratic</charseq>
+    </extent>
+    <head>
+      <charseq START="3454" END="3463">Democratic</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E36" TYPE="PER" CLASS="USP">
+  <entity_mention ID="36-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3490" END="3507">more American Jews</charseq>
+    </extent>
+    <head>
+      <charseq START="3504" END="3507">Jews</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="37-70" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3495" END="3502">American</charseq>
+    </extent>
+    <head>
+      <charseq START="3495" END="3502">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-100" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="682" END="698">the United States</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="698">United States</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="686" END="698">United States</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="38-71" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3530" END="3535">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="3530" END="3535">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3530" END="3535">Israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-79" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3861" END="3873">Alfie Charles</charseq>
+    </extent>
+    <head>
+      <charseq START="3861" END="3873">Alfie Charles</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-80" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3876" END="3936">a spokesman for the California
+secretary of state, Bill Jones</charseq>
+    </extent>
+    <head>
+      <charseq START="3878" END="3886">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3861" END="3873">Alfie Charles</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E41" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="41-83" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3892" END="3924">the California
+secretary of state</charseq>
+    </extent>
+    <head>
+      <charseq START="3907" END="3915">secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-85" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3927" END="3936">Bill Jones</charseq>
+    </extent>
+    <head>
+      <charseq START="3927" END="3936">Bill Jones</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3927" END="3936">Bill Jones</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E42" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="42-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1298" END="1307">California</charseq>
+    </extent>
+    <head>
+      <charseq START="1298" END="1307">California</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-73" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3593" END="3602">California</charseq>
+    </extent>
+    <head>
+      <charseq START="3593" END="3602">California</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-76" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3802" END="3811">California</charseq>
+    </extent>
+    <head>
+      <charseq START="3802" END="3811">California</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-84" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3896" END="3905">California</charseq>
+    </extent>
+    <head>
+      <charseq START="3896" END="3905">California</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-86" TYPE="NOM" LDCTYPE="BAR" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="3962" END="3973">Californians</charseq>
+    </extent>
+    <head>
+      <charseq START="3962" END="3973">Californians</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-89" TYPE="NOM" LDCTYPE="BAR" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="4058" END="4099">Californians, unlike people in some states</charseq>
+    </extent>
+    <head>
+      <charseq START="4058" END="4069">Californians</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-93" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="4157" END="4161">Their</charseq>
+    </extent>
+    <head>
+      <charseq START="4157" END="4161">Their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-108" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1034" END="1043">California</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1043">California</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3593" END="3602">California</charseq>
+    </name>
+    <name>
+      <charseq START="3802" END="3811">California</charseq>
+    </name>
+    <name>
+      <charseq START="1034" END="1043">California</charseq>
+    </name>
+    <name>
+      <charseq START="1298" END="1307">California</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E44" TYPE="PER" CLASS="USP">
+  <entity_mention ID="44-88" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="4037" END="4047">one-quarter</charseq>
+    </extent>
+    <head>
+      <charseq START="4037" END="4047">one-quarter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E45" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="45-90" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4079" END="4099">people in some states</charseq>
+    </extent>
+    <head>
+      <charseq START="4079" END="4084">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E46" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="46-91" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="4089" END="4099">some states</charseq>
+    </extent>
+    <head>
+      <charseq START="4094" END="4099">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E47" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="47-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2054" END="2088">the all-important Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="2072" END="2088">Electoral College</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E48" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="48-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1096" END="1099">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1099">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1362" END="1365">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1362" END="1365">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1393" END="1396">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1393" END="1396">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1648" END="1665">the vice president</charseq>
+    </extent>
+    <head>
+      <charseq START="1657" END="1665">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2695" END="2868">Gore, who lost one vote in the Electoral College when a
+Washington, D.C., elector left her ballot blank to protest the
+District of Columbia's lack of voting power in Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="2695" END="2698">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-44" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="2701" END="2703">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2701" END="2703">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2873" END="2876">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2873" END="2876">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-72" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3576" END="3579">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="3576" END="3579">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3742" END="3744">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3742" END="3744">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3832" END="3835">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="3832" END="3835">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-82" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="455" END="476">Vice President Al Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="476">Al Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-94" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="455" END="468">Vice President</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="468">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-96" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="622" END="624">his</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="624">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-105" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="786" END="789">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="789">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-106" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="973" END="976">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="973" END="976">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1362" END="1365">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="1393" END="1396">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="2695" END="2698">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="2873" END="2876">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="3576" END="3579">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="3832" END="3835">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="470" END="476">Al Gore</charseq>
+    </name>
+    <name>
+      <charseq START="786" END="789">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="973" END="976">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="1096" END="1099">Gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E50" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="50-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2607" END="2610">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="2607" END="2610">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2651" END="2652">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2651" END="2652">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-78" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3855" END="3858">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="3855" END="3858">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-97" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="640" END="658">Gov.
+George W. Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="658">George W. Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-98" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="640" END="643">Gov.</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="643">Gov.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-99" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="660" END="698">the 43rd president of the United States</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="677">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-107" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="997" END="1000">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="997" END="1000">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2607" END="2610">Bush</charseq>
+    </name>
+    <name>
+      <charseq START="3855" END="3858">Bush</charseq>
+    </name>
+    <name>
+      <charseq START="645" END="658">George W. Bush</charseq>
+    </name>
+    <name>
+      <charseq START="997" END="1000">Bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001229.2047.0291-E54" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="54-102" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="705" END="709">state</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="709">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E55" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="55-103" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="714" END="718">state</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="718">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001229.2047.0291-E56" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="56-104" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="730" END="749">The Associated Press</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="749">Associated Press</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="734" END="749">Associated Press</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001229.2047.0291-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E50" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E37" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="660" END="698">the 43rd president of the United States</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="50-99" ARGNUM="1">
+      <extent>
+        <charseq START="660" END="698">the 43rd president of the United States</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-100" ARGNUM="2">
+      <extent>
+        <charseq START="682" END="698">the United States</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E4" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1107" END="1271">Curtis B. Gans of the
+Committee for the Study of the American Electorate, a nonpartisan
+research group that has followed presidential elections for a
+quarter-century</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="1107" END="1271">Curtis B. Gans of the
+Committee for the Study of the American Electorate, a nonpartisan
+research group that has followed presidential elections for a
+quarter-century</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="1125" END="1178">the
+Committee for the Study of the American Electorate</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E42" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1276" END="1320">Election officials in California and New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="1276" END="1320">Election officials in California and New York</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-11" ARGNUM="2">
+      <extent>
+        <charseq START="1298" END="1307">California</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1276" END="1320">Election officials in California and New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="1276" END="1320">Election officials in California and New York</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-12" ARGNUM="2">
+      <extent>
+        <charseq START="1313" END="1320">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R5" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E22" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2558" END="2569">his opponent</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-38" ARGNUM="1">
+      <extent>
+        <charseq START="2558" END="2560">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-40" ARGNUM="2">
+      <extent>
+        <charseq START="2558" END="2569">his opponent</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E23" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2749" END="2775">a
+Washington, D.C., elector</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-46" ARGNUM="1">
+      <extent>
+        <charseq START="2749" END="2775">a
+Washington, D.C., elector</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-47" ARGNUM="2">
+      <extent>
+        <charseq START="2751" END="2766">Washington, D.C.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E29" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2963" END="3016">the chief spokesman for the state's Board of
+Elections</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-54" ARGNUM="1">
+      <extent>
+        <charseq START="2963" END="3016">the chief spokesman for the state's Board of
+Elections</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-55" ARGNUM="2">
+      <extent>
+        <charseq START="2987" END="3016">the state's Board of
+Elections</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E1" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2987" END="3016">the state's Board of
+Elections</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-55" ARGNUM="1">
+      <extent>
+        <charseq START="2987" END="3016">the state's Board of
+Elections</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-56" ARGNUM="2">
+      <extent>
+        <charseq START="2987" END="2995">the state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R9" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E33" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3410" END="3445">Sen. Joseph
+Lieberman of Connecticut</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-64" ARGNUM="1">
+      <extent>
+        <charseq START="3410" END="3445">Sen. Joseph
+Lieberman of Connecticut</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-66" ARGNUM="2">
+      <extent>
+        <charseq START="3435" END="3445">Connecticut</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R10" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E35" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3450" END="3470">the Democratic ticket</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-67" ARGNUM="1">
+      <extent>
+        <charseq START="3450" END="3470">the Democratic ticket</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-68" ARGNUM="2">
+      <extent>
+        <charseq START="3454" END="3463">Democratic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R11" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E37" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3490" END="3507">more American Jews</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-69" ARGNUM="1">
+      <extent>
+        <charseq START="3490" END="3507">more American Jews</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-70" ARGNUM="2">
+      <extent>
+        <charseq START="3495" END="3502">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E38" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3490" END="3535">more American Jews to mail ballots from Israel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-69" ARGNUM="1">
+      <extent>
+        <charseq START="3490" END="3507">more American Jews</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-71" ARGNUM="2">
+      <extent>
+        <charseq START="3530" END="3535">Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R13" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E41" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3876" END="3936">a spokesman for the California
+secretary of state, Bill Jones</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-80" ARGNUM="1">
+      <extent>
+        <charseq START="3876" END="3936">a spokesman for the California
+secretary of state, Bill Jones</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-83" ARGNUM="2">
+      <extent>
+        <charseq START="3892" END="3924">the California
+secretary of state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E41" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E42" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3892" END="3924">the California
+secretary of state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="41-83" ARGNUM="1">
+      <extent>
+        <charseq START="3892" END="3924">the California
+secretary of state</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-84" ARGNUM="2">
+      <extent>
+        <charseq START="3896" END="3905">California</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001229.2047.0291-R15" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E45" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001229.2047.0291-E46" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="4079" END="4099">people in some states</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-90" ARGNUM="1">
+      <extent>
+        <charseq START="4079" END="4099">people in some states</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="46-91" ARGNUM="2">
+      <extent>
+        <charseq START="4089" END="4099">some states</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

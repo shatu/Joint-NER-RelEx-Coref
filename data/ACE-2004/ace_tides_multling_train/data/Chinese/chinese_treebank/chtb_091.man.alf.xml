@@ -1,0 +1,998 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_091.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_091.man">
+<composite_entity ID="chtb_091.man-CE1">
+  <entity ID="chtb_091.man-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="481" END="493">五十多个国家和地区的投资商</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="493">投资商</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-13" TYPE="NOM">
+      <extent>
+        <charseq START="575" END="576">外商</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="576">外商</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE2">
+  <entity ID="chtb_091.man-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="EPM" ROLE="GPE">
+      <extent>
+        <charseq START="481" END="489">五十多个国家和地区</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="489">五十多个国家和地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-4" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="485" END="489">国家和地区</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="489">国家和地区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE3">
+  <entity ID="chtb_091.man-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-5" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="485" END="486">国家</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="486">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE4">
+  <entity ID="chtb_091.man-E4" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="4-6" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="488" END="489">地区</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="489">地区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE5">
+  <entity ID="chtb_091.man-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+      <head>
+        <charseq START="548" END="549">公司</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE6">
+  <entity ID="chtb_091.man-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="PMM">
+      <extent>
+        <charseq START="505" END="542">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="542">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE7">
+  <entity ID="chtb_091.man-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-9" TYPE="NAM">
+      <extent>
+        <charseq START="505" END="511">美国英特尔公司</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="511">英特尔公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="507" END="511">英特尔公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE8">
+  <entity ID="chtb_091.man-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-29" TYPE="NAM">
+      <extent>
+        <charseq START="513" END="518">英国罗罗公司</charseq>
+      </extent>
+      <head>
+        <charseq START="515" END="518">罗罗公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="515" END="518">罗罗公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE9">
+  <entity ID="chtb_091.man-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="9-10" TYPE="PCN">
+      <extent>
+        <charseq START="655" END="656">工业</charseq>
+      </extent>
+      <head>
+        <charseq START="655" END="656">工业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE10">
+  <entity ID="chtb_091.man-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-31" TYPE="NAM">
+      <extent>
+        <charseq START="520" END="525">韩国大宇公司</charseq>
+      </extent>
+      <head>
+        <charseq START="522" END="525">大宇公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="522" END="525">大宇公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE11">
+  <entity ID="chtb_091.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-33" TYPE="NAM">
+      <extent>
+        <charseq START="527" END="533">德国西门子公司</charseq>
+      </extent>
+      <head>
+        <charseq START="529" END="533">西门子公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="529" END="533">西门子公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE12">
+  <entity ID="chtb_091.man-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-35" TYPE="NAM">
+      <extent>
+        <charseq START="536" END="542">荷兰ＭＥＰ公司</charseq>
+      </extent>
+      <head>
+        <charseq START="538" END="542">ＭＥＰ公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="538" END="542">ＭＥＰ公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE13">
+  <entity ID="chtb_091.man-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-12" TYPE="NOM">
+      <extent>
+        <charseq START="560" END="567">合资或独资公
+司</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="567">公
+司</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE14">
+  <entity ID="chtb_091.man-E14" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="14-15" TYPE="NAM">
+      <extent>
+        <charseq START="587" END="590">关中平原</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="590">关中平原</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="587" END="590">关中平原</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE15">
+  <entity ID="chtb_091.man-E15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="15-16" TYPE="PMM">
+      <extent>
+        <charseq START="594" END="605">陕南山区和陕北黄
+土高原</charseq>
+      </extent>
+      <head>
+        <charseq START="594" END="605">陕南山区和陕北黄
+土高原</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE16">
+  <entity ID="chtb_091.man-E16" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="16-17" TYPE="NOM">
+      <extent>
+        <charseq START="594" END="597">陕南山区</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="597">山区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE17">
+  <entity ID="chtb_091.man-E17" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="17-18" TYPE="NOM">
+      <extent>
+        <charseq START="594" END="595">陕南</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="595">南</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE18">
+  <entity ID="chtb_091.man-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="18-20" TYPE="NOM">
+      <extent>
+        <charseq START="608" END="612">三资”企业</charseq>
+      </extent>
+      <head>
+        <charseq START="611" END="612">企业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE19">
+  <entity ID="chtb_091.man-E19" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="19-21" TYPE="NAM">
+      <extent>
+        <charseq START="599" END="605">陕北黄
+土高原</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="605">黄
+土高原</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="601" END="605">黄
+土高原</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE20">
+  <entity ID="chtb_091.man-E20" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="20-22" TYPE="NAM">
+      <extent>
+        <charseq START="599" END="600">陕北</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="600">陕北</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="599" END="600">陕北</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE21">
+  <entity ID="chtb_091.man-E21" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="21-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="615" END="620">全省十个地市</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="620">地市</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE22">
+  <entity ID="chtb_091.man-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="22-25" TYPE="NOM">
+      <extent>
+        <charseq START="628" END="651">电子、医药
+、食品、房地产和汽车制造等十多个行业</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="651">行业</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-26" TYPE="PRO">
+      <extent>
+        <charseq START="653" END="653">其</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="653">其</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE23">
+  <entity ID="chtb_091.man-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="23-27" TYPE="NOM">
+      <extent>
+        <charseq START="655" END="658">工业企业</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="658">企业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE24">
+  <entity ID="chtb_091.man-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="505" END="506">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="506">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="505" END="506">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE25">
+  <entity ID="chtb_091.man-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="26-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="513" END="514">英国</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="514">英国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="513" END="514">英国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE26">
+  <entity ID="chtb_091.man-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="27-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="520" END="521">韩国</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="521">韩国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="520" END="521">韩国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE27">
+  <entity ID="chtb_091.man-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="28-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="527" END="528">德国</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="528">德国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="527" END="528">德国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE28">
+  <entity ID="chtb_091.man-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="29-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="536" END="537">荷兰</charseq>
+      </extent>
+      <head>
+        <charseq START="536" END="537">荷兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="536" END="537">荷兰</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE29">
+  <entity ID="chtb_091.man-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="24-1" TYPE="NAM">
+      <extent>
+        <charseq START="61" END="63">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="63">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="61" END="63">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE30">
+  <entity ID="chtb_091.man-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="30-37" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="64" END="65">西安</charseq>
+      </extent>
+      <head>
+        <charseq START="64" END="65">西安</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="64" END="65">西安</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE31">
+  <entity ID="chtb_091.man-E31" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="31-38" TYPE="APP">
+      <extent>
+        <charseq START="72" END="76">记者彭少阳</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="31-39" TYPE="NAM">
+      <extent>
+        <charseq START="74" END="76">彭少阳</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="76">彭少阳</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="76">彭少阳</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_091.man-E32" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="32-40" TYPE="NOM">
+      <extent>
+        <charseq START="72" END="73">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="73">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE32">
+  <entity ID="chtb_091.man-E33" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="33-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="555" END="556">陕西</charseq>
+      </extent>
+      <head>
+        <charseq START="555" END="556">陕西</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="578" END="579">陕西</charseq>
+      </extent>
+      <head>
+        <charseq START="578" END="579">陕西</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="594" END="594">陕</charseq>
+      </extent>
+      <head>
+        <charseq START="594" END="594">陕</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-24" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="615" END="616">全省</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="616">全省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="80" END="82">陕西省</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="82">陕西省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-45" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="160" END="162">陕西省</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="162">陕西省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-50" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="423" END="424">全省</charseq>
+      </extent>
+      <head>
+        <charseq START="423" END="424">全省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-51" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="439" END="441">陕西省</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="441">陕西省</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="555" END="556">陕西</charseq>
+      </name>
+      <name>
+        <charseq START="578" END="579">陕西</charseq>
+      </name>
+      <name>
+        <charseq START="594" END="594">陕</charseq>
+      </name>
+      <name>
+        <charseq START="80" END="82">陕西省</charseq>
+      </name>
+      <name>
+        <charseq START="160" END="162">陕西省</charseq>
+      </name>
+      <name>
+        <charseq START="439" END="441">陕西省</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE33">
+  <entity ID="chtb_091.man-E34" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="34-42" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="139" END="145">中国西北五省区</charseq>
+      </extent>
+      <head>
+        <charseq START="144" END="145">省区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE34">
+  <entity ID="chtb_091.man-E35" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="35-43" TYPE="NOM">
+      <extent>
+        <charseq START="139" END="142">中国西北</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="142">西北</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE35">
+  <entity ID="chtb_091.man-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="36-44" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="139" END="140">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="140">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="139" END="140">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE36">
+  <entity ID="chtb_091.man-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="37-46" TYPE="NOM">
+      <extent>
+        <charseq START="180" END="181">外商</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="181">外商</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE37">
+  <entity ID="chtb_091.man-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="38-47" TYPE="NOM">
+      <extent>
+        <charseq START="337" END="349">外贸、工商、税务等有关部门</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="349">部门</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE38">
+  <entity ID="chtb_091.man-E39" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="39-48" TYPE="PCN">
+      <extent>
+        <charseq START="365" END="367">投资者</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="367">投资者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE39">
+  <entity ID="chtb_091.man-E40" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="40-49" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="384" END="385">国际</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="385">国际</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_091.man-CE40">
+  <entity ID="chtb_091.man-E41" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="41-52" TYPE="NOM">
+      <extent>
+        <charseq START="455" END="458">大批外商</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="458">外商</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_091.man-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="511">美国英特尔公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E7" ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="505" END="511">美国英特尔公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E25" ENTITYMENTIONID="25-28" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="506">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="61" END="65">新华社西安</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E24" ENTITYMENTIONID="24-1" ARGNUM="1">
+      <extent>
+        <charseq START="61" END="63">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E30" ENTITYMENTIONID="30-37" ARGNUM="2">
+      <extent>
+        <charseq START="64" END="65">西安</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="145">中国西北五省区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E34" ENTITYMENTIONID="34-42" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="145">中国西北五省区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E35" ENTITYMENTIONID="35-43" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="142">中国西北</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="142">中国西北</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E35" ENTITYMENTIONID="35-43" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="142">中国西北</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E36" ENTITYMENTIONID="36-44" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="140">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="481" END="493">五十多个国家和地区的投资商</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="481" END="493">五十多个国家和地区的投资商</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E3" ENTITYMENTIONID="3-5" ARGNUM="2">
+      <extent>
+        <charseq START="485" END="486">国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E7" ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="505" END="511">美国英特尔公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R7" TYPE="DISC">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E8" ENTITYMENTIONID="8-29" ARGNUM="1">
+      <extent>
+        <charseq START="513" END="518">英国罗罗公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E10" ENTITYMENTIONID="10-31" ARGNUM="1">
+      <extent>
+        <charseq START="520" END="525">韩国大宇公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R9" TYPE="DISC">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E11" ENTITYMENTIONID="11-33" ARGNUM="1">
+      <extent>
+        <charseq START="527" END="533">德国西门子公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R10" TYPE="DISC">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E12" ENTITYMENTIONID="12-35" ARGNUM="1">
+      <extent>
+        <charseq START="536" END="542">荷兰ＭＥＰ公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="549">美国英特尔公司、英国罗罗公司、韩国大宇公司、德国西门子公司、
+荷兰ＭＥＰ公司等一批跨国公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="11-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="554" END="567">在陕西建立了合资或独资公
+司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E13" ENTITYMENTIONID="13-12" ARGNUM="1">
+      <extent>
+        <charseq START="560" END="567">合资或独资公
+司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E33" ENTITYMENTIONID="33-11" ARGNUM="2">
+      <extent>
+        <charseq START="555" END="556">陕西</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="615" END="620">全省十个地市</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E21" ENTITYMENTIONID="21-23" ARGNUM="1">
+      <extent>
+        <charseq START="615" END="620">全省十个地市</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E33" ENTITYMENTIONID="33-24" ARGNUM="2">
+      <extent>
+        <charseq START="615" END="616">全省</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R13" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="513" END="518">英国罗罗公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E8" ENTITYMENTIONID="8-29" ARGNUM="1">
+      <extent>
+        <charseq START="513" END="518">英国罗罗公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E26" ENTITYMENTIONID="26-30" ARGNUM="2">
+      <extent>
+        <charseq START="513" END="514">英国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R14" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="520" END="525">韩国大宇公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E10" ENTITYMENTIONID="10-31" ARGNUM="1">
+      <extent>
+        <charseq START="520" END="525">韩国大宇公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E27" ENTITYMENTIONID="27-32" ARGNUM="2">
+      <extent>
+        <charseq START="520" END="521">韩国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R15" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="527" END="533">德国西门子公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E11" ENTITYMENTIONID="11-33" ARGNUM="1">
+      <extent>
+        <charseq START="527" END="533">德国西门子公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E28" ENTITYMENTIONID="28-34" ARGNUM="2">
+      <extent>
+        <charseq START="527" END="528">德国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R16" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="536" END="542">荷兰ＭＥＰ公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E12" ENTITYMENTIONID="12-35" ARGNUM="1">
+      <extent>
+        <charseq START="536" END="542">荷兰ＭＥＰ公司</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E29" ENTITYMENTIONID="29-36" ARGNUM="2">
+      <extent>
+        <charseq START="536" END="537">荷兰</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_091.man-R17" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="481" END="493">五十多个国家和地区的投资商</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_091.man-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="481" END="493">五十多个国家和地区的投资商</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_091.man-E4" ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="488" END="489">地区</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

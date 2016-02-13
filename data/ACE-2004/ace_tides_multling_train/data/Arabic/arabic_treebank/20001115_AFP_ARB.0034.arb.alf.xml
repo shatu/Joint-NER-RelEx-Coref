@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0034.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0034.arb">
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE1">
+  <entity ID="20001115_AFP_ARB.0034.arb-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="354" END="366">الامم المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="366">الامم المتحدة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="354" END="366">الامم المتحدة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE2">
+  <entity ID="20001115_AFP_ARB.0034.arb-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="NAM">
+      <extent>
+        <charseq START="368" END="381">جيمس كانينغهام</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="381">جيمس كانينغهام</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="368" END="381">جيمس كانينغهام</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0034.arb-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-9" TYPE="NAM">
+      <extent>
+        <charseq START="467" END="475">كانينغهام</charseq>
+      </extent>
+      <head>
+        <charseq START="467" END="475">كانينغهام</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-17" TYPE="PRO">
+      <extent>
+        <charseq START="647" END="647">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="647">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-47" TYPE="APP">
+      <extent>
+        <charseq START="328" END="381">مساعد الممثل الاميركي لدى الامم المتحدة جيمس كانينغهام</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="22-48" TYPE="NOM">
+      <extent>
+        <charseq START="328" END="366">مساعد الممثل الاميركي لدى الامم المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="332">مساعد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="467" END="475">كانينغهام</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE3">
+  <entity ID="20001115_AFP_ARB.0034.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-5" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="410" END="410">ن</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="410">ن</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-6" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="422" END="423">نا</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="423">نا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-10" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="534" END="535">نا</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="535">نا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE4">
+  <entity ID="20001115_AFP_ARB.0034.arb-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-8" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="449" END="455">الحكومة</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="455">الحكومة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE5">
+  <entity ID="20001115_AFP_ARB.0034.arb-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="5-11" TYPE="NAM">
+      <extent>
+        <charseq START="541" END="577">الحزب الديموقراطي الصربي (قومي متشدد)</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="564">الحزب الديموقراطي الصربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-13" TYPE="PRO">
+      <extent>
+        <charseq START="582" END="582">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="582">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-14" TYPE="PRO">
+      <extent>
+        <charseq START="587" END="587">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="587">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-28" TYPE="NAM">
+      <extent>
+        <charseq START="975" END="998">الحزب الديموقراطي الصربي</charseq>
+      </extent>
+      <head>
+        <charseq START="975" END="998">الحزب الديموقراطي الصربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="541" END="564">الحزب الديموقراطي الصربي</charseq>
+      </name>
+      <name>
+        <charseq START="975" END="998">الحزب الديموقراطي الصربي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0034.arb-E6" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="6-12" TYPE="NOM">
+      <extent>
+        <charseq START="566" END="576">(قومي متشدد</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="570">(قومي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE6">
+  <entity ID="20001115_AFP_ARB.0034.arb-E7" TYPE="PER" CLASS="USP">
+    <entity_mention ID="7-15" TYPE="NOM">
+      <extent>
+        <charseq START="605" END="636">الراغبين في افشال اتفاقات دايتون</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="612">الراغبين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-20" TYPE="WHQ">
+      <extent>
+        <charseq START="791" END="815">الذين عارضوا اتفاق دايتون</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="795">الذين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-21" TYPE="PRO">
+      <extent>
+        <charseq START="801" END="802">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="801" END="802">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE7">
+  <entity ID="20001115_AFP_ARB.0034.arb-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-16" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="631" END="636">دايتون</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="636">دايتون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-22" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="810" END="815">دايتون</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="815">دايتون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE8">
+  <entity ID="20001115_AFP_ARB.0034.arb-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-18" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="740" END="740">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="740">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="746" END="761">المجموعة الدولية</charseq>
+      </extent>
+      <head>
+        <charseq START="746" END="753">المجموعة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE9">
+  <entity ID="20001115_AFP_ARB.0034.arb-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="10-31" TYPE="NOM">
+      <extent>
+        <charseq START="1102" END="1126">الاشتراكيون الديموقراطيون</charseq>
+      </extent>
+      <head>
+        <charseq START="1102" END="1112">الاشتراكيون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE10">
+  <entity ID="20001115_AFP_ARB.0034.arb-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-32" TYPE="NAM">
+      <extent>
+        <charseq START="1135" END="1160">رئيس الوزراء
+ميلوراد دوديك</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1160">ميلوراد دوديك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1148" END="1160">ميلوراد دوديك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE11">
+  <entity ID="20001115_AFP_ARB.0034.arb-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="97" END="103">نيويورك</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="103">نيويورك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="97" END="103">نيويورك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE12">
+  <entity ID="20001115_AFP_ARB.0034.arb-E13" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="13-33" TYPE="NAM">
+      <extent>
+        <charseq START="106" END="118">الامم المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="118">الامم المتحدة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE13">
+  <entity ID="20001115_AFP_ARB.0034.arb-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-34" TYPE="NAM">
+      <extent>
+        <charseq START="128" END="131">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="131">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="128" END="131">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE14">
+  <entity ID="20001115_AFP_ARB.0034.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-35" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="141" END="141">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="141">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-36" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="143" END="158">الولايات المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="143" END="158">الولايات المتحدة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="143" END="158">الولايات المتحدة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE15">
+  <entity ID="20001115_AFP_ARB.0034.arb-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-4" TYPE="NOM">
+      <extent>
+        <charseq START="401" END="406">المجلس</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="406">المجلس</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-37" TYPE="NAM">
+      <extent>
+        <charseq START="174" END="190">مجلس الامن الدولي</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="190">مجلس الامن الدولي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="174" END="190">مجلس الامن الدولي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE16">
+  <entity ID="20001115_AFP_ARB.0034.arb-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-7" TYPE="NOM">
+      <extent>
+        <charseq START="434" END="442">المعرقلون</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="442">المعرقلون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-23" TYPE="NOM">
+      <extent>
+        <charseq START="874" END="881">القوميين</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="881">القوميين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-38" TYPE="NOM">
+      <extent>
+        <charseq START="195" END="272">القوميين
+الصرب المتطرفين الذين فازوا في الانتخابات في الكيان الصربي في البوسنة</charseq>
+      </extent>
+      <head>
+        <charseq START="195" END="202">القوميين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-40" TYPE="PRO">
+      <extent>
+        <charseq START="217" END="218">ين</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="218">ين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-41" TYPE="WHQ">
+      <extent>
+        <charseq START="220" END="224">الذين</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="224">الذين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-42" TYPE="PRO">
+      <extent>
+        <charseq START="229" END="230">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="230">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-46" TYPE="PRO">
+      <extent>
+        <charseq START="308" END="309">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="309">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE17">
+  <entity ID="20001115_AFP_ARB.0034.arb-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="18-39" TYPE="NOM">
+      <extent>
+        <charseq START="204" END="208">الصرب</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="208">الصرب</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE18">
+  <entity ID="20001115_AFP_ARB.0034.arb-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="19-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="897" END="913">الجمهورية
+الصربية</charseq>
+      </extent>
+      <head>
+        <charseq START="897" END="913">الجمهورية
+الصربية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="916" END="939">الكيان الصربي في البوسنة</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="921">الكيان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-29" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1047" END="1059">للكيان الصربي</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1052">للكيان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-43" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="249" END="272">الكيان الصربي في البوسنة</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="254">الكيان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="897" END="913">الجمهورية
+الصربية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0034.arb-E20" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="20-26" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="923" END="928">الصربي</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="928">الصربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-30" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1054" END="1059">الصربي</charseq>
+      </extent>
+      <head>
+        <charseq START="1054" END="1059">الصربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-44" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="256" END="261">الصربي</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="261">الصربي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE19">
+  <entity ID="20001115_AFP_ARB.0034.arb-E21" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="21-27" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="933" END="939">البوسنة</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="939">البوسنة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-45" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="266" END="272">البوسنة</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="272">البوسنة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="933" END="939">البوسنة</charseq>
+      </name>
+      <name>
+        <charseq START="266" END="272">البوسنة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0034.arb-CE20">
+  <entity ID="20001115_AFP_ARB.0034.arb-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="23-49" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="341" END="348">الاميركي</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="348">الاميركي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0034.arb-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="195" END="272">القوميين
+الصرب المتطرفين الذين فازوا في الانتخابات في الكيان الصربي في البوسنة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E17" ENTITYMENTIONID="17-38" ARGNUM="1">
+      <extent>
+        <charseq START="195" END="272">القوميين
+الصرب المتطرفين الذين فازوا في الانتخابات في الكيان الصربي في البوسنة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E18" ENTITYMENTIONID="18-39" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="208">الصرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0034.arb-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="249" END="272">الكيان الصربي في البوسنة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E19" ENTITYMENTIONID="19-43" ARGNUM="1">
+      <extent>
+        <charseq START="249" END="272">الكيان الصربي في البوسنة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E21" ENTITYMENTIONID="21-45" ARGNUM="2">
+      <extent>
+        <charseq START="266" END="272">البوسنة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="916" END="939">الكيان الصربي في البوسنة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E19" ENTITYMENTIONID="19-25" ARGNUM="1">
+      <extent>
+        <charseq START="916" END="939">الكيان الصربي في البوسنة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E21" ENTITYMENTIONID="21-27" ARGNUM="2">
+      <extent>
+        <charseq START="933" END="939">البوسنة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0034.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="328" END="366">مساعد الممثل الاميركي لدى الامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E22" ENTITYMENTIONID="22-48" ARGNUM="1">
+      <extent>
+        <charseq START="328" END="366">مساعد الممثل الاميركي لدى الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0034.arb-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="354" END="366">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001004.1400.0207.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001004.1400.0207">
+<composite_entity ID="CNN20001004.1400.0207-CE1">
+  <entity ID="CNN20001004.1400.0207-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-36" TYPE="BAR">
+      <extent>
+        <charseq START="444" END="462">palestinian
+sources</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="462">sources</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE2">
+  <entity ID="CNN20001004.1400.0207-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="542" END="553">the israelis</charseq>
+      </extent>
+      <head>
+        <charseq START="546" END="553">israelis</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-9" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="719" END="740">the
+israeli government</charseq>
+      </extent>
+      <head>
+        <charseq START="731" END="740">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="546" END="553">israelis</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001004.1400.0207-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="24-6" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="583" END="589">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="589">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-10" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="723" END="729">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="729">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-17" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="959" END="965">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="959" END="965">israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-32" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="307" END="313">israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="313">israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE3">
+  <entity ID="CNN20001004.1400.0207-E3" TYPE="VEH" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="3-20" TYPE="MWH">
+      <extent>
+        <charseq START="583" END="619">israeli
+tanks and helicopter gunships</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="619">tanks and helicopter gunships</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE4">
+  <entity ID="CNN20001004.1400.0207-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-21" TYPE="PRE">
+      <extent>
+        <charseq START="878" END="883">jewish</charseq>
+      </extent>
+      <head>
+        <charseq START="878" END="883">jewish</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE5">
+  <entity ID="CNN20001004.1400.0207-E5" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="626" END="654">palestinian residential areas</charseq>
+      </extent>
+      <head>
+        <charseq START="650" END="654">areas</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE6">
+  <entity ID="CNN20001004.1400.0207-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-11" TYPE="NOM">
+      <extent>
+        <charseq START="798" END="813">two palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="802" END="813">palestinians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE7">
+  <entity ID="CNN20001004.1400.0207-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-12" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="876" END="906">a jewish settlement in the gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="894">settlement</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE8">
+  <entity ID="CNN20001004.1400.0207-E8" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="8-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="899" END="906">the gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="903" END="906">gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="903" END="906">gaza</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE9">
+  <entity ID="CNN20001004.1400.0207-E9" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="9-14" TYPE="NAM">
+      <extent>
+        <charseq START="912" END="924">the
+west bank</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="924">west bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="916" END="924">west bank</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE10">
+  <entity ID="CNN20001004.1400.0207-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NOM">
+      <extent>
+        <charseq START="927" END="937">a passenger</charseq>
+      </extent>
+      <head>
+        <charseq START="929" END="937">passenger</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE11">
+  <entity ID="CNN20001004.1400.0207-E11" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention ID="11-16" TYPE="NOM">
+      <extent>
+        <charseq START="956" END="969">an israeli bus</charseq>
+      </extent>
+      <head>
+        <charseq START="967" END="969">bus</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE12">
+  <entity ID="CNN20001004.1400.0207-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-18" TYPE="NOM">
+      <extent>
+        <charseq START="988" END="996">58 people</charseq>
+      </extent>
+      <head>
+        <charseq START="991" END="996">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE13">
+  <entity ID="CNN20001004.1400.0207-E13" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="13-19" TYPE="BAR">
+      <extent>
+        <charseq START="135" END="140">abroad</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="140">abroad</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE14">
+  <entity ID="CNN20001004.1400.0207-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="65" END="83">the u.s. government</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="83">government</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001004.1400.0207-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="15-22" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="69" END="72">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="72">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-24" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="96" END="103">american</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="103">american</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE15">
+  <entity ID="CNN20001004.1400.0207-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="16-23" TYPE="NOM">
+      <extent>
+        <charseq START="96" END="140">american citizens living and
+traveling abroad</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="112">citizens</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE16">
+  <entity ID="CNN20001004.1400.0207-E17" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="17-25" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="182" END="192">the
+mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="186" END="192">mideast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="186" END="192">mideast</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001004.1400.0207-E18" TYPE="LOC" SUBTYPE="Region-International" CLASS="ATR">
+    <entity_mention ID="18-26" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="240" END="246">mideast</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="246">mideast</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE17">
+  <entity ID="CNN20001004.1400.0207-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-27" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="263" END="267">paris</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="267">paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="263" END="267">paris</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE18">
+  <entity ID="CNN20001004.1400.0207-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-3" TYPE="NAM">
+      <extent>
+        <charseq START="468" END="473">arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="468" END="473">arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-4" TYPE="PRO">
+      <extent>
+        <charseq START="533" END="534">he</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="534">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-28" TYPE="NAM">
+      <extent>
+        <charseq START="270" END="301">palestinian leader yasser arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="301">yasser arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="289" END="301">yasser arafat</charseq>
+      </name>
+      <name>
+        <charseq START="468" END="473">arafat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001004.1400.0207-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-30" TYPE="PRE">
+      <extent>
+        <charseq START="270" END="287">palestinian leader</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="287">leader</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE19">
+  <entity ID="CNN20001004.1400.0207-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="21-2" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="444" END="454">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="454">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="626" END="636">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="636">palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-29" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="270" END="280">palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="270" END="280">palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE20">
+  <entity ID="CNN20001004.1400.0207-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-31" TYPE="NAM">
+      <extent>
+        <charseq START="307" END="339">israeli prime
+minister ehud barak</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="339">ehud barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="330" END="339">ehud barak</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001004.1400.0207-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-33" TYPE="PRE">
+      <extent>
+        <charseq START="307" END="328">israeli prime
+minister</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="328">minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE21">
+  <entity ID="CNN20001004.1400.0207-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-34" TYPE="PRO">
+      <extent>
+        <charseq START="379" END="382">they</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="382">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001004.1400.0207-CE22">
+  <entity ID="CNN20001004.1400.0207-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="27-35" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="433" END="437">egypt</charseq>
+      </extent>
+      <head>
+        <charseq START="433" END="437">egypt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="433" END="437">egypt</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001004.1400.0207-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="96" END="140">american citizens living and
+traveling abroad</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E16" ENTITYMENTIONID="16-23" ARGNUM="1">
+      <extent>
+        <charseq START="96" END="140">american citizens living and
+traveling abroad</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E15" ENTITYMENTIONID="15-24" ARGNUM="2">
+      <extent>
+        <charseq START="96" END="103">american</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="444" END="462">palestinian
+sources</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E1" ENTITYMENTIONID="1-36" ARGNUM="1">
+      <extent>
+        <charseq START="444" END="462">palestinian
+sources</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E21" ENTITYMENTIONID="21-2" ARGNUM="2">
+      <extent>
+        <charseq START="444" END="454">palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R3" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="626" END="654">palestinian residential areas</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="626" END="654">palestinian residential areas</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E21" ENTITYMENTIONID="21-8" ARGNUM="2">
+      <extent>
+        <charseq START="626" END="636">palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="876" END="906">a jewish settlement in the gaza</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E7" ENTITYMENTIONID="7-12" ARGNUM="1">
+      <extent>
+        <charseq START="876" END="906">a jewish settlement in the gaza</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E8" ENTITYMENTIONID="8-13" ARGNUM="2">
+      <extent>
+        <charseq START="899" END="906">the gaza</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R5" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="956" END="969">an israeli bus</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E24" ENTITYMENTIONID="24-17" ARGNUM="1">
+      <extent>
+        <charseq START="959" END="965">israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E11" ENTITYMENTIONID="11-16" ARGNUM="2">
+      <extent>
+        <charseq START="956" END="969">an israeli bus</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="96" END="140">american citizens living and
+traveling abroad</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E16" ENTITYMENTIONID="16-23" ARGNUM="1">
+      <extent>
+        <charseq START="96" END="140">american citizens living and
+traveling abroad</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E13" ENTITYMENTIONID="13-19" ARGNUM="2">
+      <extent>
+        <charseq START="135" END="140">abroad</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="270" END="287">palestinian leader</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E22" ENTITYMENTIONID="22-30" ARGNUM="1">
+      <extent>
+        <charseq START="270" END="287">palestinian leader</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E21" ENTITYMENTIONID="21-29" ARGNUM="2">
+      <extent>
+        <charseq START="270" END="280">palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="307" END="328">israeli prime
+minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E25" ENTITYMENTIONID="25-33" ARGNUM="1">
+      <extent>
+        <charseq START="307" END="328">israeli prime
+minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E24" ENTITYMENTIONID="24-32" ARGNUM="2">
+      <extent>
+        <charseq START="307" END="313">israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R9" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="379" END="437">they are
+scheduled to hold another summit tomorrow in egypt</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E26" ENTITYMENTIONID="26-34" ARGNUM="1">
+      <extent>
+        <charseq START="379" END="382">they</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E27" ENTITYMENTIONID="27-35" ARGNUM="2">
+      <extent>
+        <charseq START="433" END="437">egypt</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R10" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="583" END="619">israeli
+tanks and helicopter gunships</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E24" ENTITYMENTIONID="24-6" ARGNUM="1">
+      <extent>
+        <charseq START="583" END="589">israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E3" ENTITYMENTIONID="3-20" ARGNUM="2">
+      <extent>
+        <charseq START="583" END="619">israeli
+tanks and helicopter gunships</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R11" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="876" END="906">a jewish settlement in the gaza</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E7" ENTITYMENTIONID="7-12" ARGNUM="1">
+      <extent>
+        <charseq START="876" END="906">a jewish settlement in the gaza</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E4" ENTITYMENTIONID="4-21" ARGNUM="2">
+      <extent>
+        <charseq START="878" END="883">jewish</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001004.1400.0207-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="909" END="985">in the
+west bank, a passenger was wounded when an israeli bus came under
+fire</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E10" ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="927" END="937">a passenger</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001004.1400.0207-E9" ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="912" END="924">the
+west bank</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

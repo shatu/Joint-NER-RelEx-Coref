@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_245.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_245.eng">
+<entity ID="chtb_245.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="2-8" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="496" END="526">very good co-operation partners</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="526">partners</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_245.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="3-9" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="631" END="658">a founding member of the WTO</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">member</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_245.eng-E4" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="652" END="658">the WTO</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="658">WTO</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="656" END="658">WTO</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-15" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="812" END="826">various circles</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="826">circles</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_245.eng-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1721" END="1734">his delegation</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1734">delegation</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_245.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="467" END="472">Canada</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="472">Canada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="696" END="701">Canada</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="701">Canada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="772" END="805">the Canadian government and
+people</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="805">government and
+people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1162" END="1167">Canada</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1167">Canada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1304" END="1309">Canada</charseq>
+    </extent>
+    <head>
+      <charseq START="1304" END="1309">Canada</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-32" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="776" END="783">Canadian</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="783">Canadian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-47" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="250" END="255">Canada</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="255">Canada</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="696" END="701">Canada</charseq>
+    </name>
+    <name>
+      <charseq START="1162" END="1167">Canada</charseq>
+    </name>
+    <name>
+      <charseq START="1304" END="1309">Canada</charseq>
+    </name>
+    <name>
+      <charseq START="250" END="255">Canada</charseq>
+    </name>
+    <name>
+      <charseq START="467" END="472">Canada</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="8-33" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="585" END="601">signatory
+country</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="601">country</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_245.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="87" END="104">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="104">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="87" END="104">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="10-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="107" END="113">Toronto</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="113">Toronto</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="143" END="149">Toronto</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="149">Toronto</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="107" END="113">Toronto</charseq>
+    </name>
+    <name>
+      <charseq START="143" END="149">Toronto</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="531" END="538">McLauren</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="538">McLauren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1026" END="1033">McLauren</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1033">McLauren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1689" END="1696">McLauren</charseq>
+    </extent>
+    <head>
+      <charseq START="1689" END="1696">McLauren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="131" END="133">his</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="133">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="228" END="235">McLauren</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="235">McLauren</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-42" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="277">minister of Canada's
+International Trade</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="245">minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="290" END="291">he</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="291">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-49" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="418" END="420">him</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="420">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="424" END="425">He</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="425">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="531" END="538">McLauren</charseq>
+    </name>
+    <name>
+      <charseq START="1026" END="1033">McLauren</charseq>
+    </name>
+    <name>
+      <charseq START="1689" END="1696">McLauren</charseq>
+    </name>
+    <name>
+      <charseq START="228" END="235">McLauren</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="663" END="672">Jiahua Zou</charseq>
+    </extent>
+    <head>
+      <charseq START="663" END="672">Jiahua Zou</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="729" END="730">he</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="730">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="868" END="869">He</charseq>
+    </extent>
+    <head>
+      <charseq START="868" END="869">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1039" END="1048">Jiahua Zou</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1048">Jiahua Zou</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1706" END="1715">Jiahua Zou</charseq>
+    </extent>
+    <head>
+      <charseq START="1706" END="1715">Jiahua Zou</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1721" END="1723">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1721" END="1723">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="164" END="173">Jiahua Zou</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="173">Jiahua Zou</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-38" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="176" END="225">visiting vice-premier
+of the Chinese State Council</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="196">premier</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="663" END="672">Jiahua Zou</charseq>
+    </name>
+    <name>
+      <charseq START="1039" END="1048">Jiahua Zou</charseq>
+    </name>
+    <name>
+      <charseq START="1706" END="1715">Jiahua Zou</charseq>
+    </name>
+    <name>
+      <charseq START="164" END="173">Jiahua Zou</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="478" END="482">China</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="482">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-6" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="567" END="571">China</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="571">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="861" END="865">China</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="865">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1152" END="1156">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1156">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1294" END="1298">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1294" END="1298">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="327" END="331">China</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="331">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-48" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="372" END="378">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="378">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="567" END="571">China</charseq>
+    </name>
+    <name>
+      <charseq START="861" END="865">China</charseq>
+    </name>
+    <name>
+      <charseq START="1152" END="1156">China</charseq>
+    </name>
+    <name>
+      <charseq START="1294" END="1298">China</charseq>
+    </name>
+    <name>
+      <charseq START="327" END="331">China</charseq>
+    </name>
+    <name>
+      <charseq START="478" END="482">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="16-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="201" END="225">the Chinese State Council</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="225">Chinese State Council</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="205" END="225">Chinese State Council</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="250" END="277">Canada's
+International Trade</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="277">International Trade</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="259" END="277">International Trade</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_245.eng-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="20-2" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="448" END="464">the two countries</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="464">countries</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="882" END="898">the two countries</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="898">countries</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-23" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1171" END="1180">Both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="1176" END="1180">sides</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-26" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1373" END="1386">both countries</charseq>
+    </extent>
+    <head>
+      <charseq START="1378" END="1386">countries</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-27" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1588" END="1599">Both parties</charseq>
+    </extent>
+    <head>
+      <charseq START="1593" END="1599">parties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_245.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E16" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="176" END="225">visiting vice-premier
+of the Chinese State Council</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-38" ARGNUM="1">
+      <extent>
+        <charseq START="176" END="225">visiting vice-premier
+of the Chinese State Council</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-45" ARGNUM="2">
+      <extent>
+        <charseq START="201" END="225">the Chinese State Council</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E17" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="238" END="277">minister of Canada's
+International Trade</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-42" ARGNUM="1">
+      <extent>
+        <charseq START="238" END="277">minister of Canada's
+International Trade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-46" ARGNUM="2">
+      <extent>
+        <charseq START="250" END="277">Canada's
+International Trade</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E7" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="250" END="277">Canada's
+International Trade</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-46" ARGNUM="1">
+      <extent>
+        <charseq START="250" END="277">Canada's
+International Trade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-47" ARGNUM="2">
+      <extent>
+        <charseq START="250" END="255">Canada</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R4" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="631" END="658">a founding member of the WTO</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-9" ARGNUM="1">
+      <extent>
+        <charseq START="631" END="658">a founding member of the WTO</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-10" ARGNUM="2">
+      <extent>
+        <charseq START="652" END="658">the WTO</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E6" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1721" END="1734">his delegation</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-30" ARGNUM="1">
+      <extent>
+        <charseq START="1721" END="1723">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-31" ARGNUM="2">
+      <extent>
+        <charseq START="1721" END="1734">his delegation</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E10" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="131" END="173">his talk in Toronto on 22nd with Jiahua Zou</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-35" ARGNUM="1">
+      <extent>
+        <charseq START="131" END="133">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-36" ARGNUM="2">
+      <extent>
+        <charseq START="143" END="149">Toronto</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E10" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="131" END="173">his talk in Toronto on 22nd with Jiahua Zou</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-37" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="173">Jiahua Zou</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-36" ARGNUM="2">
+      <extent>
+        <charseq START="143" END="149">Toronto</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E15" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="290" END="331">he has just returned from a visit to
+China</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-43" ARGNUM="1">
+      <extent>
+        <charseq START="290" END="291">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-44" ARGNUM="2">
+      <extent>
+        <charseq START="327" END="331">China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_245.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_245.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_245.eng-E7" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="663" END="726">Jiahua Zou said that in visiting Canada in the past several days</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-11" ARGNUM="1">
+      <extent>
+        <charseq START="663" END="672">Jiahua Zou</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="696" END="701">Canada</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

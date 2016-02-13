@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CBS20001224.1000.0970.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CBS20001224.1000.0970">
+<composite_entity ID="CBS20001224.1000.0970-CE1">
+  <entity ID="CBS20001224.1000.0970-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="67">新加坡</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="67">新加坡</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="67">新加坡</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CBS20001224.1000.0970-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="126" END="137">全球第一个不用现金的国家</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="137">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001224.1000.0970-CE2">
+  <entity ID="CBS20001224.1000.0970-E3" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="126" END="127">全球</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="127">全球</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CBS20001224.1000.0970-CE3">
+  <entity ID="CBS20001224.1000.0970-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NOM">
+      <extent>
+        <charseq START="156" END="157">民众</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="157">民众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CBS20001224.1000.0970-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="126" END="137">全球第一个不用现金的国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CBS20001224.1000.0970-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="126" END="137">全球第一个不用现金的国家</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CBS20001224.1000.0970-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="126" END="127">全球</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

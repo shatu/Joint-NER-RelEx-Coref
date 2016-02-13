@@ -1,0 +1,698 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="VOA20001031.2100.1212.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001031.2100.1212">
+<composite_entity ID="VOA20001031.2100.1212-CE1">
+  <entity ID="VOA20001031.2100.1212-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="291" END="310">a New York newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="302" END="310">newspaper</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE2">
+  <entity ID="VOA20001031.2100.1212-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-6" TYPE="NAM">
+      <extent>
+        <charseq START="465" END="476">Dallas Green</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="476">Dallas Green</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="465" END="476">Dallas Green</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E14" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="14-37" TYPE="NOM">
+      <extent>
+        <charseq START="481" END="496">the Mets manager</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="496">manager</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE3">
+  <entity ID="VOA20001031.2100.1212-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-23" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="739" END="746">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="739" END="746">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="739" END="746">New York</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="25-52" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="293" END="300">New York</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="300">New York</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE4">
+  <entity ID="VOA20001031.2100.1212-E5" TYPE="PER" CLASS="USP">
+    <entity_mention ID="5-24" TYPE="PRO">
+      <extent>
+        <charseq START="751" END="752">We</charseq>
+      </extent>
+      <head>
+        <charseq START="751" END="752">We</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE5">
+  <entity ID="VOA20001031.2100.1212-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-25" TYPE="NAM">
+      <extent>
+        <charseq START="785" END="788">Mike</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="788">Mike</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="785" END="788">Mike</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE6">
+  <entity ID="VOA20001031.2100.1212-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-26" TYPE="NAM">
+      <extent>
+        <charseq START="794" END="798">Fonse</charseq>
+      </extent>
+      <head>
+        <charseq START="794" END="798">Fonse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="794" END="798">Fonse</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE7">
+  <entity ID="VOA20001031.2100.1212-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-27" TYPE="NAM">
+      <extent>
+        <charseq START="804" END="812">Alan John</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="812">Alan John</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="804" END="812">Alan John</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE8">
+  <entity ID="VOA20001031.2100.1212-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-28" TYPE="CMC">
+      <extent>
+        <charseq START="785" END="831">Mike and Fonse and Alan John
+amongst the others</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE9">
+  <entity ID="VOA20001031.2100.1212-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-29" TYPE="NOM">
+      <extent>
+        <charseq START="822" END="831">the others</charseq>
+      </extent>
+      <head>
+        <charseq START="826" END="831">others</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE10">
+  <entity ID="VOA20001031.2100.1212-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-32" TYPE="NAM">
+      <extent>
+        <charseq START="1181" END="1199">The Cincinnati Reds</charseq>
+      </extent>
+      <head>
+        <charseq START="1185" END="1199">Cincinnati Reds</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1185" END="1199">Cincinnati Reds</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE11">
+  <entity ID="VOA20001031.2100.1212-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="12-33" TYPE="BAR">
+      <extent>
+        <charseq START="1325" END="1332">managers</charseq>
+      </extent>
+      <head>
+        <charseq START="1325" END="1332">managers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE12">
+  <entity ID="VOA20001031.2100.1212-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="15-34" TYPE="MWH">
+      <extent>
+        <charseq START="1238" END="1306">the Los Angeles Dodgers, Philadelphia Phillies, and Toronto Blue
+Jays</charseq>
+      </extent>
+      <head>
+        <charseq START="1242" END="1306">Los Angeles Dodgers, Philadelphia Phillies, and Toronto Blue
+Jays</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE13">
+  <entity ID="VOA20001031.2100.1212-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="17-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="85">Major League baseball</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="85">Major League baseball</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="85">Major League baseball</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE14">
+  <entity ID="VOA20001031.2100.1212-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="3-8" TYPE="PRE">
+      <extent>
+        <charseq START="485" END="488">Mets</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="488">Mets</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-38" TYPE="NAM">
+      <extent>
+        <charseq START="114" END="126">New York Mets</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="126">New York Mets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="114" END="126">New York Mets</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="NOM">
+      <extent>
+        <charseq START="635" END="647">the franchise</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="647">franchise</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-22" TYPE="NAM">
+      <extent>
+        <charseq START="1132" END="1139">the Mets</charseq>
+      </extent>
+      <head>
+        <charseq START="1136" END="1139">Mets</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-35" TYPE="NOM">
+      <extent>
+        <charseq START="65" END="112">Major League baseball's National League champion</charseq>
+      </extent>
+      <head>
+        <charseq START="89" END="112">National League champion</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-36" TYPE="APP">
+      <extent>
+        <charseq START="65" END="126">Major League baseball's National League champion New York Mets</charseq>
+      </extent>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1136" END="1139">Mets</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="16-20" TYPE="NOM">
+      <extent>
+        <charseq START="543" END="550">the team</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="550">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-39" TYPE="PRO">
+      <extent>
+        <charseq START="138" END="142">their</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="142">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-40" TYPE="NOM">
+      <extent>
+        <charseq START="138" END="147">their team</charseq>
+      </extent>
+      <head>
+        <charseq START="144" END="147">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-45" TYPE="NAM">
+      <extent>
+        <charseq START="252" END="259">the Mets</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="259">Mets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="256" END="259">Mets</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE15">
+  <entity ID="VOA20001031.2100.1212-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-3" TYPE="APP">
+      <extent>
+        <charseq START="427" END="454">The fifty-year-old Valentine</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-4" TYPE="HLS">
+      <extent>
+        <charseq START="427" END="444">The fifty-year-old</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="444">fifty-year-old</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-9" TYPE="PRO">
+      <extent>
+        <charseq START="532" END="533">he</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="533">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-10" TYPE="NAM">
+      <extent>
+        <charseq START="695" END="703">Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="695" END="703">Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-11" TYPE="PRO">
+      <extent>
+        <charseq START="718" END="719">he</charseq>
+      </extent>
+      <head>
+        <charseq START="718" END="719">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-12" TYPE="PRO">
+      <extent>
+        <charseq START="710" END="711">he</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="711">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-13" TYPE="PRO">
+      <extent>
+        <charseq START="879" END="879">I</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="879">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-14" TYPE="PRO">
+      <extent>
+        <charseq START="945" END="945">I</charseq>
+      </extent>
+      <head>
+        <charseq START="945" END="945">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-15" TYPE="NAM">
+      <extent>
+        <charseq START="968" END="976">Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="968" END="976">Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-16" TYPE="NAM">
+      <extent>
+        <charseq START="1093" END="1101">Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="1093" END="1101">Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-17" TYPE="PRO">
+      <extent>
+        <charseq START="1110" END="1112">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1110" END="1112">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-18" TYPE="PRO">
+      <extent>
+        <charseq START="1167" END="1169">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1167" END="1169">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-19" TYPE="PRO">
+      <extent>
+        <charseq START="1230" END="1232">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1230" END="1232">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-30" TYPE="PRO">
+      <extent>
+        <charseq START="862" END="863">me</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="863">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-41" TYPE="NAM">
+      <extent>
+        <charseq START="185" END="207">Manager
+Bobby Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="207">Bobby Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-50" TYPE="NAM">
+      <extent>
+        <charseq START="317" END="325">Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="325">Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="193" END="207">Bobby Valentine</charseq>
+      </name>
+      <name>
+        <charseq START="317" END="325">Valentine</charseq>
+      </name>
+      <name>
+        <charseq START="695" END="703">Valentine</charseq>
+      </name>
+      <name>
+        <charseq START="968" END="976">Valentine</charseq>
+      </name>
+      <name>
+        <charseq START="1093" END="1101">Valentine</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E19" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="19-5" TYPE="NAM">
+      <extent>
+        <charseq START="446" END="454">Valentine</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="454">Valentine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-7" TYPE="NOM">
+      <extent>
+        <charseq START="481" END="496">the Mets manager</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="496">manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-42" TYPE="PRE">
+      <extent>
+        <charseq START="185" END="191">Manager</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="191">Manager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="446" END="454">Valentine</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE16">
+  <entity ID="VOA20001031.2100.1212-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-31" TYPE="NAM">
+      <extent>
+        <charseq START="1034" END="1041">Phillips</charseq>
+      </extent>
+      <head>
+        <charseq START="1034" END="1041">Phillips</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-43" TYPE="NAM">
+      <extent>
+        <charseq START="213" END="242">General Manager Steve Phillips</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="242">Steve Phillips</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-51" TYPE="NAM">
+      <extent>
+        <charseq START="383" END="390">Phillips</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="390">Phillips</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1034" END="1041">Phillips</charseq>
+      </name>
+      <name>
+        <charseq START="229" END="242">Steve Phillips</charseq>
+      </name>
+      <name>
+        <charseq START="383" END="390">Phillips</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E21" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="21-44" TYPE="PRE">
+      <extent>
+        <charseq START="213" END="227">General Manager</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="227">Manager</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE17">
+  <entity ID="VOA20001031.2100.1212-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-46" TYPE="APP">
+      <extent>
+        <charseq START="245" END="284">One of the Mets
+owners, Nelson Doubleday</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="22-47" TYPE="PTV">
+      <extent>
+        <charseq START="245" END="266">One of the Mets
+owners</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="247">One</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="VOA20001031.2100.1212-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-49" TYPE="NAM">
+      <extent>
+        <charseq START="269" END="284">Nelson Doubleday</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="284">Nelson Doubleday</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="269" END="284">Nelson Doubleday</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001031.2100.1212-CE18">
+  <entity ID="VOA20001031.2100.1212-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-48" TYPE="NOM">
+      <extent>
+        <charseq START="252" END="266">the Mets
+owners</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="266">owners</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="VOA20001031.2100.1212-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="65" END="112">Major League baseball's National League champion</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E17" ENTITYMENTIONID="17-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="85">Major League baseball</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E13" ENTITYMENTIONID="13-35" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="112">Major League baseball's National League champion</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001031.2100.1212-R2" TYPE="DISC">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="245" END="266">One of the Mets
+owners</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E22" ENTITYMENTIONID="22-47" ARGNUM="1">
+      <extent>
+        <charseq START="245" END="266">One of the Mets
+owners</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E23" ENTITYMENTIONID="23-48" ARGNUM="2">
+      <extent>
+        <charseq START="252" END="266">the Mets
+owners</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001031.2100.1212-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="252" END="266">the Mets
+owners</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E23" ENTITYMENTIONID="23-48" ARGNUM="1">
+      <extent>
+        <charseq START="252" END="266">the Mets
+owners</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E16" ENTITYMENTIONID="16-45" ARGNUM="2">
+      <extent>
+        <charseq START="252" END="259">the Mets</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001031.2100.1212-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="291" END="310">a New York newspaper</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="291" END="310">a New York newspaper</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E25" ENTITYMENTIONID="25-52" ARGNUM="2">
+      <extent>
+        <charseq START="293" END="300">New York</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001031.2100.1212-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="481" END="496">the Mets manager</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E14" ENTITYMENTIONID="14-37" ARGNUM="1">
+      <extent>
+        <charseq START="481" END="496">the Mets manager</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E3" ENTITYMENTIONID="3-8" ARGNUM="2">
+      <extent>
+        <charseq START="485" END="488">Mets</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001031.2100.1212-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="481" END="496">the Mets manager</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E19" ENTITYMENTIONID="19-7" ARGNUM="1">
+      <extent>
+        <charseq START="481" END="496">the Mets manager</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001031.2100.1212-E3" ENTITYMENTIONID="3-8" ARGNUM="2">
+      <extent>
+        <charseq START="485" END="488">Mets</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

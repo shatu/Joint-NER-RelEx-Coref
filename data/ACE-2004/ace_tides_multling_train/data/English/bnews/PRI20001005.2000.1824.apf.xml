@@ -1,0 +1,765 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001005.2000.1824.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001005.2000.1824">
+<entity ID="PRI20001005.2000.1824-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="406" END="409">city</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="409">city</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="259" END="266">Belgrade</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="266">Belgrade</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="259" END="266">Belgrade</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="449" END="458">Protestors</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="458">Protestors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E3" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="467" END="484">clouds of tear gas</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="472">clouds</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E4" TYPE="WEA" SUBTYPE="Chemical" CLASS="GEN">
+  <entity_mention ID="4-6" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="477" END="484">tear gas</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="484">gas</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="818" END="825">tear gas</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="825">gas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E5" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="505" END="558">the Federal Parliament
+building, which was set on fire</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="535">building</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="538" END="542">which</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="542">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="727" END="753">The Federal Parliament here</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="748">Parliament</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="797" END="798">it</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="798">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="739" END="748">Parliament</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="517" END="526">Parliament</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="526">Parliament</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E7" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="564" END="590">several television stations</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="590">stations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="593" END="604">An
+announcer</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="604">announcer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="703">Journalist Misha Glenny</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="703">Misha Glenny</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-13" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="681" END="690">Journalist</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="690">Journalist</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="692" END="703">Misha Glenny</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E11" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+  <entity_mention ID="11-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="712" END="722">the streets</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="722">streets</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="767" END="779">Demonstrators</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="779">Demonstrators</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="801" END="806">Police</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="806">Police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E14" TYPE="PER" CLASS="USP">
+  <entity_mention ID="14-20" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="858" END="882">many of the demonstrators</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="861">many</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E15" TYPE="PER" CLASS="USP">
+  <entity_mention ID="15-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="866" END="882">the demonstrators</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="882">demonstrators</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E16" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="16-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="922" END="925">here</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="925">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="750" END="753">here</charseq>
+    </extent>
+    <head>
+      <charseq START="750" END="753">here</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1001" END="1035">opposition leader Alexander Popovic</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1035">Alexander Popovic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-26" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1001" END="1017">opposition leader</charseq>
+    </extent>
+    <head>
+      <charseq START="1012" END="1017">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1087" END="1087">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1087">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1019" END="1035">Alexander Popovic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E19" TYPE="PER" CLASS="USP">
+  <entity_mention ID="19-29" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1100" END="1220">the majority of the people who are betting that this is
+the day, this is the end, that today is the end or maybe tomorrow</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1111">majority</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E20" TYPE="PER" CLASS="USP">
+  <entity_mention ID="20-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1116" END="1220">the people who are betting that this is
+the day, this is the end, that today is the end or maybe tomorrow</charseq>
+    </extent>
+    <head>
+      <charseq START="1120" END="1125">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-31" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1127" END="1129">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1127" END="1129">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1248" END="1250">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1248" END="1250">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E22" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="22-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="87">BBC News in London</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="77">BBC News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="70" END="77">BBC News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="23-33" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="82" END="87">London</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="87">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="82" END="87">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="90" END="90">I</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="90">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="95" END="121">James Cawling for The World</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="107">James Cawling</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="95" END="107">James Cawling</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="113" END="121">The World</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="121">World</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="117" END="121">World</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="27-37" TYPE="PRO" LDCTYPE="HLS" ROLE="PER">
+    <extent>
+      <charseq START="124" END="142">The whole
+of Serbia</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="132">whole</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="137" END="142">Serbia</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="142">Serbia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="137" END="142">Serbia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="428" END="436">Milosevic</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="436">Milosevic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="949" END="966">Slobodan Milosevic</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="966">Slobodan Milosevic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1057" END="1059">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1057" END="1059">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="182">Slobodan Milosevic</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="182">Slobodan Milosevic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="331" END="339">Milosevic</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="339">Milosevic</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="949" END="966">Slobodan Milosevic</charseq>
+    </name>
+    <name>
+      <charseq START="165" END="182">Slobodan Milosevic</charseq>
+    </name>
+    <name>
+      <charseq START="331" END="339">Milosevic</charseq>
+    </name>
+    <name>
+      <charseq START="428" END="436">Milosevic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="209" END="244">opposition leader Vojislav Kostunica</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="244">Vojislav Kostunica</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-41" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="209" END="225">opposition leader</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="225">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="296" END="304">Kostunica</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="304">Kostunica</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="315" END="316">he</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="316">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="227" END="244">Vojislav Kostunica</charseq>
+    </name>
+    <name>
+      <charseq START="296" END="304">Kostunica</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001005.2000.1824-E31" TYPE="PER" CLASS="USP">
+  <entity_mention ID="31-42" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="249" END="266">crowds in Belgrade</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="254">crowds</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E33" TYPE="PER" CLASS="USP">
+  <entity_mention ID="33-47" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="344" END="352">President</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="352">President</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="363" END="393">hundreds of thousands of people</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="393">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001005.2000.1824-E35" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="35-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="402" END="416">the city center</charseq>
+    </extent>
+    <head>
+      <charseq START="411" END="416">center</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="PRI20001005.2000.1824-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E26" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="95" END="121">James Cawling for The World</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-35" ARGNUM="1">
+      <extent>
+        <charseq START="95" END="121">James Cawling for The World</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-36" ARGNUM="2">
+      <extent>
+        <charseq START="113" END="121">The World</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="249" END="266">crowds in Belgrade</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-42" ARGNUM="1">
+      <extent>
+        <charseq START="249" END="266">crowds in Belgrade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-43" ARGNUM="2">
+      <extent>
+        <charseq START="259" END="266">Belgrade</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E35" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="363" END="416">hundreds of thousands of people
+filled the city center</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-48" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="393">hundreds of thousands of people</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-49" ARGNUM="2">
+      <extent>
+        <charseq START="402" END="416">the city center</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="402" END="416">the city center</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-49" ARGNUM="1">
+      <extent>
+        <charseq START="402" END="416">the city center</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="406" END="409">city</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E4" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="467" END="484">clouds of tear gas</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="467" END="484">clouds of tear gas</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="477" END="484">tear gas</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R6" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="505" END="558">the Federal Parliament
+building, which was set on fire</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="517" END="526">Parliament</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="505" END="558">the Federal Parliament
+building, which was set on fire</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="681" END="722">Journalist Misha Glenny was on the streets</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="681" END="703">Journalist Misha Glenny</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-14" ARGNUM="2">
+      <extent>
+        <charseq START="712" END="722">the streets</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E16" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="727" END="753">The Federal Parliament here</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-15" ARGNUM="1">
+      <extent>
+        <charseq START="727" END="753">The Federal Parliament here</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-23" ARGNUM="2">
+      <extent>
+        <charseq START="750" END="753">here</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E5" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="767" END="798">Demonstrators have moved
+into it</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-16" ARGNUM="1">
+      <extent>
+        <charseq START="767" END="779">Demonstrators</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-17" ARGNUM="2">
+      <extent>
+        <charseq START="797" END="798">it</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R10" TYPE="DISC">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E15" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="858" END="882">many of the demonstrators</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-20" ARGNUM="1">
+      <extent>
+        <charseq START="858" END="882">many of the demonstrators</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-21" ARGNUM="2">
+      <extent>
+        <charseq START="866" END="882">the demonstrators</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R11" TYPE="DISC">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E20" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1100" END="1220">the majority of the people who are betting that this is
+the day, this is the end, that today is the end or maybe tomorrow</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-29" ARGNUM="1">
+      <extent>
+        <charseq START="1100" END="1220">the majority of the people who are betting that this is
+the day, this is the end, that today is the end or maybe tomorrow</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-30" ARGNUM="2">
+      <extent>
+        <charseq START="1116" END="1220">the people who are betting that this is
+the day, this is the end, that today is the end or maybe tomorrow</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001005.2000.1824-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001005.2000.1824-E23" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="87">BBC News in London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="87">BBC News in London</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-33" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="87">London</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

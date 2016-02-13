@@ -1,0 +1,934 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="chtb_028" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">chinese_treebank</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">chtb_028.eng.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="chtb_028:T1">
+<Signal id="chtb_028:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="chtb_028:1" timeline="chtb_028:T1">
+<Metadata>
+<MetadataElement name="docid">chtb_028.eng</MetadataElement>
+</Metadata>
+<Anchor id="chtb_028:1:1" offset="241.000000"></Anchor>
+<Anchor id="chtb_028:1:3" offset="241.000000"></Anchor>
+<Anchor id="chtb_028:1:2" offset="258.000000"></Anchor>
+<Anchor id="chtb_028:1:4" offset="258.000000"></Anchor>
+<Anchor id="chtb_028:1:9" offset="261.000000"></Anchor>
+<Anchor id="chtb_028:1:B" offset="261.000000"></Anchor>
+<Anchor id="chtb_028:1:A" offset="267.000000"></Anchor>
+<Anchor id="chtb_028:1:C" offset="267.000000"></Anchor>
+<Anchor id="chtb_028:1:2d" offset="282.000000"></Anchor>
+<Anchor id="chtb_028:1:2t" offset="282.000000"></Anchor>
+<Anchor id="chtb_028:1:I" offset="282.000000"></Anchor>
+<Anchor id="chtb_028:1:K" offset="282.000000"></Anchor>
+<Anchor id="chtb_028:1:L" offset="297.000000"></Anchor>
+<Anchor id="chtb_028:1:Q" offset="302.000000"></Anchor>
+<Anchor id="chtb_028:1:S" offset="306.000000"></Anchor>
+<Anchor id="chtb_028:1:2e" offset="307.000000"></Anchor>
+<Anchor id="chtb_028:1:J" offset="307.000000"></Anchor>
+<Anchor id="chtb_028:1:R" offset="307.000000"></Anchor>
+<Anchor id="chtb_028:1:U" offset="307.000000"></Anchor>
+<Anchor id="chtb_028:1:Z" offset="313.000000"></Anchor>
+<Anchor id="chtb_028:1:2l" offset="314.000000"></Anchor>
+<Anchor id="chtb_028:1:b" offset="317.000000"></Anchor>
+<Anchor id="chtb_028:1:c" offset="351.000000"></Anchor>
+<Anchor id="chtb_028:1:h" offset="356.000000"></Anchor>
+<Anchor id="chtb_028:1:j" offset="360.000000"></Anchor>
+<Anchor id="chtb_028:1:i" offset="393.000000"></Anchor>
+<Anchor id="chtb_028:1:k" offset="393.000000"></Anchor>
+<Anchor id="chtb_028:1:p" offset="398.000000"></Anchor>
+<Anchor id="chtb_028:1:r" offset="398.000000"></Anchor>
+<Anchor id="chtb_028:1:2m" offset="402.000000"></Anchor>
+<Anchor id="chtb_028:1:2u" offset="402.000000"></Anchor>
+<Anchor id="chtb_028:1:a" offset="402.000000"></Anchor>
+<Anchor id="chtb_028:1:q" offset="402.000000"></Anchor>
+<Anchor id="chtb_028:1:s" offset="402.000000"></Anchor>
+<Anchor id="chtb_028:1:x" offset="459.000000"></Anchor>
+<Anchor id="chtb_028:1:z" offset="459.000000"></Anchor>
+<Anchor id="chtb_028:1:10" offset="460.000000"></Anchor>
+<Anchor id="chtb_028:1:y" offset="460.000000"></Anchor>
+<Anchor id="chtb_028:1:15" offset="513.000000"></Anchor>
+<Anchor id="chtb_028:1:17" offset="513.000000"></Anchor>
+<Anchor id="chtb_028:1:16" offset="519.000000"></Anchor>
+<Anchor id="chtb_028:1:18" offset="519.000000"></Anchor>
+<Anchor id="chtb_028:1:1D" offset="607.000000"></Anchor>
+<Anchor id="chtb_028:1:1G" offset="607.000000"></Anchor>
+<Anchor id="chtb_028:1:1F" offset="611.000000"></Anchor>
+<Anchor id="chtb_028:1:1H" offset="611.000000"></Anchor>
+<Anchor id="chtb_028:1:1I" offset="634.000000"></Anchor>
+<Anchor id="chtb_028:1:1K" offset="634.000000"></Anchor>
+<Anchor id="chtb_028:1:1J" offset="649.000000"></Anchor>
+<Anchor id="chtb_028:1:1L" offset="649.000000"></Anchor>
+<Anchor id="chtb_028:1:1M" offset="699.000000"></Anchor>
+<Anchor id="chtb_028:1:1O" offset="699.000000"></Anchor>
+<Anchor id="chtb_028:1:1N" offset="700.000000"></Anchor>
+<Anchor id="chtb_028:1:1P" offset="700.000000"></Anchor>
+<Anchor id="chtb_028:1:1Q" offset="705.000000"></Anchor>
+<Anchor id="chtb_028:1:1S" offset="705.000000"></Anchor>
+<Anchor id="chtb_028:1:1R" offset="709.000000"></Anchor>
+<Anchor id="chtb_028:1:1U" offset="709.000000"></Anchor>
+<Anchor id="chtb_028:1:1V" offset="735.000000"></Anchor>
+<Anchor id="chtb_028:1:1X" offset="735.000000"></Anchor>
+<Anchor id="chtb_028:1:1W" offset="736.000000"></Anchor>
+<Anchor id="chtb_028:1:1Y" offset="736.000000"></Anchor>
+<Anchor id="chtb_028:1:1Z" offset="776.000000"></Anchor>
+<Anchor id="chtb_028:1:1b" offset="776.000000"></Anchor>
+<Anchor id="chtb_028:1:1a" offset="829.000000"></Anchor>
+<Anchor id="chtb_028:1:1c" offset="829.000000"></Anchor>
+<Anchor id="chtb_028:1:1h" offset="1094.000000"></Anchor>
+<Anchor id="chtb_028:1:1j" offset="1094.000000"></Anchor>
+<Anchor id="chtb_028:1:1i" offset="1095.000000"></Anchor>
+<Anchor id="chtb_028:1:1k" offset="1095.000000"></Anchor>
+<Anchor id="chtb_028:1:1l" offset="1131.000000"></Anchor>
+<Anchor id="chtb_028:1:1n" offset="1131.000000"></Anchor>
+<Anchor id="chtb_028:1:1m" offset="1132.000000"></Anchor>
+<Anchor id="chtb_028:1:1o" offset="1132.000000"></Anchor>
+<Anchor id="chtb_028:1:1p" offset="1145.000000"></Anchor>
+<Anchor id="chtb_028:1:1r" offset="1145.000000"></Anchor>
+<Anchor id="chtb_028:1:1q" offset="1149.000000"></Anchor>
+<Anchor id="chtb_028:1:1s" offset="1149.000000"></Anchor>
+<Anchor id="chtb_028:1:1t" offset="1163.000000"></Anchor>
+<Anchor id="chtb_028:1:1v" offset="1163.000000"></Anchor>
+<Anchor id="chtb_028:1:1u" offset="1170.000000"></Anchor>
+<Anchor id="chtb_028:1:1w" offset="1170.000000"></Anchor>
+<Anchor id="chtb_028:1:21" offset="1196.000000"></Anchor>
+<Anchor id="chtb_028:1:23" offset="1196.000000"></Anchor>
+<Anchor id="chtb_028:1:31" offset="1196.000000"></Anchor>
+<Anchor id="chtb_028:1:22" offset="1197.000000"></Anchor>
+<Anchor id="chtb_028:1:24" offset="1197.000000"></Anchor>
+<Anchor id="chtb_028:1:25" offset="1207.000000"></Anchor>
+<Anchor id="chtb_028:1:39" offset="1207.000000"></Anchor>
+<Anchor id="chtb_028:1:27" offset="1223.000000"></Anchor>
+<Anchor id="chtb_028:1:26" offset="1231.000000"></Anchor>
+<Anchor id="chtb_028:1:28" offset="1231.000000"></Anchor>
+<Anchor id="chtb_028:1:2D" offset="1236.000000"></Anchor>
+<Anchor id="chtb_028:1:2G" offset="1236.000000"></Anchor>
+<Anchor id="chtb_028:1:2F" offset="1240.000000"></Anchor>
+<Anchor id="chtb_028:1:2H" offset="1240.000000"></Anchor>
+<Anchor id="chtb_028:1:32" offset="1240.000000"></Anchor>
+<Anchor id="chtb_028:1:3A" offset="1240.000000"></Anchor>
+<Anchor id="chtb_028:1:2I" offset="1263.000000"></Anchor>
+<Anchor id="chtb_028:1:2K" offset="1263.000000"></Anchor>
+<Anchor id="chtb_028:1:2J" offset="1264.000000"></Anchor>
+<Anchor id="chtb_028:1:2L" offset="1264.000000"></Anchor>
+<Anchor id="chtb_028:1:2M" offset="1297.000000"></Anchor>
+<Anchor id="chtb_028:1:2O" offset="1297.000000"></Anchor>
+<Anchor id="chtb_028:1:2N" offset="1298.000000"></Anchor>
+<Anchor id="chtb_028:1:2P" offset="1298.000000"></Anchor>
+<Anchor id="chtb_028:1:2Q" offset="1323.000000"></Anchor>
+<Anchor id="chtb_028:1:2S" offset="1323.000000"></Anchor>
+<Anchor id="chtb_028:1:2R" offset="1327.000000"></Anchor>
+<Anchor id="chtb_028:1:2U" offset="1327.000000"></Anchor>
+<Anchor id="chtb_028:1:2V" offset="1375.000000"></Anchor>
+<Anchor id="chtb_028:1:2X" offset="1375.000000"></Anchor>
+<Anchor id="chtb_028:1:2W" offset="1381.000000"></Anchor>
+<Anchor id="chtb_028:1:2Y" offset="1381.000000"></Anchor>
+<Anchor id="chtb_028:1:11"></Anchor>
+<Anchor id="chtb_028:1:12"></Anchor>
+<Anchor id="chtb_028:1:13"></Anchor>
+<Anchor id="chtb_028:1:14"></Anchor>
+<Anchor id="chtb_028:1:19"></Anchor>
+<Anchor id="chtb_028:1:1A"></Anchor>
+<Anchor id="chtb_028:1:1B"></Anchor>
+<Anchor id="chtb_028:1:1C"></Anchor>
+<Anchor id="chtb_028:1:1d"></Anchor>
+<Anchor id="chtb_028:1:1e"></Anchor>
+<Anchor id="chtb_028:1:1f"></Anchor>
+<Anchor id="chtb_028:1:1g"></Anchor>
+<Anchor id="chtb_028:1:1x"></Anchor>
+<Anchor id="chtb_028:1:1y"></Anchor>
+<Anchor id="chtb_028:1:1z"></Anchor>
+<Anchor id="chtb_028:1:20"></Anchor>
+<Anchor id="chtb_028:1:29"></Anchor>
+<Anchor id="chtb_028:1:2A"></Anchor>
+<Anchor id="chtb_028:1:2B"></Anchor>
+<Anchor id="chtb_028:1:2C"></Anchor>
+<Anchor id="chtb_028:1:2Z"></Anchor>
+<Anchor id="chtb_028:1:2a"></Anchor>
+<Anchor id="chtb_028:1:2b"></Anchor>
+<Anchor id="chtb_028:1:2c"></Anchor>
+<Anchor id="chtb_028:1:2f"></Anchor>
+<Anchor id="chtb_028:1:2g"></Anchor>
+<Anchor id="chtb_028:1:2h"></Anchor>
+<Anchor id="chtb_028:1:2i"></Anchor>
+<Anchor id="chtb_028:1:2j"></Anchor>
+<Anchor id="chtb_028:1:2k"></Anchor>
+<Anchor id="chtb_028:1:2n"></Anchor>
+<Anchor id="chtb_028:1:2o"></Anchor>
+<Anchor id="chtb_028:1:2p"></Anchor>
+<Anchor id="chtb_028:1:2q"></Anchor>
+<Anchor id="chtb_028:1:2r"></Anchor>
+<Anchor id="chtb_028:1:2s"></Anchor>
+<Anchor id="chtb_028:1:2v"></Anchor>
+<Anchor id="chtb_028:1:2w"></Anchor>
+<Anchor id="chtb_028:1:2x"></Anchor>
+<Anchor id="chtb_028:1:2y"></Anchor>
+<Anchor id="chtb_028:1:2z"></Anchor>
+<Anchor id="chtb_028:1:30"></Anchor>
+<Anchor id="chtb_028:1:33"></Anchor>
+<Anchor id="chtb_028:1:34"></Anchor>
+<Anchor id="chtb_028:1:35"></Anchor>
+<Anchor id="chtb_028:1:36"></Anchor>
+<Anchor id="chtb_028:1:37"></Anchor>
+<Anchor id="chtb_028:1:38"></Anchor>
+<Anchor id="chtb_028:1:3B"></Anchor>
+<Anchor id="chtb_028:1:3C"></Anchor>
+<Anchor id="chtb_028:1:3D"></Anchor>
+<Anchor id="chtb_028:1:3F"></Anchor>
+<Anchor id="chtb_028:1:3G"></Anchor>
+<Anchor id="chtb_028:1:3H"></Anchor>
+<Anchor id="chtb_028:1:3I"></Anchor>
+<Anchor id="chtb_028:1:3J"></Anchor>
+<Anchor id="chtb_028:1:5"></Anchor>
+<Anchor id="chtb_028:1:6"></Anchor>
+<Anchor id="chtb_028:1:7"></Anchor>
+<Anchor id="chtb_028:1:8"></Anchor>
+<Anchor id="chtb_028:1:D"></Anchor>
+<Anchor id="chtb_028:1:F"></Anchor>
+<Anchor id="chtb_028:1:G"></Anchor>
+<Anchor id="chtb_028:1:H"></Anchor>
+<Anchor id="chtb_028:1:M"></Anchor>
+<Anchor id="chtb_028:1:N"></Anchor>
+<Anchor id="chtb_028:1:O"></Anchor>
+<Anchor id="chtb_028:1:P"></Anchor>
+<Anchor id="chtb_028:1:V"></Anchor>
+<Anchor id="chtb_028:1:W"></Anchor>
+<Anchor id="chtb_028:1:X"></Anchor>
+<Anchor id="chtb_028:1:Y"></Anchor>
+<Anchor id="chtb_028:1:d"></Anchor>
+<Anchor id="chtb_028:1:e"></Anchor>
+<Anchor id="chtb_028:1:f"></Anchor>
+<Anchor id="chtb_028:1:g"></Anchor>
+<Anchor id="chtb_028:1:l"></Anchor>
+<Anchor id="chtb_028:1:m"></Anchor>
+<Anchor id="chtb_028:1:n"></Anchor>
+<Anchor id="chtb_028:1:o"></Anchor>
+<Anchor id="chtb_028:1:t"></Anchor>
+<Anchor id="chtb_028:1:u"></Anchor>
+<Anchor id="chtb_028:1:v"></Anchor>
+<Anchor id="chtb_028:1:w"></Anchor>
+<Annotation id="chtb_028:1:E10" type="composite_entity" start="chtb_028:1:1z" end="chtb_028:1:20">
+<Feature name="composite_entity_class">USP</Feature>
+<Feature name="id">chtb_028.eng-CE1</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E15" type="entity" start="chtb_028:1:29" end="chtb_028:1:2A">
+<Feature name="class">USP</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:E16</Feature>
+<Feature name="id">chtb_028.eng-E1</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E16" type="composite_entity" start="chtb_028:1:2B" end="chtb_028:1:2C">
+<Feature name="composite_entity_class">USP</Feature>
+<Feature name="id">chtb_028.eng-CE2</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1I" type="entity" start="chtb_028:1:2Z" end="chtb_028:1:2a">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EU</Feature>
+<Feature name="id">chtb_028.eng-E2</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1L" type="relation" start="chtb_028:1:2f" end="chtb_028:1:2g">
+<Feature name="id">chtb_028.eng-R1</Feature>
+<Feature name="subtype">Based-In</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1M" type="relation_mention_argument" start="chtb_028:1:2h" end="chtb_028:1:2i">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_028:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1K</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1N" type="relation_mention_argument" start="chtb_028:1:2j" end="chtb_028:1:2k">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_028:1:ED</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1K</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1P" type="relation" start="chtb_028:1:2n" end="chtb_028:1:2o">
+<Feature name="id">chtb_028.eng-R2</Feature>
+<Feature name="subtype">Based-In</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1Q" type="relation_mention_argument" start="chtb_028:1:2p" end="chtb_028:1:2q">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_028:1:EM</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1O</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1R" type="relation_mention_argument" start="chtb_028:1:2r" end="chtb_028:1:2s">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_028:1:EQ</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1O</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1U" type="relation" start="chtb_028:1:2v" end="chtb_028:1:2w">
+<Feature name="id">chtb_028.eng-R3</Feature>
+<Feature name="subtype">Partner</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1V" type="relation_mention_argument" start="chtb_028:1:2x" end="chtb_028:1:2y">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_028:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1S</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1W" type="relation_mention_argument" start="chtb_028:1:2z" end="chtb_028:1:30">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_028:1:EI</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1S</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1Z" type="relation" start="chtb_028:1:35" end="chtb_028:1:36">
+<Feature name="id">chtb_028.eng-R4</Feature>
+<Feature name="subtype">Employ-Staff</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1a" type="relation_mention_argument" start="chtb_028:1:37" end="chtb_028:1:38">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_028:1:E13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1X</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1c" type="relation" start="chtb_028:1:3B" end="chtb_028:1:3C">
+<Feature name="id">chtb_028.eng-R5</Feature>
+<Feature name="subtype">Citizen-or-Resident</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1d" type="relation_mention_argument" start="chtb_028:1:3D" end="chtb_028:1:3F">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_028:1:E13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1b</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1e" type="relation_mention_argument" start="chtb_028:1:3G" end="chtb_028:1:3H">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_028:1:E17</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1b</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1f" type="relation_mention_argument" start="chtb_028:1:3I" end="chtb_028:1:3J">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_028:1:E11</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_028:1:E1X</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E3" type="entity" start="chtb_028:1:5" end="chtb_028:1:6">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:E4</Feature>
+<Feature name="id">chtb_028.eng-E3</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E4" type="composite_entity" start="chtb_028:1:7" end="chtb_028:1:8">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE3</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E7" type="entity" start="chtb_028:1:D" end="chtb_028:1:F">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:E8</Feature>
+<Feature name="id">chtb_028.eng-E4</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E8" type="composite_entity" start="chtb_028:1:G" end="chtb_028:1:H">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE4</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EB" type="entity" start="chtb_028:1:M" end="chtb_028:1:N">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EC</Feature>
+<Feature name="id">chtb_028.eng-E5</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EC" type="composite_entity" start="chtb_028:1:O" end="chtb_028:1:P">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE5</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EG" type="entity" start="chtb_028:1:V" end="chtb_028:1:W">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EH</Feature>
+<Feature name="id">chtb_028.eng-E6</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EH" type="composite_entity" start="chtb_028:1:X" end="chtb_028:1:Y">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE6</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EK" type="entity" start="chtb_028:1:d" end="chtb_028:1:e">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EL</Feature>
+<Feature name="id">chtb_028.eng-E7</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EL" type="composite_entity" start="chtb_028:1:f" end="chtb_028:1:g">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE7</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EO" type="entity" start="chtb_028:1:l" end="chtb_028:1:m">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EP</Feature>
+<Feature name="id">chtb_028.eng-E8</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EP" type="composite_entity" start="chtb_028:1:n" end="chtb_028:1:o">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE8</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:ES" type="entity" start="chtb_028:1:t" end="chtb_028:1:u">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EU</Feature>
+<Feature name="id">chtb_028.eng-E9</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EU" type="composite_entity" start="chtb_028:1:v" end="chtb_028:1:w">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE9</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EX" type="entity" start="chtb_028:1:11" end="chtb_028:1:12">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:EH</Feature>
+<Feature name="id">chtb_028.eng-E10</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eb" type="entity" start="chtb_028:1:19" end="chtb_028:1:1A">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:Ec</Feature>
+<Feature name="id">chtb_028.eng-E11</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ec" type="composite_entity" start="chtb_028:1:1B" end="chtb_028:1:1C">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE10</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ep" type="entity" start="chtb_028:1:1d" end="chtb_028:1:1e">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:Eq</Feature>
+<Feature name="id">chtb_028.eng-E12</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eq" type="composite_entity" start="chtb_028:1:1f" end="chtb_028:1:1g">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_028.eng-CE11</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ez" type="entity" start="chtb_028:1:1x" end="chtb_028:1:1y">
+<Feature name="class">USP</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_028:1:E10</Feature>
+<Feature name="id">chtb_028.eng-E13</Feature>
+<Feature name="subtype">Air</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">VEH</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1" type="entity_mention" start="chtb_028:1:1" end="chtb_028:1:2">
+<Feature name="entity">chtb_028:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E2</Feature>
+<Feature name="id">3-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Xinhua News Agency</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E2" type="entity_mention_head" start="chtb_028:1:3" end="chtb_028:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Xinhua News Agency</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E5" type="entity_mention" start="chtb_028:1:9" end="chtb_028:1:A">
+<Feature name="entity">chtb_028:1:E7</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E6</Feature>
+<Feature name="id">4-9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Beijing</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E6" type="entity_mention_head" start="chtb_028:1:B" end="chtb_028:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Beijing</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EA" type="entity_mention_head" start="chtb_028:1:K" end="chtb_028:1:L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">General Electric</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1K" type="relation_mention" start="chtb_028:1:2d" end="chtb_028:1:2e">
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_028:1:E1L</Feature>
+<Feature name="text">General Electric of the US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E9" type="entity_mention" start="chtb_028:1:I" end="chtb_028:1:J">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:EA</Feature>
+<Feature name="id">5-10</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">General Electric of the US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1S" type="relation_mention" start="chtb_028:1:2t" end="chtb_028:1:2u">
+<Feature name="id">3-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_028:1:E1U</Feature>
+<Feature name="text">General Electric of the US and the Southwest Medical Equipment
+Factory of the Medical Appliance Industry Company of China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:ED" type="entity_mention" start="chtb_028:1:Q" end="chtb_028:1:R">
+<Feature name="entity">chtb_028:1:EG</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:EF</Feature>
+<Feature name="id">6-11</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EF" type="entity_mention_head" start="chtb_028:1:S" end="chtb_028:1:U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EI" type="entity_mention" start="chtb_028:1:Z" end="chtb_028:1:a">
+<Feature name="entity">chtb_028:1:EK</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:EJ</Feature>
+<Feature name="id">7-12</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Southwest Medical Equipment
+Factory of the Medical Appliance Industry Company of China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1O" type="relation_mention" start="chtb_028:1:2l" end="chtb_028:1:2m">
+<Feature name="id">2-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_028:1:E1P</Feature>
+<Feature name="text">he Southwest Medical Equipment
+Factory of the Medical Appliance Industry Company of China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EJ" type="entity_mention_head" start="chtb_028:1:b" end="chtb_028:1:c">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Southwest Medical Equipment
+Factory</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EM" type="entity_mention" start="chtb_028:1:h" end="chtb_028:1:i">
+<Feature name="entity">chtb_028:1:EO</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:EN</Feature>
+<Feature name="id">8-13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Medical Appliance Industry Company</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EN" type="entity_mention_head" start="chtb_028:1:j" end="chtb_028:1:k">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Medical Appliance Industry Company</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EQ" type="entity_mention" start="chtb_028:1:p" end="chtb_028:1:q">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:ER</Feature>
+<Feature name="id">9-14</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:ER" type="entity_mention_head" start="chtb_028:1:r" end="chtb_028:1:s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EV" type="entity_mention" start="chtb_028:1:x" end="chtb_028:1:y">
+<Feature name="entity">chtb_028:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:EW</Feature>
+<Feature name="id">10-15</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EW" type="entity_mention_head" start="chtb_028:1:z" end="chtb_028:1:10">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:EZ" type="entity_mention" start="chtb_028:1:15" end="chtb_028:1:16">
+<Feature name="entity">chtb_028:1:Eb</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ea</Feature>
+<Feature name="id">11-16</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Chengdu</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ea" type="entity_mention_head" start="chtb_028:1:17" end="chtb_028:1:18">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Chengdu</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ed" type="entity_mention" start="chtb_028:1:1D" end="chtb_028:1:1F">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ee</Feature>
+<Feature name="id">9-17</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ee" type="entity_mention_head" start="chtb_028:1:1G" end="chtb_028:1:1H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ef" type="entity_mention" start="chtb_028:1:1I" end="chtb_028:1:1J">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Eg</Feature>
+<Feature name="id">5-18</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">General Electric</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eg" type="entity_mention_head" start="chtb_028:1:1K" end="chtb_028:1:1L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">General Electric</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eh" type="entity_mention" start="chtb_028:1:1M" end="chtb_028:1:1N">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ei</Feature>
+<Feature name="id">5-19</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">GE</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ei" type="entity_mention_head" start="chtb_028:1:1O" end="chtb_028:1:1P">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">GE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ej" type="entity_mention" start="chtb_028:1:1Q" end="chtb_028:1:1R">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ek</Feature>
+<Feature name="id">9-20</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ek" type="entity_mention_head" start="chtb_028:1:1S" end="chtb_028:1:1U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:El" type="entity_mention" start="chtb_028:1:1V" end="chtb_028:1:1W">
+<Feature name="entity">chtb_028:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Em</Feature>
+<Feature name="id">10-21</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Em" type="entity_mention_head" start="chtb_028:1:1X" end="chtb_028:1:1Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:En" type="entity_mention" start="chtb_028:1:1Z" end="chtb_028:1:1a">
+<Feature name="entity">chtb_028:1:Ep</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Eo</Feature>
+<Feature name="id">12-22</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Chengdu General Medical Equipment
+(Southwest) Co., Ltd</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eo" type="entity_mention_head" start="chtb_028:1:1b" end="chtb_028:1:1c">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Chengdu General Medical Equipment
+(Southwest) Co., Ltd</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Er" type="entity_mention" start="chtb_028:1:1h" end="chtb_028:1:1i">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Es</Feature>
+<Feature name="id">5-23</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">GE</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Es" type="entity_mention_head" start="chtb_028:1:1j" end="chtb_028:1:1k">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">GE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Et" type="entity_mention" start="chtb_028:1:1l" end="chtb_028:1:1m">
+<Feature name="entity">chtb_028:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Eu</Feature>
+<Feature name="id">10-24</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Eu" type="entity_mention_head" start="chtb_028:1:1n" end="chtb_028:1:1o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ev" type="entity_mention" start="chtb_028:1:1p" end="chtb_028:1:1q">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ew</Feature>
+<Feature name="id">9-25</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ew" type="entity_mention_head" start="chtb_028:1:1r" end="chtb_028:1:1s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ex" type="entity_mention" start="chtb_028:1:1t" end="chtb_028:1:1u">
+<Feature name="entity">chtb_028:1:Ez</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:Ey</Feature>
+<Feature name="id">13-26</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">airplane</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:Ey" type="entity_mention_head" start="chtb_028:1:1v" end="chtb_028:1:1w">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">airplane</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E11" type="entity_mention" start="chtb_028:1:21" end="chtb_028:1:22">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E12</Feature>
+<Feature name="id">5-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">GE</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E12" type="entity_mention_head" start="chtb_028:1:23" end="chtb_028:1:24">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">GE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1X" type="relation_mention" start="chtb_028:1:31" end="chtb_028:1:32">
+<Feature name="id">4-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_028:1:E1Z</Feature>
+<Feature name="text">GE now has more than 8,000 employees in China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E13" type="entity_mention" start="chtb_028:1:25" end="chtb_028:1:26">
+<Feature name="entity">chtb_028:1:E15</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E14</Feature>
+<Feature name="id">1-3</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">more than 8,000 employees</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1b" type="relation_mention" start="chtb_028:1:39" end="chtb_028:1:3A">
+<Feature name="id">5-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_028:1:E1c</Feature>
+<Feature name="text">more than 8,000 employees in China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E14" type="entity_mention_head" start="chtb_028:1:27" end="chtb_028:1:28">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">employees</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E17" type="entity_mention" start="chtb_028:1:2D" end="chtb_028:1:2F">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E18</Feature>
+<Feature name="id">9-4</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E18" type="entity_mention_head" start="chtb_028:1:2G" end="chtb_028:1:2H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E19" type="entity_mention" start="chtb_028:1:2I" end="chtb_028:1:2J">
+<Feature name="entity">chtb_028:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E1A</Feature>
+<Feature name="id">5-5</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">GE</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1A" type="entity_mention_head" start="chtb_028:1:2K" end="chtb_028:1:2L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">GE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1B" type="entity_mention" start="chtb_028:1:2M" end="chtb_028:1:2N">
+<Feature name="entity">chtb_028:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E1C</Feature>
+<Feature name="id">10-6</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1C" type="entity_mention_head" start="chtb_028:1:2O" end="chtb_028:1:2P">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1D" type="entity_mention" start="chtb_028:1:2Q" end="chtb_028:1:2R">
+<Feature name="entity">chtb_028:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E1F</Feature>
+<Feature name="id">9-7</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">China</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1F" type="entity_mention_head" start="chtb_028:1:2S" end="chtb_028:1:2U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">China</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1G" type="entity_mention" start="chtb_028:1:2V" end="chtb_028:1:2W">
+<Feature name="entity">chtb_028:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_028:1:E1H</Feature>
+<Feature name="id">2-8</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Chinese</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_028:1:E1H" type="entity_mention_head" start="chtb_028:1:2X" end="chtb_028:1:2Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Chinese</Feature>
+</Annotation>
+</AG>
+</AGSet>

@@ -1,0 +1,894 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0200.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0200.eng">
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE1">
+  <entity ID="20001015_AFP_ARB.0200.eng-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="1-46" TYPE="NOM">
+      <extent>
+        <charseq START="586" END="597">their allies</charseq>
+      </extent>
+      <head>
+        <charseq START="592" END="597">allies</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE2">
+  <entity ID="20001015_AFP_ARB.0200.eng-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NOM">
+      <extent>
+        <charseq START="756" END="770">fifty civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="762" END="770">civilians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE3">
+  <entity ID="20001015_AFP_ARB.0200.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-7" TYPE="NAM">
+      <extent>
+        <charseq START="824" END="866">(Congolese President
+Laurent Desire) Kabila</charseq>
+      </extent>
+      <head>
+        <charseq START="845" END="866">Laurent Desire) Kabila</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="845" END="866">Laurent Desire) Kabila</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0200.eng-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-8" TYPE="PRE">
+      <extent>
+        <charseq START="825" END="843">Congolese President</charseq>
+      </extent>
+      <head>
+        <charseq START="835" END="843">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE4">
+  <entity ID="20001015_AFP_ARB.0200.eng-E6" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="BAR">
+      <extent>
+        <charseq START="887" END="976">positions in Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+      </extent>
+      <head>
+        <charseq START="887" END="895">positions</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE5">
+  <entity ID="20001015_AFP_ARB.0200.eng-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-11" TYPE="CMC" ROLE="LOC">
+      <extent>
+        <charseq START="900" END="976">Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE6">
+  <entity ID="20001015_AFP_ARB.0200.eng-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="900" END="907">Pontaolo</charseq>
+      </extent>
+      <head>
+        <charseq START="900" END="907">Pontaolo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="900" END="907">Pontaolo</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE7">
+  <entity ID="20001015_AFP_ARB.0200.eng-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-13" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="913" END="919">Mossawa</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="919">Mossawa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="913" END="919">Mossawa</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE8">
+  <entity ID="20001015_AFP_ARB.0200.eng-E10" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="10-14" TYPE="NOM">
+      <extent>
+        <charseq START="924" END="976">northern Katinga" in the southern part of the country</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="939">Katinga</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE9">
+  <entity ID="20001015_AFP_ARB.0200.eng-E11" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="11-15" TYPE="NOM">
+      <extent>
+        <charseq START="945" END="976">the southern part of the country</charseq>
+      </extent>
+      <head>
+        <charseq START="958" END="961">part</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE10">
+  <entity ID="20001015_AFP_ARB.0200.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-20" TYPE="CMC">
+      <extent>
+        <charseq START="1008" END="1053">seven dead and fifteen wounded among our
+ranks</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE11">
+  <entity ID="20001015_AFP_ARB.0200.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="HLS">
+      <extent>
+        <charseq START="1008" END="1017">seven dead</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1017">dead</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE12">
+  <entity ID="20001015_AFP_ARB.0200.eng-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-22" TYPE="HLS">
+      <extent>
+        <charseq START="1023" END="1037">fifteen wounded</charseq>
+      </extent>
+      <head>
+        <charseq START="1031" END="1037">wounded</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE13">
+  <entity ID="20001015_AFP_ARB.0200.eng-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-23" TYPE="NOM">
+      <extent>
+        <charseq START="1045" END="1053">our
+ranks</charseq>
+      </extent>
+      <head>
+        <charseq START="1049" END="1053">ranks</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE14">
+  <entity ID="20001015_AFP_ARB.0200.eng-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-25" TYPE="NOM">
+      <extent>
+        <charseq START="1073" END="1106">twenty government forces' soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1099" END="1106">soldiers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE15">
+  <entity ID="20001015_AFP_ARB.0200.eng-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="132" END="137">Kigali</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="137">Kigali</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="132" END="137">Kigali</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE16">
+  <entity ID="20001015_AFP_ARB.0200.eng-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-28" TYPE="NAM">
+      <extent>
+        <charseq START="146" END="148">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="148">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-31" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="198">Agence France Presse</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="198">Agence France Presse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="146" END="148">AFP</charseq>
+      </name>
+      <name>
+        <charseq START="179" END="198">Agence France Presse</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE17">
+  <entity ID="20001015_AFP_ARB.0200.eng-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-2" TYPE="NAM">
+      <extent>
+        <charseq START="670" END="687">Commander Ondikani</charseq>
+      </extent>
+      <head>
+        <charseq START="680" END="687">Ondikani</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-6" TYPE="PRO">
+      <extent>
+        <charseq START="775" END="776">He</charseq>
+      </extent>
+      <head>
+        <charseq START="775" END="776">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-17" TYPE="PRO">
+      <extent>
+        <charseq START="981" END="982">He</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="982">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-29" TYPE="NOM">
+      <extent>
+        <charseq START="154" END="172">A rebel army leader</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="172">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-35" TYPE="APP">
+      <extent>
+        <charseq START="405" END="537">Jean Pierre Ondikani, the leading deputy of the Rally for Congolese
+Democracy, one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="20-36" TYPE="NAM">
+      <extent>
+        <charseq START="405" END="424">Jean Pierre Ondikani</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="424">Jean Pierre Ondikani</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="405" END="424">Jean Pierre Ondikani</charseq>
+      </name>
+      <name>
+        <charseq START="680" END="687">Ondikani</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0200.eng-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-3" TYPE="PRE">
+      <extent>
+        <charseq START="670" END="678">Commander</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="678">Commander</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-37" TYPE="NOM">
+      <extent>
+        <charseq START="427" END="537">the leading deputy of the Rally for Congolese
+Democracy, one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+      <head>
+        <charseq START="439" END="444">deputy</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE18">
+  <entity ID="20001015_AFP_ARB.0200.eng-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="22-26" TYPE="BAR" ROLE="GPE">
+      <extent>
+        <charseq START="1080" END="1096">government forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1091" END="1096">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-32" TYPE="BAR">
+      <extent>
+        <charseq START="227" END="279">government forces in the Democratic Republic of Congo</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="243">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-43" TYPE="BAR">
+      <extent>
+        <charseq START="545" END="580">armed government forces in the Congo</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="567">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-45" TYPE="PRO">
+      <extent>
+        <charseq START="586" END="590">their</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="590">their</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE19">
+  <entity ID="20001015_AFP_ARB.0200.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="5-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="825" END="833">Congolese</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="833">Congolese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0200.eng-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="18-19" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="551" END="560">government</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="560">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-27" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1080" END="1089">government</charseq>
+      </extent>
+      <head>
+        <charseq START="1080" END="1089">government</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0200.eng-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="23-16" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="966" END="976">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="976">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-33" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="248" END="279">the Democratic Republic of Congo</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="279">Democratic Republic of Congo</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-44" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="572" END="580">the Congo</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="580">Congo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="252" END="279">Democratic Republic of Congo</charseq>
+      </name>
+      <name>
+        <charseq START="576" END="580">Congo</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE20">
+  <entity ID="20001015_AFP_ARB.0200.eng-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-4" TYPE="NOM">
+      <extent>
+        <charseq START="712" END="730">more than 80 people</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="730">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-34" TYPE="NOM">
+      <extent>
+        <charseq START="382" END="400">more than 80 people</charseq>
+      </extent>
+      <head>
+        <charseq START="395" END="400">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE21">
+  <entity ID="20001015_AFP_ARB.0200.eng-E21" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="21-30" TYPE="PRE">
+      <extent>
+        <charseq START="156" END="165">rebel army</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="165">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-40" TYPE="PTV">
+      <extent>
+        <charseq START="484" END="537">one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="486">one</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0200.eng-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="26-18" TYPE="PRO">
+      <extent>
+        <charseq START="991" END="992">we</charseq>
+      </extent>
+      <head>
+        <charseq START="991" END="992">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-24" TYPE="PRO">
+      <extent>
+        <charseq START="1045" END="1047">our</charseq>
+      </extent>
+      <head>
+        <charseq START="1045" END="1047">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-38" TYPE="APP">
+      <extent>
+        <charseq START="449" END="537">the Rally for Congolese
+Democracy, one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="26-39" TYPE="NAM">
+      <extent>
+        <charseq START="449" END="481">the Rally for Congolese
+Democracy</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="481">Rally for Congolese
+Democracy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="453" END="481">Rally for Congolese
+Democracy</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE22">
+  <entity ID="20001015_AFP_ARB.0200.eng-E27" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="27-41" TYPE="NOM">
+      <extent>
+        <charseq START="491" END="537">the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+      <head>
+        <charseq START="509" END="517">movements</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0200.eng-CE23">
+  <entity ID="20001015_AFP_ARB.0200.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="28-42" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="532" END="537">Uganda</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="537">Uganda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="532" END="537">Uganda</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0200.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="154" END="172">A rebel army leader</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E20" ENTITYMENTIONID="20-29" ARGNUM="1">
+      <extent>
+        <charseq START="154" END="172">A rebel army leader</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E21" ENTITYMENTIONID="21-30" ARGNUM="2">
+      <extent>
+        <charseq START="156" END="165">rebel army</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="227" END="279">government forces in the Democratic Republic of Congo</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-32" ARGNUM="1">
+      <extent>
+        <charseq START="227" END="279">government forces in the Democratic Republic of Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E23" ENTITYMENTIONID="23-33" ARGNUM="2">
+      <extent>
+        <charseq START="248" END="279">the Democratic Republic of Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="545" END="580">armed government forces in the Congo</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-43" ARGNUM="1">
+      <extent>
+        <charseq START="545" END="580">armed government forces in the Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E23" ENTITYMENTIONID="23-44" ARGNUM="2">
+      <extent>
+        <charseq START="572" END="580">the Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="427" END="537">the leading deputy of the Rally for Congolese
+Democracy, one of the biggest rebel movements supported by Uganda</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E25" ENTITYMENTIONID="25-37" ARGNUM="1">
+      <extent>
+        <charseq START="427" END="537">the leading deputy of the Rally for Congolese
+Democracy, one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E26" ENTITYMENTIONID="26-39" ARGNUM="2">
+      <extent>
+        <charseq START="449" END="481">the Rally for Congolese
+Democracy</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R4" TYPE="DISC">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="484" END="537">one of the biggest rebel movements supported by Uganda</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E21" ENTITYMENTIONID="21-40" ARGNUM="1">
+      <extent>
+        <charseq START="484" END="537">one of the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E27" ENTITYMENTIONID="27-41" ARGNUM="2">
+      <extent>
+        <charseq START="491" END="537">the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R5" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="491" END="537">the biggest rebel movements supported by Uganda</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E27" ENTITYMENTIONID="27-41" ARGNUM="1">
+      <extent>
+        <charseq START="491" END="537">the biggest rebel movements supported by Uganda</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E28" ENTITYMENTIONID="28-42" ARGNUM="2">
+      <extent>
+        <charseq START="532" END="537">Uganda</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R7" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="586" END="597">their allies</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-45" ARGNUM="1">
+      <extent>
+        <charseq START="586" END="590">their</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E1" ENTITYMENTIONID="1-46" ARGNUM="2">
+      <extent>
+        <charseq START="586" END="597">their allies</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="825" END="843">Congolese President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E4" ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="825" END="843">Congolese President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E5" ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="825" END="833">Congolese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="887" END="976">positions in Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E6" ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="887" END="976">positions in Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E8" ENTITYMENTIONID="8-12" ARGNUM="2">
+      <extent>
+        <charseq START="900" END="907">Pontaolo</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="887" END="976">positions in Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E6" ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="887" END="976">positions in Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E9" ENTITYMENTIONID="9-13" ARGNUM="2">
+      <extent>
+        <charseq START="913" END="919">Mossawa</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="900" END="976">Pontaolo and
+Mossawa in northern Katinga" in the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E8" ENTITYMENTIONID="8-12" ARGNUM="1">
+      <extent>
+        <charseq START="900" END="907">Pontaolo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E10" ENTITYMENTIONID="10-14" ARGNUM="2">
+      <extent>
+        <charseq START="924" END="976">northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="913" END="976">Mossawa in northern Katinga" in the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E9" ENTITYMENTIONID="9-13" ARGNUM="1">
+      <extent>
+        <charseq START="913" END="919">Mossawa</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E10" ENTITYMENTIONID="10-14" ARGNUM="2">
+      <extent>
+        <charseq START="924" END="976">northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R13" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="924" END="976">northern Katinga" in the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E10" ENTITYMENTIONID="10-14" ARGNUM="1">
+      <extent>
+        <charseq START="924" END="976">northern Katinga" in the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E11" ENTITYMENTIONID="11-15" ARGNUM="2">
+      <extent>
+        <charseq START="945" END="976">the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R14" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="945" END="976">the southern part of the country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E11" ENTITYMENTIONID="11-15" ARGNUM="1">
+      <extent>
+        <charseq START="945" END="976">the southern part of the country</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E23" ENTITYMENTIONID="23-16" ARGNUM="2">
+      <extent>
+        <charseq START="966" END="976">the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R15" TYPE="DISC">
+  <relation_mention ID="15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1008" END="1053">seven dead and fifteen wounded among our
+ranks</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E13" ENTITYMENTIONID="13-21" ARGNUM="1">
+      <extent>
+        <charseq START="1008" END="1017">seven dead</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E15" ENTITYMENTIONID="15-23" ARGNUM="2">
+      <extent>
+        <charseq START="1045" END="1053">our
+ranks</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R16" TYPE="DISC">
+  <relation_mention ID="16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1023" END="1053">fifteen wounded among our
+ranks</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E14" ENTITYMENTIONID="14-22" ARGNUM="1">
+      <extent>
+        <charseq START="1023" END="1037">fifteen wounded</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E15" ENTITYMENTIONID="15-23" ARGNUM="2">
+      <extent>
+        <charseq START="1045" END="1053">our
+ranks</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="17-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1045" END="1053">our
+ranks</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E15" ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="1045" END="1053">our
+ranks</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E26" ENTITYMENTIONID="26-24" ARGNUM="2">
+      <extent>
+        <charseq START="1045" END="1047">our</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R18" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="18-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1073" END="1106">twenty government forces' soldiers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E16" ENTITYMENTIONID="16-25" ARGNUM="1">
+      <extent>
+        <charseq START="1073" END="1106">twenty government forces' soldiers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-26" ARGNUM="2">
+      <extent>
+        <charseq START="1080" END="1096">government forces</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0200.eng-R19" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="19-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="545" END="580">armed government forces in the Congo</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-43" ARGNUM="1">
+      <extent>
+        <charseq START="545" END="580">armed government forces in the Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E18" ENTITYMENTIONID="18-19" ARGNUM="2">
+      <extent>
+        <charseq START="551" END="560">government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="19-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1080" END="1096">government forces</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-26" ARGNUM="1">
+      <extent>
+        <charseq START="1080" END="1096">government forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E18" ENTITYMENTIONID="18-27" ARGNUM="2">
+      <extent>
+        <charseq START="1080" END="1089">government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="19-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="545" END="580">armed government forces in the Congo</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E22" ENTITYMENTIONID="22-43" ARGNUM="1">
+      <extent>
+        <charseq START="545" END="580">armed government forces in the Congo</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0200.eng-E18" ENTITYMENTIONID="18-19" ARGNUM="2">
+      <extent>
+        <charseq START="551" END="560">government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

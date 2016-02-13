@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001024.1400.0192.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001024.1400.0192">
+<composite_entity ID="CNN20001024.1400.0192-CE1">
+  <entity ID="CNN20001024.1400.0192-E15" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="15-21" TYPE="NOM">
+      <extent>
+        <charseq START="412" END="426">a middle school</charseq>
+      </extent>
+      <head>
+        <charseq START="421" END="426">school</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE2">
+  <entity ID="CNN20001024.1400.0192-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="482" END="502">jacksonville, florida</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="493">jacksonville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="482" END="493">jacksonville</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE3">
+  <entity ID="CNN20001024.1400.0192-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="496" END="502">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="502">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="496" END="502">florida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE4">
+  <entity ID="CNN20001024.1400.0192-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="3-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="327" END="331">texas</charseq>
+      </extent>
+      <head>
+        <charseq START="327" END="331">texas</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE5">
+  <entity ID="CNN20001024.1400.0192-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="4-1" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="69" END="75">chicago</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="75">chicago</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE6">
+  <entity ID="CNN20001024.1400.0192-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="65" END="103">the chicago suburb of arlington heights</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="82">suburb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="87" END="103">arlington heights</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="103">arlington heights</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="87" END="103">arlington heights</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001024.1400.0192-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="6-7" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="108" END="146">the first stop for george
+w. bush today</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="121">stop</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE7">
+  <entity ID="CNN20001024.1400.0192-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM">
+      <extent>
+        <charseq START="127" END="140">george
+w. bush</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="140">george
+w. bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-9" TYPE="PRO">
+      <extent>
+        <charseq START="191" END="192">he</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="192">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-10" TYPE="PRO">
+      <extent>
+        <charseq START="160" END="162">his</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="162">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-11" TYPE="NOM">
+      <extent>
+        <charseq START="323" END="340">the texas
+governor</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="340">governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-12" TYPE="NAM">
+      <extent>
+        <charseq START="438" END="441">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="441">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="127" END="140">george
+w. bush</charseq>
+      </name>
+      <name>
+        <charseq START="438" END="441">bush</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE8">
+  <entity ID="CNN20001024.1400.0192-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-13" TYPE="BAR">
+      <extent>
+        <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="226">governors</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE9">
+  <entity ID="CNN20001024.1400.0192-E9" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="9-14" TYPE="PRE">
+      <extent>
+        <charseq START="207" END="216">republican</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="216">republican</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE10">
+  <entity ID="CNN20001024.1400.0192-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="233" END="243">connecticut</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="243">connecticut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="233" END="243">connecticut</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE11">
+  <entity ID="CNN20001024.1400.0192-E11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="11-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="246" END="257">south dakota</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="257">south dakota</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="246" END="257">south dakota</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE12">
+  <entity ID="CNN20001024.1400.0192-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="12-17" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="264" END="270">montana</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="270">montana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="264" END="270">montana</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE13">
+  <entity ID="CNN20001024.1400.0192-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-18" TYPE="NAM">
+      <extent>
+        <charseq START="351" END="354">gore</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="354">gore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="351" END="354">gore</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001024.1400.0192-CE14">
+  <entity ID="CNN20001024.1400.0192-E14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="14-19" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="351" END="380">gore's home state of tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="367">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-20" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="372" END="380">tennessee</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="380">tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="372" END="380">tennessee</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001024.1400.0192-R1" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="103">the chicago suburb of arlington heights</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E5" ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="103">the chicago suburb of arlington heights</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E4" ENTITYMENTIONID="4-1" ARGNUM="2">
+      <extent>
+        <charseq START="69" END="75">chicago</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="108" END="146">the first stop for george
+w. bush today</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E7" ENTITYMENTIONID="7-8" ARGNUM="1">
+      <extent>
+        <charseq START="127" END="140">george
+w. bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E6" ENTITYMENTIONID="6-7" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="146">the first stop for george
+w. bush today</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R3" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E9" ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="216">republican</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E10" ENTITYMENTIONID="10-15" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="243">connecticut</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E11" ENTITYMENTIONID="11-16" ARGNUM="2">
+      <extent>
+        <charseq START="246" END="257">south dakota</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="270">republican governors from connecticut, south dakota, and
+montana</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E12" ENTITYMENTIONID="12-17" ARGNUM="2">
+      <extent>
+        <charseq START="264" END="270">montana</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="323" END="340">the texas
+governor</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E7" ENTITYMENTIONID="7-11" ARGNUM="1">
+      <extent>
+        <charseq START="323" END="340">the texas
+governor</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E3" ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="327" END="331">texas</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="351" END="380">gore's home state of tennessee</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E13" ENTITYMENTIONID="13-18" ARGNUM="1">
+      <extent>
+        <charseq START="351" END="354">gore</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E14" ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="351" END="380">gore's home state of tennessee</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="9-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="482" END="502">jacksonville, florida</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="482" END="502">jacksonville, florida</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E2" ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="496" END="502">florida</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="323" END="426">the texas
+governor stops in gore's home state of tennessee this afternoon for
+remarks at a middle school</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E7" ENTITYMENTIONID="7-11" ARGNUM="1">
+      <extent>
+        <charseq START="323" END="340">the texas
+governor</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E14" ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="351" END="380">gore's home state of tennessee</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="323" END="426">the texas
+governor stops in gore's home state of tennessee this afternoon for
+remarks at a middle school</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E15" ENTITYMENTIONID="15-21" ARGNUM="1">
+      <extent>
+        <charseq START="412" END="426">a middle school</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E14" ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="351" END="380">gore's home state of tennessee</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001024.1400.0192-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="438" END="502">bush holds what's called a
+victory rally in jacksonville, florida</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E7" ENTITYMENTIONID="7-12" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="441">bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001024.1400.0192-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="482" END="502">jacksonville, florida</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

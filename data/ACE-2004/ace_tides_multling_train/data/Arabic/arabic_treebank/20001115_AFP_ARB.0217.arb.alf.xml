@@ -1,0 +1,750 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0217.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0217.arb">
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE1">
+  <entity ID="20001115_AFP_ARB.0217.arb-E2" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="475" END="479">لاسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="479">لاسيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="475" END="479">لاسيا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE2">
+  <entity ID="20001115_AFP_ARB.0217.arb-E3" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NAM">
+      <extent>
+        <charseq START="481" END="494">المحيط الهادىء</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="494">المحيط الهادىء</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="481" END="494">المحيط الهادىء</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE3">
+  <entity ID="20001115_AFP_ARB.0217.arb-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="499" END="504">بروناي</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="504">بروناي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="499" END="504">بروناي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE4">
+  <entity ID="20001115_AFP_ARB.0217.arb-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-8" TYPE="NOM">
+      <extent>
+        <charseq START="535" END="543">المسؤولين</charseq>
+      </extent>
+      <head>
+        <charseq START="535" END="543">المسؤولين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-9" TYPE="PRO">
+      <extent>
+        <charseq START="550" END="550">ا</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="550">ا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE5">
+  <entity ID="20001115_AFP_ARB.0217.arb-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="568" END="587">ايركوتسك
+(شرق روسيا)</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="575">ايركوتسك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="568" END="575">ايركوتسك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE6">
+  <entity ID="20001115_AFP_ARB.0217.arb-E7" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="7-11" TYPE="NOM">
+      <extent>
+        <charseq START="577" END="587">(شرق روسيا)</charseq>
+      </extent>
+      <head>
+        <charseq START="582" END="586">روسيا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE7">
+  <entity ID="20001115_AFP_ARB.0217.arb-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-12" TYPE="APP">
+      <extent>
+        <charseq START="629" END="654">الرئيس الروسي بوريس يلتسين</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="8-13" TYPE="NOM">
+      <extent>
+        <charseq START="629" END="641">الرئيس الروسي</charseq>
+      </extent>
+      <head>
+        <charseq START="629" END="634">الرئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-15" TYPE="NAM">
+      <extent>
+        <charseq START="643" END="654">بوريس يلتسين</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="654">بوريس يلتسين</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="643" END="654">بوريس يلتسين</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE8">
+  <entity ID="20001115_AFP_ARB.0217.arb-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-16" TYPE="APP">
+      <extent>
+        <charseq START="657" END="694">رئيس الوزراء
+الياباني ريوتارو هاشيموتو</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="10-17" TYPE="NOM">
+      <extent>
+        <charseq START="657" END="677">رئيس الوزراء
+الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="660">رئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-19" TYPE="NAM">
+      <extent>
+        <charseq START="679" END="694">ريوتارو هاشيموتو</charseq>
+      </extent>
+      <head>
+        <charseq START="679" END="694">ريوتارو هاشيموتو</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="679" END="694">ريوتارو هاشيموتو</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE9">
+  <entity ID="20001115_AFP_ARB.0217.arb-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="12-25" TYPE="HLS" ROLE="LOC">
+      <extent>
+        <charseq START="867" END="912">اربع من جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="867" END="870">اربع</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-29" TYPE="WHQ" ROLE="LOC">
+      <extent>
+        <charseq START="915" END="918">التي</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="918">التي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-30" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="926" END="927">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="926" END="927">ها</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE10">
+  <entity ID="20001115_AFP_ARB.0217.arb-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-31" TYPE="PRO">
+      <extent>
+        <charseq START="925" END="925">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="925" END="925">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-32" TYPE="NOM">
+      <extent>
+        <charseq START="929" END="945">القوات السوفياتية</charseq>
+      </extent>
+      <head>
+        <charseq START="929" END="934">القوات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE11">
+  <entity ID="20001115_AFP_ARB.0217.arb-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="14-33" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="936" END="945">السوفياتية</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="945">السوفياتية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE12">
+  <entity ID="20001115_AFP_ARB.0217.arb-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="96" END="110">بندر سيري بغوان</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="110">بندر سيري بغوان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="96" END="110">بندر سيري بغوان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE13">
+  <entity ID="20001115_AFP_ARB.0217.arb-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="16-37" TYPE="NAM">
+      <extent>
+        <charseq START="119" END="122">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="122">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="119" END="122">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE14">
+  <entity ID="20001115_AFP_ARB.0217.arb-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-6" TYPE="NOM">
+      <extent>
+        <charseq START="515" END="530">المسؤول الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="515" END="521">المسؤول</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-38" TYPE="NOM">
+      <extent>
+        <charseq START="132" END="143">مسؤول ياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="136">مسؤول</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE15">
+  <entity ID="20001115_AFP_ARB.0217.arb-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="18-7" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="523" END="530">الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="530">الياباني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-18" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="670" END="677">الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="677">الياباني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-39" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="143">ياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="143">ياباني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-53" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="417" END="424">الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="424">الياباني</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-23" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="822" END="828">اليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="822" END="828">اليابان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-28" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="906" END="912">اليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="912">اليابان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-35" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1008" END="1014">اليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1014">اليابان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-41" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="163" END="169">اليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="169">اليابان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="822" END="828">اليابان</charseq>
+      </name>
+      <name>
+        <charseq START="906" END="912">اليابان</charseq>
+      </name>
+      <name>
+        <charseq START="1008" END="1014">اليابان</charseq>
+      </name>
+      <name>
+        <charseq START="163" END="169">اليابان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE16">
+  <entity ID="20001115_AFP_ARB.0217.arb-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="19-20" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="809" END="809">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="809" END="809">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-21" TYPE="CMC" ROLE="ORG">
+      <extent>
+        <charseq START="815" END="828">روسيا واليابان</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="19-24" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="859" END="861">هما</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="861">هما</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-40" TYPE="CMC" ROLE="ORG">
+      <extent>
+        <charseq START="163" END="176">اليابان وروسيا</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="19-43" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="183" END="184">ان</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="184">ان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-44" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="239" END="241">هما</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="241">هما</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-46" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="292" END="298">البلدين</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="298">البلدين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE17">
+  <entity ID="20001115_AFP_ARB.0217.arb-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="21-22" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="815" END="819">روسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="815" END="819">روسيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-27" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="899" END="903">روسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="903">روسيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-42" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="172" END="176">روسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="176">روسيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="815" END="819">روسيا</charseq>
+      </name>
+      <name>
+        <charseq START="899" END="903">روسيا</charseq>
+      </name>
+      <name>
+        <charseq START="172" END="176">روسيا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="24-14" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="636" END="641">الروسي</charseq>
+      </extent>
+      <head>
+        <charseq START="636" END="641">الروسي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-49" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="381" END="386">الروسي</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="386">الروسي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE18">
+  <entity ID="20001115_AFP_ARB.0217.arb-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="22-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+      <head>
+        <charseq START="875" END="885">جزر الكوريل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-36" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1082" END="1086">الجزر</charseq>
+      </extent>
+      <head>
+        <charseq START="1082" END="1086">الجزر</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-45" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="247" END="257">جزر الكوريل</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="257">جزر الكوريل</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="875" END="885">جزر الكوريل</charseq>
+      </name>
+      <name>
+        <charseq START="247" END="257">جزر الكوريل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE19">
+  <entity ID="20001115_AFP_ARB.0217.arb-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-34" TYPE="NAM">
+      <extent>
+        <charseq START="1002" END="1006">بوتين</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1006">بوتين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-47" TYPE="APP">
+      <extent>
+        <charseq START="374" END="401">الرئيس الروسي فلاديمير بوتين</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="23-48" TYPE="NOM">
+      <extent>
+        <charseq START="374" END="386">الرئيس الروسي</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="379">الرئيس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1002" END="1006">بوتين</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-50" TYPE="NAM">
+      <extent>
+        <charseq START="388" END="401">فلاديمير بوتين</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="401">فلاديمير بوتين</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="388" END="401">فلاديمير بوتين</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.arb-CE20">
+  <entity ID="20001115_AFP_ARB.0217.arb-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="426" END="436">يوشيرو موري</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="436">يوشيرو موري</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="426" END="436">يوشيرو موري</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.arb-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-51" TYPE="APP">
+      <extent>
+        <charseq START="404" END="436">رئيس الوزراء الياباني يوشيرو موري</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="26-52" TYPE="NOM">
+      <extent>
+        <charseq START="404" END="424">رئيس الوزراء الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="407">رئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0217.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="132" END="143">مسؤول ياباني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E17" ENTITYMENTIONID="17-38" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="143">مسؤول ياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E18" ENTITYMENTIONID="18-39" ARGNUM="2">
+      <extent>
+        <charseq START="138" END="143">ياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="374" END="386">الرئيس الروسي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E23" ENTITYMENTIONID="23-48" ARGNUM="1">
+      <extent>
+        <charseq START="374" END="386">الرئيس الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E24" ENTITYMENTIONID="24-49" ARGNUM="2">
+      <extent>
+        <charseq START="381" END="386">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="404" END="424">رئيس الوزراء الياباني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E26" ENTITYMENTIONID="26-52" ARGNUM="1">
+      <extent>
+        <charseq START="404" END="424">رئيس الوزراء الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E18" ENTITYMENTIONID="18-53" ARGNUM="2">
+      <extent>
+        <charseq START="417" END="424">الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="629" END="641">الرئيس الروسي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="629" END="641">الرئيس الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E24" ENTITYMENTIONID="24-14" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="641">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="657" END="677">رئيس الوزراء
+الياباني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E10" ENTITYMENTIONID="10-17" ARGNUM="1">
+      <extent>
+        <charseq START="657" END="677">رئيس الوزراء
+الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E18" ENTITYMENTIONID="18-18" ARGNUM="2">
+      <extent>
+        <charseq START="670" END="677">الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="867" END="912">اربع من جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E12" ENTITYMENTIONID="12-25" ARGNUM="1">
+      <extent>
+        <charseq START="867" END="912">اربع من جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E22" ENTITYMENTIONID="22-26" ARGNUM="2">
+      <extent>
+        <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R7" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E22" ENTITYMENTIONID="22-26" ARGNUM="1">
+      <extent>
+        <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E21" ENTITYMENTIONID="21-27" ARGNUM="2">
+      <extent>
+        <charseq START="899" END="903">روسيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R8" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="8-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E22" ENTITYMENTIONID="22-26" ARGNUM="1">
+      <extent>
+        <charseq START="875" END="912">جزر الكوريل الواقعة بين روسيا واليابان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E20" ENTITYMENTIONID="20-28" ARGNUM="2">
+      <extent>
+        <charseq START="906" END="912">اليابان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.arb-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="929" END="947">القوات السوفياتية ف</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E13" ENTITYMENTIONID="13-32" ARGNUM="1">
+      <extent>
+        <charseq START="929" END="945">القوات السوفياتية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.arb-E14" ENTITYMENTIONID="14-33" ARGNUM="2">
+      <extent>
+        <charseq START="936" END="945">السوفياتية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

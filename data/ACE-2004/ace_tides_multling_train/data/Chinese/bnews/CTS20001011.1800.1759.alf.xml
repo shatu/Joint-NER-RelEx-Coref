@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CTS20001011.1800.1759.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001011.1800.1759">
+<composite_entity ID="CTS20001011.1800.1759-CE1">
+  <entity ID="CTS20001011.1800.1759-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="74" END="75">台北</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="75">台北</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="75">台北</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001011.1800.1759-CE2">
+  <entity ID="CTS20001011.1800.1759-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="84" END="86">小孩子</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="86">小孩子</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-3" TYPE="NOM">
+      <extent>
+        <charseq START="100" END="103">小朋友们</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="103">小朋友们</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001011.1800.1759-CE3">
+  <entity ID="CTS20001011.1800.1759-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NOM">
+      <extent>
+        <charseq START="123" END="129">幼稚园的小朋友</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="129">小朋友</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001011.1800.1759-CE4">
+  <entity ID="CTS20001011.1800.1759-E4" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NOM">
+      <extent>
+        <charseq START="123" END="125">幼稚园</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="125">幼稚园</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001011.1800.1759-CE5">
+  <entity ID="CTS20001011.1800.1759-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NAM">
+      <extent>
+        <charseq START="144" END="145">丹萍</charseq>
+      </extent>
+      <head>
+        <charseq START="144" END="145">丹萍</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="144" END="145">丹萍</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001011.1800.1759-CE6">
+  <entity ID="CTS20001011.1800.1759-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NOM">
+      <extent>
+        <charseq START="183" END="186">现场观众</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="186">观众</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-8" TYPE="PRO">
+      <extent>
+        <charseq START="197" END="198">大家</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="198">大家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CTS20001011.1800.1759-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="123" END="129">幼稚园的小朋友</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001011.1800.1759-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="123" END="129">幼稚园的小朋友</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001011.1800.1759-E4" ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="123" END="125">幼稚园</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

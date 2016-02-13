@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001012.1400.1458.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001012.1400.1458">
+<composite_entity ID="CNN20001012.1400.1458-CE1">
+  <entity ID="CNN20001012.1400.1458-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="68">sony</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="68">sony</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="68">sony</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1458-CE2">
+  <entity ID="CNN20001012.1400.1458-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="PRE">
+      <extent>
+        <charseq START="327" END="331">human</charseq>
+      </extent>
+      <head>
+        <charseq START="327" END="331">human</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1458-CE3">
+  <entity ID="CNN20001012.1400.1458-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="403" END="410">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="407" END="410">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="407" END="410">u.s.</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+</document>
+</source_file>

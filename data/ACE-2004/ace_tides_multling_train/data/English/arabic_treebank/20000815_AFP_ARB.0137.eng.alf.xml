@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0137.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0137.eng">
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE1">
+  <entity ID="20000815_AFP_ARB.0137.eng-E1" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="363" END="391">the bottom of
+the Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="372">bottom</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE2">
+  <entity ID="20000815_AFP_ARB.0137.eng-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="146" END="155">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="155">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="146" END="155">Washington</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE3">
+  <entity ID="20000815_AFP_ARB.0137.eng-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM">
+      <extent>
+        <charseq START="163" END="165">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="165">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="163" END="165">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE4">
+  <entity ID="20000815_AFP_ARB.0137.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="BAR">
+      <extent>
+        <charseq START="171" END="195">Officials at the Pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="179">Officials</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE5">
+  <entity ID="20000815_AFP_ARB.0137.eng-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NAM">
+      <extent>
+        <charseq START="184" END="195">the Pentagon</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="195">Pentagon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="188" END="195">Pentagon</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE6">
+  <entity ID="20000815_AFP_ARB.0137.eng-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="221" END="226">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="226">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="221" END="226">Russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0137.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="11-11" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="328" END="334">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="334">Russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE7">
+  <entity ID="20000815_AFP_ARB.0137.eng-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-7" TYPE="NAM">
+      <extent>
+        <charseq START="238" END="275">the North Atlantic Treaty Organization</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="275">North Atlantic Treaty Organization</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="242" END="275">North Atlantic Treaty Organization</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE8">
+  <entity ID="20000815_AFP_ARB.0137.eng-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-8" TYPE="NOM">
+      <extent>
+        <charseq START="298" END="391">the crew
+members on board the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="313">members</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE9">
+  <entity ID="20000815_AFP_ARB.0137.eng-E9" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention ID="9-9" TYPE="NAM">
+      <extent>
+        <charseq START="324" END="391">the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="347" END="351">Kursk</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="347" END="351">Kursk</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0137.eng-E10" TYPE="VEH" SUBTYPE="Water" CLASS="ATR">
+    <entity_mention ID="10-10" TYPE="PRE">
+      <extent>
+        <charseq START="324" END="344">the Russian submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="344">submarine</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0137.eng-CE10">
+  <entity ID="20000815_AFP_ARB.0137.eng-E12" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="12-12" TYPE="NAM">
+      <extent>
+        <charseq START="377" END="391">the Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="391">Barents Sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="381" END="391">Barents Sea</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20000815_AFP_ARB.0137.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="363" END="391">the bottom of
+the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="391">the bottom of
+the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E12" ENTITYMENTIONID="12-12" ARGNUM="2">
+      <extent>
+        <charseq START="377" END="391">the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0137.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="324" END="391">the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E9" ENTITYMENTIONID="9-9" ARGNUM="1">
+      <extent>
+        <charseq START="324" END="391">the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="363" END="391">the bottom of
+the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0137.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="171" END="195">Officials at the Pentagon</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="171" END="195">Officials at the Pentagon</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="184" END="195">the Pentagon</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0137.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="298" END="391">the crew
+members on board the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E8" ENTITYMENTIONID="8-8" ARGNUM="1">
+      <extent>
+        <charseq START="298" END="391">the crew
+members on board the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E9" ENTITYMENTIONID="9-9" ARGNUM="2">
+      <extent>
+        <charseq START="324" END="391">the Russian submarine, Kursk, lying at the bottom of
+the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0137.eng-R5" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="324" END="344">the Russian submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E11" ENTITYMENTIONID="11-11" ARGNUM="1">
+      <extent>
+        <charseq START="328" END="334">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0137.eng-E10" ENTITYMENTIONID="10-10" ARGNUM="2">
+      <extent>
+        <charseq START="324" END="344">the Russian submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,844 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0132.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0132.eng">
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0132.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-48" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="557" END="561">Sudan</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="561">Sudan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="557" END="561">Sudan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="25-30" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="826" END="833">Sudanese</charseq>
+      </extent>
+      <head>
+        <charseq START="826" END="833">Sudanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-35" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="164" END="171">Sudanese</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="171">Sudanese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0132.eng-E2" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="601" END="653">the north,
+with a majority population of Arab Muslims</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="609">north</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0132.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="617" END="653">a majority population of Arab Muslims</charseq>
+      </extent>
+      <head>
+        <charseq START="628" END="637">population</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0132.eng-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="642" END="653">Arab Muslims</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="653">Muslims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="647" END="653">Muslims</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0132.eng-E5" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="660" END="724">the south with its
+majority population of animists and Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="668">south</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-29" TYPE="PRO">
+      <extent>
+        <charseq START="675" END="677">its</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="677">its</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0132.eng-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NOM">
+      <extent>
+        <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="697">population</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0132.eng-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="7-7" TYPE="BAR">
+      <extent>
+        <charseq START="702" END="709">animists</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="709">animists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0132.eng-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="8-8" TYPE="NAM">
+      <extent>
+        <charseq START="715" END="724">Christians</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="724">Christians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="715" END="724">Christians</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0132.eng-E9" TYPE="PER" CLASS="USP">
+    <entity_mention ID="9-9" TYPE="NOM">
+      <extent>
+        <charseq START="728" END="750">The northern opposition</charseq>
+      </extent>
+      <head>
+        <charseq START="741" END="750">opposition</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0132.eng-E10" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+    <entity_mention ID="10-10" TYPE="BAR">
+      <extent>
+        <charseq START="770" END="773">arms</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="773">arms</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0132.eng-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="11-11" TYPE="NOM">
+      <extent>
+        <charseq START="789" END="817">the
+ruling regime in Khartoum</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="805">regime</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-23" TYPE="NOM">
+      <extent>
+        <charseq START="1056" END="1065">the regime</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1065">regime</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0132.eng-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="810" END="817">Khartoum</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="817">Khartoum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="810" END="817">Khartoum</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0132.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-22" TYPE="PRO">
+      <extent>
+        <charseq START="1034" END="1036">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1034" END="1036">his</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-13" TYPE="NOM">
+      <extent>
+        <charseq START="822" END="843">The Sudanese president</charseq>
+      </extent>
+      <head>
+        <charseq START="835" END="843">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-21" TYPE="NAM">
+      <extent>
+        <charseq START="1002" END="1010">al-Bashir</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1010">al-Bashir</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-32" TYPE="NAM">
+      <extent>
+        <charseq START="164" END="196">Sudanese President Omar
+al-Bashir</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="196">Omar
+al-Bashir</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-37" TYPE="PRO">
+      <extent>
+        <charseq START="269" END="270">he</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="270">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-40" TYPE="NAM">
+      <extent>
+        <charseq START="362" END="370">al-Bashir</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="370">al-Bashir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1002" END="1010">al-Bashir</charseq>
+      </name>
+      <name>
+        <charseq START="183" END="196">Omar
+al-Bashir</charseq>
+      </name>
+      <name>
+        <charseq START="362" END="370">al-Bashir</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-34" TYPE="PRE">
+      <extent>
+        <charseq START="164" END="181">Sudanese President</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="181">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0132.eng-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-15" TYPE="APP">
+      <extent>
+        <charseq START="900" END="973">the president of the Emirate states, Sheikh Zayid Ben
+Sultan Ben Al Nihyan</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-16" TYPE="NOM">
+      <extent>
+        <charseq START="900" END="934">the president of the Emirate states</charseq>
+      </extent>
+      <head>
+        <charseq START="904" END="912">president</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-20" TYPE="PRO">
+      <extent>
+        <charseq START="986" END="988">his</charseq>
+      </extent>
+      <head>
+        <charseq START="986" END="988">his</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E16" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="16-17" TYPE="NAM">
+      <extent>
+        <charseq START="937" END="973">Sheikh Zayid Ben
+Sultan Ben Al Nihyan</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="973">Sheikh Zayid Ben
+Sultan Ben Al Nihyan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="937" END="973">Sheikh Zayid Ben
+Sultan Ben Al Nihyan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0132.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-24" TYPE="APP">
+      <extent>
+        <charseq START="1034" END="1092">his main rival within the regime, Islamist Hassen
+al-Turabi</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-25" TYPE="NOM">
+      <extent>
+        <charseq START="1034" END="1065">his main rival within the regime</charseq>
+      </extent>
+      <head>
+        <charseq START="1043" END="1047">rival</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E19" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="19-26" TYPE="NAM">
+      <extent>
+        <charseq START="1068" END="1092">Islamist Hassen
+al-Turabi</charseq>
+      </extent>
+      <head>
+        <charseq START="1077" END="1092">Hassen
+al-Turabi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1077" END="1092">Hassen
+al-Turabi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0132.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-27" TYPE="PRE">
+      <extent>
+        <charseq START="642" END="645">Arab</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="645">Arab</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0132.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-33" TYPE="NAM">
+      <extent>
+        <charseq START="117" END="119">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="119">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="117" END="119">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0132.eng-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-28" TYPE="PRE">
+      <extent>
+        <charseq START="1068" END="1075">Islamist</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1075">Islamist</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0132.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="21-31" TYPE="NAM">
+      <extent>
+        <charseq START="125" END="148">The Emirates news agency</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="148">Emirates news agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-39" TYPE="NOM">
+      <extent>
+        <charseq START="340" END="349">The agency</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="349">agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="129" END="148">Emirates news agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0132.eng-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="26-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="100" END="108">Abu Dhabi</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="108">Abu Dhabi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-36" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="236" END="244">Abu Dhabi</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="244">Abu Dhabi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-42" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="386" END="394">Abu Dhabi</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="394">Abu Dhabi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="236" END="244">Abu Dhabi</charseq>
+      </name>
+      <name>
+        <charseq START="386" END="394">Abu Dhabi</charseq>
+      </name>
+      <name>
+        <charseq START="100" END="108">Abu Dhabi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE21">
+  <entity ID="20001115_AFP_ARB.0132.eng-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="17-19" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="921" END="927">Emirate</charseq>
+      </extent>
+      <head>
+        <charseq START="921" END="927">Emirate</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="27-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="865" END="876">the Emirates</charseq>
+      </extent>
+      <head>
+        <charseq START="869" END="876">Emirates</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-18" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="917" END="934">the Emirate states</charseq>
+      </extent>
+      <head>
+        <charseq START="929" END="934">states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-38" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="312" END="335">the United
+Arab Emirates</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="335">United
+Arab Emirates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="869" END="876">Emirates</charseq>
+      </name>
+      <name>
+        <charseq START="316" END="335">United
+Arab Emirates</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE22">
+  <entity ID="20001115_AFP_ARB.0132.eng-E28" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="28-41" TYPE="APP">
+      <extent>
+        <charseq START="386" END="444">Abu Dhabi's crown
+prince Sheikh Khalifa Ben Zayid Al Nihyan</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="28-43" TYPE="NOM">
+      <extent>
+        <charseq START="386" END="409">Abu Dhabi's crown
+prince</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="409">prince</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0132.eng-E29" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="29-44" TYPE="NAM">
+      <extent>
+        <charseq START="411" END="444">Sheikh Khalifa Ben Zayid Al Nihyan</charseq>
+      </extent>
+      <head>
+        <charseq START="411" END="444">Sheikh Khalifa Ben Zayid Al Nihyan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="411" END="444">Sheikh Khalifa Ben Zayid Al Nihyan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE23">
+  <entity ID="20001115_AFP_ARB.0132.eng-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="30-45" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="472" END="479">national</charseq>
+      </extent>
+      <head>
+        <charseq START="472" END="479">national</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE24">
+  <entity ID="20001115_AFP_ARB.0132.eng-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="31-46" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="497" END="502">Libyan</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="502">Libyan</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0132.eng-CE25">
+  <entity ID="20001115_AFP_ARB.0132.eng-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="32-47" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="504" END="511">Egyptian</charseq>
+      </extent>
+      <head>
+        <charseq START="504" END="511">Egyptian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0132.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="164" END="181">Sudanese President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E24" ENTITYMENTIONID="24-34" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="181">Sudanese President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E25" ENTITYMENTIONID="25-35" ARGNUM="2">
+      <extent>
+        <charseq START="164" END="171">Sudanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="164" END="244">Sudanese President Omar
+al-Bashir made a short visit today Wednesday to Abu Dhabi</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E23" ENTITYMENTIONID="23-32" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="196">Sudanese President Omar
+al-Bashir</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E26" ENTITYMENTIONID="26-36" ARGNUM="2">
+      <extent>
+        <charseq START="236" END="244">Abu Dhabi</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R3" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="386" END="409">Abu Dhabi's crown
+prince</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E28" ENTITYMENTIONID="28-43" ARGNUM="1">
+      <extent>
+        <charseq START="386" END="409">Abu Dhabi's crown
+prince</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E26" ENTITYMENTIONID="26-42" ARGNUM="2">
+      <extent>
+        <charseq START="386" END="394">Abu Dhabi</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="601" END="653">the north,
+with a majority population of Arab Muslims</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="617" END="653">a majority population of Arab Muslims</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="601" END="653">the north,
+with a majority population of Arab Muslims</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R5" TYPE="DISC">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="617" END="653">a majority population of Arab Muslims</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="642" END="653">Arab Muslims</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="617" END="653">a majority population of Arab Muslims</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R6" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="642" END="653">Arab Muslims</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="642" END="653">Arab Muslims</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E20" ENTITYMENTIONID="20-27" ARGNUM="2">
+      <extent>
+        <charseq START="642" END="645">Arab</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R7" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="660" END="724">the south with its
+majority population of animists and Christians</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="660" END="724">the south with its
+majority population of animists and Christians</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E7" ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="702" END="709">animists</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R9" TYPE="DISC">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E8" ENTITYMENTIONID="8-8" ARGNUM="1">
+      <extent>
+        <charseq START="715" END="724">Christians</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="675" END="724">its
+majority population of animists and Christians</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="789" END="817">the
+ruling regime in Khartoum</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E11" ENTITYMENTIONID="11-11" ARGNUM="1">
+      <extent>
+        <charseq START="789" END="817">the
+ruling regime in Khartoum</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E12" ENTITYMENTIONID="12-12" ARGNUM="2">
+      <extent>
+        <charseq START="810" END="817">Khartoum</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="822" END="843">The Sudanese president</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E23" ENTITYMENTIONID="23-13" ARGNUM="1">
+      <extent>
+        <charseq START="822" END="843">The Sudanese president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E25" ENTITYMENTIONID="25-30" ARGNUM="2">
+      <extent>
+        <charseq START="826" END="833">Sudanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="900" END="934">the president of the Emirate states</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E15" ENTITYMENTIONID="15-16" ARGNUM="1">
+      <extent>
+        <charseq START="900" END="934">the president of the Emirate states</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E27" ENTITYMENTIONID="27-18" ARGNUM="2">
+      <extent>
+        <charseq START="917" END="934">the Emirate states</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="13-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="822" END="876">The Sudanese president's previous visit to the Emirates</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E23" ENTITYMENTIONID="23-13" ARGNUM="1">
+      <extent>
+        <charseq START="822" END="843">The Sudanese president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E27" ENTITYMENTIONID="27-14" ARGNUM="2">
+      <extent>
+        <charseq START="865" END="876">the Emirates</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0132.eng-R14" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="14-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="728" END="817">The northern opposition has also taken up arms to bring down the
+ruling regime in Khartoum</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E9" ENTITYMENTIONID="9-9" ARGNUM="1">
+      <extent>
+        <charseq START="728" END="750">The northern opposition</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0132.eng-E10" ENTITYMENTIONID="10-10" ARGNUM="2">
+      <extent>
+        <charseq START="770" END="773">arms</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

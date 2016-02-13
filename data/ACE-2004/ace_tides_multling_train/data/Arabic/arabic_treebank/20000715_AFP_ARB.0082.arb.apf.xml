@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000715_AFP_ARB.0082.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000715_AFP_ARB.0082.arb">
+<entity ID="20000715_AFP_ARB.0082.arb-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="489" END="489">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="489">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="496" END="496">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="496">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="517" END="517">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="517">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="408" END="421">ديانكو ديانكوف</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="421">ديانكو ديانكوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="408" END="421">ديانكو ديانكوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E2" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="453" END="481">مستشفى مدينة
+بورغاس (جنوب شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="458">مستشفى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="628" END="640">مستشفى
+بورغاس</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="633">مستشفى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="460" END="481">مدينة
+بورغاس (جنوب شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="471">بورغاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="635" END="640">بورغاس</charseq>
+    </extent>
+    <head>
+      <charseq START="635" END="640">بورغاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="466" END="471">بورغاس</charseq>
+    </name>
+    <name>
+      <charseq START="635" END="640">بورغاس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E4" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="544" END="563">منطقة هاسكوفو (جنوب)</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="556">هاسكوفو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="600">شخص آخر،اتاناس يانف (54 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="575">شخص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="581" END="591">اتاناس يانف</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="591">اتاناس يانف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="603">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="603">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="656" END="656">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="656">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="581" END="591">اتاناس يانف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E6" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="723" END="749">وسط جنوبي وجنوب شرقي
+البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="744" END="749">البلاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="759" END="799">الكسندر براماتارسكي، وزير الحالات الطارئة</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="777">الكسندر براماتارسكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="780" END="799">وزير الحالات الطارئة</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="783">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="759" END="777">الكسندر براماتارسكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="889" END="900">رجال الاطفاء</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="892">رجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="903" END="910">الف جندي</charseq>
+    </extent>
+    <head>
+      <charseq START="907" END="910">جندي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="914" END="940">150 متطوعا من الدفاع
+المدني</charseq>
+    </extent>
+    <head>
+      <charseq START="918" END="923">متطوعا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E12" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="12-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="928" END="940">الدفاع
+المدني</charseq>
+    </extent>
+    <head>
+      <charseq START="928" END="933">الدفاع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="877" END="900">1200 رجل من رجال الاطفاء</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="884">رجل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="101" END="105">صوفيا</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="105">صوفيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="101" END="105">صوفيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="113" END="116">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="116">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="113" END="116">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="16-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="132" END="170">للمركز الصحافي التابع للحكومة البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="137">للمركز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="17-22" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="981" END="986">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="986">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-25" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="154" END="170">للحكومة البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="160">للحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="162" END="170">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="170">البلغارية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E19" TYPE="PER" CLASS="USP">
+  <entity_mention ID="19-27" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="175" END="183">رجلين قتل</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="179">رجلين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="183" END="183">ل</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="183">ل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E20" TYPE="PER" CLASS="USP">
+  <entity_mention ID="20-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="192" END="198">شخص آخر</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="194">شخص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="258" END="264">بلغاريا</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="264">بلغاريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="258" END="264">بلغاريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="275" END="280">المصدر</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="280">المصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="285" END="326">دينتشو دينيف (72 عاما) التهمته النيران حيا</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="296">دينتشو دينيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="314" END="314">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="314">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="352" END="352">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="352">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="285" END="296">دينتشو دينيف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E24" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="24-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="348" END="396">منزله في بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="351">منزل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="357" END="396">بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="370">دراغانوفو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="362" END="370">دراغانوفو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0082.arb-E26" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="26-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="375" END="396">منطقة ترنوفو (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="386">ترنوفو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="381" END="386">ترنوفو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000715_AFP_ARB.0082.arb-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E17" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="132" END="170">للمركز الصحافي التابع للحكومة البلغارية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-24" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="170">للمركز الصحافي التابع للحكومة البلغارية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="2">
+      <extent>
+        <charseq START="154" END="170">للحكومة البلغارية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E24" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="348" END="396">منزله في بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-34" ARGNUM="1">
+      <extent>
+        <charseq START="352" END="352">ه</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-35" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="396">منزله في بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E25" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="348" END="396">منزله في بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-35" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="396">منزله في بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-36" ARGNUM="2">
+      <extent>
+        <charseq START="357" END="396">بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E26" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="357" END="396">بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-36" ARGNUM="1">
+      <extent>
+        <charseq START="357" END="396">بلدة دراغانوفو في منطقة ترنوفو (شمال شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-37" ARGNUM="2">
+      <extent>
+        <charseq START="375" END="396">منطقة ترنوفو (شمال شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R5" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="453" END="481">مستشفى مدينة
+بورغاس (جنوب شرق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="460" END="481">مدينة
+بورغاس (جنوب شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="453" END="481">مستشفى مدينة
+بورغاس (جنوب شرق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="628" END="640">مستشفى
+بورغاس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-12" ARGNUM="1">
+      <extent>
+        <charseq START="635" END="640">بورغاس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="628" END="640">مستشفى
+بورغاس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E9" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="877" END="900">1200 رجل من رجال الاطفاء</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-17" ARGNUM="1">
+      <extent>
+        <charseq START="877" END="900">1200 رجل من رجال الاطفاء</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-18" ARGNUM="2">
+      <extent>
+        <charseq START="889" END="900">رجال الاطفاء</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0082.arb-R8" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0082.arb-E12" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="914" END="940">150 متطوعا من الدفاع
+المدني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-20" ARGNUM="1">
+      <extent>
+        <charseq START="914" END="940">150 متطوعا من الدفاع
+المدني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="2">
+      <extent>
+        <charseq START="928" END="940">الدفاع
+المدني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

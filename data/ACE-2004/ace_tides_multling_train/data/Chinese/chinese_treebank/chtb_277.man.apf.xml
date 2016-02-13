@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_277.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_277.man">
+<entity ID="chtb_277.man-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="210" END="212">龙永图</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="212">龙永图</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="202" END="209">外经贸部部长助理</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="209">助理</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="214" END="215">团长</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="215">团长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="210" END="212">龙永图</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="202" END="207">外经贸部部长</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="207">部长</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="165" END="168">中国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="168">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="76" END="79">中国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="79">政府</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="202" END="205">外经贸部</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="205">外经贸部</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="202" END="205">外经贸部</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="223" END="253">以澳大利亚国际发
+展局援助局总局长弗拉德为团长的澳大利亚代表团</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="253">代表团</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="240" END="242">弗拉德</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="242">弗拉德</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="224" END="239">澳大利亚国际发
+展局援助局总局长</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="239">总局长</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="244" END="245">团长</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="245">团长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="240" END="242">弗拉德</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="224" END="236">澳大利亚国际发
+展局援助局</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="236">国际发
+展局援助局</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="228" END="236">国际发
+展局援助局</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="81" END="86">澳大利亚政府</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="86">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="97" END="98">澳方</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="98">方</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="170" END="175">澳大利亚政府</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="175">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="286" END="287">澳方</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="287">方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="315" END="316">人员</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="316">人员</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="62" END="64">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="62" END="64">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="62" END="64">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="65" END="67">堪培拉</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="67">堪培拉</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="67">堪培拉</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="17-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="291" END="292">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="292">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="76" END="77">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="77">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="101" END="102">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="102">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="165" END="166">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="166">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="217" END="218">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="218">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="76" END="77">中国</charseq>
+    </name>
+    <name>
+      <charseq START="101" END="102">中国</charseq>
+    </name>
+    <name>
+      <charseq START="165" END="166">中国</charseq>
+    </name>
+    <name>
+      <charseq START="217" END="218">中国</charseq>
+    </name>
+    <name>
+      <charseq START="291" END="292">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="18-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="247" END="250">澳大利亚</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="250">澳大利亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="224" END="227">澳大利亚</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="227">澳大利亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="286" END="286">澳</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="286">澳</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="81" END="84">澳大利亚</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="84">澳大利亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="97" END="97">澳</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="97">澳</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="170" END="173">澳大利亚</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="173">澳大利亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="81" END="84">澳大利亚</charseq>
+    </name>
+    <name>
+      <charseq START="97" END="97">澳</charseq>
+    </name>
+    <name>
+      <charseq START="170" END="173">澳大利亚</charseq>
+    </name>
+    <name>
+      <charseq START="247" END="250">澳大利亚</charseq>
+    </name>
+    <name>
+      <charseq START="224" END="227">澳大利亚</charseq>
+    </name>
+    <name>
+      <charseq START="286" END="286">澳</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E19" TYPE="FAC" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="19-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="136" END="153">电信、城市供水、污水处理等基础设
+施</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="153">设
+施</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="193" END="195">墨尔本</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="195">墨尔本</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="193" END="195">墨尔本</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.man-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="268" END="269">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="269">双方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.man-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="201" END="221">以外经贸部部长助理龙永图为团长的中国代表团</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="221">代表团</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_277.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_277.man-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E15" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="62" END="67">新华社堪培拉</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="62" END="64">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-25" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="67">堪培拉</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_277.man-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="202" END="207">外经贸部部长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="207">外经贸部部长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-22" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="205">外经贸部</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R3" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="chtb_277.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E4" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="202" END="209">外经贸部部长助理</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="209">外经贸部部长助理</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="207">外经贸部部长</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_277.man-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E18" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="224" END="236">澳大利亚国际发
+展局援助局</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-12" ARGNUM="1">
+      <extent>
+        <charseq START="224" END="236">澳大利亚国际发
+展局援助局</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-13" ARGNUM="2">
+      <extent>
+        <charseq START="224" END="227">澳大利亚</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_277.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E10" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="224" END="239">澳大利亚国际发
+展局援助局总局长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="1">
+      <extent>
+        <charseq START="224" END="239">澳大利亚国际发
+展局援助局总局长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-12" ARGNUM="2">
+      <extent>
+        <charseq START="224" END="236">澳大利亚国际发
+展局援助局</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_277.man-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E17" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="201" END="221">以外经贸部部长助理龙永图为团长的中国代表团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-37" ARGNUM="1">
+      <extent>
+        <charseq START="201" END="221">以外经贸部部长助理龙永图为团长的中国代表团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-38" ARGNUM="2">
+      <extent>
+        <charseq START="217" END="218">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_277.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E18" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="223" END="253">以澳大利亚国际发
+展局援助局总局长弗拉德为团长的澳大利亚代表团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="223" END="253">以澳大利亚国际发
+展局援助局总局长弗拉德为团长的澳大利亚代表团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-8" ARGNUM="2">
+      <extent>
+        <charseq START="247" END="250">澳大利亚</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_277.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E17" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="76" END="79">中国政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-27" ARGNUM="1">
+      <extent>
+        <charseq START="76" END="79">中国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-28" ARGNUM="2">
+      <extent>
+        <charseq START="76" END="77">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="8-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="165" END="168">中国政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-20" ARGNUM="1">
+      <extent>
+        <charseq START="165" END="168">中国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-33" ARGNUM="2">
+      <extent>
+        <charseq START="165" END="166">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.man-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_277.man-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.man-E18" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="81" END="86">澳大利亚政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-6" ARGNUM="1">
+      <extent>
+        <charseq START="81" END="86">澳大利亚政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-29" ARGNUM="2">
+      <extent>
+        <charseq START="81" END="84">澳大利亚</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="9-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="97" END="98">澳方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="1">
+      <extent>
+        <charseq START="97" END="98">澳方</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-30" ARGNUM="2">
+      <extent>
+        <charseq START="97" END="97">澳</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="9-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="170" END="175">澳大利亚政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="1">
+      <extent>
+        <charseq START="170" END="175">澳大利亚政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-34" ARGNUM="2">
+      <extent>
+        <charseq START="170" END="173">澳大利亚</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="9-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="286" END="287">澳方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-23" ARGNUM="1">
+      <extent>
+        <charseq START="286" END="287">澳方</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-16" ARGNUM="2">
+      <extent>
+        <charseq START="286" END="286">澳</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001021.1400.0342.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001021.1400.0342">
+<composite_entity ID="CNN20001021.1400.0342-CE1">
+  <entity ID="CNN20001021.1400.0342-E1" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="1-1" TYPE="PRE">
+      <extent>
+        <charseq START="76" END="85">republican</charseq>
+      </extent>
+      <head>
+        <charseq START="76" END="85">republican</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE2">
+  <entity ID="CNN20001021.1400.0342-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="136" END="164">michigan governor john engler</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="164">john engler</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="PRO">
+      <extent>
+        <charseq START="262" END="263">he</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="263">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-9" TYPE="NAM">
+      <extent>
+        <charseq START="552" END="557">engler</charseq>
+      </extent>
+      <head>
+        <charseq START="552" END="557">engler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="154" END="164">john engler</charseq>
+      </name>
+      <name>
+        <charseq START="552" END="557">engler</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001021.1400.0342-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-3" TYPE="PRE">
+      <extent>
+        <charseq START="136" END="152">michigan governor</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="152">governor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE3">
+  <entity ID="CNN20001021.1400.0342-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="136" END="143">michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="143">michigan</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE4">
+  <entity ID="CNN20001021.1400.0342-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="501" END="510">our nation</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="510">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-7" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="501" END="503">our</charseq>
+      </extent>
+      <head>
+        <charseq START="501" END="503">our</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE5">
+  <entity ID="CNN20001021.1400.0342-E6" TYPE="GPE" SUBTYPE="Other" CLASS="GEN">
+    <entity_mention ID="6-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="531" END="537">foreign</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="537">foreign</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE6">
+  <entity ID="CNN20001021.1400.0342-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="7-10" TYPE="NAM">
+      <extent>
+        <charseq START="564" END="589">the clinton administration</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="589">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="576" END="589">administration</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001021.1400.0342-CE7">
+  <entity ID="CNN20001021.1400.0342-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-11" TYPE="PRE">
+      <extent>
+        <charseq START="568" END="574">clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="568" END="574">clinton</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001021.1400.0342-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="152">michigan governor</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001021.1400.0342-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="136" END="152">michigan governor</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001021.1400.0342-E4" ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="143">michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001021.1400.0342-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="564" END="589">the clinton administration</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001021.1400.0342-E7" ENTITYMENTIONID="7-10" ARGNUM="2">
+      <extent>
+        <charseq START="564" END="589">the clinton administration</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001021.1400.0342-E8" ENTITYMENTIONID="8-11" ARGNUM="1">
+      <extent>
+        <charseq START="568" END="574">clinton</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

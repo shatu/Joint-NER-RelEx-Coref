@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNR20001016.1700.0817.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNR20001016.1700.0817">
+<composite_entity ID="CNR20001016.1700.0817-CE1">
+  <entity ID="CNR20001016.1700.0817-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="1-4" TYPE="NOM">
+      <extent>
+        <charseq START="317" END="318">交警</charseq>
+      </extent>
+      <head>
+        <charseq START="317" END="318">交警</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE2">
+  <entity ID="CNR20001016.1700.0817-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-7" TYPE="NOM">
+      <extent>
+        <charseq START="374" END="379">一名值勤交警</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="379">交警</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE3">
+  <entity ID="CNR20001016.1700.0817-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-8" TYPE="NOM">
+      <extent>
+        <charseq START="394" END="397">四名交警</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="397">交警</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE4">
+  <entity ID="CNR20001016.1700.0817-E4" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+    <entity_mention ID="4-9" TYPE="NOM">
+      <extent>
+        <charseq START="399" END="401">摩托车</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="401">摩托车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE5">
+  <entity ID="CNR20001016.1700.0817-E5" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+    <entity_mention ID="5-10" TYPE="NOM">
+      <extent>
+        <charseq START="406" END="409">四周路段</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="409">路段</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE6">
+  <entity ID="CNR20001016.1700.0817-E6" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="6-13" TYPE="NOM">
+      <extent>
+        <charseq START="453" END="459">市区八条主干线</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="459">主干线</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE7">
+  <entity ID="CNR20001016.1700.0817-E7" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="7-14" TYPE="NOM">
+      <extent>
+        <charseq START="453" END="454">市区</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="454">市区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-18" TYPE="NOM">
+      <extent>
+        <charseq START="559" END="562">济南市区</charseq>
+      </extent>
+      <head>
+        <charseq START="561" END="562">市区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE8">
+  <entity ID="CNR20001016.1700.0817-E8" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+    <entity_mention ID="8-15" TYPE="NOM">
+      <extent>
+        <charseq START="476" END="479">一条道路</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="479">道路</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE9">
+  <entity ID="CNR20001016.1700.0817-E9" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+    <entity_mention ID="9-16" TYPE="NOM">
+      <extent>
+        <charseq START="498" END="500">机动车</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="500">机动车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE10">
+  <entity ID="CNR20001016.1700.0817-E10" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention ID="10-17" TYPE="NOM">
+      <extent>
+        <charseq START="559" END="567">济南市区道路公交车</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="567">公交车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE11">
+  <entity ID="CNR20001016.1700.0817-E11" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+    <entity_mention ID="11-20" TYPE="NOM">
+      <extent>
+        <charseq START="585" END="589">其它机动车</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="589">机动车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE12">
+  <entity ID="CNR20001016.1700.0817-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-21" TYPE="NOM">
+      <extent>
+        <charseq START="608" END="614">有的公交车司机</charseq>
+      </extent>
+      <head>
+        <charseq START="613" END="614">司机</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE13">
+  <entity ID="CNR20001016.1700.0817-E13" TYPE="VEH" SUBTYPE="Land" CLASS="ATR">
+    <entity_mention ID="13-22" TYPE="PCN">
+      <extent>
+        <charseq START="610" END="612">公交车</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="612">公交车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE14">
+  <entity ID="CNR20001016.1700.0817-E14" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+    <entity_mention ID="14-23" TYPE="NOM">
+      <extent>
+        <charseq START="625" END="627">公交车</charseq>
+      </extent>
+      <head>
+        <charseq START="625" END="627">公交车</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE15">
+  <entity ID="CNR20001016.1700.0817-E16" TYPE="PER" CLASS="USP">
+    <entity_mention ID="16-1" TYPE="NOM">
+      <extent>
+        <charseq START="65" END="68">各位听众</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="68">听众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE16">
+  <entity ID="CNR20001016.1700.0817-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-25" TYPE="NOM">
+      <extent>
+        <charseq START="81" END="86">江泽民总书记</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="86">总书记</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-26" TYPE="NAM">
+      <extent>
+        <charseq START="81" END="83">江泽民</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="83">江泽民</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="81" END="83">江泽民</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE17">
+  <entity ID="CNR20001016.1700.0817-E15" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="15-24" TYPE="NOM">
+      <extent>
+        <charseq START="113" END="123">全国公安系统的学习楷模</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="123">楷模</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNR20001016.1700.0817-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="18-2" TYPE="NOM">
+      <extent>
+        <charseq START="283" END="286">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="286">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-5" TYPE="NOM">
+      <extent>
+        <charseq START="348" END="351">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="351">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-11" TYPE="NOM">
+      <extent>
+        <charseq START="442" END="445">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="445">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-27" TYPE="NOM">
+      <extent>
+        <charseq START="88" END="91">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="90" END="91">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-29" TYPE="NOM">
+      <extent>
+        <charseq START="106" END="109">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="109">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-32" TYPE="NOM">
+      <extent>
+        <charseq START="129" END="132">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="132">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-34" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="139" END="140">自我</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="140">自我</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-39" TYPE="NOM">
+      <extent>
+        <charseq START="190" END="193">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="193">交警</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-42" TYPE="NOM">
+      <extent>
+        <charseq START="223" END="226">济南交警</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="226">交警</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE18">
+  <entity ID="CNR20001016.1700.0817-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="283" END="284">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="284">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="348" END="349">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="349">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="442" END="443">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="443">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="559" END="560">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="560">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="88" END="89">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="89">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="106" END="107">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="107">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-33" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="129" END="130">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="130">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="191">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="191">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-43" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="223" END="224">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="224">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="106" END="107">济南</charseq>
+      </name>
+      <name>
+        <charseq START="129" END="130">济南</charseq>
+      </name>
+      <name>
+        <charseq START="190" END="191">济南</charseq>
+      </name>
+      <name>
+        <charseq START="223" END="224">济南</charseq>
+      </name>
+      <name>
+        <charseq START="283" END="284">济南</charseq>
+      </name>
+      <name>
+        <charseq START="348" END="349">济南</charseq>
+      </name>
+      <name>
+        <charseq START="442" END="443">济南</charseq>
+      </name>
+      <name>
+        <charseq START="559" END="560">济南</charseq>
+      </name>
+      <name>
+        <charseq START="88" END="89">济南</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE19">
+  <entity ID="CNR20001016.1700.0817-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-31" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="113" END="114">全国</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="114">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-41" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="205" END="206">全国</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="206">国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE20">
+  <entity ID="CNR20001016.1700.0817-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-35" TYPE="APP">
+      <extent>
+        <charseq START="163" END="169">中央台记者李胜</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="21-36" TYPE="NAM">
+      <extent>
+        <charseq START="168" END="169">李胜</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="169">李胜</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="168" END="169">李胜</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNR20001016.1700.0817-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-37" TYPE="NOM">
+      <extent>
+        <charseq START="163" END="167">中央台记者</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="167">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNR20001016.1700.0817-CE21">
+  <entity ID="CNR20001016.1700.0817-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="23-38" TYPE="NAM">
+      <extent>
+        <charseq START="163" END="165">中央台</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="165">中央台</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="163" END="165">中央台</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="CNR20001016.1700.0817-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="88" END="91">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-27" ARGNUM="1">
+      <extent>
+        <charseq START="88" END="91">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-28" ARGNUM="2">
+      <extent>
+        <charseq START="88" END="89">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="106" END="109">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-29" ARGNUM="1">
+      <extent>
+        <charseq START="106" END="109">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-30" ARGNUM="2">
+      <extent>
+        <charseq START="106" END="107">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="129" END="132">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-32" ARGNUM="1">
+      <extent>
+        <charseq START="129" END="132">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-33" ARGNUM="2">
+      <extent>
+        <charseq START="129" END="130">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-4" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="190" END="193">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-39" ARGNUM="1">
+      <extent>
+        <charseq START="190" END="193">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-40" ARGNUM="2">
+      <extent>
+        <charseq START="190" END="191">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-5" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="223" END="226">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-42" ARGNUM="1">
+      <extent>
+        <charseq START="223" END="226">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-43" ARGNUM="2">
+      <extent>
+        <charseq START="223" END="224">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-6" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="283" END="286">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-2" ARGNUM="1">
+      <extent>
+        <charseq START="283" END="286">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-3" ARGNUM="2">
+      <extent>
+        <charseq START="283" END="284">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-7" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="348" END="351">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-5" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="351">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-6" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="349">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-8" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="442" END="445">济南交警</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E18" ENTITYMENTIONID="18-11" ARGNUM="1">
+      <extent>
+        <charseq START="442" END="445">济南交警</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-12" ARGNUM="2">
+      <extent>
+        <charseq START="442" END="443">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001016.1700.0817-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="163" END="167">中央台记者</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E22" ENTITYMENTIONID="22-37" ARGNUM="1">
+      <extent>
+        <charseq START="163" END="167">中央台记者</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E23" ENTITYMENTIONID="23-38" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="165">中央台</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001016.1700.0817-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="453" END="459">市区八条主干线</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E6" ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="453" END="459">市区八条主干线</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E7" ENTITYMENTIONID="7-14" ARGNUM="2">
+      <extent>
+        <charseq START="453" END="454">市区</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001016.1700.0817-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="559" END="562">济南市区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E7" ENTITYMENTIONID="7-18" ARGNUM="1">
+      <extent>
+        <charseq START="559" END="562">济南市区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNR20001016.1700.0817-E19" ENTITYMENTIONID="19-19" ARGNUM="2">
+      <extent>
+        <charseq START="559" END="560">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

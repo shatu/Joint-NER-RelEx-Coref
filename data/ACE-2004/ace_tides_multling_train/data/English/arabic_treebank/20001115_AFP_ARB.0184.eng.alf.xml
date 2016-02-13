@@ -1,0 +1,961 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0184.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0184.eng">
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0184.eng-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="689" END="723">Palestinian
+President Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="723">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-22" TYPE="NAM">
+      <extent>
+        <charseq START="1597" END="1602">Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="1597" END="1602">Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1597" END="1602">Arafat</charseq>
+      </name>
+      <name>
+        <charseq START="711" END="723">Yasser Arafat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="PRE">
+      <extent>
+        <charseq START="689" END="709">Palestinian
+President</charseq>
+      </extent>
+      <head>
+        <charseq START="701" END="709">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0184.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="740" END="745">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="745">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-36" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="1933" END="1935">our</charseq>
+      </extent>
+      <head>
+        <charseq START="1933" END="1935">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-40" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="1972" END="1974">our</charseq>
+      </extent>
+      <head>
+        <charseq START="1972" END="1974">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="740" END="745">Israel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="26-44" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1677" END="1683">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1677" END="1683">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-48" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="165" END="171">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="171">Israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0184.eng-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="APP">
+      <extent>
+        <charseq START="817" END="868">The head of the prime minister's office, Jalaad Shir</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="817" END="855">The head of the prime minister's office</charseq>
+      </extent>
+      <head>
+        <charseq START="821" END="824">head</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-12" TYPE="NAM">
+      <extent>
+        <charseq START="1152" END="1155">Shir</charseq>
+      </extent>
+      <head>
+        <charseq START="1152" END="1155">Shir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1152" END="1155">Shir</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-8" TYPE="NAM">
+      <extent>
+        <charseq START="858" END="868">Jalaad Shir</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="868">Jalaad Shir</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="858" END="868">Jalaad Shir</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0184.eng-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="7-9" TYPE="NOM">
+      <extent>
+        <charseq START="829" END="855">the prime minister's office</charseq>
+      </extent>
+      <head>
+        <charseq START="850" END="855">office</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0184.eng-E8" TYPE="PER" CLASS="USP">
+    <entity_mention ID="8-14" TYPE="BAR">
+      <extent>
+        <charseq START="1395" END="1434">Israelis in the West Bank and Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="1395" END="1402">Israelis</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0184.eng-E9" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="9-15" TYPE="MWH">
+      <extent>
+        <charseq START="1407" END="1434">the West Bank and Gaza Strip</charseq>
+      </extent>
+      <head>
+        <charseq START="1411" END="1434">West Bank and Gaza Strip</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0184.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-18" TYPE="APP">
+      <extent>
+        <charseq START="1537" END="1672">Hussein Abiyat the military leader
+of Fatah movement led by Arafat killed when a missile fired from a
+combat helicopter targeted his car</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="10-19" TYPE="NAM">
+      <extent>
+        <charseq START="1537" END="1550">Hussein Abiyat</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1550">Hussein Abiyat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-34" TYPE="NAM">
+      <extent>
+        <charseq START="1856" END="1861">Abiyat</charseq>
+      </extent>
+      <head>
+        <charseq START="1856" END="1861">Abiyat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-43" TYPE="PRO">
+      <extent>
+        <charseq START="1666" END="1668">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1666" END="1668">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1537" END="1550">Hussein Abiyat</charseq>
+      </name>
+      <name>
+        <charseq START="1856" END="1861">Abiyat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-20" TYPE="NOM">
+      <extent>
+        <charseq START="1552" END="1672">the military leader
+of Fatah movement led by Arafat killed when a missile fired from a
+combat helicopter targeted his car</charseq>
+      </extent>
+      <head>
+        <charseq START="1565" END="1570">leader</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0184.eng-E12" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="12-23" TYPE="NOM">
+      <extent>
+        <charseq START="1637" END="1655">a
+combat helicopter</charseq>
+      </extent>
+      <head>
+        <charseq START="1646" END="1655">helicopter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0184.eng-E13" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="13-24" TYPE="NOM">
+      <extent>
+        <charseq START="1616" END="1624">a missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1624">missile</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0184.eng-E14" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention ID="14-25" TYPE="NOM">
+      <extent>
+        <charseq START="1666" END="1672">his car</charseq>
+      </extent>
+      <head>
+        <charseq START="1670" END="1672">car</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0184.eng-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="15-26" TYPE="BAR">
+      <extent>
+        <charseq START="1575" END="1588">Fatah movement</charseq>
+      </extent>
+      <head>
+        <charseq START="1581" END="1588">movement</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E16" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="16-27" TYPE="PRE">
+      <extent>
+        <charseq START="1575" END="1579">Fatah</charseq>
+      </extent>
+      <head>
+        <charseq START="1575" END="1579">Fatah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-30" TYPE="PRE">
+      <extent>
+        <charseq START="1713" END="1717">Fatah</charseq>
+      </extent>
+      <head>
+        <charseq START="1713" END="1717">Fatah</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0184.eng-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="17-28" TYPE="BAR">
+      <extent>
+        <charseq START="1677" END="1699">Israeli security forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1694" END="1699">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-45" TYPE="NOM">
+      <extent>
+        <charseq START="1933" END="1942">our forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1937" END="1942">forces</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0184.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-29" TYPE="NOM">
+      <extent>
+        <charseq START="1710" END="1727">15 Fatah officials</charseq>
+      </extent>
+      <head>
+        <charseq START="1719" END="1727">officials</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0184.eng-E19" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="19-31" TYPE="NAM">
+      <extent>
+        <charseq START="1732" END="1744">the West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="1736" END="1744">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1736" END="1744">West Bank</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0184.eng-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="20-37" TYPE="HLS">
+      <extent>
+        <charseq START="1955" END="1997">those who attack our
+civilians and soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1955" END="1959">those</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-38" TYPE="WHQ">
+      <extent>
+        <charseq START="1961" END="1963">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1961" END="1963">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0184.eng-E22" TYPE="PER" CLASS="USP">
+    <entity_mention ID="22-39" TYPE="MWH">
+      <extent>
+        <charseq START="1972" END="1997">our
+civilians and soldiers</charseq>
+      </extent>
+      <head>
+        <charseq START="1976" END="1997">civilians and soldiers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0184.eng-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="23-42" TYPE="BAR">
+      <extent>
+        <charseq START="894" END="912">official television</charseq>
+      </extent>
+      <head>
+        <charseq START="903" END="912">television</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0184.eng-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="21-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="131" END="139">Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="139">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="131" END="139">Jerusalem</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0184.eng-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="24-46" TYPE="NAM">
+      <extent>
+        <charseq START="148" END="150">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="150">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="148" END="150">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0184.eng-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="25-47" TYPE="BAR">
+      <extent>
+        <charseq START="156" END="177">Official Israeli radio</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="177">radio</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-52" TYPE="NOM">
+      <extent>
+        <charseq START="367" END="375">The radio</charseq>
+      </extent>
+      <head>
+        <charseq START="371" END="375">radio</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE21">
+  <entity ID="20001115_AFP_ARB.0184.eng-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="27-13" TYPE="NOM">
+      <extent>
+        <charseq START="1262" END="1281">The security cabinet</charseq>
+      </extent>
+      <head>
+        <charseq START="1275" END="1281">cabinet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-41" TYPE="WHQ">
+      <extent>
+        <charseq START="221" END="225">which</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="225">which</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-49" TYPE="NOM">
+      <extent>
+        <charseq START="193" END="242">the lesser security cabinet
+which met this evening</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="219">cabinet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-50" TYPE="PRO">
+      <extent>
+        <charseq START="307" END="309">its</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="309">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-54" TYPE="NOM">
+      <extent>
+        <charseq START="441" END="460">the security cabinet</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="460">cabinet</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE22">
+  <entity ID="20001115_AFP_ARB.0184.eng-E3" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="3-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="689" END="699">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="699">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E28" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="28-11" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="1075" END="1090">the Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1090">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-51" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="347" END="362">the
+Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="362">Palestinians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE23">
+  <entity ID="20001115_AFP_ARB.0184.eng-E29" TYPE="PER" CLASS="USP">
+    <entity_mention ID="29-53" TYPE="BAR">
+      <extent>
+        <charseq START="387" END="412">senior political officials</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="412">officials</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE24">
+  <entity ID="20001115_AFP_ARB.0184.eng-E30" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="30-10" TYPE="NOM">
+      <extent>
+        <charseq START="829" END="846">the prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="839" END="846">minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-16" TYPE="NAM">
+      <extent>
+        <charseq START="1450" END="1454">Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="1450" END="1454">Barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-17" TYPE="PRO">
+      <extent>
+        <charseq START="1461" END="1463">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1463">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-32" TYPE="PRO">
+      <extent>
+        <charseq START="1789" END="1791">his</charseq>
+      </extent>
+      <head>
+        <charseq START="1789" END="1791">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-33" TYPE="NAM">
+      <extent>
+        <charseq START="1804" END="1808">Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="1804" END="1808">Barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-35" TYPE="PRO">
+      <extent>
+        <charseq START="1908" END="1909">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1908" END="1909">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-55" TYPE="NAM">
+      <extent>
+        <charseq START="484" END="508">Prime Minister
+Ehud Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="499" END="508">Ehud Barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1450" END="1454">Barak</charseq>
+      </name>
+      <name>
+        <charseq START="1804" END="1808">Barak</charseq>
+      </name>
+      <name>
+        <charseq START="499" END="508">Ehud Barak</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0184.eng-E31" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="31-56" TYPE="PRE">
+      <extent>
+        <charseq START="484" END="497">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="490" END="497">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE25">
+  <entity ID="20001115_AFP_ARB.0184.eng-E32" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="32-57" TYPE="NOM">
+      <extent>
+        <charseq START="516" END="523">the army</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="523">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-58" TYPE="PRO">
+      <extent>
+        <charseq START="559" END="560">it</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="560">it</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE26">
+  <entity ID="20001115_AFP_ARB.0184.eng-E33" TYPE="PER" CLASS="USP">
+    <entity_mention ID="33-59" TYPE="BAR">
+      <extent>
+        <charseq START="635" END="682">Military officials who also attended the meeting</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="652">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-60" TYPE="WHQ">
+      <extent>
+        <charseq START="654" END="656">who</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="656">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0184.eng-CE27">
+  <entity ID="20001115_AFP_ARB.0184.eng-E34" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="34-21" TYPE="PRE">
+      <extent>
+        <charseq START="1556" END="1563">military</charseq>
+      </extent>
+      <head>
+        <charseq START="1556" END="1563">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-61" TYPE="PRE">
+      <extent>
+        <charseq START="635" END="642">Military</charseq>
+      </extent>
+      <head>
+        <charseq START="635" END="642">Military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0184.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="689" END="709">Palestinian
+President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E2" ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="689" END="709">Palestinian
+President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E3" ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="689" END="699">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="829" END="855">the prime minister's office</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E30" ENTITYMENTIONID="30-10" ARGNUM="1">
+      <extent>
+        <charseq START="829" END="846">the prime minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E7" ENTITYMENTIONID="7-9" ARGNUM="2">
+      <extent>
+        <charseq START="829" END="855">the prime minister's office</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1677" END="1699">Israeli security forces</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E17" ENTITYMENTIONID="17-28" ARGNUM="1">
+      <extent>
+        <charseq START="1677" END="1699">Israeli security forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E26" ENTITYMENTIONID="26-44" ARGNUM="2">
+      <extent>
+        <charseq START="1677" END="1683">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="156" END="177">Official Israeli radio</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E25" ENTITYMENTIONID="25-47" ARGNUM="1">
+      <extent>
+        <charseq START="156" END="177">Official Israeli radio</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E26" ENTITYMENTIONID="26-48" ARGNUM="2">
+      <extent>
+        <charseq START="165" END="171">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="817" END="855">The head of the prime minister's office</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="817" END="855">The head of the prime minister's office</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E7" ENTITYMENTIONID="7-9" ARGNUM="2">
+      <extent>
+        <charseq START="829" END="855">the prime minister's office</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1395" END="1434">Israelis in the West Bank and Gaza Strip</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E8" ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="1395" END="1434">Israelis in the West Bank and Gaza Strip</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E9" ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="1407" END="1434">the West Bank and Gaza Strip</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1552" END="1672">the military leader
+of Fatah movement led by Arafat killed when a missile fired from a
+combat helicopter targeted his car</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E11" ENTITYMENTIONID="11-20" ARGNUM="1">
+      <extent>
+        <charseq START="1552" END="1672">the military leader
+of Fatah movement led by Arafat killed when a missile fired from a
+combat helicopter targeted his car</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E15" ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="1575" END="1588">Fatah movement</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="8-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1575" END="1602">Fatah movement led by Arafat</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E1" ENTITYMENTIONID="1-22" ARGNUM="1">
+      <extent>
+        <charseq START="1597" END="1602">Arafat</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E15" ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="1575" END="1588">Fatah movement</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R9" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1666" END="1672">his car</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E10" ENTITYMENTIONID="10-43" ARGNUM="1">
+      <extent>
+        <charseq START="1666" END="1668">his</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E14" ENTITYMENTIONID="14-25" ARGNUM="2">
+      <extent>
+        <charseq START="1666" END="1672">his car</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1710" END="1727">15 Fatah officials</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E18" ENTITYMENTIONID="18-29" ARGNUM="1">
+      <extent>
+        <charseq START="1710" END="1727">15 Fatah officials</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E16" ENTITYMENTIONID="16-30" ARGNUM="2">
+      <extent>
+        <charseq START="1713" END="1717">Fatah</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1710" END="1744">15 Fatah officials in the West Bank</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E18" ENTITYMENTIONID="18-29" ARGNUM="1">
+      <extent>
+        <charseq START="1710" END="1727">15 Fatah officials</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E19" ENTITYMENTIONID="19-31" ARGNUM="2">
+      <extent>
+        <charseq START="1732" END="1744">the West Bank</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1677" END="1744">Israeli security forces arrested 15 Fatah officials in the West Bank</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E17" ENTITYMENTIONID="17-28" ARGNUM="1">
+      <extent>
+        <charseq START="1677" END="1699">Israeli security forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E19" ENTITYMENTIONID="19-31" ARGNUM="2">
+      <extent>
+        <charseq START="1732" END="1744">the West Bank</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="635" END="682">Military officials who also attended the meeting</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E33" ENTITYMENTIONID="33-59" ARGNUM="1">
+      <extent>
+        <charseq START="635" END="682">Military officials who also attended the meeting</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E34" ENTITYMENTIONID="34-61" ARGNUM="2">
+      <extent>
+        <charseq START="635" END="642">Military</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R14" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="14-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1933" END="1942">our forces</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E17" ENTITYMENTIONID="17-45" ARGNUM="1">
+      <extent>
+        <charseq START="1933" END="1942">our forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E4" ENTITYMENTIONID="4-36" ARGNUM="2">
+      <extent>
+        <charseq START="1933" END="1935">our</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R15" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="15-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1616" END="1655">a missile fired from a
+combat helicopter</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E13" ENTITYMENTIONID="13-24" ARGNUM="1">
+      <extent>
+        <charseq START="1616" END="1624">a missile</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E12" ENTITYMENTIONID="12-23" ARGNUM="2">
+      <extent>
+        <charseq START="1637" END="1655">a
+combat helicopter</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0184.eng-R16" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="16-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1972" END="1997">our
+civilians and soldiers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E22" ENTITYMENTIONID="22-39" ARGNUM="1">
+      <extent>
+        <charseq START="1972" END="1997">our
+civilians and soldiers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0184.eng-E4" ENTITYMENTIONID="4-40" ARGNUM="2">
+      <extent>
+        <charseq START="1972" END="1974">our</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

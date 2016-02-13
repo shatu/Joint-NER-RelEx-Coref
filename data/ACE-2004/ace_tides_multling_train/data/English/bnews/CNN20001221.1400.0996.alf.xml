@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001221.1400.0996.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001221.1400.0996">
+<composite_entity ID="CNN20001221.1400.0996-CE1">
+  <entity ID="CNN20001221.1400.0996-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NOM">
+      <extent>
+        <charseq START="65" END="85">some canadian farmers</charseq>
+      </extent>
+      <head>
+        <charseq START="79" END="85">farmers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-8" TYPE="NOM">
+      <extent>
+        <charseq START="281" END="291">the farmers</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="291">farmers</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-12" TYPE="PRO">
+      <extent>
+        <charseq START="380" END="383">them</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="383">them</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001221.1400.0996-CE2">
+  <entity ID="CNN20001221.1400.0996-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="70" END="77">canadian</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="77">canadian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001221.1400.0996-CE3">
+  <entity ID="CNN20001221.1400.0996-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="118">the united states</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="118">united states</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-7" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="255" END="262">the u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="262">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="106" END="118">united states</charseq>
+      </name>
+      <name>
+        <charseq START="259" END="262">u.s.</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001221.1400.0996-CE4">
+  <entity ID="CNN20001221.1400.0996-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="163" END="182">prince edward island</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="182">prince edward island</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-9" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="326" END="335">the
+island</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="335">island</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-10" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="326" END="348">the
+island's government</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="348">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="355" END="356">it</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="356">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="163" END="182">prince edward island</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001221.1400.0996-CE5">
+  <entity ID="CNN20001221.1400.0996-E5" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="209" END="218">the border</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="218">border</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001221.1400.0996-CE6">
+  <entity ID="CNN20001221.1400.0996-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="BAR">
+      <extent>
+        <charseq START="241" END="249">officials</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="249">officials</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001221.1400.0996-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="85">some canadian farmers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001221.1400.0996-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="85">some canadian farmers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001221.1400.0996-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="70" END="77">canadian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

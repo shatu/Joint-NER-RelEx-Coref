@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="ZBN20001031.1300.0042.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ZBN20001031.1300.0042">
+<composite_entity ID="ZBN20001031.1300.0042-CE1">
+  <entity ID="ZBN20001031.1300.0042-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="340" END="347">新加坡《每日新闻</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="347">每日新闻</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="344" END="347">每日新闻</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE2">
+  <entity ID="ZBN20001031.1300.0042-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="340" END="342">新加坡</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="342">新加坡</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="340" END="342">新加坡</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE3">
+  <entity ID="ZBN20001031.1300.0042-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="142" END="144">吉隆坡</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="144">吉隆坡</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="142" END="144">吉隆坡</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE4">
+  <entity ID="ZBN20001031.1300.0042-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="148" END="154">马来西亚前锋报</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="154">马来西亚前锋报</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="NAM">
+      <extent>
+        <charseq START="213" END="219">马来西亚前锋报</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="219">马来西亚前锋报</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-15" TYPE="NAM">
+      <extent>
+        <charseq START="270" END="276">马来西亚前锋报</charseq>
+      </extent>
+      <head>
+        <charseq START="270" END="276">马来西亚前锋报</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-19" TYPE="NOM">
+      <extent>
+        <charseq START="315" END="316">该报</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="316">报</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-20" TYPE="PRO">
+      <extent>
+        <charseq START="320" END="320">它</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="320">它</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="213" END="219">马来西亚前锋报</charseq>
+      </name>
+      <name>
+        <charseq START="270" END="276">马来西亚前锋报</charseq>
+      </name>
+      <name>
+        <charseq START="148" END="154">马来西亚前锋报</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE5">
+  <entity ID="ZBN20001031.1300.0042-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="170" END="172">李资政</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="172">资政</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-6" TYPE="NAM">
+      <extent>
+        <charseq START="170" END="170">李</charseq>
+      </extent>
+      <head>
+        <charseq START="170" END="170">李</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-7" TYPE="PRO">
+      <extent>
+        <charseq START="224" END="224">他</charseq>
+      </extent>
+      <head>
+        <charseq START="224" END="224">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-9" TYPE="NOM">
+      <extent>
+        <charseq START="208" END="210">李资政</charseq>
+      </extent>
+      <head>
+        <charseq START="209" END="210">资政</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-10" TYPE="NAM">
+      <extent>
+        <charseq START="208" END="208">李</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="208">李</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-17" TYPE="NOM">
+      <extent>
+        <charseq START="295" END="298">李资
+政</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="298">资
+政</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-18" TYPE="NAM">
+      <extent>
+        <charseq START="295" END="295">李</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="295">李</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-21" TYPE="NOM">
+      <extent>
+        <charseq START="330" END="332">李资政</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="332">资政</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-22" TYPE="NAM">
+      <extent>
+        <charseq START="330" END="330">李</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="330">李</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="170" END="170">李</charseq>
+      </name>
+      <name>
+        <charseq START="208" END="208">李</charseq>
+      </name>
+      <name>
+        <charseq START="295" END="295">李</charseq>
+      </name>
+      <name>
+        <charseq START="330" END="330">李</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE6">
+  <entity ID="ZBN20001031.1300.0042-E6" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="NOM">
+      <extent>
+        <charseq START="179" END="182">中程导弹</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="182">导弹</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE7">
+  <entity ID="ZBN20001031.1300.0042-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-12" TYPE="NOM">
+      <extent>
+        <charseq START="245" END="246">人们</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="246">人们</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE8">
+  <entity ID="ZBN20001031.1300.0042-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-13" TYPE="NOM">
+      <extent>
+        <charseq START="248" END="251">马国传媒</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="251">传媒</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE9">
+  <entity ID="ZBN20001031.1300.0042-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="248" END="249">马国</charseq>
+      </extent>
+      <head>
+        <charseq START="248" END="249">马国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="248" END="249">马国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ZBN20001031.1300.0042-CE10">
+  <entity ID="ZBN20001031.1300.0042-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-16" TYPE="NAM">
+      <extent>
+        <charseq START="290" END="293">海峡时报</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="293">海峡时报</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="290" END="293">海峡时报</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="ZBN20001031.1300.0042-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="248" END="251">马国传媒</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ZBN20001031.1300.0042-E8" ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="248" END="251">马国传媒</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ZBN20001031.1300.0042-E9" ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="248" END="249">马国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ZBN20001031.1300.0042-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="340" END="347">新加坡《每日新闻</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ZBN20001031.1300.0042-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="340" END="347">新加坡《每日新闻</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ZBN20001031.1300.0042-E2" ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="340" END="342">新加坡</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

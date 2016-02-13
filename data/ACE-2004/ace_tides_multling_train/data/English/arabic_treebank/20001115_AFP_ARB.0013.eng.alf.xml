@@ -1,0 +1,704 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0013.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0013.eng">
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0013.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-22" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1367" END="1372">Brunei</charseq>
+      </extent>
+      <head>
+        <charseq START="1367" END="1372">Brunei</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-49" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="581" END="586">Brunei</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="586">Brunei</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1367" END="1372">Brunei</charseq>
+      </name>
+      <name>
+        <charseq START="581" END="586">Brunei</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0013.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="CMC">
+      <extent>
+        <charseq START="612" END="663">both Vice-President Al Gore and Governor George Bush</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="3-10" TYPE="NOM">
+      <extent>
+        <charseq START="905" END="922">the two candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="922">candidates</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-24" TYPE="NOM">
+      <extent>
+        <charseq START="1505" END="1544">the Democratic and Republican candidates</charseq>
+      </extent>
+      <head>
+        <charseq START="1535" END="1544">candidates</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0013.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM">
+      <extent>
+        <charseq START="644" END="663">Governor George Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="663">George Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-15" TYPE="NAM">
+      <extent>
+        <charseq START="1207" END="1238">Republican
+candidate George Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1228" END="1238">George Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1228" END="1238">George Bush</charseq>
+      </name>
+      <name>
+        <charseq START="653" END="663">George Bush</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0013.eng-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-6" TYPE="PRE">
+      <extent>
+        <charseq START="644" END="651">Governor</charseq>
+      </extent>
+      <head>
+        <charseq START="644" END="651">Governor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-16" TYPE="PRE">
+      <extent>
+        <charseq START="1207" END="1226">Republican
+candidate</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1226">candidate</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0013.eng-E6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="NOM">
+      <extent>
+        <charseq START="833" END="841">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="841">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-9" TYPE="NOM">
+      <extent>
+        <charseq START="863" END="871">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="867" END="871">world</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0013.eng-E7" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="7-17" TYPE="PRE">
+      <extent>
+        <charseq START="1207" END="1216">Republican</charseq>
+      </extent>
+      <head>
+        <charseq START="1207" END="1216">Republican</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-26" TYPE="PRE">
+      <extent>
+        <charseq START="1524" END="1533">Republican</charseq>
+      </extent>
+      <head>
+        <charseq START="1524" END="1533">Republican</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0013.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="PRE">
+      <extent>
+        <charseq START="617" END="630">Vice-President</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="630">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-19" TYPE="PRE">
+      <extent>
+        <charseq START="1265" END="1282">Democrat candidate</charseq>
+      </extent>
+      <head>
+        <charseq START="1274" END="1282">candidate</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0013.eng-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-2" TYPE="NAM">
+      <extent>
+        <charseq START="617" END="638">Vice-President Al Gore</charseq>
+      </extent>
+      <head>
+        <charseq START="632" END="638">Al Gore</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-18" TYPE="NAM">
+      <extent>
+        <charseq START="1265" END="1290">Democrat candidate Al
+Gore</charseq>
+      </extent>
+      <head>
+        <charseq START="1284" END="1290">Al
+Gore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1284" END="1290">Al
+Gore</charseq>
+      </name>
+      <name>
+        <charseq START="632" END="638">Al Gore</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0013.eng-E9" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="9-20" TYPE="PRE">
+      <extent>
+        <charseq START="1265" END="1272">Democrat</charseq>
+      </extent>
+      <head>
+        <charseq START="1265" END="1272">Democrat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-25" TYPE="PRE">
+      <extent>
+        <charseq START="1509" END="1518">Democratic</charseq>
+      </extent>
+      <head>
+        <charseq START="1509" END="1518">Democratic</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0013.eng-E10" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="10-21" TYPE="NOM">
+      <extent>
+        <charseq START="1296" END="1315">some voting stations</charseq>
+      </extent>
+      <head>
+        <charseq START="1308" END="1315">stations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0013.eng-E11" TYPE="PER" CLASS="USP">
+    <entity_mention ID="11-23" TYPE="PRO">
+      <extent>
+        <charseq START="1432" END="1434">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1432" END="1434">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-29" TYPE="PRO">
+      <extent>
+        <charseq START="1750" END="1752">who</charseq>
+      </extent>
+      <head>
+        <charseq START="1750" END="1752">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0013.eng-E12" TYPE="PER" CLASS="USP">
+    <entity_mention ID="12-27" TYPE="PRO">
+      <extent>
+        <charseq START="1558" END="1559">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1558" END="1559">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-28" TYPE="PRO">
+      <extent>
+        <charseq START="1582" END="1583">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1583">we</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0013.eng-E13" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="13-31" TYPE="PRE">
+      <extent>
+        <charseq START="538" END="570">Asia-Pacific Economic Cooperation</charseq>
+      </extent>
+      <head>
+        <charseq START="538" END="570">Asia-Pacific Economic Cooperation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-32" TYPE="PRE">
+      <extent>
+        <charseq START="1700" END="1703">Apec</charseq>
+      </extent>
+      <head>
+        <charseq START="1700" END="1703">Apec</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0013.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NAM">
+      <extent>
+        <charseq START="154" END="156">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="156">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="154" END="156">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0013.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-33" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="127" END="145">Bandar Seri Begawan</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="145">Bandar Seri Begawan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="127" END="145">Bandar Seri Begawan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0013.eng-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-34" TYPE="NAM">
+      <extent>
+        <charseq START="162" END="192">American President Bill Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="192">Bill Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-35" TYPE="NAM">
+      <extent>
+        <charseq START="478" END="484">Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="484">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-36" TYPE="NAM">
+      <extent>
+        <charseq START="1375" END="1391">President Clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="1385" END="1391">Clinton</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-37" TYPE="PRO">
+      <extent>
+        <charseq START="1549" END="1550">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1549" END="1550">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-38" TYPE="PRO">
+      <extent>
+        <charseq START="1624" END="1624">I</charseq>
+      </extent>
+      <head>
+        <charseq START="1624" END="1624">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-39" TYPE="PRO">
+      <extent>
+        <charseq START="1662" END="1662">I</charseq>
+      </extent>
+      <head>
+        <charseq START="1662" END="1662">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-40" TYPE="PRO">
+      <extent>
+        <charseq START="1738" END="1738">I</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1738">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="181" END="192">Bill Clinton</charseq>
+      </name>
+      <name>
+        <charseq START="478" END="484">Clinton</charseq>
+      </name>
+      <name>
+        <charseq START="1385" END="1391">Clinton</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0013.eng-E18" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="18-42" TYPE="PRE">
+      <extent>
+        <charseq START="162" END="179">American President</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="179">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0013.eng-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="19-43" TYPE="MWH">
+      <extent>
+        <charseq START="288" END="316">the
+Republicans and Democrats</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="316">Republicans and Democrats</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0013.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-12" TYPE="PRE">
+      <extent>
+        <charseq START="1080" END="1091">presidential</charseq>
+      </extent>
+      <head>
+        <charseq START="1080" END="1091">presidential</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-44" TYPE="PRE">
+      <extent>
+        <charseq START="339" END="350">presidential</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="350">presidential</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0013.eng-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="17-11" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="978" END="985">American</charseq>
+      </extent>
+      <head>
+        <charseq START="978" END="985">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-41" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="162" END="169">American</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="169">American</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0013.eng-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="21-7" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="749" END="765">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="765">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-13" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1106" END="1122">the
+United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1110" END="1122">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1775" END="1791">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="1779" END="1791">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-45" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="365" END="381">the United States</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="381">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1110" END="1122">United States</charseq>
+      </name>
+      <name>
+        <charseq START="1779" END="1791">United States</charseq>
+      </name>
+      <name>
+        <charseq START="369" END="381">United States</charseq>
+      </name>
+      <name>
+        <charseq START="753" END="765">United States</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0013.eng-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="22-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1173" END="1179">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="1173" END="1179">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-46" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="454" END="473">the State of Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="473">State of Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1173" END="1179">Florida</charseq>
+      </name>
+      <name>
+        <charseq START="458" END="473">State of Florida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0013.eng-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-47" TYPE="NOM">
+      <extent>
+        <charseq START="491" END="586">a group of businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="497">group</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0013.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0013.eng-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="24-48" TYPE="BAR">
+      <extent>
+        <charseq START="502" END="586">businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+      </extent>
+      <head>
+        <charseq START="502" END="512">businessmen</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0013.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="162" END="179">American President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E18" ENTITYMENTIONID="18-42" ARGNUM="1">
+      <extent>
+        <charseq START="162" END="179">American President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E17" ENTITYMENTIONID="17-41" ARGNUM="2">
+      <extent>
+        <charseq START="162" END="169">American</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R2" TYPE="DISC">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="491" END="586">a group of businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E23" ENTITYMENTIONID="23-47" ARGNUM="1">
+      <extent>
+        <charseq START="491" END="586">a group of businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E24" ENTITYMENTIONID="24-48" ARGNUM="2">
+      <extent>
+        <charseq START="502" END="586">businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="491" END="586">a group of businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E23" ENTITYMENTIONID="23-47" ARGNUM="1">
+      <extent>
+        <charseq START="491" END="586">a group of businessmen on the periphery of the
+Asia-Pacific Economic Cooperation forum in Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E1" ENTITYMENTIONID="1-49" ARGNUM="2">
+      <extent>
+        <charseq START="581" END="586">Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R4" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1207" END="1226">Republican
+candidate</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E5" ENTITYMENTIONID="5-16" ARGNUM="1">
+      <extent>
+        <charseq START="1207" END="1226">Republican
+candidate</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E7" ENTITYMENTIONID="7-17" ARGNUM="2">
+      <extent>
+        <charseq START="1207" END="1216">Republican</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R5" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1265" END="1282">Democrat candidate</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E2" ENTITYMENTIONID="2-19" ARGNUM="1">
+      <extent>
+        <charseq START="1265" END="1282">Democrat candidate</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E9" ENTITYMENTIONID="9-20" ARGNUM="2">
+      <extent>
+        <charseq START="1265" END="1272">Democrat</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1364" END="1544">In Brunei, President Clinton refused to make any predications about
+who might win the presidency in this exceptional election battle
+between the Democratic and Republican candidates</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E16" ENTITYMENTIONID="16-36" ARGNUM="1">
+      <extent>
+        <charseq START="1375" END="1391">President Clinton</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E1" ENTITYMENTIONID="1-22" ARGNUM="2">
+      <extent>
+        <charseq START="1367" END="1372">Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R7" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1505" END="1544">the Democratic and Republican candidates</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E3" ENTITYMENTIONID="3-24" ARGNUM="1">
+      <extent>
+        <charseq START="1505" END="1544">the Democratic and Republican candidates</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E9" ENTITYMENTIONID="9-25" ARGNUM="2">
+      <extent>
+        <charseq START="1509" END="1518">Democratic</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0013.eng-R8" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1505" END="1544">the Democratic and Republican candidates</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E3" ENTITYMENTIONID="3-24" ARGNUM="1">
+      <extent>
+        <charseq START="1505" END="1544">the Democratic and Republican candidates</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0013.eng-E7" ENTITYMENTIONID="7-26" ARGNUM="2">
+      <extent>
+        <charseq START="1524" END="1533">Republican</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

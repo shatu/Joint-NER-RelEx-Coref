@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001103.1400.0089.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001103.1400.0089">
+<composite_entity ID="CNN20001103.1400.0089-CE1">
+  <entity ID="CNN20001103.1400.0089-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-2" TYPE="PRO">
+      <extent>
+        <charseq START="659" END="693">everybody who pays taxes in america</charseq>
+      </extent>
+      <head>
+        <charseq START="659" END="667">everybody</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-3" TYPE="WHQ">
+      <extent>
+        <charseq START="669" END="671">who</charseq>
+      </extent>
+      <head>
+        <charseq START="669" END="671">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE2">
+  <entity ID="CNN20001103.1400.0089-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="723" END="734">grand rapids</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="734">grand rapids</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-28" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="187" END="198">grand rapids</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="198">grand rapids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="187" END="198">grand rapids</charseq>
+      </name>
+      <name>
+        <charseq START="723" END="734">grand rapids</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE3">
+  <entity ID="CNN20001103.1400.0089-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="785" END="811">university center, michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="801">university center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="785" END="801">university center</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE4">
+  <entity ID="CNN20001103.1400.0089-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="NAM">
+      <extent>
+        <charseq START="841" END="868">retired
+general colin powell</charseq>
+      </extent>
+      <head>
+        <charseq START="857" END="868">colin powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="857" END="868">colin powell</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001103.1400.0089-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-15" TYPE="PRE">
+      <extent>
+        <charseq START="841" END="855">retired
+general</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="855">general</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE5">
+  <entity ID="CNN20001103.1400.0089-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="7-17" TYPE="NAM">
+      <extent>
+        <charseq START="969" END="994">the clinton
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="994">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="981" END="994">administration</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE6">
+  <entity ID="CNN20001103.1400.0089-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-18" TYPE="PRE">
+      <extent>
+        <charseq START="973" END="979">clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="973" END="979">clinton</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE7">
+  <entity ID="CNN20001103.1400.0089-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-21" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1026" END="1095">morgantown, west
+virginia, where he also will focus on military issues</charseq>
+      </extent>
+      <head>
+        <charseq START="1026" END="1035">morgantown</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-23" TYPE="WHQ" ROLE="LOC">
+      <extent>
+        <charseq START="1053" END="1057">where</charseq>
+      </extent>
+      <head>
+        <charseq START="1053" END="1057">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1026" END="1035">morgantown</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE8">
+  <entity ID="CNN20001103.1400.0089-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="10-22" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1038" END="1050">west
+virginia</charseq>
+      </extent>
+      <head>
+        <charseq START="1038" END="1050">west
+virginia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1098" END="1110">west virginia</charseq>
+      </extent>
+      <head>
+        <charseq START="1098" END="1110">west virginia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1038" END="1050">west
+virginia</charseq>
+      </name>
+      <name>
+        <charseq START="1098" END="1110">west virginia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE9">
+  <entity ID="CNN20001103.1400.0089-E11" TYPE="PER" CLASS="USP">
+    <entity_mention ID="11-25" TYPE="NOM">
+      <extent>
+        <charseq START="1116" END="1184">the highest per capita number of veterans of foreign wars in the
+u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="1149" END="1156">veterans</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE10">
+  <entity ID="CNN20001103.1400.0089-E12" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="12-27" TYPE="PRE">
+      <extent>
+        <charseq START="1081" END="1088">military</charseq>
+      </extent>
+      <head>
+        <charseq START="1081" END="1088">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001103.1400.0089-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-29" TYPE="NOM">
+      <extent>
+        <charseq START="945" END="961">the u.s. military</charseq>
+      </extent>
+      <head>
+        <charseq START="954" END="961">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE11">
+  <entity ID="CNN20001103.1400.0089-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="68">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="68">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-5" TYPE="PRO">
+      <extent>
+        <charseq START="711" END="713">his</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="713">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-6" TYPE="NAM">
+      <extent>
+        <charseq START="737" END="740">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="737" END="740">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-7" TYPE="PRO">
+      <extent>
+        <charseq START="814" END="815">he</charseq>
+      </extent>
+      <head>
+        <charseq START="814" END="815">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-8" TYPE="PRO">
+      <extent>
+        <charseq START="888" END="890">his</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="890">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-9" TYPE="PRO">
+      <extent>
+        <charseq START="921" END="922">he</charseq>
+      </extent>
+      <head>
+        <charseq START="921" END="922">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-10" TYPE="PRO">
+      <extent>
+        <charseq START="1059" END="1060">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1059" END="1060">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-20" TYPE="NAM">
+      <extent>
+        <charseq START="1012" END="1015">bush</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1015">bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-31" TYPE="PRO">
+      <extent>
+        <charseq START="168" END="169">he</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="169">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-37" TYPE="PRO">
+      <extent>
+        <charseq START="375" END="375">i</charseq>
+      </extent>
+      <head>
+        <charseq START="375" END="375">i</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1012" END="1015">bush</charseq>
+      </name>
+      <name>
+        <charseq START="65" END="68">bush</charseq>
+      </name>
+      <name>
+        <charseq START="737" END="740">bush</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE12">
+  <entity ID="CNN20001103.1400.0089-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="15-13" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="804" END="811">michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="811">michigan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-19" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1002" END="1009">michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="1002" END="1009">michigan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-30" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="76" END="104">the toss-up state of michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="92">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-33" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="97" END="104">michigan</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="104">michigan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1002" END="1009">michigan</charseq>
+      </name>
+      <name>
+        <charseq START="97" END="104">michigan</charseq>
+      </name>
+      <name>
+        <charseq START="804" END="811">michigan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE13">
+  <entity ID="CNN20001103.1400.0089-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="6-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="949" END="952">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="949" END="952">u.s.</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001103.1400.0089-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-4" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="687" END="693">america</charseq>
+      </extent>
+      <head>
+        <charseq START="687" END="693">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1177" END="1184">the
+u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="1181" END="1184">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-32" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="269" END="275">america</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="275">america</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1181" END="1184">u.s.</charseq>
+      </name>
+      <name>
+        <charseq START="269" END="275">america</charseq>
+      </name>
+      <name>
+        <charseq START="687" END="693">america</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE14">
+  <entity ID="CNN20001103.1400.0089-E17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="17-34" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="306" END="310">state</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="310">state</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE15">
+  <entity ID="CNN20001103.1400.0089-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="18-35" TYPE="BAR">
+      <extent>
+        <charseq START="278" END="283">people</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="283">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-36" TYPE="PRO">
+      <extent>
+        <charseq START="333" END="336">they</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="336">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE16">
+  <entity ID="CNN20001103.1400.0089-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="19-39" TYPE="NOM">
+      <extent>
+        <charseq START="407" END="424">the average family</charseq>
+      </extent>
+      <head>
+        <charseq START="419" END="424">family</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE17">
+  <entity ID="CNN20001103.1400.0089-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="20-38" TYPE="PRO">
+      <extent>
+        <charseq START="382" END="384">you</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="384">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-40" TYPE="BAR">
+      <extent>
+        <charseq START="544" END="548">folks</charseq>
+      </extent>
+      <head>
+        <charseq START="544" END="548">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-42" TYPE="PRO">
+      <extent>
+        <charseq START="575" END="578">your</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="578">your</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE18">
+  <entity ID="CNN20001103.1400.0089-E21" TYPE="PER" CLASS="USP">
+    <entity_mention ID="21-41" TYPE="PRO">
+      <extent>
+        <charseq START="551" END="552">we</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="552">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-44" TYPE="PRO">
+      <extent>
+        <charseq START="624" END="625">we</charseq>
+      </extent>
+      <head>
+        <charseq START="624" END="625">we</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0089-CE19">
+  <entity ID="CNN20001103.1400.0089-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="22-43" TYPE="NOM">
+      <extent>
+        <charseq START="594" END="621">the
+people who pay the bills</charseq>
+      </extent>
+      <head>
+        <charseq START="598" END="603">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-45" TYPE="WHQ">
+      <extent>
+        <charseq START="605" END="607">who</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="607">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001103.1400.0089-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="659" END="693">everybody who pays taxes in america</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="659" END="693">everybody who pays taxes in america</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E16" ENTITYMENTIONID="16-4" ARGNUM="2">
+      <extent>
+        <charseq START="687" END="693">america</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="785" END="811">university center, michigan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E3" ENTITYMENTIONID="3-12" ARGNUM="1">
+      <extent>
+        <charseq START="785" END="811">university center, michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E15" ENTITYMENTIONID="15-13" ARGNUM="2">
+      <extent>
+        <charseq START="804" END="811">michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="969" END="994">the clinton
+administration</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E7" ENTITYMENTIONID="7-17" ARGNUM="2">
+      <extent>
+        <charseq START="969" END="994">the clinton
+administration</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E8" ENTITYMENTIONID="8-18" ARGNUM="1">
+      <extent>
+        <charseq START="973" END="979">clinton</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1026" END="1095">morgantown, west
+virginia, where he also will focus on military issues</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E9" ENTITYMENTIONID="9-21" ARGNUM="1">
+      <extent>
+        <charseq START="1026" END="1095">morgantown, west
+virginia, where he also will focus on military issues</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E10" ENTITYMENTIONID="10-22" ARGNUM="2">
+      <extent>
+        <charseq START="1038" END="1050">west
+virginia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1098" END="1184">west virginia
+has the highest per capita number of veterans of foreign wars in the
+u.s.</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E11" ENTITYMENTIONID="11-25" ARGNUM="1">
+      <extent>
+        <charseq START="1116" END="1184">the highest per capita number of veterans of foreign wars in the
+u.s.</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E10" ENTITYMENTIONID="10-24" ARGNUM="2">
+      <extent>
+        <charseq START="1098" END="1110">west virginia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="65" END="104">bush is in the toss-up state of michigan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="68">bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E15" ENTITYMENTIONID="15-30" ARGNUM="2">
+      <extent>
+        <charseq START="76" END="104">the toss-up state of michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="6-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="997" END="1095">from michigan, bush flies to morgantown, west
+virginia, where he also will focus on military issues</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-20" ARGNUM="1">
+      <extent>
+        <charseq START="1012" END="1015">bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E15" ENTITYMENTIONID="15-19" ARGNUM="2">
+      <extent>
+        <charseq START="1002" END="1009">michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R7" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="168" END="255">he told a rally in grand rapids
+a key concern is what to do with the federal tax surplus</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-31" ARGNUM="1">
+      <extent>
+        <charseq START="168" END="169">he</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E2" ENTITYMENTIONID="2-28" ARGNUM="2">
+      <extent>
+        <charseq START="187" END="198">grand rapids</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="7-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="711" END="734">his stop in
+grand rapids</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-5" ARGNUM="1">
+      <extent>
+        <charseq START="711" END="713">his</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E2" ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="723" END="734">grand rapids</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R9" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="737" END="811">bush's schedule for the day includes a visit to
+university center, michigan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-6" ARGNUM="1">
+      <extent>
+        <charseq START="737" END="740">bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E3" ENTITYMENTIONID="3-12" ARGNUM="2">
+      <extent>
+        <charseq START="785" END="811">university center, michigan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="945" END="961">the u.s. military</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E13" ENTITYMENTIONID="13-29" ARGNUM="1">
+      <extent>
+        <charseq START="945" END="961">the u.s. military</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E6" ENTITYMENTIONID="6-16" ARGNUM="2">
+      <extent>
+        <charseq START="949" END="952">u.s.</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0089-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1012" END="1095">bush flies to morgantown, west
+virginia, where he also will focus on military issues</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E14" ENTITYMENTIONID="14-20" ARGNUM="1">
+      <extent>
+        <charseq START="1012" END="1015">bush</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0089-E9" ENTITYMENTIONID="9-21" ARGNUM="2">
+      <extent>
+        <charseq START="1026" END="1095">morgantown, west
+virginia, where he also will focus on military issues</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

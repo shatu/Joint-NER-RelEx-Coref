@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001211.2158.0448.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001211.2158.0448">
+<entity ID="NYT20001211.2158.0448-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="417" END="465">a late-inning reliever
+for the Kansas City Royals</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="438">reliever</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="444" END="465">the Kansas City Royals</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="465">Kansas City Royals</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="641" END="650">the Royals</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="650">Royals</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-11" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="730" END="740">Kansas
+City</charseq>
+    </extent>
+    <head>
+      <charseq START="730" END="740">Kansas
+City</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="917" END="926">the Royals</charseq>
+    </extent>
+    <head>
+      <charseq START="921" END="926">Royals</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="959" END="966">the team</charseq>
+    </extent>
+    <head>
+      <charseq START="963" END="966">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="645" END="650">Royals</charseq>
+    </name>
+    <name>
+      <charseq START="921" END="926">Royals</charseq>
+    </name>
+    <name>
+      <charseq START="448" END="465">Kansas City Royals</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="487" END="493">Yankees</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="493">Yankees</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="553" END="584">his former teammate George Brett</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="584">George Brett</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="553" END="571">his former teammate</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="571">teammate</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="587" END="650">currently vice
+president for baseball operations with the Royals</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="610">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="653" END="654">He</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="654">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="573" END="584">George Brett</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="702" END="712">a setup man</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="712">man</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="717" END="724">a closer</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="724">closer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="245" END="254">David Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="254">David Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="849" END="857">a starter</charseq>
+    </extent>
+    <head>
+      <charseq START="851" END="857">starter</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="365" END="366">he</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="366">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="359" END="361">him</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="361">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="470" END="473">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="473">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="476" END="506">the former Yankees right-hander</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="506">hander</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="553" END="555">his</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="555">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="662" END="665">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="665">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="670" END="671">he</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="671">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="766" END="769">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="766" END="769">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="786" END="787">me</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="787">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="799" END="799">I</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="799">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="839" END="839">I</charseq>
+    </extent>
+    <head>
+      <charseq START="839" END="839">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="864" END="867">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="864" END="867">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="870" END="889">a Kansas City native</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="889">native</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1004" END="1007">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1007">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1101" END="1101">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1101" END="1101">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1094" END="1094">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1094">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1162" END="1246">Cone, who
+believes his options will become clearer after the winter meetings
+are over</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1165">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-49" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="1168" END="1170">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1168" END="1170">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1181" END="1183">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1183">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1341" END="1344">Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="1341" END="1344">Cone</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="470" END="473">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="662" END="665">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="766" END="769">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="864" END="867">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="1004" END="1007">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="1162" END="1165">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="1341" END="1344">Cone</charseq>
+    </name>
+    <name>
+      <charseq START="245" END="254">David Cone</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="872" END="882">Kansas City</charseq>
+    </extent>
+    <head>
+      <charseq START="872" END="882">Kansas City</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="943" END="952">the majors</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="952">majors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1036" END="1047">the
+pitchers</charseq>
+    </extent>
+    <head>
+      <charseq START="1040" END="1047">pitchers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1049" END="1060">Kevin Appier</charseq>
+    </extent>
+    <head>
+      <charseq START="1049" END="1060">Kevin Appier</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1049" END="1060">Kevin Appier</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1066" END="1079">Steve Trachsel</charseq>
+    </extent>
+    <head>
+      <charseq START="1066" END="1079">Steve Trachsel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1066" END="1079">Steve Trachsel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1251" END="1268">The Boston Red Sox</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1268">Boston Red Sox</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1255" END="1268">Boston Red Sox</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1274" END="1290">Baltimore Orioles</charseq>
+    </extent>
+    <head>
+      <charseq START="1274" END="1290">Baltimore Orioles</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1274" END="1290">Baltimore Orioles</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001211.2158.0448-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1302" END="1344">the other teams
+expressing interest in Cone</charseq>
+    </extent>
+    <head>
+      <charseq START="1312" END="1316">teams</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001211.2158.0448-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="971" END="978">The Mets</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="978">Mets</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1024" END="1027">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1024" END="1027">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1136" END="1139">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1136" END="1139">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="289" END="293">their</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="293">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="268" END="275">the Mets</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="275">Mets</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="333" END="337">their</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="337">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="975" END="978">Mets</charseq>
+    </name>
+    <name>
+      <charseq START="272" END="275">Mets</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001211.2158.0448-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="702" END="740">a setup man or a closer for Kansas
+City</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-29" ARGNUM="1">
+      <extent>
+        <charseq START="717" END="724">a closer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="730" END="740">Kansas
+City</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="717" END="740">a closer for Kansas
+City</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-29" ARGNUM="1">
+      <extent>
+        <charseq START="717" END="724">a closer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="730" END="740">Kansas
+City</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E2" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="417" END="465">a late-inning reliever
+for the Kansas City Royals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-55" ARGNUM="1">
+      <extent>
+        <charseq START="417" END="465">a late-inning reliever
+for the Kansas City Royals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="444" END="465">the Kansas City Royals</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E3" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="476" END="506">the former Yankees right-hander</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-34" ARGNUM="1">
+      <extent>
+        <charseq START="476" END="506">the former Yankees right-hander</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="487" END="493">Yankees</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R4" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="553" END="571">his former teammate</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-35" ARGNUM="1">
+      <extent>
+        <charseq START="553" END="555">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="553" END="571">his former teammate</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="587" END="650">currently vice
+president for baseball operations with the Royals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="587" END="650">currently vice
+president for baseball operations with the Royals</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="641" END="650">the Royals</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E2" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="702" END="740">a setup man or a closer for Kansas
+City</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="702" END="712">a setup man</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="730" END="740">Kansas
+City</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E10" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="870" END="889">a Kansas City native</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-44" ARGNUM="1">
+      <extent>
+        <charseq START="870" END="889">a Kansas City native</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-13" ARGNUM="2">
+      <extent>
+        <charseq START="872" END="882">Kansas City</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E2" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="864" END="926">Cone, a Kansas City native, was originally signed by the Royals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-43" ARGNUM="1">
+      <extent>
+        <charseq START="864" END="867">Cone</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-14" ARGNUM="2">
+      <extent>
+        <charseq START="917" END="926">the Royals</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E23" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1024" END="1089">they signed the
+pitchers Kevin Appier and Steve Trachsel on Monday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="1">
+      <extent>
+        <charseq START="1036" END="1047">the
+pitchers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-18" ARGNUM="2">
+      <extent>
+        <charseq START="1024" END="1027">they</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R11" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E12" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1036" END="1079">the
+pitchers Kevin Appier and Steve Trachsel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-23" ARGNUM="1">
+      <extent>
+        <charseq START="1049" END="1060">Kevin Appier</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="2">
+      <extent>
+        <charseq START="1036" END="1047">the
+pitchers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001211.2158.0448-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001211.2158.0448-E12" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1036" END="1079">the
+pitchers Kevin Appier and Steve Trachsel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-24" ARGNUM="1">
+      <extent>
+        <charseq START="1066" END="1079">Steve Trachsel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="2">
+      <extent>
+        <charseq START="1036" END="1047">the
+pitchers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

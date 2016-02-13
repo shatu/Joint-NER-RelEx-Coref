@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_277.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_277.eng">
+<entity ID="chtb_277.eng-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="735" END="775">the
+Ministry of Foreign Economy and Trade</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="775">Ministry of Foreign Economy and Trade</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="739" END="775">Ministry of Foreign Economy and Trade</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="808" END="954">the Australian delegation with Flad, director general of Australian
+International Development Bureau Assistance Department as the
+delegation leader</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="832">delegation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="938" END="947">delegation</charseq>
+    </extent>
+    <head>
+      <charseq START="938" END="947">delegation</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="934" END="954">the
+delegation leader</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="954">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="839" END="842">Flad</charseq>
+    </extent>
+    <head>
+      <charseq START="839" END="842">Flad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-21" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="845" END="929">director general of Australian
+International Development Bureau Assistance Department</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="860">general</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="839" END="842">Flad</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="865" END="929">Australian
+International Development Bureau Assistance Department</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="929">Australian
+International Development Bureau Assistance Department</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="865" END="929">Australian
+International Development Bureau Assistance Department</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="785" END="794">delegation</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="794">delegation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="672" END="801">The Chinese delegation with Yongtu Long, assistant minister of the
+Ministry of Foreign Economy and Trade, as the delegation leader</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="693">delegation</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E9" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="9-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1228" END="1236">personnel</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1236">personnel</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1006" END="1020">the two parties</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1020">parties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1259" END="1266">the poor</charseq>
+    </extent>
+    <head>
+      <charseq START="1263" END="1266">poor</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="88" END="105">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="88" END="105">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="88" END="105">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="108" END="115">Canberra</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="115">Canberra</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="108" END="115">Canberra</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1107" END="1111">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1111">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-23" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="131" END="152">The Chinese government</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="152">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="135" END="141">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="141">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="254" END="258">China</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="258">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-31" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="588" END="609">the Chinese government</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="609">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="592" END="598">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="598">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-37" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="676" END="682">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="682">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="254" END="258">China</charseq>
+    </name>
+    <name>
+      <charseq START="1107" END="1111">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="812" END="821">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="821">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-12" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1075" END="1092">the Australia side</charseq>
+    </extent>
+    <head>
+      <charseq START="1089" END="1092">side</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1079" END="1087">Australia</charseq>
+    </extent>
+    <head>
+      <charseq START="1079" END="1087">Australia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-15" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1162" END="1171">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1171">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-25" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="158" END="182">the Australian government</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="182">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="162" END="171">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="171">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-27" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="219" END="238">the Australian party</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="238">party</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-28" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="223" END="232">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="232">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="310" END="319">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="319">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-33" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="615" END="639">the Australian
+government</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="639">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-34" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="619" END="628">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="628">Australian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_277.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="660" END="668">Melbourne</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="668">Melbourne</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="660" END="668">Melbourne</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_277.eng-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="781" END="801">the delegation leader</charseq>
+    </extent>
+    <head>
+      <charseq START="796" END="801">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="700" END="710">Yongtu Long</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="710">Yongtu Long</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="713" END="775">assistant minister of the
+Ministry of Foreign Economy and Trade</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="730">minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="700" END="710">Yongtu Long</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_277.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E14" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="672" END="801">The Chinese delegation with Yongtu Long, assistant minister of the
+Ministry of Foreign Economy and Trade, as the delegation leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-36" ARGNUM="1">
+      <extent>
+        <charseq START="672" END="801">The Chinese delegation with Yongtu Long, assistant minister of the
+Ministry of Foreign Economy and Trade, as the delegation leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-37" ARGNUM="2">
+      <extent>
+        <charseq START="676" END="682">Chinese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E7" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="781" END="801">the delegation leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-9" ARGNUM="1">
+      <extent>
+        <charseq START="781" END="801">the delegation leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="2">
+      <extent>
+        <charseq START="785" END="794">delegation</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E1" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="713" END="775">assistant minister of the
+Ministry of Foreign Economy and Trade</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-38" ARGNUM="1">
+      <extent>
+        <charseq START="713" END="775">assistant minister of the
+Ministry of Foreign Economy and Trade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="735" END="775">the
+Ministry of Foreign Economy and Trade</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E16" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="808" END="954">the Australian delegation with Flad, director general of Australian
+International Development Bureau Assistance Department as the
+delegation leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="808" END="954">the Australian delegation with Flad, director general of Australian
+International Development Bureau Assistance Department as the
+delegation leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-5" ARGNUM="2">
+      <extent>
+        <charseq START="812" END="821">Australian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="934" END="954">the
+delegation leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-7" ARGNUM="1">
+      <extent>
+        <charseq START="934" END="954">the
+delegation leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="938" END="947">delegation</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_277.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_277.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_277.eng-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="845" END="929">director general of Australian
+International Development Bureau Assistance Department</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-21" ARGNUM="1">
+      <extent>
+        <charseq START="845" END="929">director general of Australian
+International Development Bureau Assistance Department</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="865" END="929">Australian
+International Development Bureau Assistance Department</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

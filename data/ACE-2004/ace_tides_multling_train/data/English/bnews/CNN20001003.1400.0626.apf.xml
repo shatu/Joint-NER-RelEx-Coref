@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001003.1400.0626.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001003.1400.0626">
+<entity ID="CNN20001003.1400.0626-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="575" END="607">the los angeles district attorney</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="607">attorney</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001003.1400.0626-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="579" END="589">los angeles</charseq>
+    </extent>
+    <head>
+      <charseq START="579" END="589">los angeles</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1217" END="1220">l.a.</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1220">l.a.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1217" END="1220">l.a.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="654" END="680">a criminal defense attorney</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="680">attorney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="683" END="687">clark</charseq>
+    </extent>
+    <head>
+      <charseq START="683" END="687">clark</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="711" END="713">her</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="713">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="837" END="839">her</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="839">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1025" END="1056">the
+twice-divorced mother of two</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1049">mother</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1076" END="1078">she</charseq>
+    </extent>
+    <head>
+      <charseq START="1076" END="1078">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1139" END="1141">her</charseq>
+    </extent>
+    <head>
+      <charseq START="1139" END="1141">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1187" END="1191">clark</charseq>
+    </extent>
+    <head>
+      <charseq START="1187" END="1191">clark</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="205" END="235">the lead prosecutor in the case</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="223">prosecutor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="247" END="249">she</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="249">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="438" END="466">chief prosecutor marcia clark</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="466">marcia clark</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-35" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="438" END="453">chief prosecutor</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="453">prosecutor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="488" END="492">clark</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="492">clark</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="531" END="533">her</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="533">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="564" END="566">she</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="566">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="455" END="466">marcia clark</charseq>
+    </name>
+    <name>
+      <charseq START="488" END="492">clark</charseq>
+    </name>
+    <name>
+      <charseq START="683" END="687">clark</charseq>
+    </name>
+    <name>
+      <charseq START="1187" END="1191">clark</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E4" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="4-7" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="768" END="771">jury</charseq>
+    </extent>
+    <head>
+      <charseq START="768" END="771">jury</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001003.1400.0626-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="868" END="884">robert john bardo</charseq>
+    </extent>
+    <head>
+      <charseq START="868" END="884">robert john bardo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="868" END="884">robert john bardo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="912" END="936">actress rebecca schaeffer</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="936">rebecca schaeffer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="912" END="918">actress</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="918">actress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="920" END="936">rebecca schaeffer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="965" END="972">the jury</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="972">jury</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001003.1400.0626-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-16" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1054" END="1056">two</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1056">two</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001003.1400.0626-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1298" END="1298">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1298" END="1298">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1302" END="1313">bob glascoff</charseq>
+    </extent>
+    <head>
+      <charseq START="1302" END="1313">bob glascoff</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="171" END="182">bob glascoff</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="182">bob glascoff</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="171" END="182">bob glascoff</charseq>
+    </name>
+    <name>
+      <charseq START="1302" END="1313">bob glascoff</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="91" END="102">o.j. simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="102">o.j. simpson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="823" END="829">simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="829">simpson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-13" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="947" END="953">simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="953">simpson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-19" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1161" END="1167">simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1167">simpson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="324" END="335">o.j. simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="335">o.j. simpson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="376">his</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="376">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="324" END="335">o.j. simpson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-28" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="374" END="384">his ex-wife</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="384">ex-wife</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="391">his ex-wife nicole</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="391">nicole</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="397" END="399">her</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="399">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="386" END="391">nicole</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="397" END="418">her friend ron goldman</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="418">ron goldman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-32" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="397" END="406">her friend</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="406">friend</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="408" END="418">ron goldman</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E21" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="21-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="509" END="512">ucla</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="512">ucla</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="509" END="512">ucla</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001003.1400.0626-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="22-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="575" END="616">the los angeles district attorney's office</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="616">office</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001003.1400.0626-R1" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E16" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="374" END="384">his ex-wife</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-31" ARGNUM="1">
+      <extent>
+        <charseq START="374" END="376">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-28" ARGNUM="2">
+      <extent>
+        <charseq START="374" END="384">his ex-wife</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R2" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="397" END="406">her friend</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-33" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="399">her</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-32" ARGNUM="2">
+      <extent>
+        <charseq START="397" END="406">her friend</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R3" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E21" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="488" END="512">clark graduated
+from ucla</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-36" ARGNUM="1">
+      <extent>
+        <charseq START="488" END="492">clark</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-37" ARGNUM="2">
+      <extent>
+        <charseq START="509" END="512">ucla</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E22" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="564" END="616">she
+joined the los angeles district attorney's office</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-39" ARGNUM="1">
+      <extent>
+        <charseq START="564" END="566">she</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-40" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="616">the los angeles district attorney's office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="575" END="607">the los angeles district attorney</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="575" END="607">the los angeles district attorney</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="579" END="589">los angeles</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E22" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="575" END="616">the los angeles district attorney's office</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="575" END="607">the los angeles district attorney</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-40" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="616">the los angeles district attorney's office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R7" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E9" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1025" END="1056">the
+twice-divorced mother of two</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-15" ARGNUM="1">
+      <extent>
+        <charseq START="1025" END="1056">the
+twice-divorced mother of two</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-16" ARGNUM="2">
+      <extent>
+        <charseq START="1054" END="1056">two</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001003.1400.0626-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001003.1400.0626-E2" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1187" END="1220">clark practices family law in l.a.</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-20" ARGNUM="1">
+      <extent>
+        <charseq START="1187" END="1191">clark</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-21" ARGNUM="2">
+      <extent>
+        <charseq START="1217" END="1220">l.a.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001122.2009.0333.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001122.2009.0333">
+<entity ID="NYT20001122.2009.0333-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1392" END="1404">Christina Kim</charseq>
+    </extent>
+    <head>
+      <charseq START="1392" END="1404">Christina Kim</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1407" END="1439">a spokeswoman for Hermes of Paris</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1419">spokeswoman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1392" END="1404">Christina Kim</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1425" END="1439">Hermes of Paris</charseq>
+    </extent>
+    <head>
+      <charseq START="1425" END="1439">Hermes of Paris</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1340" END="1341">We</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1341">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1425" END="1439">Hermes of Paris</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1503" END="1518">Public companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1510" END="1518">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1561" END="1564">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1561" END="1564">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1600" END="1604">their</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1604">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1630" END="1672">a luxury
+company like Gucci or Estee Lauder</charseq>
+    </extent>
+    <head>
+      <charseq START="1639" END="1645">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1780" END="1784">their</charseq>
+    </extent>
+    <head>
+      <charseq START="1780" END="1784">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1661" END="1672">Estee Lauder</charseq>
+    </extent>
+    <head>
+      <charseq START="1661" END="1672">Estee Lauder</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1661" END="1672">Estee Lauder</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1652" END="1656">Gucci</charseq>
+    </extent>
+    <head>
+      <charseq START="1652" END="1656">Gucci</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1652" END="1656">Gucci</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1917" END="1923">the Gap</charseq>
+    </extent>
+    <head>
+      <charseq START="1921" END="1923">Gap</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1921" END="1923">Gap</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="9-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1929" END="1954">other chain apparel stores</charseq>
+    </extent>
+    <head>
+      <charseq START="1949" END="1954">stores</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2044" END="2061">most luxury
+houses</charseq>
+    </extent>
+    <head>
+      <charseq START="2056" END="2061">houses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2143" END="2173">one executive at a luxury house</charseq>
+    </extent>
+    <head>
+      <charseq START="2147" END="2155">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2582" END="2595">this executive</charseq>
+    </extent>
+    <head>
+      <charseq START="2587" END="2595">executive</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2160" END="2173">a luxury house</charseq>
+    </extent>
+    <head>
+      <charseq START="2169" END="2173">house</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2272" END="2278">Italian</charseq>
+    </extent>
+    <head>
+      <charseq START="2272" END="2278">Italian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="14-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2269" END="2294">an Italian (only!) tannery</charseq>
+    </extent>
+    <head>
+      <charseq START="2288" END="2294">tannery</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E15" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="15-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2327" END="2344">a
+master craftsman</charseq>
+    </extent>
+    <head>
+      <charseq START="2336" END="2344">craftsman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2611" END="2613">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2611" END="2613">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2635" END="2640">Escada</charseq>
+    </extent>
+    <head>
+      <charseq START="2635" END="2640">Escada</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2635" END="2640">Escada</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-23" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2709" END="2720">Hermes Kelly</charseq>
+    </extent>
+    <head>
+      <charseq START="2709" END="2720">Hermes Kelly</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E19" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="19-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2915" END="2937">the fanciest boulevards</charseq>
+    </extent>
+    <head>
+      <charseq START="2928" END="2937">boulevards</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E20" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="20-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2955" END="3019">the
+fine-boned sales clerks who speak in charming foreign accents</charseq>
+    </extent>
+    <head>
+      <charseq START="2976" END="2981">clerks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-26" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2983" END="2985">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2983" END="2985">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="576" END="589">most Americans</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="589">Americans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="687" END="716">an increasing
+number of people</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="716">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="747" END="747">I</charseq>
+    </extent>
+    <head>
+      <charseq START="747" END="747">I</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E24" TYPE="PER" CLASS="USP">
+  <entity_mention ID="24-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="754" END="756">you</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="756">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="988" END="1003">Tiffany &amp; Co</charseq>
+    </extent>
+    <head>
+      <charseq START="988" END="1003">Tiffany &amp; Co</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="988" END="1003">Tiffany &amp; Co</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1010" END="1032">the Neiman Marcus Group</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1032">Neiman Marcus Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1014" END="1032">Neiman Marcus Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001122.2009.0333-E27" TYPE="PER" CLASS="USP">
+  <entity_mention ID="27-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="846" END="876">the top slice of income
+earners</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="858">slice</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E28" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="28-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="863" END="876">income
+earners</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="876">earners</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="29-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="946" END="1032">such purveyors of designer delectables as Tiffany &amp; Co.
+and the Neiman Marcus Group</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="959">purveyors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E30" TYPE="PER" CLASS="USP">
+  <entity_mention ID="30-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1076" END="1088">Every shopper</charseq>
+    </extent>
+    <head>
+      <charseq START="1082" END="1088">shopper</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-36" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1178" END="1183">Revlon</charseq>
+    </extent>
+    <head>
+      <charseq START="1178" END="1183">Revlon</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-37" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1202" END="1209">By
+Terry</charseq>
+    </extent>
+    <head>
+      <charseq START="1202" END="1209">By
+Terry</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001122.2009.0333-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="33-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1243" END="1264">luxury-goods companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1256" END="1264">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1323" END="1327">their</charseq>
+    </extent>
+    <head>
+      <charseq START="1323" END="1327">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001122.2009.0333-R1" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E28" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="846" END="876">the top slice of income
+earners</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-32" ARGNUM="1">
+      <extent>
+        <charseq START="846" END="876">the top slice of income
+earners</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-33" ARGNUM="2">
+      <extent>
+        <charseq START="863" END="876">income
+earners</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E29" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="946" END="1032">such purveyors of designer delectables as Tiffany &amp; Co.
+and the Neiman Marcus Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-30" ARGNUM="1">
+      <extent>
+        <charseq START="988" END="1003">Tiffany &amp; Co</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-34" ARGNUM="2">
+      <extent>
+        <charseq START="946" END="1032">such purveyors of designer delectables as Tiffany &amp; Co.
+and the Neiman Marcus Group</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E29" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="946" END="1032">such purveyors of designer delectables as Tiffany &amp; Co.
+and the Neiman Marcus Group</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-31" ARGNUM="1">
+      <extent>
+        <charseq START="1010" END="1032">the Neiman Marcus Group</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-34" ARGNUM="2">
+      <extent>
+        <charseq START="946" END="1032">such purveyors of designer delectables as Tiffany &amp; Co.
+and the Neiman Marcus Group</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1407" END="1439">a spokeswoman for Hermes of Paris</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="1407" END="1439">a spokeswoman for Hermes of Paris</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="1425" END="1439">Hermes of Paris</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E5" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1630" END="1672">a luxury
+company like Gucci or Estee Lauder</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="1652" END="1656">Gucci</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="1630" END="1672">a luxury
+company like Gucci or Estee Lauder</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1630" END="1672">a luxury
+company like Gucci or Estee Lauder</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="1661" END="1672">Estee Lauder</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="1630" END="1672">a luxury
+company like Gucci or Estee Lauder</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E12" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2143" END="2173">one executive at a luxury house</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-15" ARGNUM="1">
+      <extent>
+        <charseq START="2143" END="2173">one executive at a luxury house</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-16" ARGNUM="2">
+      <extent>
+        <charseq START="2160" END="2173">a luxury house</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001122.2009.0333-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001122.2009.0333-E13" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2269" END="2294">an Italian (only!) tannery</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-18" ARGNUM="1">
+      <extent>
+        <charseq START="2269" END="2294">an Italian (only!) tannery</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-17" ARGNUM="2">
+      <extent>
+        <charseq START="2272" END="2278">Italian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

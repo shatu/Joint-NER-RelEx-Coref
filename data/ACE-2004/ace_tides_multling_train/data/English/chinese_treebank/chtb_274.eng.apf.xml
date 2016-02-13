@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_274.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_274.eng">
+<entity ID="chtb_274.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="446" END="463">Filipino President</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="463">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="446" END="469">Filipino President Ramos</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="469">Ramos</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="465" END="469">Ramos</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="446" END="453">Filipino</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="453">Filipino</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="744" END="776">this friendly
+neighboring country</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="776">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1152" END="1159">Filipino</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1159">Filipino</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="556" END="618">the six outstanding people
+awarded this year's Magasaysay award</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="581">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E6" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="926" END="937">Asian people</charseq>
+    </extent>
+    <head>
+      <charseq START="932" END="937">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E7" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="926" END="930">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="926" END="930">Asian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-21" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1186" END="1190">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="1186" END="1190">Asian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E8" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="949" END="971">the
+people of the world</charseq>
+    </extent>
+    <head>
+      <charseq START="953" END="958">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E9" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="9-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="963" END="971">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="967" END="971">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1006" END="1012">mankind</charseq>
+    </extent>
+    <head>
+      <charseq START="1006" END="1012">mankind</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-5" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="603" END="612">Magasaysay</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="612">Magasaysay</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1095" END="1110">Ramon Magasaysay</charseq>
+    </extent>
+    <head>
+      <charseq START="1095" END="1110">Ramon Magasaysay</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1141" END="1169">the former Filipino
+president</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1169">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-38" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="310" END="319">Magasaysay</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="319">Magasaysay</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-22" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1285" END="1295">individuals</charseq>
+    </extent>
+    <head>
+      <charseq START="1285" END="1295">individuals</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E13" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="13-23" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1301" END="1313">organizations</charseq>
+    </extent>
+    <head>
+      <charseq START="1301" END="1313">organizations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1553" END="1567">172 individuals</charseq>
+    </extent>
+    <head>
+      <charseq START="1557" END="1567">individuals</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1573" END="1588">14
+organizations</charseq>
+    </extent>
+    <head>
+      <charseq START="1576" END="1588">organizations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E16" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="16-26" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1364" END="1373">government</charseq>
+    </extent>
+    <head>
+      <charseq START="1364" END="1373">government</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="97" END="114">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="114">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="97" END="114">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="117" END="122">Manila</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="122">Manila</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-39" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="346" END="349">here</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="349">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="117" END="122">Manila</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="141" END="162">reporter Changyi Xiong</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="162">Changyi Xiong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-29" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="141" END="148">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="148">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="150" END="162">Changyi Xiong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="640" END="642">his</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="642">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="665" END="676">Xiaotong Fei</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="676">Xiaotong Fei</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="689" END="689">I</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="689">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="738" END="739">me</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="739">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="804" END="804">I</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="804">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="828" END="828">I</charseq>
+    </extent>
+    <head>
+      <charseq START="828" END="828">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="286">Dr. Xiaotong Fei, famous Chinese sociologist and vice chairman of the
+Standing Committee of the National People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="180">Dr. Xiaotong Fei</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="165" END="180">Dr. Xiaotong Fei</charseq>
+    </name>
+    <name>
+      <charseq START="665" END="676">Xiaotong Fei</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-32" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="183" END="208">famous Chinese sociologist</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="208">sociologist</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="214" END="286">vice chairman of the
+Standing Committee of the National People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="226">chairman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="25-34" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="190" END="196">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="196">Chinese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="231" END="286">the
+Standing Committee of the National People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="252">Committee</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="27-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="257" END="286">the National People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="286">National People's Congress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="261" END="286">National People's Congress</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_274.eng-E28" TYPE="PER" CLASS="USP">
+  <entity_mention ID="28-37" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="310" END="337">Magasaysay "Community Leader</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="337">Leader</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_274.eng-E30" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="30-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="412" END="442">The Philippines Cultural
+Center</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="442">Philippines Cultural
+Center</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="416" END="442">Philippines Cultural
+Center</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_274.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E17" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="97" END="162">Xinhua News Agency, Manila, August 31st, by reporter Changyi Xiong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-28" ARGNUM="1">
+      <extent>
+        <charseq START="141" END="162">reporter Changyi Xiong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-1" ARGNUM="2">
+      <extent>
+        <charseq START="97" END="114">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="97" END="162">Xinhua News Agency, Manila, August 31st, by reporter Changyi Xiong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-28" ARGNUM="1">
+      <extent>
+        <charseq START="141" END="162">reporter Changyi Xiong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-27" ARGNUM="2">
+      <extent>
+        <charseq START="117" END="122">Manila</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E25" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="183" END="208">famous Chinese sociologist</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-32" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="208">famous Chinese sociologist</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-34" ARGNUM="2">
+      <extent>
+        <charseq START="190" END="196">Chinese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E26" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="214" END="286">vice chairman of the
+Standing Committee of the National People's Congress</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-33" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="286">vice chairman of the
+Standing Committee of the National People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-35" ARGNUM="2">
+      <extent>
+        <charseq START="231" END="286">the
+Standing Committee of the National People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E27" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="231" END="286">the
+Standing Committee of the National People's Congress</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-35" ARGNUM="1">
+      <extent>
+        <charseq START="231" END="286">the
+Standing Committee of the National People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-36" ARGNUM="2">
+      <extent>
+        <charseq START="257" END="286">the National People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E3" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="446" END="463">Filipino President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="446" END="463">Filipino President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="446" END="453">Filipino</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R7" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E9" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="949" END="971">the
+people of the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="949" END="971">the
+people of the world</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-16" ARGNUM="2">
+      <extent>
+        <charseq START="963" END="971">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_274.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_274.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_274.eng-E3" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1141" END="1169">the former Filipino
+president</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-19" ARGNUM="1">
+      <extent>
+        <charseq START="1141" END="1169">the former Filipino
+president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-20" ARGNUM="2">
+      <extent>
+        <charseq START="1152" END="1159">Filipino</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

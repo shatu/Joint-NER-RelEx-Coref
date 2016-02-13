@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="VOM20001202.0700.0061.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOM20001202.0700.0061">
+<composite_entity ID="VOM20001202.0700.0061-CE1">
+  <entity ID="VOM20001202.0700.0061-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="2-4" TYPE="NAM">
+      <extent>
+        <charseq START="185" END="187">共和党</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="187">共和党</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="185" END="187">共和党</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE2">
+  <entity ID="VOM20001202.0700.0061-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="4-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="195">德克
+萨斯州</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="195">德克
+萨斯州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="190" END="195">德克
+萨斯州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE3">
+  <entity ID="VOM20001202.0700.0061-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="6-18" TYPE="NAM">
+      <extent>
+        <charseq START="279" END="285">联
+邦最高法院</charseq>
+      </extent>
+      <head>
+        <charseq START="279" END="285">联
+邦最高法院</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-20" TYPE="NAM">
+      <extent>
+        <charseq START="313" END="318">联邦最高法院</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="318">联邦最高法院</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-21" TYPE="NAM">
+      <extent>
+        <charseq START="72" END="77">联邦最高法院</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="77">联邦最高法院</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-22" TYPE="NAM">
+      <extent>
+        <charseq START="266" END="273">美国联邦最高法院</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="273">联邦最高法院</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="279" END="285">联
+邦最高法院</charseq>
+      </name>
+      <name>
+        <charseq START="313" END="318">联邦最高法院</charseq>
+      </name>
+      <name>
+        <charseq START="72" END="77">联邦最高法院</charseq>
+      </name>
+      <name>
+        <charseq START="268" END="273">联邦最高法院</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE4">
+  <entity ID="VOM20001202.0700.0061-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="263" END="265">华盛顿</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="265">华盛顿</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-23" TYPE="APP" ROLE="LOC">
+      <extent>
+        <charseq START="65" END="71">美国首都华盛顿</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="7-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="69" END="71">华盛顿</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="71">华盛顿</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="263" END="265">华盛顿</charseq>
+      </name>
+      <name>
+        <charseq START="69" END="71">华盛顿</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOM20001202.0700.0061-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="8-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="68">美国首都</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="68">首都</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE5">
+  <entity ID="VOM20001202.0700.0061-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="252" END="253">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="253">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-17" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="266" END="267">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="266" END="267">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-26" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="66">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="252" END="253">美国</charseq>
+      </name>
+      <name>
+        <charseq START="266" END="267">美国</charseq>
+      </name>
+      <name>
+        <charseq START="65" END="66">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE6">
+  <entity ID="VOM20001202.0700.0061-E10" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="10-27" TYPE="PCN">
+      <extent>
+        <charseq START="88" END="89">总统</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="89">总统</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE7">
+  <entity ID="VOM20001202.0700.0061-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="11-28" TYPE="NOM">
+      <extent>
+        <charseq START="113" END="120">佛罗里达州的法院</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="120">法院</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE8">
+  <entity ID="VOM20001202.0700.0061-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="12-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="201" END="202">佛州</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="202">佛州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="207" END="211">佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="211">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="242" END="243">佛州</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="243">佛州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="292" END="296">佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="296">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-29" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="113" END="117">佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="117">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="122" END="126">佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="126">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="242" END="243">佛州</charseq>
+      </name>
+      <name>
+        <charseq START="292" END="296">佛罗里达州</charseq>
+      </name>
+      <name>
+        <charseq START="113" END="117">佛罗里达州</charseq>
+      </name>
+      <name>
+        <charseq START="122" END="126">佛罗里达州</charseq>
+      </name>
+      <name>
+        <charseq START="201" END="202">佛州</charseq>
+      </name>
+      <name>
+        <charseq START="207" END="211">佛罗里达州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE9">
+  <entity ID="VOM20001202.0700.0061-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-30" TYPE="NOM">
+      <extent>
+        <charseq START="122" END="130">佛罗里达州一位法官</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="130">法官</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE10">
+  <entity ID="VOM20001202.0700.0061-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-3" TYPE="PRO">
+      <extent>
+        <charseq START="183" END="183">他</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="183">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-10" TYPE="NAM">
+      <extent>
+        <charseq START="233" END="234">戈尔</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="234">戈尔</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-32" TYPE="APP">
+      <extent>
+        <charseq START="158" END="167">民主党总统候选人戈尔</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="14-33" TYPE="NAM">
+      <extent>
+        <charseq START="166" END="167">戈尔</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="167">戈尔</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="233" END="234">戈尔</charseq>
+      </name>
+      <name>
+        <charseq START="166" END="167">戈尔</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOM20001202.0700.0061-E15" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="15-34" TYPE="NOM">
+      <extent>
+        <charseq START="158" END="165">民主党总统候选人</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="165">候选人</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE11">
+  <entity ID="VOM20001202.0700.0061-E16" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="16-35" TYPE="PCN">
+      <extent>
+        <charseq START="161" END="162">总统</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">总统</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE12">
+  <entity ID="VOM20001202.0700.0061-E17" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-36" TYPE="NAM">
+      <extent>
+        <charseq START="158" END="160">民主党</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="160">民主党</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="158" END="160">民主党</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOM20001202.0700.0061-CE13">
+  <entity ID="VOM20001202.0700.0061-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="183" END="189">他的共和党对手</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="189">对手</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="VOM20001202.0700.0061-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-5" TYPE="NOM">
+      <extent>
+        <charseq START="190" END="197">德克
+萨斯州州长</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="197">州长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="VOM20001202.0700.0061-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-14" TYPE="NOM">
+      <extent>
+        <charseq START="252" END="257">美国下届总统</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="257">总统</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="VOM20001202.0700.0061-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-1" TYPE="APP">
+      <extent>
+        <charseq START="190" END="199">德克
+萨斯州州长布什</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-9" TYPE="NAM">
+      <extent>
+        <charseq START="223" END="224">布什</charseq>
+      </extent>
+      <head>
+        <charseq START="223" END="224">布什</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-11" TYPE="NAM">
+      <extent>
+        <charseq START="239" END="240">布什</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="240">布什</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-13" TYPE="PRO">
+      <extent>
+        <charseq START="247" END="247">他</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="247">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-37" TYPE="APP">
+      <extent>
+        <charseq START="183" END="199">他的共和党对手德克
+萨斯州州长布什</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-38" TYPE="NAM">
+      <extent>
+        <charseq START="198" END="199">布什</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="199">布什</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="239" END="240">布什</charseq>
+      </name>
+      <name>
+        <charseq START="198" END="199">布什</charseq>
+      </name>
+      <name>
+        <charseq START="223" END="224">布什</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="VOM20001202.0700.0061-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="68">美国首都</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E8" ENTITYMENTIONID="8-25" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="68">美国首都</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E9" ENTITYMENTIONID="9-26" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="66">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="113" END="120">佛罗里达州的法院</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E11" ENTITYMENTIONID="11-28" ARGNUM="1">
+      <extent>
+        <charseq START="113" END="120">佛罗里达州的法院</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E12" ENTITYMENTIONID="12-29" ARGNUM="2">
+      <extent>
+        <charseq START="113" END="117">佛罗里达州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="122" END="130">佛罗里达州一位法官</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E13" ENTITYMENTIONID="13-30" ARGNUM="1">
+      <extent>
+        <charseq START="122" END="130">佛罗里达州一位法官</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E12" ENTITYMENTIONID="12-31" ARGNUM="2">
+      <extent>
+        <charseq START="122" END="126">佛罗里达州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R4" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="158" END="165">民主党总统候选人</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E15" ENTITYMENTIONID="15-34" ARGNUM="1">
+      <extent>
+        <charseq START="158" END="165">民主党总统候选人</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E17" ENTITYMENTIONID="17-36" ARGNUM="2">
+      <extent>
+        <charseq START="158" END="160">民主党</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R5" TYPE="PER-SOC" SUBTYPE="Other">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="183" END="189">他的共和党对手</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E14" ENTITYMENTIONID="14-3" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="183">他</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="183" END="189">他的共和党对手</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R6" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="183" END="189">他的共和党对手</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="189">他的共和党对手</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E2" ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="185" END="187">共和党</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="190" END="197">德克
+萨斯州州长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E3" ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="190" END="197">德克
+萨斯州州长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E4" ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="190" END="195">德克
+萨斯州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001202.0700.0061-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="266" END="273">美国联邦最高法院</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E6" ENTITYMENTIONID="6-22" ARGNUM="1">
+      <extent>
+        <charseq START="266" END="273">美国联邦最高法院</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOM20001202.0700.0061-E9" ENTITYMENTIONID="9-17" ARGNUM="2">
+      <extent>
+        <charseq START="266" END="267">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001122.1400.0903.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001122.1400.0903">
+<composite_entity ID="CNN20001122.1400.0903-CE1">
+  <entity ID="CNN20001122.1400.0903-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="PRO">
+      <extent>
+        <charseq START="112" END="112">i</charseq>
+      </extent>
+      <head>
+        <charseq START="112" END="112">i</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001122.1400.0903-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="116" END="161">myron kandel at
+the cnnfn newsdesk in new york</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="127">myron kandel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="116" END="127">myron kandel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001122.1400.0903-CE2">
+  <entity ID="CNN20001122.1400.0903-E3" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="149">newsdesk</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001122.1400.0903-CE3">
+  <entity ID="CNN20001122.1400.0903-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE">
+      <extent>
+        <charseq START="136" END="140">cnnfn</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="140">cnnfn</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001122.1400.0903-CE4">
+  <entity ID="CNN20001122.1400.0903-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="154" END="161">new york</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="161">new york</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="154" END="161">new york</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001122.1400.0903-CE5">
+  <entity ID="CNN20001122.1400.0903-E6" TYPE="PER" CLASS="USP">
+    <entity_mention ID="6-6" TYPE="BAR">
+      <extent>
+        <charseq START="271" END="278">analysts</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="278">analysts</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001122.1400.0903-CE6">
+  <entity ID="CNN20001122.1400.0903-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-7" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="375" END="384">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="384">nation</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001122.1400.0903-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="116" END="161">myron kandel at
+the cnnfn newsdesk in new york</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="116" END="161">myron kandel at
+the cnnfn newsdesk in new york</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001122.1400.0903-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="154" END="161">new york</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001122.1400.0903-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="136" END="140">cnnfn</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001122.1400.0903-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="161">the cnnfn newsdesk in new york</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

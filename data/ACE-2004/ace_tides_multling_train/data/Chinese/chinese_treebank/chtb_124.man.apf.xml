@@ -1,0 +1,1127 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_124.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_124.man">
+<entity ID="chtb_124.man-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="217" END="217">中</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="217">中</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="179" END="180">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="180">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="415" END="416">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="416">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="485" END="485">华</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="485">华</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-39" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="498" END="499">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="499">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="179" END="180">中国</charseq>
+    </name>
+    <name>
+      <charseq START="415" END="416">中国</charseq>
+    </name>
+    <name>
+      <charseq START="485" END="485">华</charseq>
+    </name>
+    <name>
+      <charseq START="498" END="499">中国</charseq>
+    </name>
+    <name>
+      <charseq START="217" END="217">中</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E3" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="218" END="218">外</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="218">外</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="204">方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="5-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="498" END="502">中国零售业</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="502">零售业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="415" END="419">中国零售业</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="419">零售业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="179" END="190">中国厦门对
+外供应总公司</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="190">厦门对
+外供应总公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="181" END="190">厦门对
+外供应总公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="192" END="202">菲律宾菲力环球国际公司</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="202">菲力环球国际公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="195" END="202">菲力环球国际公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="192" END="194">菲律宾</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="194">菲律宾</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="192" END="194">菲律宾</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="266" END="275">二十家示范便民连锁店</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="275">连锁店</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="277" END="286">一个现代化的配送中心</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="286">中心</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-16" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="300" END="305">福建省九地市</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="305">地市</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="309" END="316">三百家便民连锁店</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="316">连锁店</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="321" END="323">这些店</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="323">店</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E14" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="14-20" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="328" END="329">居民</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="329">居民</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E15" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="15-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="350" END="352">市
+民</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="352">市
+民</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="167" END="177">美国必纯士国际实业集团</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="177">必纯士国际实业集团</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="373" END="385">美国必纯士国际实业有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="385">必纯士国际实业有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="387" END="396">一家大型食品跨国公司</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="396">公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="469" END="482">美国必纯士国际
+实业有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="482">必纯士国际
+实业有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="113" END="120">美国大型跨国集团</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="120">集团</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="121" END="125">必纯士公司</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="125">必纯士公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="375" END="385">必纯士国际实业有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="471" END="482">必纯士国际
+实业有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="121" END="125">必纯士公司</charseq>
+    </name>
+    <name>
+      <charseq START="169" END="177">必纯士国际实业集团</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-26" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="460">地</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="19-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="438" END="439">北京</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="439">北京</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="438" END="439">北京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="441" END="442">青岛</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="442">青岛</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="441" END="442">青岛</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="444" END="446">大
+连</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="446">大
+连</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="444" END="446">大
+连</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="22-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="448" END="449">广州</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="449">广州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="448" END="449">广州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="23-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="451" END="452">深圳</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="452">深圳</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="451" END="452">深圳</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="24-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="454" END="455">武汉</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="455">武汉</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="454" END="455">武汉</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="457" END="458">上海</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="458">上海</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="457" END="458">上海</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="469" END="488">美国必纯士国际
+实业有限公司的在华连锁店</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="488">连锁店</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_124.man-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="27-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="63" END="65">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="63" END="65">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="63" END="65">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="28-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="261" END="263">厦门市</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="263">厦门市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="66" END="67">厦门</charseq>
+    </extent>
+    <head>
+      <charseq START="66" END="67">厦门</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-48" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="100" END="101">此间</charseq>
+    </extent>
+    <head>
+      <charseq START="100" END="101">此间</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-50" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="133" END="134">厦门</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="134">厦门</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="154" END="155">厦门</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="155">厦门</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="261" END="263">厦门市</charseq>
+    </name>
+    <name>
+      <charseq START="66" END="67">厦门</charseq>
+    </name>
+    <name>
+      <charseq START="133" END="134">厦门</charseq>
+    </name>
+    <name>
+      <charseq START="154" END="155">厦门</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="77" END="79">余瑛瑞</charseq>
+    </extent>
+    <head>
+      <charseq START="77" END="79">余瑛瑞</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="75" END="76">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="76">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="77" END="79">余瑛瑞</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="83" END="96">取名为“倍顺”的两家便民超市</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="96">超市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="87" END="88">倍顺</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="88">倍顺</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="109" END="109">它</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="109">它</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="87" END="88">倍顺</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="113" END="145">美国大型跨国集团必纯士公司占有六成股份的厦门福兰普利
+超市有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="145">福兰普利
+超市有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="154" END="165">厦门福兰普利超市有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="165">福兰普利超市有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="167" END="222">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方合作的福建省首家零售
+业中外合资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="222">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="135" END="145">福兰普利
+超市有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="156" END="165">福兰普利超市有限公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="35-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="167" END="168">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="168">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="373" END="374">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="374">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="469" END="470">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="470">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-55" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="113" END="114">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="114">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="167" END="168">美国</charseq>
+    </name>
+    <name>
+      <charseq START="373" END="374">美国</charseq>
+    </name>
+    <name>
+      <charseq START="469" END="470">美国</charseq>
+    </name>
+    <name>
+      <charseq START="113" END="114">美国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_124.man-E37" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="37-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="300" END="302">福建省</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="302">福建省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-60" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="208" END="210">福建省</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="210">福建省</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="300" END="302">福建省</charseq>
+    </name>
+    <name>
+      <charseq START="208" END="210">福建省</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_124.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_124.man-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E28" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="63" END="67">新华社厦门</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-1" ARGNUM="1">
+      <extent>
+        <charseq START="63" END="65">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-42" ARGNUM="2">
+      <extent>
+        <charseq START="66" END="67">厦门</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E35" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="113" END="120">美国大型跨国集团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-52" ARGNUM="1">
+      <extent>
+        <charseq START="113" END="120">美国大型跨国集团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-55" ARGNUM="2">
+      <extent>
+        <charseq START="113" END="114">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="177">美国必纯士国际实业集团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-6" ARGNUM="1">
+      <extent>
+        <charseq START="167" END="177">美国必纯士国际实业集团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-7" ARGNUM="2">
+      <extent>
+        <charseq START="167" END="168">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="373" END="385">美国必纯士国际实业有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-22" ARGNUM="1">
+      <extent>
+        <charseq START="373" END="385">美国必纯士国际实业有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-23" ARGNUM="2">
+      <extent>
+        <charseq START="373" END="374">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="469" END="482">美国必纯士国际
+实业有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-36" ARGNUM="1">
+      <extent>
+        <charseq START="469" END="482">美国必纯士国际
+实业有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-37" ARGNUM="2">
+      <extent>
+        <charseq START="469" END="470">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E28" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="113" END="145">美国大型跨国集团必纯士公司占有六成股份的厦门福兰普利
+超市有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-56" ARGNUM="1">
+      <extent>
+        <charseq START="113" END="145">美国大型跨国集团必纯士公司占有六成股份的厦门福兰普利
+超市有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-50" ARGNUM="2">
+      <extent>
+        <charseq START="133" END="134">厦门</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="154" END="165">厦门福兰普利超市有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-57" ARGNUM="1">
+      <extent>
+        <charseq START="154" END="165">厦门福兰普利超市有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-58" ARGNUM="2">
+      <extent>
+        <charseq START="154" END="155">厦门</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E4" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-6" ARGNUM="1">
+      <extent>
+        <charseq START="167" END="177">美国必纯士国际实业集团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-40" ARGNUM="2">
+      <extent>
+        <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E4" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="179" END="190">中国厦门对
+外供应总公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-40" ARGNUM="2">
+      <extent>
+        <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E4" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="202">菲律宾菲力环球国际公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-40" ARGNUM="2">
+      <extent>
+        <charseq START="167" END="204">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E2" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="179" END="190">中国厦门对
+外供应总公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="179" END="190">中国厦门对
+外供应总公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-9" ARGNUM="2">
+      <extent>
+        <charseq START="179" END="180">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E8" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="192" END="202">菲律宾菲力环球国际公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="202">菲律宾菲力环球国际公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="192" END="194">菲律宾</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_124.man-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E37" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="300" END="305">福建省九地市</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-16" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="305">福建省九地市</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-17" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="302">福建省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R13" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-28" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="439">北京</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R14" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-29" ARGNUM="1">
+      <extent>
+        <charseq START="441" END="442">青岛</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R15" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-30" ARGNUM="1">
+      <extent>
+        <charseq START="444" END="446">大
+连</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R16" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-31" ARGNUM="1">
+      <extent>
+        <charseq START="448" END="449">广州</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R17" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-32" ARGNUM="1">
+      <extent>
+        <charseq START="451" END="452">深圳</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R18" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-33" ARGNUM="1">
+      <extent>
+        <charseq START="454" END="455">武汉</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R19" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_124.man-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E17" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-34" ARGNUM="1">
+      <extent>
+        <charseq START="457" END="458">上海</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="460">北京、青岛、大
+连、广州、深圳、武汉、上海等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R21" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E37" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="222">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方合作的福建省首家零售
+业中外合资企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-59" ARGNUM="1">
+      <extent>
+        <charseq START="167" END="222">美国必纯士国际实业集团和中国厦门对
+外供应总公司、菲律宾菲力环球国际公司三方合作的福建省首家零售
+业中外合资企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-60" ARGNUM="2">
+      <extent>
+        <charseq START="208" END="210">福建省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R22" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_124.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E2" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="415" END="419">中国零售业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-51" ARGNUM="1">
+      <extent>
+        <charseq START="415" END="419">中国零售业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-25" ARGNUM="2">
+      <extent>
+        <charseq START="415" END="416">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="22-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="498" END="502">中国零售业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-41" ARGNUM="1">
+      <extent>
+        <charseq START="498" END="502">中国零售业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-39" ARGNUM="2">
+      <extent>
+        <charseq START="498" END="499">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_124.man-R23" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_124.man-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_124.man-E35" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="469" END="488">美国必纯士国际
+实业有限公司的在华连锁店</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-35" ARGNUM="1">
+      <extent>
+        <charseq START="469" END="488">美国必纯士国际
+实业有限公司的在华连锁店</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-37" ARGNUM="2">
+      <extent>
+        <charseq START="469" END="470">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

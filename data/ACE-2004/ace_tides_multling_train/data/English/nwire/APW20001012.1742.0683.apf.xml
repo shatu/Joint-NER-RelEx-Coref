@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="APW20001012.1742.0683.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="APW20001012.1742.0683">
+<entity ID="APW20001012.1742.0683-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="120">WASHINGTON</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="120">WASHINGTON</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="111" END="120">WASHINGTON</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001012.1742.0683-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="123" END="124">AP</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="124">AP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="123" END="124">AP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001012.1742.0683-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="129" END="145">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="145">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="129" END="137">President</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="137">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="441">the president</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="441">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="139" END="145">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001012.1742.0683-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM" ROLE="PER">
+    <extent>
+      <charseq START="153" END="160">Israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="160">Israelis</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="153" END="160">Israelis</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001012.1742.0683-E6" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="PER">
+    <extent>
+      <charseq START="166" END="177">Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="177">Palestinians</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="166" END="177">Palestinians</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001012.1742.0683-E7" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="264" END="273">both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="273">sides</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001012.1742.0683-E8" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="470" END="496">the White House Rose Garden</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="496">Garden</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="APW20001012.1742.0683-E9" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="474" END="484">White House</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="484">White House</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="APW20001012.1742.0683-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="APW20001012.1742.0683-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001012.1742.0683-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="429" END="496">the president
+said Thursday afternoon in the White House Rose Garden</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-8" ARGNUM="1">
+      <extent>
+        <charseq START="429" END="441">the president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="470" END="496">the White House Rose Garden</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="APW20001012.1742.0683-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="APW20001012.1742.0683-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="APW20001012.1742.0683-E9" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="470" END="496">the White House Rose Garden</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="470" END="496">the White House Rose Garden</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-10" ARGNUM="2">
+      <extent>
+        <charseq START="474" END="484">White House</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

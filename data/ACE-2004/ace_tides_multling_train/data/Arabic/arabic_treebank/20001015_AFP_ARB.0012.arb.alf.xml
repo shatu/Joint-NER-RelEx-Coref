@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0012.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0012.arb">
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE1">
+  <entity ID="20001015_AFP_ARB.0012.arb-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-3" TYPE="NOM">
+      <extent>
+        <charseq START="380" END="395">الرئيس الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="385">الرئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE2">
+  <entity ID="20001015_AFP_ARB.0012.arb-E2" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+    <entity_mention ID="2-23" TYPE="PTV">
+      <extent>
+        <charseq START="717" END="739">قطاعات في الضفة الغربية</charseq>
+      </extent>
+      <head>
+        <charseq START="717" END="722">قطاعات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE3">
+  <entity ID="20001015_AFP_ARB.0012.arb-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="3-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="727" END="739">الضفة الغربية</charseq>
+      </extent>
+      <head>
+        <charseq START="727" END="739">الضفة الغربية</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="727" END="739">الضفة الغربية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE4">
+  <entity ID="20001015_AFP_ARB.0012.arb-E4" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+    <entity_mention ID="4-25" TYPE="PTV">
+      <extent>
+        <charseq START="745" END="771">معظم المستوطنات الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="745" END="748">معظم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE5">
+  <entity ID="20001015_AFP_ARB.0012.arb-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="5-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="102" END="106">القدس</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="106">القدس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="102" END="106">القدس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE6">
+  <entity ID="20001015_AFP_ARB.0012.arb-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-32" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="118">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="118">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="115" END="118">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE7">
+  <entity ID="20001015_AFP_ARB.0012.arb-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-7" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="450" END="450">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="450" END="450">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="455" END="461">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="461">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-9" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="466" END="467">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="467">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-12" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="602" END="602">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="602" END="602">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="608" END="614">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="608" END="614">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-14" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="627" END="628">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="628">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-15" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="639" END="640">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="640">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-16" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="658" END="659">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="658" END="659">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="702" END="708">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="708">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-22" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="713" END="713">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="713">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-33" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="126" END="126">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="126">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="128" END="134">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="134">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-37" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="188" END="188">ة</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="188">ة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-38" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="211" END="211">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="211">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="608" END="614">اسرائيل</charseq>
+      </name>
+      <name>
+        <charseq START="702" END="708">اسرائيل</charseq>
+      </name>
+      <name>
+        <charseq START="128" END="134">اسرائيل</charseq>
+      </name>
+      <name>
+        <charseq START="455" END="461">اسرائيل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.arb-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="14-26" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="761" END="771">الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="771">الاسرائيلية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-45" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="315" END="324">الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="324">الاسرائيلي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE8">
+  <entity ID="20001015_AFP_ARB.0012.arb-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-5" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="398" END="414">الدولة
+الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="403">الدولة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="591" END="599">جانب واحد</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="594">جانب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-18" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="174" END="182">جانب واحد</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="177">جانب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="419" END="427">جانب واحد</charseq>
+      </extent>
+      <head>
+        <charseq START="419" END="422">جانب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-28" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="804" END="812">جانب
+واحد</charseq>
+      </extent>
+      <head>
+        <charseq START="804" END="807">جانب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-30" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="837" END="853">الدولة الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="842">الدولة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-35" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="157" END="169">دولة فلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="160">دولة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE9">
+  <entity ID="20001015_AFP_ARB.0012.arb-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="9-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="387" END="395">الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="395">الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-6" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="405" END="414">الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="414">الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-31" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="844" END="853">الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="844" END="853">الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="162" END="169">فلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="169">فلسطينية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE10">
+  <entity ID="20001015_AFP_ARB.0012.arb-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="10-10" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="546" END="554">شرم الشيخ</charseq>
+      </extent>
+      <head>
+        <charseq START="546" END="554">شرم الشيخ</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-39" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="255" END="263">شرم
+الشيخ</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="263">شرم
+الشيخ</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE11">
+  <entity ID="20001015_AFP_ARB.0012.arb-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-11" TYPE="NAM" ROLE="PER">
+      <extent>
+        <charseq START="565" END="569">ياتوم</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="569">ياتوم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-40" TYPE="APP">
+      <extent>
+        <charseq START="273" END="336">داني ياتوم المستشار الرئيسي لرئيس الوزراء الاسرائيلي ايهود باراك</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-41" TYPE="NAM">
+      <extent>
+        <charseq START="273" END="282">داني ياتوم</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="282">داني ياتوم</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="565" END="569">ياتوم</charseq>
+      </name>
+      <name>
+        <charseq START="273" END="282">داني ياتوم</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.arb-E12" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="12-42" TYPE="NOM">
+      <extent>
+        <charseq START="284" END="336">المستشار الرئيسي لرئيس الوزراء الاسرائيلي ايهود باراك</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="291">المستشار</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE12">
+  <entity ID="20001015_AFP_ARB.0012.arb-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-20" TYPE="NAM">
+      <extent>
+        <charseq START="689" END="693">باراك</charseq>
+      </extent>
+      <head>
+        <charseq START="689" END="693">باراك</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-43" TYPE="APP">
+      <extent>
+        <charseq START="301" END="336">لرئيس الوزراء الاسرائيلي ايهود باراك</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="13-44" TYPE="NOM">
+      <extent>
+        <charseq START="301" END="324">لرئيس الوزراء الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="305">لرئيس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="689" END="693">باراك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.arb-E15" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="15-46" TYPE="NAM">
+      <extent>
+        <charseq START="326" END="336">ايهود باراك</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="336">ايهود باراك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="326" END="336">ايهود باراك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE13">
+  <entity ID="20001015_AFP_ARB.0012.arb-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="16-47" TYPE="NOM">
+      <extent>
+        <charseq START="338" END="353">للاذاعة العسكرية</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="344">للاذاعة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.arb-CE14">
+  <entity ID="20001015_AFP_ARB.0012.arb-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-2" TYPE="NAM">
+      <extent>
+        <charseq START="368" END="377">ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="368" END="377">ياسر عرفات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-27" TYPE="NAM">
+      <extent>
+        <charseq START="785" END="789">عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="785" END="789">عرفات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-29" TYPE="NAM">
+      <extent>
+        <charseq START="825" END="829">عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="829">عرفات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-48" TYPE="APP">
+      <extent>
+        <charseq START="368" END="396">ياسر عرفات (الرئيس الفلسطيني)</charseq>
+      </extent>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="785" END="789">عرفات</charseq>
+      </name>
+      <name>
+        <charseq START="825" END="829">عرفات</charseq>
+      </name>
+      <name>
+        <charseq START="368" END="377">ياسر عرفات</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0012.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="273" END="336">داني ياتوم المستشار الرئيسي لرئيس الوزراء الاسرائيلي ايهود باراك</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E12" ENTITYMENTIONID="12-42" ARGNUM="1">
+      <extent>
+        <charseq START="284" END="336">المستشار الرئيسي لرئيس الوزراء الاسرائيلي ايهود باراك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E13" ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="301" END="324">لرئيس الوزراء الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="301" END="324">لرئيس الوزراء الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E13" ENTITYMENTIONID="13-44" ARGNUM="1">
+      <extent>
+        <charseq START="301" END="324">لرئيس الوزراء الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E14" ENTITYMENTIONID="14-45" ARGNUM="2">
+      <extent>
+        <charseq START="315" END="324">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="380" END="395">الرئيس الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E1" ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="380" END="395">الرئيس الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E9" ENTITYMENTIONID="9-4" ARGNUM="2">
+      <extent>
+        <charseq START="387" END="395">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.arb-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="717" END="739">قطاعات في الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E2" ENTITYMENTIONID="2-23" ARGNUM="1">
+      <extent>
+        <charseq START="717" END="739">قطاعات في الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E3" ENTITYMENTIONID="3-24" ARGNUM="2">
+      <extent>
+        <charseq START="727" END="739">الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.arb-R5" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="745" END="771">معظم المستوطنات الاسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E14" ENTITYMENTIONID="14-26" ARGNUM="1">
+      <extent>
+        <charseq START="761" END="771">الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.arb-E4" ENTITYMENTIONID="4-25" ARGNUM="2">
+      <extent>
+        <charseq START="745" END="771">معظم المستوطنات الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

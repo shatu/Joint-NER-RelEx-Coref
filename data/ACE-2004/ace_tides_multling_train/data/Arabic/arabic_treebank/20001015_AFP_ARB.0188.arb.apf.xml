@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0188.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0188.arb">
+<entity ID="20001015_AFP_ARB.0188.arb-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="86" END="94">شرم الشيخ</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="94">شرم الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="194" END="202">شرم الشيخ</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="202">شرم الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="194" END="202">شرم الشيخ</charseq>
+    </name>
+    <name>
+      <charseq START="86" END="94">شرم الشيخ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="97" END="99">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="99">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="97" END="99">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="109" END="112">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="112">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="109" END="112">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="121" END="157">ممثل الاتحاد الاوروبي للشؤون السياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="124">ممثل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="159" END="171">خافيير سولانا</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="171">خافيير سولانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="286" END="327">سولانا الذي تلقى دعوة من الرئيس حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="291">سولانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-11" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="293" END="296">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="296">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="405" END="410">سولانا</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="410">سولانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="159" END="171">خافيير سولانا</charseq>
+    </name>
+    <name>
+      <charseq START="286" END="291">سولانا</charseq>
+    </name>
+    <name>
+      <charseq START="405" END="410">سولانا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="126" END="141">الاتحاد الاوروبي</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="141">الاتحاد الاوروبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-14" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="380" END="395">الاتحاد الاوروبي</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="395">الاتحاد الاوروبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-18" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="458" END="464">للاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="464">للاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="126" END="141">الاتحاد الاوروبي</charseq>
+    </name>
+    <name>
+      <charseq START="380" END="395">الاتحاد الاوروبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="265" END="276">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="276">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="357" END="368">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="368">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="265" END="276">الشرق الاوسط</charseq>
+    </name>
+    <name>
+      <charseq START="357" END="368">الشرق الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="311" END="327">الرئيس حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="327">حسني مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="318" END="327">حسني مبارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="415" END="419">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="419">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="415" END="419">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0188.arb-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="449" END="456">الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="456">الفرنسية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001015_AFP_ARB.0188.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0188.arb-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0188.arb-E6" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="121" END="157">ممثل الاتحاد الاوروبي للشؤون السياسية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="121" END="157">ممثل الاتحاد الاوروبي للشؤون السياسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="126" END="141">الاتحاد الاوروبي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

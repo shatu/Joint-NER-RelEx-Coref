@@ -1,0 +1,955 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ABC20001031.1830.0941.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ABC20001031.1830.0941">
+<entity ID="ABC20001031.1830.0941-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2668" END="2676">st. louis</charseq>
+    </extent>
+    <head>
+      <charseq START="2668" END="2676">st. louis</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2668" END="2676">st. louis</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="701" END="746">a small robotics company in a st. louis suburb</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="724">company</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-7" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="729" END="746">a st. louis suburb</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="746">suburb</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="731" END="739">st. louis</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="739">st. louis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="749" END="759">the blumers</charseq>
+    </extent>
+    <head>
+      <charseq START="753" END="759">blumers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="825" END="828">them</charseq>
+    </extent>
+    <head>
+      <charseq START="825" END="828">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="859" END="863">their</charseq>
+    </extent>
+    <head>
+      <charseq START="859" END="863">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="924" END="927">they</charseq>
+    </extent>
+    <head>
+      <charseq START="924" END="927">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="753" END="759">blumers</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="762" END="767">father</charseq>
+    </extent>
+    <head>
+      <charseq START="762" END="767">father</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="773" END="775">son</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="775">son</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="942" END="942">i</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="942">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="966" END="966">i</charseq>
+    </extent>
+    <head>
+      <charseq START="966" END="966">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="977" END="977">i</charseq>
+    </extent>
+    <head>
+      <charseq START="977" END="977">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1019" END="1020">me</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1020">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1027" END="1027">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1027">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1079" END="1080">my</charseq>
+    </extent>
+    <head>
+      <charseq START="1079" END="1080">my</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1058" END="1069">anybody else</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1064">anybody</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1145" END="1147">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1145" END="1147">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1208" END="1213">voters</charseq>
+    </extent>
+    <head>
+      <charseq START="1208" END="1213">voters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1291" END="1294">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1291" END="1294">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1364" END="1383">some
+missouri voters</charseq>
+    </extent>
+    <head>
+      <charseq START="1378" END="1383">voters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1432" END="1435">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1432" END="1435">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1441" END="1444">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1444">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="14-28" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1369" END="1376">missouri</charseq>
+    </extent>
+    <head>
+      <charseq START="1369" END="1376">missouri</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1472" END="1481">mike dubis</charseq>
+    </extent>
+    <head>
+      <charseq START="1472" END="1481">mike dubis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-32" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1490" END="1495">father</charseq>
+    </extent>
+    <head>
+      <charseq START="1490" END="1495">father</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1565" END="1566">me</charseq>
+    </extent>
+    <head>
+      <charseq START="1565" END="1566">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1608" END="1608">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1608" END="1608">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1472" END="1481">mike dubis</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2120" END="2123">this</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2123">this</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2098" END="2111">actor ed asner</charseq>
+    </extent>
+    <head>
+      <charseq START="2104" END="2111">ed asner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-54" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2098" END="2102">actor</charseq>
+    </extent>
+    <head>
+      <charseq START="2098" END="2102">actor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2128" END="2135">ed asner</charseq>
+    </extent>
+    <head>
+      <charseq START="2128" END="2135">ed asner</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2104" END="2111">ed asner</charseq>
+    </name>
+    <name>
+      <charseq START="2128" END="2135">ed asner</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="18-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1531" END="1539">uncle sam</charseq>
+    </extent>
+    <head>
+      <charseq START="1531" END="1539">uncle sam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-36" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1549" END="1551">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1549" END="1551">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1531" END="1539">uncle sam</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1667" END="1667">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1667" END="1667">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1704" END="1704">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1704" END="1704">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1718" END="1719">my</charseq>
+    </extent>
+    <head>
+      <charseq START="1718" END="1719">my</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E20" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="20-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1737" END="1748">a union hall</charseq>
+    </extent>
+    <head>
+      <charseq START="1745" END="1748">hall</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="21-41" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1739" END="1743">union</charseq>
+    </extent>
+    <head>
+      <charseq START="1739" END="1743">union</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-1" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="174" END="185">presidential</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="185">presidential</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-42" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1751" END="1758">retirees</charseq>
+    </extent>
+    <head>
+      <charseq START="1751" END="1758">retirees</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1793" END="1797">their</charseq>
+    </extent>
+    <head>
+      <charseq START="1793" END="1797">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1827" END="1827">i</charseq>
+    </extent>
+    <head>
+      <charseq START="1827" END="1827">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1871" END="1872">my</charseq>
+    </extent>
+    <head>
+      <charseq START="1871" END="1872">my</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E25" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="25-47" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1942" END="1984">independents like hank and loretta goehring</charseq>
+    </extent>
+    <head>
+      <charseq START="1942" END="1953">independents</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2070" END="2073">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2070" END="2073">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2158" END="2159">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2158" END="2159">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1960" END="1963">hank</charseq>
+    </extent>
+    <head>
+      <charseq START="1960" END="1963">hank</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1960" END="1963">hank</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1969" END="1984">loretta goehring</charseq>
+    </extent>
+    <head>
+      <charseq START="1969" END="1984">loretta goehring</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1969" END="1984">loretta goehring</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2585" END="2587">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2585" END="2587">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-51" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2019" END="2022">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="2019" END="2022">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-60" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="305">george w. bush</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="305">george w. bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="346" END="347">he</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="347">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-73" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="797" END="807">george bush</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="807">george bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1320" END="1330">george bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1320" END="1330">george bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1771" END="1774">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1774">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-78" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2532" END="2535">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="2532" END="2535">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="292" END="305">george w. bush</charseq>
+    </name>
+    <name>
+      <charseq START="797" END="807">george bush</charseq>
+    </name>
+    <name>
+      <charseq START="1320" END="1330">george bush</charseq>
+    </name>
+    <name>
+      <charseq START="1771" END="1774">bush</charseq>
+    </name>
+    <name>
+      <charseq START="2532" END="2535">bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E32" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="32-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2144" END="2144">i</charseq>
+    </extent>
+    <head>
+      <charseq START="2144" END="2144">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2205" END="2221">neither candidate</charseq>
+    </extent>
+    <head>
+      <charseq START="2213" END="2221">candidate</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="197" END="204">everyone</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="204">everyone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E36" TYPE="PER" CLASS="USP">
+  <entity_mention ID="36-62" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="370" END="376">workers</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="376">workers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="403" END="407">their</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="407">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="451" END="460">themselves</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="460">themselves</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E37" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="37-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="463" END="469">al gore</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="469">al gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="518" END="519">he</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="519">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="510" END="511">he</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="511">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1223" END="1229">al gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1229">al gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1929" END="1932">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1929" END="1932">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="463" END="469">al gore</charseq>
+    </name>
+    <name>
+      <charseq START="1223" END="1229">al gore</charseq>
+    </name>
+    <name>
+      <charseq START="1929" END="1932">gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="38-68" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="564" END="571">national</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="571">national</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001031.1830.0941-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="39-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2658" END="2665">abc news</charseq>
+    </extent>
+    <head>
+      <charseq START="2658" END="2665">abc news</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="618" END="619">ax</charseq>
+    </extent>
+    <head>
+      <charseq START="618" END="619">ax</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2658" END="2665">abc news</charseq>
+    </name>
+    <name>
+      <charseq START="618" END="619">ax</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E40" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="40-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2645" END="2655">john martin</charseq>
+    </extent>
+    <head>
+      <charseq START="2645" END="2655">john martin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-70" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="618" END="633">ax's john martin</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="633">john martin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2645" END="2655">john martin</charseq>
+    </name>
+    <name>
+      <charseq START="623" END="633">john martin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001031.1830.0941-E41" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="41-71" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="660" END="693">the
+battleground state of missouri</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="681">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="686" END="693">missouri</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="693">missouri</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="686" END="693">missouri</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ABC20001031.1830.0941-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E39" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="618" END="633">ax's john martin</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-70" ARGNUM="1">
+      <extent>
+        <charseq START="618" END="633">ax's john martin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-69" ARGNUM="2">
+      <extent>
+        <charseq START="618" END="619">ax</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2645" END="2665">john martin, abc news</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-3" ARGNUM="1">
+      <extent>
+        <charseq START="2645" END="2655">john martin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-4" ARGNUM="2">
+      <extent>
+        <charseq START="2658" END="2665">abc news</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="701" END="746">a small robotics company in a st. louis suburb</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="701" END="746">a small robotics company in a st. louis suburb</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="729" END="746">a st. louis suburb</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R3" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E4" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="729" END="746">a st. louis suburb</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-7" ARGNUM="1">
+      <extent>
+        <charseq START="729" END="746">a st. louis suburb</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-8" ARGNUM="2">
+      <extent>
+        <charseq START="731" END="739">st. louis</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R4" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E7" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="762" END="775">father and son</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="1">
+      <extent>
+        <charseq START="762" END="767">father</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="773" END="775">son</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E14" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1364" END="1383">some
+missouri voters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-27" ARGNUM="1">
+      <extent>
+        <charseq START="1364" END="1383">some
+missouri voters</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-28" ARGNUM="2">
+      <extent>
+        <charseq START="1369" END="1376">missouri</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R6" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E20" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1737" END="1748">a union hall</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-41" ARGNUM="1">
+      <extent>
+        <charseq START="1739" END="1743">union</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-40" ARGNUM="2">
+      <extent>
+        <charseq START="1737" END="1748">a union hall</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E25" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1942" END="1984">independents like hank and loretta goehring</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-49" ARGNUM="1">
+      <extent>
+        <charseq START="1960" END="1963">hank</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-47" ARGNUM="2">
+      <extent>
+        <charseq START="1942" END="1984">independents like hank and loretta goehring</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R8" TYPE="DISC">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E25" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1942" END="1984">independents like hank and loretta goehring</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-50" ARGNUM="1">
+      <extent>
+        <charseq START="1969" END="1984">loretta goehring</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-47" ARGNUM="2">
+      <extent>
+        <charseq START="1942" END="1984">independents like hank and loretta goehring</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001031.1830.0941-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001031.1830.0941-E1" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2645" END="2676">john martin, abc news, st. louis</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-3" ARGNUM="1">
+      <extent>
+        <charseq START="2645" END="2655">john martin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-5" ARGNUM="2">
+      <extent>
+        <charseq START="2668" END="2676">st. louis</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

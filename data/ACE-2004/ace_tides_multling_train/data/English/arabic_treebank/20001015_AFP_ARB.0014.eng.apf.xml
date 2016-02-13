@@ -1,0 +1,709 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0014.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0014.eng">
+<entity ID="20001015_AFP_ARB.0014.eng-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="598" END="623">this movement's armed wing</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="623">wing</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="807" END="824">Islamic Resistance</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="824">Islamic Resistance</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="578" END="595">Islamic
+Resistance</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="595">Islamic
+Resistance</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="807" END="824">Islamic Resistance</charseq>
+    </name>
+    <name>
+      <charseq START="578" END="595">Islamic
+Resistance</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-7" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="749" END="752">Arab</charseq>
+    </extent>
+    <head>
+      <charseq START="749" END="752">Arab</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="768" END="773">Beirut</charseq>
+    </extent>
+    <head>
+      <charseq START="768" END="773">Beirut</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="768" END="773">Beirut</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1070" END="1110">pro-Hizbollah al-Manar television network</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1110">network</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-15" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1084" END="1091">al-Manar</charseq>
+    </extent>
+    <head>
+      <charseq START="1084" END="1091">al-Manar</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="598" END="610">this movement</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="610">movement</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="955" END="956">we</charseq>
+    </extent>
+    <head>
+      <charseq START="955" END="956">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1074" END="1082">Hizbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="1074" END="1082">Hizbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1154" END="1177">the fundamentalist party</charseq>
+    </extent>
+    <head>
+      <charseq START="1173" END="1177">party</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1273" END="1281">Hizbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="1273" END="1281">Hizbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="257" END="265">Hizbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="265">Hizbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="518" END="526">Hizbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="526">Hizbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1273" END="1281">Hizbollah</charseq>
+    </name>
+    <name>
+      <charseq START="257" END="265">Hizbollah</charseq>
+    </name>
+    <name>
+      <charseq START="518" END="526">Hizbollah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1292" END="1398">three Israeli soldiers, two of them with the rank
+of sergeant and the third with the rank of staff sergeant</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1313">soldiers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1323" END="1326">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1323" END="1326">them</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-23" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1316" END="1352">two of them with the rank
+of sergeant</charseq>
+    </extent>
+    <head>
+      <charseq START="1316" END="1318">two</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-25" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1358" END="1366">the third</charseq>
+    </extent>
+    <head>
+      <charseq START="1362" END="1366">third</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="354" END="360">colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="360">colonel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-27" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="689" END="695">colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="695">colonel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="890" END="896">colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="896">colonel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-29" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1261" END="1267">colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="1261" END="1267">colonel</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E11" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="11-30" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1345" END="1352">sergeant</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1352">sergeant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E12" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+  <entity_mention ID="12-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1027" END="1031">where</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1031">where</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-31" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1385" END="1398">staff sergeant</charseq>
+    </extent>
+    <head>
+      <charseq START="1391" END="1398">sergeant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="118" END="126">Jerusalem</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="126">Jerusalem</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="118" END="126">Jerusalem</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="135" END="137">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="137">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="174" END="193">Agence France Presse</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="193">Agence France Presse</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="135" END="137">AFP</charseq>
+    </name>
+    <name>
+      <charseq START="174" END="193">Agence France Presse</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="143" END="167">An Israeli army spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="167">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="395">The spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="395">spokesman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-35" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="146" END="157">Israeli army</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="157">army</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="215" END="222">the army</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="222">army</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="404" END="405">We</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="405">We</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="18-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="656" END="662">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="662">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="857" END="863">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="857" END="863">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-19" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1228" END="1234">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1234">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-22" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1298" END="1304">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1298" END="1304">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-36" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="146" END="152">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="152">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-44" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="321" END="327">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="327">Israeli</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="700" END="708">Nasrallah</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="708">Nasrallah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="988" END="996">Nasrallah</charseq>
+    </extent>
+    <head>
+      <charseq START="988" END="996">Nasrallah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-41" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="257" END="285">Hizbollah's
+secretary-general</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="285">secretary-general</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="288" END="310">Sheikh Hassen Nasrallah</charseq>
+    </extent>
+    <head>
+      <charseq START="288" END="310">Sheikh Hassen Nasrallah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="518" END="546">Hizbollah's secretary-general</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="546">secretary-general</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="988" END="996">Nasrallah</charseq>
+    </name>
+    <name>
+      <charseq START="288" END="310">Sheikh Hassen Nasrallah</charseq>
+    </name>
+    <name>
+      <charseq START="700" END="708">Nasrallah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0014.eng-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="653" END="695">an
+Israeli officer with the rank of colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="670">officer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="854" END="896">an Israeli officer with the rank of colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="871">officer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1225" END="1267">an Israeli officer with the rank of
+colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="1236" END="1242">officer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="318" END="360">an Israeli officer
+with the rank of colonel</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="335">officer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001015_AFP_ARB.0014.eng-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E18" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="146" END="157">Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-35" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="157">Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-36" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="152">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E17" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="143" END="167">An Israeli army spokesman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-33" ARGNUM="1">
+      <extent>
+        <charseq START="143" END="167">An Israeli army spokesman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-35" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="157">Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E6" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="257" END="285">Hizbollah's
+secretary-general</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-41" ARGNUM="1">
+      <extent>
+        <charseq START="257" END="285">Hizbollah's
+secretary-general</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-39" ARGNUM="2">
+      <extent>
+        <charseq START="257" END="265">Hizbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="518" END="546">Hizbollah's secretary-general</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-47" ARGNUM="1">
+      <extent>
+        <charseq START="518" END="546">Hizbollah's secretary-general</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-48" ARGNUM="2">
+      <extent>
+        <charseq START="518" END="526">Hizbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E18" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="318" END="360">an Israeli officer
+with the rank of colonel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-43" ARGNUM="1">
+      <extent>
+        <charseq START="318" END="360">an Israeli officer
+with the rank of colonel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-44" ARGNUM="2">
+      <extent>
+        <charseq START="321" END="327">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="653" END="695">an
+Israeli officer with the rank of colonel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-4" ARGNUM="1">
+      <extent>
+        <charseq START="653" END="695">an
+Israeli officer with the rank of colonel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-5" ARGNUM="2">
+      <extent>
+        <charseq START="656" END="662">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="854" END="896">an Israeli officer with the rank of colonel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-10" ARGNUM="1">
+      <extent>
+        <charseq START="854" END="896">an Israeli officer with the rank of colonel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-11" ARGNUM="2">
+      <extent>
+        <charseq START="857" END="863">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1225" END="1267">an Israeli officer with the rank of
+colonel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-18" ARGNUM="1">
+      <extent>
+        <charseq START="1225" END="1267">an Israeli officer with the rank of
+colonel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-19" ARGNUM="2">
+      <extent>
+        <charseq START="1228" END="1234">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E6" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="598" END="623">this movement's armed wing</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="598" END="623">this movement's armed wing</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-3" ARGNUM="2">
+      <extent>
+        <charseq START="598" END="610">this movement</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R10" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E6" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1070" END="1110">pro-Hizbollah al-Manar television network</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-14" ARGNUM="1">
+      <extent>
+        <charseq START="1070" END="1110">pro-Hizbollah al-Manar television network</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-16" ARGNUM="2">
+      <extent>
+        <charseq START="1074" END="1082">Hizbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E18" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1292" END="1398">three Israeli soldiers, two of them with the rank
+of sergeant and the third with the rank of staff sergeant</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-21" ARGNUM="1">
+      <extent>
+        <charseq START="1292" END="1398">three Israeli soldiers, two of them with the rank
+of sergeant and the third with the rank of staff sergeant</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-22" ARGNUM="2">
+      <extent>
+        <charseq START="1298" END="1304">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0014.eng-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0014.eng-E7" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1316" END="1352">two of them with the rank
+of sergeant</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-23" ARGNUM="1">
+      <extent>
+        <charseq START="1316" END="1352">two of them with the rank
+of sergeant</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-24" ARGNUM="2">
+      <extent>
+        <charseq START="1323" END="1326">them</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

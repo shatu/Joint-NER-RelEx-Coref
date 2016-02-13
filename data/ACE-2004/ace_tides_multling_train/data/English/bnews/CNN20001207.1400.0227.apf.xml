@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001207.1400.0227.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001207.1400.0227">
+<entity ID="CNN20001207.1400.0227-E1" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="66">it</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="66">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="79" END="131">the most-watched vehicle since the o.j. simpson chase</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="102">vehicle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="142" END="143">it</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="143">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="177" END="255">the ryder rental truck
+which carried palm beach county's ballots to tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="198">truck</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="200" END="204">which</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="204">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="381" END="389">the truck</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="389">truck</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001207.1400.0227-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="114" END="125">o.j. simpson</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="125">o.j. simpson</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001207.1400.0227-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="181" END="185">ryder</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="185">ryder</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="317" END="321">ryder</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="321">ryder</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="317" END="321">ryder</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001207.1400.0227-E4" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="214" END="230">palm beach county</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="230">palm beach county</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="214" END="230">palm beach county</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001207.1400.0227-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="245" END="255">tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="255">tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="245" END="255">tallahassee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001207.1400.0227-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="292" END="321">budget group, which owns ryder</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="303">budget group</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-11" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="306" END="310">which</charseq>
+    </extent>
+    <head>
+      <charseq START="306" END="310">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="329" END="330">it</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="330">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="292" END="303">budget group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001207.1400.0227-E8" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="430" END="451">the american red cross</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="451">american red cross</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="434" END="451">american red cross</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001207.1400.0227-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E1" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="177" END="255">the ryder rental truck
+which carried palm beach county's ballots to tallahassee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="181" END="185">ryder</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-5" ARGNUM="2">
+      <extent>
+        <charseq START="177" END="255">the ryder rental truck
+which carried palm beach county's ballots to tallahassee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001207.1400.0227-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E5" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="200" END="255">which carried palm beach county's ballots to tallahassee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="1">
+      <extent>
+        <charseq START="200" END="204">which</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="245" END="255">tallahassee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001207.1400.0227-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001207.1400.0227-E6" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="306" END="321">which owns ryder</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-12" ARGNUM="1">
+      <extent>
+        <charseq START="317" END="321">ryder</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="2">
+      <extent>
+        <charseq START="306" END="310">which</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

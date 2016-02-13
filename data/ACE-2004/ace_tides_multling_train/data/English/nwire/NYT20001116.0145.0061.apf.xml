@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001116.0145.0061.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001116.0145.0061">
+<entity ID="NYT20001116.0145.0061-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-22" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="685" END="701">the two countries</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="701">countries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-24" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1042" END="1065">Americans lost in action</charseq>
+    </extent>
+    <head>
+      <charseq START="1042" END="1050">Americans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E3" TYPE="WEA" SUBTYPE="Exploding" CLASS="USP">
+  <entity_mention ID="3-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1086" END="1127">land mines still buried in Vietnamese soil</charseq>
+    </extent>
+    <head>
+      <charseq START="1091" END="1095">mines</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E4" TYPE="LOC" SUBTYPE="Region-National" CLASS="USP">
+  <entity_mention ID="4-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1113" END="1127">Vietnamese soil</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1127">soil</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-27" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1283" END="1311">Most of its
+79 million people</charseq>
+    </extent>
+    <head>
+      <charseq START="1283" END="1286">Most</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-29" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1353" END="1370">younger
+Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="1361" END="1370">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1458" END="1476">the Communist Party</charseq>
+    </extent>
+    <head>
+      <charseq START="1462" END="1476">Communist Party</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-55" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2960" END="2974">Communist Party</charseq>
+    </extent>
+    <head>
+      <charseq START="2960" END="2974">Communist Party</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1462" END="1476">Communist Party</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="800" END="804">Hanoi</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="804">Hanoi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-10" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="930" END="932">its</charseq>
+    </extent>
+    <head>
+      <charseq START="930" END="932">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1113" END="1122">Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1122">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1246" END="1252">Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="1246" END="1252">Vietnam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-13" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1291" END="1293">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1291" END="1293">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1729" END="1733">Hanoi</charseq>
+    </extent>
+    <head>
+      <charseq START="1729" END="1733">Hanoi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-15" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1871" END="1872">It</charseq>
+    </extent>
+    <head>
+      <charseq START="1871" END="1872">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-16" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1974" END="1975">it</charseq>
+    </extent>
+    <head>
+      <charseq START="1974" END="1975">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-17" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2230" END="2240">the
+country</charseq>
+    </extent>
+    <head>
+      <charseq START="2234" END="2240">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2372" END="2378">Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="2372" END="2378">Vietnam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2430" END="2440">the
+country</charseq>
+    </extent>
+    <head>
+      <charseq START="2434" END="2440">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2570" END="2576">Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="2570" END="2576">Vietnam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-23" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="930" END="939">its people</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="939">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-28" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1291" END="1311">its
+79 million people</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1311">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-32" TYPE="PRE" LDCTYPE="PRE" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1506" END="1515">government</charseq>
+    </extent>
+    <head>
+      <charseq START="1506" END="1515">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-54" TYPE="PRE" LDCTYPE="PRE" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2945" END="2954">government</charseq>
+    </extent>
+    <head>
+      <charseq START="2945" END="2954">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-59" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3033" END="3042">Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="3033" END="3042">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-60" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="3073" END="3076">home</charseq>
+    </extent>
+    <head>
+      <charseq START="3073" END="3076">home</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-67" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="351" END="357">Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="357">Vietnam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-74" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="516" END="525">Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="525">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="351" END="357">Vietnam</charseq>
+    </name>
+    <name>
+      <charseq START="1246" END="1252">Vietnam</charseq>
+    </name>
+    <name>
+      <charseq START="2372" END="2378">Vietnam</charseq>
+    </name>
+    <name>
+      <charseq START="2570" END="2576">Vietnam</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E9" TYPE="PER" CLASS="USP">
+  <entity_mention ID="9-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1552" END="1570">ordinary
+Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="1561" END="1570">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1634" END="1703">anyone who speaks out for more accountable government or wider
+freedom</charseq>
+    </extent>
+    <head>
+      <charseq START="1634" END="1639">anyone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-35" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1641" END="1643">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1641" END="1643">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E11" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="11-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1660" END="1686">more accountable government</charseq>
+    </extent>
+    <head>
+      <charseq START="1677" END="1686">government</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-37" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1753" END="1764">open
+critics</charseq>
+    </extent>
+    <head>
+      <charseq START="1758" END="1764">critics</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1777" END="1795">religious believers</charseq>
+    </extent>
+    <head>
+      <charseq START="1787" END="1795">believers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="14-39" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1805" END="1814">newspapers</charseq>
+    </extent>
+    <head>
+      <charseq START="1805" END="1814">newspapers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E15" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-40" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2149" END="2161">North Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="2149" END="2161">North Vietnam</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2149" END="2161">North Vietnam</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E16" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="16-41" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2201" END="2227">the more freewheeling South</charseq>
+    </extent>
+    <head>
+      <charseq START="2223" END="2227">South</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-43" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2308" END="2315">Southern</charseq>
+    </extent>
+    <head>
+      <charseq START="2308" END="2315">Southern</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-72" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="398" END="413">South Vietnamese</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="413">Vietnamese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2230" END="2250">the
+country's leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="2244" END="2250">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="255" END="272">The New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="272">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="259" END="272">New York Times</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E20" TYPE="PER" CLASS="USP">
+  <entity_mention ID="20-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2430" END="2460">the
+country's political leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="2454" END="2460">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-45" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2520" END="2536">Foreign investors</charseq>
+    </extent>
+    <head>
+      <charseq START="2528" END="2536">investors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2616" END="2620">their</charseq>
+    </extent>
+    <head>
+      <charseq START="2616" END="2620">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2637" END="2641">China</charseq>
+    </extent>
+    <head>
+      <charseq START="2637" END="2641">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2878" END="2882">China</charseq>
+    </extent>
+    <head>
+      <charseq START="2878" END="2882">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2637" END="2641">China</charseq>
+    </name>
+    <name>
+      <charseq START="2878" END="2882">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="23-48" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2647" END="2675">other Southeast Asian nations</charseq>
+    </extent>
+    <head>
+      <charseq START="2669" END="2675">nations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E24" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="24-49" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2653" END="2667">Southeast Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="2653" END="2667">Southeast Asian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E25" TYPE="PER" CLASS="USP">
+  <entity_mention ID="25-50" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2702" END="2729">university students in Hanoi</charseq>
+    </extent>
+    <head>
+      <charseq START="2713" END="2720">students</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E26" TYPE="PER" CLASS="USP">
+  <entity_mention ID="26-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2945" END="2982">government and Communist Party leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="2976" END="2982">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-57" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3033" END="3091">Vietnamese-Americans who want to return home
+to do business</charseq>
+    </extent>
+    <head>
+      <charseq START="3044" END="3052">Americans</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-58" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="3054" END="3056">who</charseq>
+    </extent>
+    <head>
+      <charseq START="3054" END="3056">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3182" END="3197">Sen. John McCain</charseq>
+    </extent>
+    <head>
+      <charseq START="3187" END="3197">John McCain</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-62" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3182" END="3184">Sen</charseq>
+    </extent>
+    <head>
+      <charseq START="3182" END="3184">Sen</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3187" END="3197">John McCain</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E32" TYPE="PER" CLASS="USP">
+  <entity_mention ID="32-63" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3203" END="3208">others</charseq>
+    </extent>
+    <head>
+      <charseq START="3203" END="3208">others</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E33" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="33-56" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2785" END="2789">human</charseq>
+    </extent>
+    <head>
+      <charseq START="2785" END="2789">human</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-64" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3272" END="3276">human</charseq>
+    </extent>
+    <head>
+      <charseq START="3272" END="3276">human</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-65" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="318" END="357">The
+last U.S. president to visit Vietnam</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="340">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="363" END="531">Richard Nixon, who traveled
+to the South Vietnamese capital of Saigon in 1969, at the height of
+a war that eventually took 58,000 American and 3 million Vietnamese
+lives</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="375">Richard Nixon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-69" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="378" END="380">who</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="380">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="363" END="375">Richard Nixon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="37-70" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="394" END="431">the South Vietnamese capital of Saigon</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="421">capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-71" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="426" END="431">Saigon</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="431">Saigon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-77" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="594" END="634">Ho Chi Minh City, as Saigon is now called</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="609">Ho Chi Minh City</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-78" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="615" END="620">Saigon</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="620">Saigon</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="426" END="431">Saigon</charseq>
+    </name>
+    <name>
+      <charseq START="594" END="609">Ho Chi Minh City</charseq>
+    </name>
+    <name>
+      <charseq START="615" END="620">Saigon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="39-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1409" END="1416">American</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1416">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-66" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="327" END="329">U.S</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="329">U.S</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-73" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="493" END="500">American</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="500">American</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001116.0145.0061-E41" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="41-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2685" END="2691">Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="2685" END="2691">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2741" END="2742">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2741" END="2742">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2847" END="2848">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2847" END="2848">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2885" END="2886">He</charseq>
+    </extent>
+    <head>
+      <charseq START="2885" END="2886">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2924" END="2926">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2924" END="2926">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3124" END="3126">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3124" END="3126">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3136" END="3137">He</charseq>
+    </extent>
+    <head>
+      <charseq START="3136" END="3137">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2861" END="2863">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2861" END="2863">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-75" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="544" END="555">Bill Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="544" END="555">Bill Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-79" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="637" END="643">Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="643">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-80" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="944" END="950">Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="944" END="950">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1134" END="1135">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1135">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1153" END="1155">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1153" END="1155">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="544" END="555">Bill Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="637" END="643">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="944" END="950">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="2685" END="2691">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001116.0145.0061-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="42-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2725" END="2729">Hanoi</charseq>
+    </extent>
+    <head>
+      <charseq START="2725" END="2729">Hanoi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-76" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="584" END="588">Hanoi</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="588">Hanoi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2725" END="2729">Hanoi</charseq>
+    </name>
+    <name>
+      <charseq START="584" END="588">Hanoi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001116.0145.0061-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E39" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="318" END="357">The
+last U.S. president to visit Vietnam</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-65" ARGNUM="1">
+      <extent>
+        <charseq START="318" END="357">The
+last U.S. president to visit Vietnam</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-66" ARGNUM="2">
+      <extent>
+        <charseq START="327" END="329">U.S</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E16" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="394" END="431">the South Vietnamese capital of Saigon</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-70" ARGNUM="1">
+      <extent>
+        <charseq START="394" END="431">the South Vietnamese capital of Saigon</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-72" ARGNUM="2">
+      <extent>
+        <charseq START="398" END="413">South Vietnamese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="930" END="939">its people</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-23" ARGNUM="1">
+      <extent>
+        <charseq START="930" END="939">its people</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-10" ARGNUM="2">
+      <extent>
+        <charseq START="930" END="932">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1086" END="1127">land mines still buried in Vietnamese soil</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-25" ARGNUM="1">
+      <extent>
+        <charseq START="1086" END="1127">land mines still buried in Vietnamese soil</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-26" ARGNUM="2">
+      <extent>
+        <charseq START="1113" END="1127">Vietnamese soil</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1283" END="1311">Most of its
+79 million people</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-27" ARGNUM="1">
+      <extent>
+        <charseq START="1283" END="1311">Most of its
+79 million people</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-28" ARGNUM="2">
+      <extent>
+        <charseq START="1291" END="1311">its
+79 million people</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2230" END="2250">the
+country's leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-42" ARGNUM="1">
+      <extent>
+        <charseq START="2230" END="2250">the
+country's leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="2">
+      <extent>
+        <charseq START="2230" END="2240">the
+country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2430" END="2460">the
+country's political leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-44" ARGNUM="1">
+      <extent>
+        <charseq START="2430" END="2460">the
+country's political leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="2430" END="2440">the
+country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E42" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2702" END="2729">university students in Hanoi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-50" ARGNUM="1">
+      <extent>
+        <charseq START="2702" END="2729">university students in Hanoi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-21" ARGNUM="2">
+      <extent>
+        <charseq START="2725" END="2729">Hanoi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E8" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2945" END="2982">government and Communist Party leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="1">
+      <extent>
+        <charseq START="2945" END="2982">government and Communist Party leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-54" ARGNUM="2">
+      <extent>
+        <charseq START="2945" END="2954">government</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001116.0145.0061-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001116.0145.0061-E7" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2945" END="2982">government and Communist Party leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="1">
+      <extent>
+        <charseq START="2945" END="2982">government and Communist Party leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-55" ARGNUM="2">
+      <extent>
+        <charseq START="2960" END="2974">Communist Party</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

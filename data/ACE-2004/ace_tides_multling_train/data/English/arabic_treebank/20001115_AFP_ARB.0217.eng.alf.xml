@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0217.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0217.eng">
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0217.eng-E19" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="19-40" TYPE="PRE">
+      <extent>
+        <charseq START="610" END="642">Asia-Pacific Economic Cooperation</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="642">Asia-Pacific Economic Cooperation</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0217.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="653" END="658">Brunei</charseq>
+      </extent>
+      <head>
+        <charseq START="653" END="658">Brunei</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="653" END="658">Brunei</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0217.eng-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="736" END="757">Irkotsik (east Russia)</charseq>
+      </extent>
+      <head>
+        <charseq START="736" END="743">Irkotsik</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="736" END="743">Irkotsik</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0217.eng-E3" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="NOM">
+      <extent>
+        <charseq START="746" END="756">east Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="751" END="756">Russia</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0217.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-7" TYPE="NAM">
+      <extent>
+        <charseq START="798" END="828">Russian President Boris Yeltsin</charseq>
+      </extent>
+      <head>
+        <charseq START="816" END="828">Boris Yeltsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-23" TYPE="NAM">
+      <extent>
+        <charseq START="1235" END="1239">Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="1235" END="1239">Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-34" TYPE="NAM">
+      <extent>
+        <charseq START="512" END="543">Russian President Vladimir Putin</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="543">Vladimir Putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="530" END="543">Vladimir Putin</charseq>
+      </name>
+      <name>
+        <charseq START="816" END="828">Boris Yeltsin</charseq>
+      </name>
+      <name>
+        <charseq START="1235" END="1239">Putin</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.eng-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-8" TYPE="PRE">
+      <extent>
+        <charseq START="798" END="814">Russian President</charseq>
+      </extent>
+      <head>
+        <charseq START="806" END="814">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-35" TYPE="PRE">
+      <extent>
+        <charseq START="512" END="528">Russian President</charseq>
+      </extent>
+      <head>
+        <charseq START="520" END="528">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0217.eng-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-11" TYPE="PRE">
+      <extent>
+        <charseq START="834" END="856">Japanese Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="849" END="856">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-38" TYPE="PRE">
+      <extent>
+        <charseq START="549" END="571">Japanese Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="571">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-10" TYPE="NAM">
+      <extent>
+        <charseq START="834" END="874">Japanese Prime Minister
+Riotaro Hashimoto</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="874">Riotaro Hashimoto</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-37" TYPE="NAM">
+      <extent>
+        <charseq START="549" END="584">Japanese Prime Minister Yoshiro
+Mori</charseq>
+      </extent>
+      <head>
+        <charseq START="573" END="584">Yoshiro
+Mori</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="573" END="584">Yoshiro
+Mori</charseq>
+      </name>
+      <name>
+        <charseq START="858" END="874">Riotaro Hashimoto</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0217.eng-E7" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="7-16" TYPE="PTV">
+      <extent>
+        <charseq START="1095" END="1230">four of the Coral islands
+located between Russia and Japan and which were invaded by Russian
+forces in the last few days of World War II</charseq>
+      </extent>
+      <head>
+        <charseq START="1095" END="1098">four</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-20" TYPE="WHQ">
+      <extent>
+        <charseq START="1158" END="1162">which</charseq>
+      </extent>
+      <head>
+        <charseq START="1158" END="1162">which</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-25" TYPE="NOM">
+      <extent>
+        <charseq START="1327" END="1337">the islands</charseq>
+      </extent>
+      <head>
+        <charseq START="1331" END="1337">islands</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0217.eng-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-21" TYPE="BAR">
+      <extent>
+        <charseq START="1180" END="1193">Russian
+forces</charseq>
+      </extent>
+      <head>
+        <charseq START="1188" END="1193">forces</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0217.eng-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="102" END="120">Bandar Seri Begawan</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="120">Bandar Seri Begawan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="102" END="120">Bandar Seri Begawan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0217.eng-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-27" TYPE="NAM">
+      <extent>
+        <charseq START="129" END="131">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="131">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="129" END="131">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0217.eng-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-3" TYPE="NOM">
+      <extent>
+        <charseq START="663" END="683">The Japanese official</charseq>
+      </extent>
+      <head>
+        <charseq START="676" END="683">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-28" TYPE="NOM">
+      <extent>
+        <charseq START="137" END="155">A Japanese official</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="155">official</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0217.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="12-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="667" END="674">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="674">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-12" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="834" END="841">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="841">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-29" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="139" END="146">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="146">Japanese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-39" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="549" END="556">Japanese</charseq>
+      </extent>
+      <head>
+        <charseq START="549" END="556">Japanese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="13-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="999" END="1003">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="999" END="1003">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-19" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1148" END="1152">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1148" END="1152">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1249" END="1253">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="1249" END="1253">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-30" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="188" END="192">Japan</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="192">Japan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1249" END="1253">Japan</charseq>
+      </name>
+      <name>
+        <charseq START="188" END="192">Japan</charseq>
+      </name>
+      <name>
+        <charseq START="999" END="1003">Japan</charseq>
+      </name>
+      <name>
+        <charseq START="1148" END="1152">Japan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0217.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="988" END="993">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="993">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1137" END="1142">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="1137" END="1142">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-31" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="198" END="203">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="203">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="198" END="203">Russia</charseq>
+      </name>
+      <name>
+        <charseq START="988" END="993">Russia</charseq>
+      </name>
+      <name>
+        <charseq START="1137" END="1142">Russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0217.eng-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="17-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="798" END="804">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="804">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-22" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1180" END="1186">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="1180" END="1186">Russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="518">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="518">Russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0217.eng-E15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="15-17" TYPE="NAM">
+      <extent>
+        <charseq START="1103" END="1119">the Coral islands</charseq>
+      </extent>
+      <head>
+        <charseq START="1107" END="1119">Coral islands</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-32" TYPE="NAM">
+      <extent>
+        <charseq START="317" END="333">the Coral Islands</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="333">Coral Islands</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="321" END="333">Coral Islands</charseq>
+      </name>
+      <name>
+        <charseq START="1107" END="1119">Coral islands</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0217.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0217.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-15" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="1070" END="1074">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1070" END="1074">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-26" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="297" END="301">their</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="301">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-33" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="393" END="409">the two countries</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="409">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0217.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="137" END="155">A Japanese official</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E11" ENTITYMENTIONID="11-28" ARGNUM="1">
+      <extent>
+        <charseq START="137" END="155">A Japanese official</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E12" ENTITYMENTIONID="12-29" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="146">Japanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="663" END="683">The Japanese official</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E11" ENTITYMENTIONID="11-3" ARGNUM="1">
+      <extent>
+        <charseq START="663" END="683">The Japanese official</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E12" ENTITYMENTIONID="12-4" ARGNUM="2">
+      <extent>
+        <charseq START="667" END="674">Japanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="512" END="528">Russian President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E5" ENTITYMENTIONID="5-35" ARGNUM="1">
+      <extent>
+        <charseq START="512" END="528">Russian President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E17" ENTITYMENTIONID="17-36" ARGNUM="2">
+      <extent>
+        <charseq START="512" END="518">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="798" END="814">Russian President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E5" ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="798" END="814">Russian President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E17" ENTITYMENTIONID="17-9" ARGNUM="2">
+      <extent>
+        <charseq START="798" END="804">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="549" END="571">Japanese Prime Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E6" ENTITYMENTIONID="6-38" ARGNUM="1">
+      <extent>
+        <charseq START="549" END="571">Japanese Prime Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E12" ENTITYMENTIONID="12-39" ARGNUM="2">
+      <extent>
+        <charseq START="549" END="556">Japanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="834" END="856">Japanese Prime Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E6" ENTITYMENTIONID="6-11" ARGNUM="1">
+      <extent>
+        <charseq START="834" END="856">Japanese Prime Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E12" ENTITYMENTIONID="12-12" ARGNUM="2">
+      <extent>
+        <charseq START="834" END="841">Japanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="736" END="757">Irkotsik (east Russia)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E2" ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="736" END="757">Irkotsik (east Russia)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E3" ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="746" END="756">east Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1095" END="1230">four of the Coral islands
+located between Russia and Japan and which were invaded by Russian
+forces in the last few days of World War II</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E7" ENTITYMENTIONID="7-16" ARGNUM="1">
+      <extent>
+        <charseq START="1095" END="1230">four of the Coral islands
+located between Russia and Japan and which were invaded by Russian
+forces in the last few days of World War II</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E15" ENTITYMENTIONID="15-17" ARGNUM="2">
+      <extent>
+        <charseq START="1103" END="1119">the Coral islands</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1180" END="1193">Russian
+forces</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E8" ENTITYMENTIONID="8-21" ARGNUM="1">
+      <extent>
+        <charseq START="1180" END="1193">Russian
+forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E17" ENTITYMENTIONID="17-22" ARGNUM="2">
+      <extent>
+        <charseq START="1180" END="1186">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1235" END="1253">Putin visited Japan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E4" ENTITYMENTIONID="4-23" ARGNUM="1">
+      <extent>
+        <charseq START="1235" END="1239">Putin</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E13" ENTITYMENTIONID="13-24" ARGNUM="2">
+      <extent>
+        <charseq START="1249" END="1253">Japan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="512" END="658">Russian President Vladimir Putin and Japanese Prime Minister Yoshiro
+Mori on the periphery of the Asia-Pacific Economic Cooperation forum
+in Brunei</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E4" ENTITYMENTIONID="4-34" ARGNUM="1">
+      <extent>
+        <charseq START="512" END="543">Russian President Vladimir Putin</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="653" END="658">Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="512" END="658">Russian President Vladimir Putin and Japanese Prime Minister Yoshiro
+Mori on the periphery of the Asia-Pacific Economic Cooperation forum
+in Brunei</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E18" ENTITYMENTIONID="18-37" ARGNUM="1">
+      <extent>
+        <charseq START="549" END="584">Japanese Prime Minister Yoshiro
+Mori</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="653" END="658">Brunei</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0217.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="13-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1158" END="1230">which were invaded by Russian
+forces in the last few days of World War II</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E8" ENTITYMENTIONID="8-21" ARGNUM="1">
+      <extent>
+        <charseq START="1180" END="1193">Russian
+forces</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0217.eng-E7" ENTITYMENTIONID="7-20" ARGNUM="2">
+      <extent>
+        <charseq START="1158" END="1162">which</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

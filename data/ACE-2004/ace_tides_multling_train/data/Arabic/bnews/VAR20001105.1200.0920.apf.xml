@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VAR20001105.1200.0920.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001105.1200.0920">
+<entity ID="VAR20001105.1200.0920-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="651" END="658">التنزاني</charseq>
+    </extent>
+    <head>
+      <charseq START="651" END="658">التنزاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-12" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="511" END="511">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="511">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="98" END="104">تنزانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="104">تنزانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="513" END="519">تنزانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="519">تنزانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-26" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="527" END="527">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="527">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-27" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="537" END="538">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="538">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="98" END="104">تنزانيا</charseq>
+    </name>
+    <name>
+      <charseq START="513" END="519">تنزانيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001105.1200.0920-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="673" END="684">الحزب الحاكم</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="677">الحزب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="671" END="671">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="671">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E3" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="3-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="348" END="355">المعارضة</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="355">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="393" END="400">المعارضة</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="400">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="407" END="407">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="407">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="348" END="355">المعارضة</charseq>
+    </name>
+    <name>
+      <charseq START="393" END="400">المعارضة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001105.1200.0920-E4" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="465" END="505">ستة عشر دائرة انتخابية من
+الدوائر الخمسين</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="477">دائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E5" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="491" END="505">الدوائر الخمسين</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="497">الدوائر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="808" END="821">مسئولين محللين</charseq>
+    </extent>
+    <head>
+      <charseq START="808" END="814">مسئولين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="816" END="821">محللين</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="821">محللين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="7-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="82" END="104">إقليم زنجبار في
+تنزانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="88" END="93">زنجبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="88" END="93">زنجبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001105.1200.0920-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="70" END="77">الناخبون</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="77">الناخبون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="68" END="68">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="68">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="112" END="113">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="113">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="279" END="286">الناخبين</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="286">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="9-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="720" END="750">زنجبار التي تتمتع
+بحكم شبه ذاتي</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="725">زنجبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-29" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="727" END="730">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="730">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-30" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="732" END="732">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="732">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="720" END="725">زنجبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001105.1200.0920-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="206" END="214">شهود عيان</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="209">شهود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E12" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="12-20" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="219" END="237">معظم مراكز الاقتراع</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="222">معظم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="242" END="242">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="242">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="261" END="262">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="262">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E13" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="224" END="237">مراكز الاقتراع</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="228">مراكز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E14" TYPE="ORG" SUBTYPE="Other" CLASS="GEN">
+  <entity_mention ID="14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="557" END="563">الأحزاب</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="563">الأحزاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="757" END="765">المراقبين</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="765">المراقبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001105.1200.0920-E17" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="17-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="646" END="658">البر التنزاني</charseq>
+    </extent>
+    <head>
+      <charseq START="646" END="649">البر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VAR20001105.1200.0920-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E1" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="104">الناخبون في إقليم زنجبار في
+تنزانيا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-17" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="104">تنزانيا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-15" ARGNUM="1">
+      <extent>
+        <charseq START="82" END="104">إقليم زنجبار في
+تنزانيا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001105.1200.0920-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="104">الناخبون في إقليم زنجبار في
+تنزانيا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="77">الناخبون</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-17" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="104">تنزانيا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001105.1200.0920-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E13" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="219" END="237">معظم مراكز الاقتراع</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-20" ARGNUM="1">
+      <extent>
+        <charseq START="219" END="237">معظم مراكز الاقتراع</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-21" ARGNUM="2">
+      <extent>
+        <charseq START="224" END="237">مراكز الاقتراع</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001105.1200.0920-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E5" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="465" END="505">ستة عشر دائرة انتخابية من
+الدوائر الخمسين</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-10" ARGNUM="1">
+      <extent>
+        <charseq START="465" END="505">ستة عشر دائرة انتخابية من
+الدوائر الخمسين</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="2">
+      <extent>
+        <charseq START="491" END="505">الدوائر الخمسين</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001105.1200.0920-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001105.1200.0920-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="646" END="658">البر التنزاني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-19" ARGNUM="1">
+      <extent>
+        <charseq START="646" END="658">البر التنزاني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="651" END="658">التنزاني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

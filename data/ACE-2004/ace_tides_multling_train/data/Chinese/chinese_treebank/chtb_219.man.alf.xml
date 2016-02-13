@@ -1,0 +1,816 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_219.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_219.man">
+<composite_entity ID="chtb_219.man-CE1">
+  <entity ID="chtb_219.man-E1" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="1-12" TYPE="NOM">
+      <extent>
+        <charseq START="354" END="366">十个农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="366">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-30" TYPE="NOM">
+      <extent>
+        <charseq START="560" END="572">十个农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="572">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-59" TYPE="NOM">
+      <extent>
+        <charseq START="209" END="229">十个象莱芜市这样的农业高新技术开发
+示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="229">示范区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE2">
+  <entity ID="chtb_219.man-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NOM">
+      <extent>
+        <charseq START="234" END="242">山东省一位政府官员</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="242">官员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE3">
+  <entity ID="chtb_219.man-E3" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="ATR">
+    <entity_mention ID="3-13" TYPE="NOM">
+      <extent>
+        <charseq START="380" END="385">中
+心示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="385">示范区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE4">
+  <entity ID="chtb_219.man-E4" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="NOM">
+      <extent>
+        <charseq START="392" END="394">示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="392" END="394">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-16" TYPE="NOM">
+      <extent>
+        <charseq START="431" END="433">示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="433">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-34" TYPE="NOM">
+      <extent>
+        <charseq START="689" END="699">农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="699">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-39" TYPE="PRO">
+      <extent>
+        <charseq START="722" END="723">这里</charseq>
+      </extent>
+      <head>
+        <charseq START="722" END="723">这里</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-40" TYPE="NOM">
+      <extent>
+        <charseq START="735" END="737">示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="735" END="737">示范区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_219.man-E18" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="ATR">
+    <entity_mention ID="18-35" TYPE="NOM">
+      <extent>
+        <charseq START="702" END="710">山东农业的“样板园</charseq>
+      </extent>
+      <head>
+        <charseq START="708" END="710">样板园</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE5">
+  <entity ID="chtb_219.man-E5" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="5-17" TYPE="NOM">
+      <extent>
+        <charseq START="454" END="471">淄博市张店区的农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="469" END="471">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-20" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="473" END="474">区内</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="474">区内</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-27" TYPE="PRO" ROLE="LOC">
+      <extent>
+        <charseq START="521" END="522">这里</charseq>
+      </extent>
+      <head>
+        <charseq START="521" END="522">这里</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE6">
+  <entity ID="chtb_219.man-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="454" END="459">淄博市张店区</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="459">张店区</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="457" END="459">张店区</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE7">
+  <entity ID="chtb_219.man-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="454" END="456">淄博市</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="456">淄博市</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="454" END="456">淄博市</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE8">
+  <entity ID="chtb_219.man-E8" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="8-21" TYPE="PMM">
+      <extent>
+        <charseq START="480" END="515">农业科
+研培训园、农业良种繁育区、无公害蔬菜区、优质林果区、畜牧良种
+场</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="515">农业科
+研培训园、农业良种繁育区、无公害蔬菜区、优质林果区、畜牧良种
+场</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE9">
+  <entity ID="chtb_219.man-E9" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="9-22" TYPE="NOM">
+      <extent>
+        <charseq START="480" END="487">农业科
+研培训园</charseq>
+      </extent>
+      <head>
+        <charseq START="485" END="487">培训园</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE10">
+  <entity ID="chtb_219.man-E10" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="10-23" TYPE="NOM">
+      <extent>
+        <charseq START="489" END="495">农业良种繁育区</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="495">繁育区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE11">
+  <entity ID="chtb_219.man-E11" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="11-24" TYPE="NOM">
+      <extent>
+        <charseq START="497" END="502">无公害蔬菜区</charseq>
+      </extent>
+      <head>
+        <charseq START="500" END="502">蔬菜区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE12">
+  <entity ID="chtb_219.man-E12" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="12-25" TYPE="NOM">
+      <extent>
+        <charseq START="504" END="508">优质林果区</charseq>
+      </extent>
+      <head>
+        <charseq START="507" END="508">果区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE13">
+  <entity ID="chtb_219.man-E13" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="13-26" TYPE="NOM">
+      <extent>
+        <charseq START="510" END="515">畜牧良种
+场</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="515">良种
+场</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE14">
+  <entity ID="chtb_219.man-E14" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="14-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="124" END="124">内</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="124">内</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-28" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="526" END="527">国内</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="527">国内</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-38" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="283" END="283">内</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="283">内</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE15">
+  <entity ID="chtb_219.man-E15" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="15-9" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="125" END="125">外</charseq>
+      </extent>
+      <head>
+        <charseq START="125" END="125">外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-29" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="542" END="543">国外</charseq>
+      </extent>
+      <head>
+        <charseq START="542" END="543">国外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-43" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="284" END="284">外</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="284">外</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE16">
+  <entity ID="chtb_219.man-E16" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="16-31" TYPE="NOM">
+      <extent>
+        <charseq START="620" END="633">威海市农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="633">示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-33" TYPE="PRO">
+      <extent>
+        <charseq START="670" END="671">他们</charseq>
+      </extent>
+      <head>
+        <charseq START="670" END="671">他们</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE17">
+  <entity ID="chtb_219.man-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-32" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="620" END="622">威海市</charseq>
+      </extent>
+      <head>
+        <charseq START="620" END="622">威海市</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="620" END="622">威海市</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE18">
+  <entity ID="chtb_219.man-E19" TYPE="PER" CLASS="USP">
+    <entity_mention ID="19-37" TYPE="NOM">
+      <extent>
+        <charseq START="713" END="716">许多农民</charseq>
+      </extent>
+      <head>
+        <charseq START="715" END="716">农民</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE19">
+  <entity ID="chtb_219.man-E21" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="21-42" TYPE="NOM">
+      <extent>
+        <charseq START="776" END="781">脱毒生产基地</charseq>
+      </extent>
+      <head>
+        <charseq START="780" END="781">基地</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE20">
+  <entity ID="chtb_219.man-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="20-1" TYPE="NAM">
+      <extent>
+        <charseq START="69" END="71">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="71">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="69" END="71">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE21">
+  <entity ID="chtb_219.man-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-44" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="72" END="73">济南</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="73">济南</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="72" END="73">济南</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE22">
+  <entity ID="chtb_219.man-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-45" TYPE="APP">
+      <extent>
+        <charseq START="80" END="84">记者张百新</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="23-46" TYPE="NAM">
+      <extent>
+        <charseq START="82" END="84">张百新</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="84">张百新</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="82" END="84">张百新</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_219.man-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-47" TYPE="NOM">
+      <extent>
+        <charseq START="80" END="81">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="81">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE23">
+  <entity ID="chtb_219.man-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="25-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="212" END="214">莱芜市</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="214">莱芜市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="753" END="755">莱芜市</charseq>
+      </extent>
+      <head>
+        <charseq START="753" END="755">莱芜市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-48" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="88" END="93">山东省莱芜市</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="93">莱芜市</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="212" END="214">莱芜市</charseq>
+      </name>
+      <name>
+        <charseq START="753" END="755">莱芜市</charseq>
+      </name>
+      <name>
+        <charseq START="91" END="93">莱芜市</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE24">
+  <entity ID="chtb_219.man-E26" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="26-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="234" END="236">山东省</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="236">山东省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-5" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="239" END="240">政府</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="240">政府</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-6" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="249" END="250">该省</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="250">该省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="399" END="401">山东省</charseq>
+      </extent>
+      <head>
+        <charseq START="399" END="401">山东省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="702" END="703">山东</charseq>
+      </extent>
+      <head>
+        <charseq START="702" END="703">山东</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-49" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="88" END="90">山东省</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="90">山东省</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-58" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="203" END="204">山东</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="204">山东</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="234" END="236">山东省</charseq>
+      </name>
+      <name>
+        <charseq START="399" END="401">山东省</charseq>
+      </name>
+      <name>
+        <charseq START="702" END="703">山东</charseq>
+      </name>
+      <name>
+        <charseq START="88" END="90">山东省</charseq>
+      </name>
+      <name>
+        <charseq START="203" END="204">山东</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE25">
+  <entity ID="chtb_219.man-E27" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="27-7" TYPE="NOM">
+      <extent>
+        <charseq START="253" END="263">农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="263">农业高新技术开发示范区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-50" TYPE="NOM">
+      <extent>
+        <charseq START="95" END="105">农业高新技术开发示范区</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="105">示范区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE26">
+  <entity ID="chtb_219.man-E28" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="28-51" TYPE="NOM">
+      <extent>
+        <charseq START="111" END="116">细胞组培中心</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="116">中心</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE27">
+  <entity ID="chtb_219.man-E29" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="29-10" TYPE="EPM" ROLE="LOC">
+      <extent>
+        <charseq START="282" END="284">国内外</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="284">国内外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-11" TYPE="PMM" ROLE="LOC">
+      <extent>
+        <charseq START="283" END="284">内外</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="284">内外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-52" TYPE="EPM" ROLE="GPE">
+      <extent>
+        <charseq START="123" END="125">国内外</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="125">国内外</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-53" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="124" END="125">内外</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="125">内外</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE28">
+  <entity ID="chtb_219.man-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="30-54" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="149" END="156">美国、日本等国家</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="156">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE29">
+  <entity ID="chtb_219.man-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="31-55" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="149" END="153">美国、日本</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="153">美国、日本</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE30">
+  <entity ID="chtb_219.man-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="32-56" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="149" END="150">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="150">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="149" END="150">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_219.man-CE31">
+  <entity ID="chtb_219.man-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="33-57" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="152" END="153">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="153">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="152" END="153">日本</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_219.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="69" END="73">新华社济南</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E20" ENTITYMENTIONID="20-1" ARGNUM="1">
+      <extent>
+        <charseq START="69" END="71">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E22" ENTITYMENTIONID="22-44" ARGNUM="2">
+      <extent>
+        <charseq START="72" END="73">济南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="88" END="93">山东省莱芜市</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E25" ENTITYMENTIONID="25-48" ARGNUM="1">
+      <extent>
+        <charseq START="88" END="93">山东省莱芜市</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E26" ENTITYMENTIONID="26-49" ARGNUM="2">
+      <extent>
+        <charseq START="88" END="90">山东省</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="234" END="242">山东省一位政府官员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E2" ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="234" END="242">山东省一位政府官员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E26" ENTITYMENTIONID="26-4" ARGNUM="2">
+      <extent>
+        <charseq START="234" END="236">山东省</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="454" END="459">淄博市张店区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E6" ENTITYMENTIONID="6-18" ARGNUM="1">
+      <extent>
+        <charseq START="454" END="459">淄博市张店区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E7" ENTITYMENTIONID="7-19" ARGNUM="2">
+      <extent>
+        <charseq START="454" END="456">淄博市</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="620" END="633">威海市农业高新技术开发示范区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E16" ENTITYMENTIONID="16-31" ARGNUM="1">
+      <extent>
+        <charseq START="620" END="633">威海市农业高新技术开发示范区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E17" ENTITYMENTIONID="17-32" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="622">威海市</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="149" END="156">美国、日本等国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E32" ENTITYMENTIONID="32-56" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="150">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E30" ENTITYMENTIONID="30-54" ARGNUM="2">
+      <extent>
+        <charseq START="149" END="156">美国、日本等国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R7" TYPE="DISC">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="149" END="156">美国、日本等国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E33" ENTITYMENTIONID="33-57" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="153">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E30" ENTITYMENTIONID="30-54" ARGNUM="2">
+      <extent>
+        <charseq START="149" END="156">美国、日本等国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_219.man-R8" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="454" END="471">淄博市张店区的农业高新技术开发示范区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_219.man-E5" ENTITYMENTIONID="5-17" ARGNUM="1">
+      <extent>
+        <charseq START="454" END="471">淄博市张店区的农业高新技术开发示范区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_219.man-E6" ENTITYMENTIONID="6-18" ARGNUM="2">
+      <extent>
+        <charseq START="454" END="459">淄博市张店区</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

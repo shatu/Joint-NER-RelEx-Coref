@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ABC20001208.1830.0165.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ABC20001208.1830.0165">
+<entity ID="ABC20001208.1830.0165-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="313" END="330">mr. bush's lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="330">lawyers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="313" END="320">mr. bush</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="320">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="313" END="314">mr</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="314">mr</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="195" END="198">bush</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="198">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-55" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="204" END="206">his</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="206">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="195" END="198">bush</charseq>
+    </name>
+    <name>
+      <charseq START="317" END="320">bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="347" END="384">the supreme court of the united states</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="363">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="351" END="363">supreme court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="498" END="506">americans</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="506">americans</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="536" END="540">their</charseq>
+    </extent>
+    <head>
+      <charseq START="536" END="540">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="614" END="620">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="620">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-23" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1118" END="1126">the state</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1126">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-58" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="245" END="251">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="251">florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="614" END="620">florida</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="641" END="651">64 counties</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="651">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E8" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="PRO" LDCTYPE="HLS" ROLE="LOC">
+    <extent>
+      <charseq START="702" END="706">three</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="706">three</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="726" END="741">abc's erin hayes</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="741">erin hayes</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="732" END="741">erin hayes</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="726" END="728">abc</charseq>
+    </extent>
+    <head>
+      <charseq START="726" END="728">abc</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="726" END="728">abc</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="746" END="750">peter</charseq>
+    </extent>
+    <head>
+      <charseq START="746" END="750">peter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="746" END="750">peter</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-15" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="761" END="771">the capital</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="771">capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="809" END="819">tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="819">tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-45" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="753" END="771">here in the capital</charseq>
+    </extent>
+    <head>
+      <charseq START="753" END="756">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="809" END="819">tallahassee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E13" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="824" END="835">a courthouse</charseq>
+    </extent>
+    <head>
+      <charseq START="826" END="835">courthouse</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E14" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="14-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="854" END="870">miami-dade county</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="870">miami-dade county</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-43" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="885" END="889">there</charseq>
+    </extent>
+    <head>
+      <charseq START="885" END="889">there</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="854" END="870">miami-dade county</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E15" TYPE="PER" CLASS="USP">
+  <entity_mention ID="15-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="939" END="946">25 teams</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="946">teams</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1011" END="1014">team</charseq>
+    </extent>
+    <head>
+      <charseq START="1011" END="1014">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1021" END="1022">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1022">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1031" END="1032">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1032">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="932" END="933">we</charseq>
+    </extent>
+    <head>
+      <charseq START="932" END="933">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E18" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="18-22" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="1106" END="1126">the rest of the state</charseq>
+    </extent>
+    <head>
+      <charseq START="1110" END="1113">rest</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E19" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="19-24" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1129" END="1141">some counties</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1141">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1396" END="1410">the legislature</charseq>
+    </extent>
+    <head>
+      <charseq START="1400" END="1410">legislature</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E21" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="21-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1488" END="1496">the voter</charseq>
+    </extent>
+    <head>
+      <charseq START="1492" END="1496">voter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1595" END="1596">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1595" END="1596">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1637" END="1638">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1637" END="1638">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1672" END="1673">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1672" END="1673">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-30" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1651" END="1653">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1651" END="1653">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E24" TYPE="PER" CLASS="USP">
+  <entity_mention ID="24-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1701" END="1703">she</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1703">she</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="25-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1750" END="1770">the electoral college</charseq>
+    </extent>
+    <head>
+      <charseq START="1754" END="1770">electoral college</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1754" END="1770">electoral college</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="26-1" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="95" END="105">the country</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="105">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="368" END="384">the united states</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="384">united states</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-7" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="485" END="495">the country</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="495">country</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="372" END="384">united states</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1805" END="1815">judge wells</charseq>
+    </extent>
+    <head>
+      <charseq START="1811" END="1815">wells</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-36" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1805" END="1809">judge</charseq>
+    </extent>
+    <head>
+      <charseq START="1805" END="1809">judge</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1811" END="1815">wells</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-37" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1843" END="1846">many</charseq>
+    </extent>
+    <head>
+      <charseq START="1843" END="1846">many</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="30-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="433" END="443">wall street</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="443">wall street</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="433" END="443">wall street</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E31" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="31-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="466" END="495">everywhere else in the country</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="475">everywhere</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E32" TYPE="PER" CLASS="USP">
+  <entity_mention ID="32-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="773" END="776">they</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="776">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="33-46" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="123" END="127">where</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="127">where</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="176">washington, where the
+gore campaign had steeled themselves to lose</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="120">washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="111" END="120">washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E34" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="34-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="129" END="145">the
+gore campaign</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="145">campaign</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="159" END="168">themselves</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="168">themselves</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-49" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="133" END="136">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="136">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-59" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="303" END="310">mr. gore</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="310">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-60" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="303" END="304">mr</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="304">mr</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="307" END="310">gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E36" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="36-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="182" END="310">texas, where bush
+and his team were convinced democrats on the florida supreme court
+were determined to win this one for mr. gore</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="186">texas</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-52" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="189" END="193">where</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="193">where</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="182" END="186">texas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001208.1830.0165-E37" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="37-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="204" END="211">his team</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="211">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-56" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="228" END="265">democrats on the florida supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="236">democrats</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001208.1830.0165-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="39-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1275" END="1283">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="1279" END="1283">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1775" END="1783">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="1779" END="1783">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="241" END="265">the florida supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="265">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="253" END="265">supreme court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ABC20001208.1830.0165-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E37" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E2" ARGNUM="1" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="204" END="211">his team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-54" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="211">his team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-55" ARGNUM="1">
+      <extent>
+        <charseq START="204" END="206">his</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="241" END="265">the florida supreme court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-57" ARGNUM="1">
+      <extent>
+        <charseq START="241" END="265">the florida supreme court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-58" ARGNUM="2">
+      <extent>
+        <charseq START="245" END="251">florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R3" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E2" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="313" END="330">mr. bush's lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="313" END="330">mr. bush's lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="313" END="320">mr. bush</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E26" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="347" END="384">the supreme court of the united states</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="347" END="384">the supreme court of the united states</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-6" ARGNUM="2">
+      <extent>
+        <charseq START="368" END="384">the united states</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E10" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="726" END="741">abc's erin hayes</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="726" END="741">abc's erin hayes</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-13" ARGNUM="2">
+      <extent>
+        <charseq START="726" END="728">abc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E6" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1106" END="1126">the rest of the state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-22" ARGNUM="1">
+      <extent>
+        <charseq START="1106" END="1126">the rest of the state</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-23" ARGNUM="2">
+      <extent>
+        <charseq START="1118" END="1126">the state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E36" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="189" END="310">where bush
+and his team were convinced democrats on the florida supreme court
+were determined to win this one for mr. gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-53" ARGNUM="1">
+      <extent>
+        <charseq START="195" END="198">bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-52" ARGNUM="2">
+      <extent>
+        <charseq START="189" END="193">where</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E36" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="189" END="310">where bush
+and his team were convinced democrats on the florida supreme court
+were determined to win this one for mr. gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-54" ARGNUM="1">
+      <extent>
+        <charseq START="204" END="211">his team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-52" ARGNUM="2">
+      <extent>
+        <charseq START="189" END="193">where</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R9" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E39" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="228" END="265">democrats on the florida supreme court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-56" ARGNUM="1">
+      <extent>
+        <charseq START="228" END="265">democrats on the florida supreme court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-57" ARGNUM="2">
+      <extent>
+        <charseq START="241" END="265">the florida supreme court</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E26" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="466" END="495">everywhere else in the country</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-39" ARGNUM="1">
+      <extent>
+        <charseq START="466" END="495">everywhere else in the country</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-7" ARGNUM="2">
+      <extent>
+        <charseq START="485" END="495">the country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E31" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="466" END="587">everywhere else in the country, americans were stopped momentarily
+in their tracks to think of the mess that may lie ahead</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="498" END="506">americans</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-39" ARGNUM="2">
+      <extent>
+        <charseq START="466" END="495">everywhere else in the country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E12" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="753" END="803">here in the capital they are just about ready to go</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-41" ARGNUM="1">
+      <extent>
+        <charseq START="773" END="776">they</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-45" ARGNUM="2">
+      <extent>
+        <charseq START="753" END="771">here in the capital</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001208.1830.0165-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E34" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="ABC20001208.1830.0165-E35" ARGNUM="1" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="129" END="145">the
+gore campaign</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-48" ARGNUM="2">
+      <extent>
+        <charseq START="129" END="145">the
+gore campaign</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-49" ARGNUM="1">
+      <extent>
+        <charseq START="133" END="136">gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

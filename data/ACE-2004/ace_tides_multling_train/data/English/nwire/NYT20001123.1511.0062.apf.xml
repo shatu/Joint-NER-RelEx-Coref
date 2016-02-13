@@ -1,0 +1,1213 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001123.1511.0062.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001123.1511.0062">
+<entity ID="NYT20001123.1511.0062-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-92" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1425" END="1477">shoppers at the New York supermarket chain Gristede's</charseq>
+    </extent>
+    <head>
+      <charseq START="1425" END="1432">shoppers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1441" END="1448">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1448">New York</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1437" END="1466">the New York supermarket chain</charseq>
+    </extent>
+    <head>
+      <charseq START="1462" END="1466">chain</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1468" END="1477">Gristede's</charseq>
+    </extent>
+    <head>
+      <charseq START="1468" END="1477">Gristede's</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1468" END="1477">Gristede's</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1551" END="1558">Scotties</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1558">Scotties</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1600" END="1607">Scotties</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1607">Scotties</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1600" END="1607">Scotties</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1654" END="1676">Ocean Spray Cranberries</charseq>
+    </extent>
+    <head>
+      <charseq START="1654" END="1676">Ocean Spray Cranberries</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1654" END="1676">Ocean Spray Cranberries</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1879" END="1899">Carnation Coffee-mate</charseq>
+    </extent>
+    <head>
+      <charseq START="1879" END="1899">Carnation Coffee-mate</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1948" END="1982">In Style Entertaining 2000
+magazine</charseq>
+    </extent>
+    <head>
+      <charseq START="1948" END="1982">In Style Entertaining 2000
+magazine</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1948" END="1982">In Style Entertaining 2000
+magazine</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2132" END="2149">an English teacher</charseq>
+    </extent>
+    <head>
+      <charseq START="2143" END="2149">teacher</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2178" END="2210">the Tropicana
+division of PepsiCo</charseq>
+    </extent>
+    <head>
+      <charseq START="2192" END="2199">division</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2244" END="2246">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2244" END="2246">its</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-13" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2182" END="2190">Tropicana</charseq>
+    </extent>
+    <head>
+      <charseq START="2182" END="2190">Tropicana</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2204" END="2210">PepsiCo</charseq>
+    </extent>
+    <head>
+      <charseq START="2204" END="2210">PepsiCo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2204" END="2210">PepsiCo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2346" END="2359">Jack Nicholson</charseq>
+    </extent>
+    <head>
+      <charseq START="2346" END="2359">Jack Nicholson</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2346" END="2359">Jack Nicholson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2362" END="2371">Helen Hunt</charseq>
+    </extent>
+    <head>
+      <charseq START="2362" END="2371">Helen Hunt</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2362" END="2371">Helen Hunt</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2374" END="2385">Greg Kinnear</charseq>
+    </extent>
+    <head>
+      <charseq START="2374" END="2385">Greg Kinnear</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2374" END="2385">Greg Kinnear</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2391" END="2405">James L. Brooks</charseq>
+    </extent>
+    <head>
+      <charseq START="2391" END="2405">James L. Brooks</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2391" END="2405">James L. Brooks</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2433" END="2448">Campbell Soup Co</charseq>
+    </extent>
+    <head>
+      <charseq START="2433" END="2448">Campbell Soup Co</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2455" END="2462">Campbell</charseq>
+    </extent>
+    <head>
+      <charseq START="2455" END="2462">Campbell</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2433" END="2448">Campbell Soup Co</charseq>
+    </name>
+    <name>
+      <charseq START="2455" END="2462">Campbell</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2561" END="2590">the Roundabout Theater Company</charseq>
+    </extent>
+    <head>
+      <charseq START="2565" END="2590">Roundabout Theater Company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2603" END="2605">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2603" END="2605">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2565" END="2590">Roundabout Theater Company</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E20" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="20-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2603" END="2634">its new
+facility in Times Square</charseq>
+    </extent>
+    <head>
+      <charseq START="2611" END="2618">facility</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2636" END="2664">the American Airlines Theater</charseq>
+    </extent>
+    <head>
+      <charseq START="2640" END="2664">American Airlines Theater</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2640" END="2664">American Airlines Theater</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E21" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="21-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2623" END="2634">Times Square</charseq>
+    </extent>
+    <head>
+      <charseq START="2623" END="2634">Times Square</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2623" END="2634">Times Square</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2672" END="2681">the
+ushers</charseq>
+    </extent>
+    <head>
+      <charseq START="2676" END="2681">ushers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2734" END="2764">the Reader's Digest Association</charseq>
+    </extent>
+    <head>
+      <charseq START="2738" END="2764">Reader's Digest Association</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2738" END="2764">Reader's Digest Association</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2867" END="2934">a man in a photograph featured in an ad for Reader's
+Digest magazine</charseq>
+    </extent>
+    <head>
+      <charseq START="2869" END="2871">man</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2911" END="2934">Reader's
+Digest magazine</charseq>
+    </extent>
+    <head>
+      <charseq START="2911" END="2934">Reader's
+Digest magazine</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2911" END="2934">Reader's
+Digest magazine</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E26" TYPE="PER" CLASS="USP">
+  <entity_mention ID="26-31" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3173" END="3181">consumers</charseq>
+    </extent>
+    <head>
+      <charseq START="3173" END="3181">consumers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="27-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3266" END="3290">two disparate advertisers</charseq>
+    </extent>
+    <head>
+      <charseq START="3280" END="3290">advertisers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E29" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="29-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="398" END="406">the media</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="406">media</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="30-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3294" END="3322">Empire Blue Cross Blue Shield</charseq>
+    </extent>
+    <head>
+      <charseq START="3294" END="3322">Empire Blue Cross Blue Shield</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3294" END="3322">Empire Blue Cross Blue Shield</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3328" END="3355">the MSN network of Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="3332" END="3342">MSN network</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3332" END="3342">MSN network</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3347" END="3355">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="3347" END="3355">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3347" END="3355">Microsoft</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="33-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3470" END="3493">two automotive marketers</charseq>
+    </extent>
+    <head>
+      <charseq START="3485" END="3493">marketers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="35-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3497" END="3506">Land Rover</charseq>
+    </extent>
+    <head>
+      <charseq START="3497" END="3506">Land Rover</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3497" END="3506">Land Rover</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="36-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3512" END="3516">Volvo</charseq>
+    </extent>
+    <head>
+      <charseq START="3512" END="3516">Volvo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3512" END="3516">Volvo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E37" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="37-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2313" END="2317">a bus</charseq>
+    </extent>
+    <head>
+      <charseq START="2315" END="2317">bus</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E38" TYPE="PER" CLASS="USP">
+  <entity_mention ID="38-75" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3577" END="3615">drivers rescuing animals on rainy roads</charseq>
+    </extent>
+    <head>
+      <charseq START="3577" END="3583">drivers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E39" TYPE="PER" CLASS="USP">
+  <entity_mention ID="39-44" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3626" END="3630">folks</charseq>
+    </extent>
+    <head>
+      <charseq START="3626" END="3630">folks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3784" END="3787">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3784" END="3787">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E40" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="40-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3669" END="3704">the radio and
+television personality</charseq>
+    </extent>
+    <head>
+      <charseq START="3694" END="3704">personality</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3706" END="3719">Arthur Godfrey</charseq>
+    </extent>
+    <head>
+      <charseq START="3706" END="3719">Arthur Godfrey</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3733" END="3735">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3733" END="3735">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3706" END="3719">Arthur Godfrey</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E42" TYPE="PER" CLASS="USP">
+  <entity_mention ID="42-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3766" END="3767">ya</charseq>
+    </extent>
+    <head>
+      <charseq START="3766" END="3767">ya</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="43-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3806" END="3848">the new
+Lucent Technologies spinoff company</charseq>
+    </extent>
+    <head>
+      <charseq START="3842" END="3848">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3851" END="3869">Avaya Communication</charseq>
+    </extent>
+    <head>
+      <charseq START="3851" END="3869">Avaya Communication</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3851" END="3869">Avaya Communication</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="45-54" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3814" END="3832">Lucent Technologies</charseq>
+    </extent>
+    <head>
+      <charseq START="3814" END="3832">Lucent Technologies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="46-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3917" END="3940">Sprint Communications Co</charseq>
+    </extent>
+    <head>
+      <charseq START="3917" END="3940">Sprint Communications Co</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3917" END="3940">Sprint Communications Co</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E47" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="47-56" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3951" END="4001">buyers of a Sprint PCS telephone and a calling plan</charseq>
+    </extent>
+    <head>
+      <charseq START="3951" END="3956">buyers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="48-57" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3963" END="3972">Sprint PCS</charseq>
+    </extent>
+    <head>
+      <charseq START="3963" END="3972">Sprint PCS</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E49" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="49-58" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4098" END="4109">John Corbett</charseq>
+    </extent>
+    <head>
+      <charseq START="4098" END="4109">John Corbett</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4098" END="4109">John Corbett</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E50" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="50-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4074" END="4131">the character played by
+John Corbett on ``Sex and the City</charseq>
+    </extent>
+    <head>
+      <charseq START="4078" END="4086">character</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-60" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4136" END="4145">Aidan Shaw</charseq>
+    </extent>
+    <head>
+      <charseq START="4136" END="4145">Aidan Shaw</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4136" END="4145">Aidan Shaw</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E52" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="52-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4184" END="4215">a longtime star of gay sex films</charseq>
+    </extent>
+    <head>
+      <charseq START="4195" END="4198">star</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="52-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4218" END="4227">Aiden
+Shaw</charseq>
+    </extent>
+    <head>
+      <charseq START="4218" END="4227">Aiden
+Shaw</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4218" END="4227">Aiden
+Shaw</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E54" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="54-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4255" END="4277">the Houston Grand Opera</charseq>
+    </extent>
+    <head>
+      <charseq START="4259" END="4277">Houston Grand Opera</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4259" END="4277">Houston Grand Opera</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="55-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4457" END="4459">CBS</charseq>
+    </extent>
+    <head>
+      <charseq START="4457" END="4459">CBS</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4510" END="4512">its</charseq>
+    </extent>
+    <head>
+      <charseq START="4510" END="4512">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4549" END="4559">the network</charseq>
+    </extent>
+    <head>
+      <charseq START="4553" END="4559">network</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4619" END="4621">its</charseq>
+    </extent>
+    <head>
+      <charseq START="4619" END="4621">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4457" END="4459">CBS</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E56" TYPE="PER" CLASS="USP">
+  <entity_mention ID="56-68" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4664" END="4713">cheerful chorus members dressed in V-neck sweaters</charseq>
+    </extent>
+    <head>
+      <charseq START="4680" END="4686">members</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4725" END="4729">their</charseq>
+    </extent>
+    <head>
+      <charseq START="4725" END="4729">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E57" TYPE="PER" CLASS="USP">
+  <entity_mention ID="57-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4780" END="4803">an
+advertising columnist</charseq>
+    </extent>
+    <head>
+      <charseq START="4795" END="4803">columnist</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4808" END="4810">You</charseq>
+    </extent>
+    <head>
+      <charseq START="4808" END="4810">You</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4839" END="4859">someone from
+Brooklyn</charseq>
+    </extent>
+    <head>
+      <charseq START="4839" END="4845">someone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E58" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="58-74" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="4852" END="4859">Brooklyn</charseq>
+    </extent>
+    <head>
+      <charseq START="4852" END="4859">Brooklyn</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4852" END="4859">Brooklyn</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E59" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="59-76" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3605" END="3615">rainy roads</charseq>
+    </extent>
+    <head>
+      <charseq START="3611" END="3615">roads</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E60" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="60-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3012" END="3015">Levi</charseq>
+    </extent>
+    <head>
+      <charseq START="3012" END="3015">Levi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3012" END="3015">Levi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="61-78" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3474" END="3483">automotive</charseq>
+    </extent>
+    <head>
+      <charseq START="3474" END="3483">automotive</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E62" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="62-71" TYPE="NOM" LDCTYPE="BAR" ROLE="PER">
+    <extent>
+      <charseq START="418" END="426">Americans</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="426">Americans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E63" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="63-79" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="504" END="506">ABC</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="506">ABC</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="558" END="560">its</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="560">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="504" END="506">ABC</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="64-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="630" END="647">a Hollywood studio</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">studio</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E65" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="65-82" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="632" END="640">Hollywood</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="640">Hollywood</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E66" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="66-83" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="673" END="679">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="679">Florida</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E67" TYPE="PER" CLASS="USP">
+  <entity_mention ID="67-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="764" END="806">How many readers of The Wall Street Journal</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="779">readers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="68-85" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="985" END="994">Fox Sports</charseq>
+    </extent>
+    <head>
+      <charseq START="985" END="994">Fox Sports</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="985" END="994">Fox Sports</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="69-86" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1009" END="1024">Sun
+Microsystems</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1024">Sun
+Microsystems</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1009" END="1024">Sun
+Microsystems</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E70" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="70-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1098" END="1104">a Buick</charseq>
+    </extent>
+    <head>
+      <charseq START="1100" END="1104">Buick</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E71" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="71-88" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1151" END="1170">Fidelity Investments</charseq>
+    </extent>
+    <head>
+      <charseq START="1151" END="1170">Fidelity Investments</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1151" END="1170">Fidelity Investments</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001123.1511.0062-E72" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="72-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1218" END="1234">a female employee</charseq>
+    </extent>
+    <head>
+      <charseq START="1227" END="1234">employee</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E73" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="73-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1240" END="1254">a
+male customer</charseq>
+    </extent>
+    <head>
+      <charseq START="1247" END="1254">customer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001123.1511.0062-E74" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="74-91" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1268" END="1275">Citibank</charseq>
+    </extent>
+    <head>
+      <charseq START="1268" END="1275">Citibank</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001123.1511.0062-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E64" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E65" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="630" END="647">a Hollywood studio</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="64-81" ARGNUM="1">
+      <extent>
+        <charseq START="630" END="647">a Hollywood studio</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="65-82" ARGNUM="2">
+      <extent>
+        <charseq START="632" END="640">Hollywood</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1425" END="1477">shoppers at the New York supermarket chain Gristede's</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-92" ARGNUM="1">
+      <extent>
+        <charseq START="1425" END="1477">shoppers at the New York supermarket chain Gristede's</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="1437" END="1466">the New York supermarket chain</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E2" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1437" END="1466">the New York supermarket chain</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="1437" END="1466">the New York supermarket chain</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="1441" END="1448">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E13" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2178" END="2210">the Tropicana
+division of PepsiCo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-12" ARGNUM="1">
+      <extent>
+        <charseq START="2178" END="2210">the Tropicana
+division of PepsiCo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-14" ARGNUM="2">
+      <extent>
+        <charseq START="2204" END="2210">PepsiCo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R5" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E20" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2603" END="2634">its new
+facility in Times Square</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-23" ARGNUM="1">
+      <extent>
+        <charseq START="2603" END="2605">its</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-24" ARGNUM="2">
+      <extent>
+        <charseq START="2603" END="2634">its new
+facility in Times Square</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E21" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2603" END="2634">its new
+facility in Times Square</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-24" ARGNUM="1">
+      <extent>
+        <charseq START="2603" END="2634">its new
+facility in Times Square</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-25" ARGNUM="2">
+      <extent>
+        <charseq START="2623" END="2634">Times Square</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R7" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E32" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3328" END="3355">the MSN network of Microsoft</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-37" ARGNUM="1">
+      <extent>
+        <charseq START="3328" END="3355">the MSN network of Microsoft</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-38" ARGNUM="2">
+      <extent>
+        <charseq START="3347" END="3355">Microsoft</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E59" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3577" END="3615">drivers rescuing animals on rainy roads</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-75" ARGNUM="1">
+      <extent>
+        <charseq START="3577" END="3615">drivers rescuing animals on rainy roads</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="59-76" ARGNUM="2">
+      <extent>
+        <charseq START="3605" END="3615">rainy roads</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E43" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E45" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3806" END="3848">the new
+Lucent Technologies spinoff company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="43-52" ARGNUM="1">
+      <extent>
+        <charseq START="3806" END="3848">the new
+Lucent Technologies spinoff company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="45-54" ARGNUM="2">
+      <extent>
+        <charseq START="3814" END="3832">Lucent Technologies</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001123.1511.0062-R10" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E57" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001123.1511.0062-E58" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="4839" END="4859">someone from
+Brooklyn</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="57-73" ARGNUM="1">
+      <extent>
+        <charseq START="4839" END="4859">someone from
+Brooklyn</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-74" ARGNUM="2">
+      <extent>
+        <charseq START="4852" END="4859">Brooklyn</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

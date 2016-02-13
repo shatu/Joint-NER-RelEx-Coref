@@ -1,0 +1,976 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001115.2157.0439.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001115.2157.0439">
+<entity ID="NYT20001115.2157.0439-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="950" END="955">iRobot</charseq>
+    </extent>
+    <head>
+      <charseq START="950" END="955">iRobot</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="958" END="1081">a 10-year-old robotics company in
+Cambridge, Mass., that started out making robots for private
+missions to the moon and Mars</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="987">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1010" END="1013">that</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1013">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="950" END="955">iRobot</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E3" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1065" END="1072">the moon</charseq>
+    </extent>
+    <head>
+      <charseq START="1069" END="1072">moon</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E4" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1078" END="1081">Mars</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1081">Mars</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1078" END="1081">Mars</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1152" END="1163">Michael Quan</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1163">Michael Quan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1152" END="1163">Michael Quan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1512" END="1524">Tony Cenicola</charseq>
+    </extent>
+    <head>
+      <charseq START="1512" END="1524">Tony Cenicola</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1996" END="2008">Tony Cenicola</charseq>
+    </extent>
+    <head>
+      <charseq START="1996" END="2008">Tony Cenicola</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1512" END="1524">Tony Cenicola</charseq>
+    </name>
+    <name>
+      <charseq START="1996" END="2008">Tony Cenicola</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-15" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1624" END="1631">children</charseq>
+    </extent>
+    <head>
+      <charseq START="1624" END="1631">children</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2040" END="2049">WASHINGTON</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2049">WASHINGTON</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-45" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2669" END="2678">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="2669" END="2678">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2040" END="2049">WASHINGTON</charseq>
+    </name>
+    <name>
+      <charseq START="2669" END="2678">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2071" END="2078">GINGRICH</charseq>
+    </extent>
+    <head>
+      <charseq START="2071" END="2078">GINGRICH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2092" END="2104">Newt
+Gingrich</charseq>
+    </extent>
+    <head>
+      <charseq START="2092" END="2104">Newt
+Gingrich</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2107" END="2165">the most divisive figure in the recent history of the
+House</charseq>
+    </extent>
+    <head>
+      <charseq START="2125" END="2130">figure</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2309" END="2311">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2309" END="2311">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2332" END="2349">the former speaker</charseq>
+    </extent>
+    <head>
+      <charseq START="2343" END="2349">speaker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2458" END="2465">Gingrich</charseq>
+    </extent>
+    <head>
+      <charseq START="2458" END="2465">Gingrich</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-34" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="2480" END="2499">speaker of the House</charseq>
+    </extent>
+    <head>
+      <charseq START="2480" END="2486">speaker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2545" END="2547">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2545" END="2547">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2592" END="2599">Gingrich</charseq>
+    </extent>
+    <head>
+      <charseq START="2592" END="2599">Gingrich</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2621" END="2623">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2621" END="2623">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2071" END="2078">GINGRICH</charseq>
+    </name>
+    <name>
+      <charseq START="2092" END="2104">Newt
+Gingrich</charseq>
+    </name>
+    <name>
+      <charseq START="2458" END="2465">Gingrich</charseq>
+    </name>
+    <name>
+      <charseq START="2592" END="2599">Gingrich</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="11-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2157" END="2165">the
+House</charseq>
+    </extent>
+    <head>
+      <charseq START="2161" END="2165">House</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2491" END="2499">the House</charseq>
+    </extent>
+    <head>
+      <charseq START="2495" END="2499">House</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2161" END="2165">House</charseq>
+    </name>
+    <name>
+      <charseq START="2495" END="2499">House</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-24" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2190" END="2201">both parties</charseq>
+    </extent>
+    <head>
+      <charseq START="2195" END="2201">parties</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2250" END="2259">each other</charseq>
+    </extent>
+    <head>
+      <charseq START="2250" END="2259">each other</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2375" END="2376">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2375" END="2376">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2419" END="2422">each</charseq>
+    </extent>
+    <head>
+      <charseq START="2419" END="2422">each</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2445" END="2453">the other</charseq>
+    </extent>
+    <head>
+      <charseq START="2449" END="2453">other</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2250" END="2277">each other's political bases</charseq>
+    </extent>
+    <head>
+      <charseq START="2273" END="2277">bases</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="14-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2400" END="2453">two warring camps, each fearing
+and loathing the other</charseq>
+    </extent>
+    <head>
+      <charseq START="2412" END="2416">camps</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="15-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2507" END="2521">the Republicans</charseq>
+    </extent>
+    <head>
+      <charseq START="2511" END="2521">Republicans</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2545" END="2553">his party</charseq>
+    </extent>
+    <head>
+      <charseq START="2549" END="2553">party</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2511" END="2521">Republicans</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2573" END="2589">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="2583" END="2589">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-40" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2573" END="2581">President</charseq>
+    </extent>
+    <head>
+      <charseq START="2573" END="2581">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2583" END="2589">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E18" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+  <entity_mention ID="18-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2637" END="2678">Statuary Hall at the Capitol in Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="2637" END="2649">Statuary Hall</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2637" END="2649">Statuary Hall</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="224" END="241">The New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="241">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1165" END="1182">The New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1182">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1526" END="1543">The New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="1530" END="1543">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2010" END="2027">The
+New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="2014" END="2027">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2694" END="2711">The New
+York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="2698" END="2711">New
+York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-48" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2716" END="2733">The New York Times</charseq>
+    </extent>
+    <head>
+      <charseq START="2720" END="2733">New York Times</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="339" END="341">our</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="341">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1169" END="1182">New York Times</charseq>
+    </name>
+    <name>
+      <charseq START="1530" END="1543">New York Times</charseq>
+    </name>
+    <name>
+      <charseq START="2014" END="2027">New York Times</charseq>
+    </name>
+    <name>
+      <charseq START="2698" END="2711">New
+York Times</charseq>
+    </name>
+    <name>
+      <charseq START="228" END="241">New York Times</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E20" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="20-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2654" END="2664">the Capitol</charseq>
+    </extent>
+    <head>
+      <charseq START="2658" END="2664">Capitol</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2658" END="2664">Capitol</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2682" END="2692">Justin Lane</charseq>
+    </extent>
+    <head>
+      <charseq START="2682" END="2692">Justin Lane</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2682" END="2692">Justin Lane</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-49" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="298" END="310">Photo clients</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="310">clients</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="354" END="355">AP</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="355">AP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="354" END="355">AP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-52" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="433" END="438">Dallas</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="438">Dallas</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="433" END="438">Dallas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E26" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="26-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="531" END="541">Non-clients</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="541">Non-clients</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001115.2157.0439-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="27-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="992" END="1006">Cambridge, Mass</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="1000">Cambridge</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="626" END="640">CAMBRIDGE, Mass</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="634">CAMBRIDGE</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="992" END="1000">Cambridge</charseq>
+    </name>
+    <name>
+      <charseq START="626" END="634">CAMBRIDGE</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="28-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1003" END="1006">Mass</charseq>
+    </extent>
+    <head>
+      <charseq START="1003" END="1006">Mass</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="637" END="640">Mass</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="640">Mass</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1003" END="1006">Mass</charseq>
+    </name>
+    <name>
+      <charseq START="637" END="640">Mass</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1084" END="1089">Brooks</charseq>
+    </extent>
+    <head>
+      <charseq START="1084" END="1089">Brooks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="693">Rodney Brooks</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="693">Rodney Brooks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-58" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="696" END="806">the 45-year-old director of the Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="719">director</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="827" END="829">his</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="829">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="900" END="905">Brooks</charseq>
+    </extent>
+    <head>
+      <charseq START="900" END="905">Brooks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-64" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="910" END="917">chairman</charseq>
+    </extent>
+    <head>
+      <charseq START="910" END="917">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-65" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="923" END="945">chief
+technical officer</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="945">officer</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1084" END="1089">Brooks</charseq>
+    </name>
+    <name>
+      <charseq START="681" END="693">Rodney Brooks</charseq>
+    </name>
+    <name>
+      <charseq START="900" END="905">Brooks</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E31" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="31-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="728" END="806">Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+    </extent>
+    <head>
+      <charseq START="728" END="761">Artificial
+Intelligence Laboratory</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="728" END="761">Artificial
+Intelligence Laboratory</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001115.2157.0439-E32" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="32-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="766" END="806">the Massachusetts Institute of
+Technology</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="806">Massachusetts Institute of
+Technology</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="770" END="806">Massachusetts Institute of
+Technology</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001115.2157.0439-R1" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E12" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2250" END="2277">each other's political bases</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="1">
+      <extent>
+        <charseq START="2250" END="2277">each other's political bases</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-26" ARGNUM="2">
+      <extent>
+        <charseq START="2250" END="2259">each other</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E28" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="626" END="640">CAMBRIDGE, Mass</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-54" ARGNUM="1">
+      <extent>
+        <charseq START="626" END="640">CAMBRIDGE, Mass</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-55" ARGNUM="2">
+      <extent>
+        <charseq START="637" END="640">Mass</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E31" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="681" END="806">Rodney Brooks, the 45-year-old director of the Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-57" ARGNUM="1">
+      <extent>
+        <charseq START="681" END="693">Rodney Brooks</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-59" ARGNUM="2">
+      <extent>
+        <charseq START="728" END="806">Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E32" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="724" END="806">the Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-59" ARGNUM="1">
+      <extent>
+        <charseq START="728" END="806">Artificial
+Intelligence Laboratory at the Massachusetts Institute of
+Technology</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-60" ARGNUM="2">
+      <extent>
+        <charseq START="766" END="806">the Massachusetts Institute of
+Technology</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="900" END="955">Brooks is chairman and chief
+technical officer at iRobot</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-62" ARGNUM="1">
+      <extent>
+        <charseq START="900" END="905">Brooks</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="950" END="955">iRobot</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E27" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="950" END="1081">iRobot, a 10-year-old robotics company in
+Cambridge, Mass., that started out making robots for private
+missions to the moon and Mars</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-4" ARGNUM="1">
+      <extent>
+        <charseq START="958" END="1081">a 10-year-old robotics company in
+Cambridge, Mass., that started out making robots for private
+missions to the moon and Mars</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-6" ARGNUM="2">
+      <extent>
+        <charseq START="992" END="1006">Cambridge, Mass</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E19" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1152" END="1182">Michael Quan/The New York Times</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="1">
+      <extent>
+        <charseq START="1152" END="1163">Michael Quan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-12" ARGNUM="2">
+      <extent>
+        <charseq START="1165" END="1182">The New York Times</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E19" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1512" END="1543">Tony Cenicola/The New York Times</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="1512" END="1524">Tony Cenicola</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-14" ARGNUM="2">
+      <extent>
+        <charseq START="1526" END="1543">The New York Times</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E20" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2637" END="2678">Statuary Hall at the Capitol in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-43" ARGNUM="1">
+      <extent>
+        <charseq START="2637" END="2678">Statuary Hall at the Capitol in Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-44" ARGNUM="2">
+      <extent>
+        <charseq START="2654" END="2664">the Capitol</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E8" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2637" END="2678">Statuary Hall at the Capitol in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-44" ARGNUM="1">
+      <extent>
+        <charseq START="2654" END="2664">the Capitol</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-45" ARGNUM="2">
+      <extent>
+        <charseq START="2669" END="2678">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E19" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2682" END="2711">Justin Lane/The New
+York Times</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-46" ARGNUM="1">
+      <extent>
+        <charseq START="2682" END="2692">Justin Lane</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-47" ARGNUM="2">
+      <extent>
+        <charseq START="2694" END="2711">The New
+York Times</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R12" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E12" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2419" END="2453">each fearing
+and loathing the other</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-31" ARGNUM="1">
+      <extent>
+        <charseq START="2419" END="2422">each</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-32" ARGNUM="2">
+      <extent>
+        <charseq START="2445" END="2453">the other</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001115.2157.0439-R13" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001115.2157.0439-E15" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2545" END="2553">his party</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-38" ARGNUM="1">
+      <extent>
+        <charseq START="2545" END="2547">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-37" ARGNUM="2">
+      <extent>
+        <charseq START="2545" END="2553">his party</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

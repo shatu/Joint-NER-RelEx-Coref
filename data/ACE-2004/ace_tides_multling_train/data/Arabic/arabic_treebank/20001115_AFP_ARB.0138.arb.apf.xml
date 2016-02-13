@@ -1,0 +1,1305 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0138.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0138.arb">
+<entity ID="20001115_AFP_ARB.0138.arb-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="391" END="400">البرتغالية</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="400">البرتغالية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="411">الاذاعة البرتغالية "تي اس اف"</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="389">الاذاعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="402" END="411">"تي اس اف"</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="411">"تي اس اف"</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="381" END="381">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="381">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="402" END="411">"تي اس اف"</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="416" END="442">برج المراقبة في مطار لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="418">برج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E4" TYPE="PER" CLASS="NEG">
+  <entity_mention ID="4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="447" END="475">لا ناجين في حادث تحطم الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="454">ناجين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="486" END="520">مراسل وكالة الانباء البرتغالية لوسا</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="490">مراسل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="589" END="595">المراسل</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="595">المراسل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="492" END="515">وكالة الانباء البرتغالية</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="515">وكالة الانباء البرتغالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="517" END="520">لوسا</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="520">لوسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="517" END="520">لوسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="529" END="545">الضحايا، الاربعين</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="536">الضحايا،</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="572" END="572">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="572">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="548" END="565">شخصا كان على الارض</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="551">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E9" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+  <entity_mention ID="9-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="561" END="565">الارض</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="565">الارض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+    </extent>
+    <head>
+      <charseq START="697" END="699">ارض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="823" END="833">مكان
+الحادث</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="826">مكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="600" END="641">الطاقم فقد السيطرة على الطائرة عند الاقلاع</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="605">الطاقم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E11" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="11-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="670" END="685">مدرج مطار لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="673">مدرج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E12" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="12-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="751" END="759">مجمع سكني</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="754">مجمع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E13" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="13-31" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="787" END="833">مخيما للاجئين موجود في مكان قريب من مكان
+الحادث</charseq>
+    </extent>
+    <head>
+      <charseq START="787" END="791">مخيما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E14" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="14-32" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="793" END="799">للاجئين</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="799">للاجئين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E15" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="15-34" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="843" END="885">موظفون في وكالة سفر كانوا موجودين في المطار</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="848">موظفون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="866" END="867">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="866" END="867">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="875">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="875">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="906" END="907">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="906" END="907">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="913" END="914">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="914">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="16-35" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="853" END="861">وكالة سفر</charseq>
+    </extent>
+    <head>
+      <charseq START="853" END="857">وكالة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="116">لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="116">لواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="111" END="116">لواندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="993" END="1043">مدينة ناميبي الساحلية
+(1200 كلم الى جنوب غرب لواند)</charseq>
+    </extent>
+    <head>
+      <charseq START="999" END="1004">ناميبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="999" END="1004">ناميبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1055" END="1077">الطيران المدني الانغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1055" END="1061">الطيران</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E20" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="20-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1127" END="1127">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1127" END="1127">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1129" END="1153">جمعية الطيارين الانغوليين</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1133">جمعية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="21-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1158" END="1164">السلطات</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1164">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E22" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="22-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1241" END="1241">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1241" END="1241">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-58" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1235">انطونوف-26</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1251" END="1252">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1252">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1226" END="1235">انطونوف-26</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-60" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1254" END="1261">48 راكبا</charseq>
+    </extent>
+    <head>
+      <charseq START="1257" END="1261">راكبا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="24-61" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1291" END="1306">اقليم لواندا-سول</charseq>
+    </extent>
+    <head>
+      <charseq START="1297" END="1306">لواندا-سول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1297" END="1306">لواندا-سول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E25" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="25-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1342" END="1385">الاتحاد الوطني لاستقلال انغولا التام (يونيتا</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1377">الاتحاد الوطني لاستقلال انغولا التام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1379" END="1385">(يونيتا</charseq>
+    </extent>
+    <head>
+      <charseq START="1379" END="1385">(يونيتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1388" END="1406">حركة التمرد
+المسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="1388" END="1391">حركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1415" END="1415">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1415" END="1415">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1342" END="1377">الاتحاد الوطني لاستقلال انغولا التام</charseq>
+    </name>
+    <name>
+      <charseq START="1379" END="1385">(يونيتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="26-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1434" END="1446">الجيش النظامي</charseq>
+    </extent>
+    <head>
+      <charseq START="1434" END="1438">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="27-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="887" END="902">لوكالة فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="902">لوكالة فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="125" END="128">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="128">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-73" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="180">لوكالة فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="180">لوكالة فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="887" END="902">لوكالة فرانس برس</charseq>
+    </name>
+    <name>
+      <charseq START="125" END="128">اف ب</charseq>
+    </name>
+    <name>
+      <charseq START="165" END="180">لوكالة فرانس برس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E28" TYPE="PER" CLASS="USP">
+  <entity_mention ID="28-29" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="769" END="782">مصدر سلاح الجو</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="772">مصدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-70" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="138" END="163">مصدر في سلاح الجو الانغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="141">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E29" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="29-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="774" END="782">سلاح الجو</charseq>
+    </extent>
+    <head>
+      <charseq START="774" END="782">سلاح الجو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="146" END="163">سلاح الجو الانغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="154">سلاح الجو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="30-27" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="722" END="730">الانغولية</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="730">الانغولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1070" END="1077">الانغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1070" END="1077">الانغولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-53" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1144" END="1153">الانغوليين</charseq>
+    </extent>
+    <head>
+      <charseq START="1144" END="1153">الانغوليين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-56" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1202" END="1207">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1202" END="1207">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-72" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="163">الانغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="163">الانغولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-80" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="283" END="287">انغول</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="287">انغول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="283" END="287">انغول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E31" TYPE="PER" CLASS="USP">
+  <entity_mention ID="31-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="289">41 شخصا على الاقل
+قتلوا في حادث تحطم طائرة انطونوف-24 بعيد اقلاعها اليوم الاربعاء من
+مطار لواندا (انغولا)</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="191">شخصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="206" END="207">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="207">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E32" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="32-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="469" END="475">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="475">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="623" END="629">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="629">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="667" END="668">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="668">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="692" END="692">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="692">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="952" END="952">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="952" END="952">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="954" END="981">الطائرة التي تنقل ايضا بضاعة</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="960">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-44" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="962" END="965">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="962" END="965">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="967" END="967">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="967" END="967">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="983" END="983">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="983">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-55" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1178" END="1186">الانطونوف</charseq>
+    </extent>
+    <head>
+      <charseq START="1178" END="1186">الانطونوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1422" END="1428">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1422" END="1428">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-76" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="222" END="237">طائرة انطونوف-24</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="237">انطونوف-24</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="249" END="250">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="250">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="303" END="303">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="303">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="305" END="328">الطائرة السوفياتية الصنع</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="311">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="338" END="339">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="339">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="228" END="237">انطونوف-24</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E33" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="33-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="432" END="442">مطار لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="435">مطار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-22" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="675" END="685">مطار لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="678">مطار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="880" END="885">المطار</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="885">المطار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="270" END="289">مطار لواندا (انغولا)</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="273">مطار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="34-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="437" END="442">لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="437" END="442">لواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-23" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="680" END="685">لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="685">لواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-26" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="714" END="730">العاصمة
+الانغولية</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="720">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1029" END="1043">جنوب غرب لواند)</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1042">لواند</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-62" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1322" END="1331">شرق لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1326" END="1331">لواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-79" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="275" END="280">لواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="280">لواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1038" END="1042">لواند</charseq>
+    </name>
+    <name>
+      <charseq START="1326" END="1331">لواندا</charseq>
+    </name>
+    <name>
+      <charseq START="275" END="280">لواندا</charseq>
+    </name>
+    <name>
+      <charseq START="437" END="442">لواندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0138.arb-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="36-84" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="313" END="322">السوفياتية</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="322">السوفياتية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001115_AFP_ARB.0138.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E29" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="138" END="163">مصدر في سلاح الجو الانغولي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-70" ARGNUM="1">
+      <extent>
+        <charseq START="138" END="163">مصدر في سلاح الجو الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-71" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="163">سلاح الجو الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="769" END="782">مصدر سلاح الجو</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-29" ARGNUM="1">
+      <extent>
+        <charseq START="769" END="782">مصدر سلاح الجو</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-30" ARGNUM="2">
+      <extent>
+        <charseq START="774" END="782">سلاح الجو</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E30" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="138" END="163">مصدر في سلاح الجو الانغولي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-71" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="163">سلاح الجو الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-72" ARGNUM="2">
+      <extent>
+        <charseq START="156" END="163">الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="270" END="290">مطار لواندا (انغولا).</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-78" ARGNUM="1">
+      <extent>
+        <charseq START="270" END="289">مطار لواندا (انغولا)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-79" ARGNUM="2">
+      <extent>
+        <charseq START="275" END="280">لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R4" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E36" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="305" END="328">الطائرة السوفياتية الصنع</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-82" ARGNUM="1">
+      <extent>
+        <charseq START="305" END="328">الطائرة السوفياتية الصنع</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-84" ARGNUM="2">
+      <extent>
+        <charseq START="313" END="322">السوفياتية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R5" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="383" END="411">الاذاعة البرتغالية "تي اس اف"</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="383" END="411">الاذاعة البرتغالية "تي اس اف"</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="391" END="400">البرتغالية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E33" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="416" END="442">برج المراقبة في مطار لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="416" END="442">برج المراقبة في مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-6" ARGNUM="2">
+      <extent>
+        <charseq START="432" END="442">مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R7" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="432" END="442">مطار لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-6" ARGNUM="1">
+      <extent>
+        <charseq START="432" END="442">مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-7" ARGNUM="2">
+      <extent>
+        <charseq START="437" END="442">لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="7-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="675" END="685">مطار لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-22" ARGNUM="1">
+      <extent>
+        <charseq START="675" END="685">مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-23" ARGNUM="2">
+      <extent>
+        <charseq START="680" END="685">لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E6" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="486" END="520">مراسل وكالة الانباء البرتغالية لوسا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-10" ARGNUM="1">
+      <extent>
+        <charseq START="486" END="520">مراسل وكالة الانباء البرتغالية لوسا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="2">
+      <extent>
+        <charseq START="492" END="515">وكالة الانباء البرتغالية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E33" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="670" END="685">مدرج مطار لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-21" ARGNUM="1">
+      <extent>
+        <charseq START="670" END="685">مدرج مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-22" ARGNUM="2">
+      <extent>
+        <charseq START="675" END="685">مطار لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R11" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-25" ARGNUM="1">
+      <extent>
+        <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-26" ARGNUM="2">
+      <extent>
+        <charseq START="714" END="730">العاصمة
+الانغولية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E30" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-26" ARGNUM="1">
+      <extent>
+        <charseq START="714" END="730">العاصمة
+الانغولية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-27" ARGNUM="2">
+      <extent>
+        <charseq START="722" END="730">الانغولية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R13" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E12" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-25" ARGNUM="1">
+      <extent>
+        <charseq START="697" END="759">ارض بور في ضاحية العاصمة
+الانغولية على بعد 800 متر من مجمع سكني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-28" ARGNUM="2">
+      <extent>
+        <charseq START="751" END="759">مجمع سكني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R15" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E14" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="787" END="833">مخيما للاجئين موجود في مكان قريب من مكان
+الحادث</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="1">
+      <extent>
+        <charseq START="787" END="833">مخيما للاجئين موجود في مكان قريب من مكان
+الحادث</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="2">
+      <extent>
+        <charseq START="793" END="799">للاجئين</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R16" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E9" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="787" END="833">مخيما للاجئين موجود في مكان قريب من مكان
+الحادث</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="1">
+      <extent>
+        <charseq START="787" END="833">مخيما للاجئين موجود في مكان قريب من مكان
+الحادث</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-33" ARGNUM="2">
+      <extent>
+        <charseq START="823" END="833">مكان
+الحادث</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E16" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="843" END="885">موظفون في وكالة سفر كانوا موجودين في المطار</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-34" ARGNUM="1">
+      <extent>
+        <charseq START="843" END="885">موظفون في وكالة سفر كانوا موجودين في المطار</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-35" ARGNUM="2">
+      <extent>
+        <charseq START="853" END="861">وكالة سفر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R18" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E33" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="843" END="885">موظفون في وكالة سفر كانوا موجودين في المطار</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-34" ARGNUM="1">
+      <extent>
+        <charseq START="843" END="885">موظفون في وكالة سفر كانوا موجودين في المطار</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-38" ARGNUM="2">
+      <extent>
+        <charseq START="880" END="885">المطار</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R19" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="993" END="1042">مدينة ناميبي الساحلية
+(1200 كلم الى جنوب غرب لواند</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-47" ARGNUM="1">
+      <extent>
+        <charseq START="993" END="1043">مدينة ناميبي الساحلية
+(1200 كلم الى جنوب غرب لواند)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-48" ARGNUM="2">
+      <extent>
+        <charseq START="1029" END="1043">جنوب غرب لواند)</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R20" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E30" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1055" END="1077">الطيران المدني الانغولي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-49" ARGNUM="1">
+      <extent>
+        <charseq START="1055" END="1077">الطيران المدني الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-50" ARGNUM="2">
+      <extent>
+        <charseq START="1070" END="1077">الانغولي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R21" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E30" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1129" END="1153">جمعية الطيارين الانغوليين</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-52" ARGNUM="1">
+      <extent>
+        <charseq START="1129" END="1153">جمعية الطيارين الانغوليين</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-53" ARGNUM="2">
+      <extent>
+        <charseq START="1144" END="1153">الانغوليين</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R22" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E22" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-60" ARGNUM="1">
+      <extent>
+        <charseq START="1254" END="1261">48 راكبا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-58" ARGNUM="2">
+      <extent>
+        <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R23" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E24" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-58" ARGNUM="1">
+      <extent>
+        <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-61" ARGNUM="2">
+      <extent>
+        <charseq START="1291" END="1306">اقليم لواندا-سول</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0138.arb-R24" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0138.arb-E34" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1220" END="1331">طائرة انطونوف-26 تحطمت وعلى متنها 48 راكبا في 31 تشرين
+الاول/اكتوبر في اقليم لواندا-سول (1200 كلم الى شرق لواندا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-61" ARGNUM="1">
+      <extent>
+        <charseq START="1291" END="1306">اقليم لواندا-سول</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-62" ARGNUM="2">
+      <extent>
+        <charseq START="1322" END="1331">شرق لواندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

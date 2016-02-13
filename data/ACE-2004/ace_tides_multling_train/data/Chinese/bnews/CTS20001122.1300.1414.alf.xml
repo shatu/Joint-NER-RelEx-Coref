@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CTS20001122.1300.1414.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001122.1300.1414">
+<composite_entity ID="CTS20001122.1300.1414-CE1">
+  <entity ID="CTS20001122.1300.1414-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-25" TYPE="NAM">
+      <extent>
+        <charseq START="175" END="176">布什</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="176">布什</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="175" END="176">布什</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE2">
+  <entity ID="CTS20001122.1300.1414-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="182" END="185">两个阵营</charseq>
+      </extent>
+      <head>
+        <charseq START="184" END="185">阵营</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE3">
+  <entity ID="CTS20001122.1300.1414-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-5" TYPE="NOM">
+      <extent>
+        <charseq START="213" END="214">法官</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="214">法官</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE4">
+  <entity ID="CTS20001122.1300.1414-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-6" TYPE="NOM">
+      <extent>
+        <charseq START="232" END="235">选举人团</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="235">团</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE5">
+  <entity ID="CTS20001122.1300.1414-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="244" END="247">法庭人员</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="247">人员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE6">
+  <entity ID="CTS20001122.1300.1414-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="NOM">
+      <extent>
+        <charseq START="244" END="245">法庭</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="245">法庭</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE7">
+  <entity ID="CTS20001122.1300.1414-E7" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="7-15" TYPE="PCN">
+      <extent>
+        <charseq START="95" END="96">总统</charseq>
+      </extent>
+      <head>
+        <charseq START="95" END="96">总统</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE8">
+  <entity ID="CTS20001122.1300.1414-E8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="8-1" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="71">美国佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="71">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="110" END="111">佛州</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="111">佛州</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-20" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="128" END="132">佛罗里达州</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="132">佛罗里达州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="128" END="132">佛罗里达州</charseq>
+      </name>
+      <name>
+        <charseq START="67" END="71">佛罗里达州</charseq>
+      </name>
+      <name>
+        <charseq START="110" END="111">佛州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE9">
+  <entity ID="CTS20001122.1300.1414-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="66">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="66">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE10">
+  <entity ID="CTS20001122.1300.1414-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="10-11" TYPE="NOM">
+      <extent>
+        <charseq START="81" END="88">共和党和民主两党</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="88">党</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-12" TYPE="PMM">
+      <extent>
+        <charseq START="81" END="86">共和党和民主</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="86">共和党和民主</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE11">
+  <entity ID="CTS20001122.1300.1414-E11" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NAM">
+      <extent>
+        <charseq START="81" END="83">共和党</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="83">共和党</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="81" END="83">共和党</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE12">
+  <entity ID="CTS20001122.1300.1414-E12" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="12-14" TYPE="NAM">
+      <extent>
+        <charseq START="85" END="86">民主</charseq>
+      </extent>
+      <head>
+        <charseq START="85" END="86">民主</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="85" END="86">民主</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE13">
+  <entity ID="CTS20001122.1300.1414-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-9" TYPE="NOM">
+      <extent>
+        <charseq START="250" END="251">法官</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="251">法官</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-16" TYPE="NOM">
+      <extent>
+        <charseq START="110" END="117">佛州的7位大法官</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="117">大法官</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-18" TYPE="PRO">
+      <extent>
+        <charseq START="121" END="122">他们</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="122">他们</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE14">
+  <entity ID="CTS20001122.1300.1414-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-3" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="191">当地</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="191">当地</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-19" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="128" END="135">佛罗里达州三个郡</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="135">郡</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE15">
+  <entity ID="CTS20001122.1300.1414-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-4" TYPE="PRO">
+      <extent>
+        <charseq START="204" END="205">自己</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="205">自己</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-21" TYPE="NOM">
+      <extent>
+        <charseq START="81" END="91">共和党和民主两党的阵营</charseq>
+      </extent>
+      <head>
+        <charseq START="90" END="91">阵营</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE16">
+  <entity ID="CTS20001122.1300.1414-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-22" TYPE="NOM">
+      <extent>
+        <charseq START="159" END="167">代表戈尔阵营的律师</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="167">律师</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE17">
+  <entity ID="CTS20001122.1300.1414-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-23" TYPE="NOM">
+      <extent>
+        <charseq START="161" END="164">戈尔阵营</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="164">阵营</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001122.1300.1414-CE18">
+  <entity ID="CTS20001122.1300.1414-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-24" TYPE="NAM">
+      <extent>
+        <charseq START="161" END="162">戈尔</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">戈尔</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="161" END="162">戈尔</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="CTS20001122.1300.1414-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="71">美国佛罗里达州</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E8" ENTITYMENTIONID="8-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="71">美国佛罗里达州</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E9" ENTITYMENTIONID="9-10" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="66">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R2" TYPE="DISC">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="81" END="88">共和党和民主两党</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E11" ENTITYMENTIONID="11-13" ARGNUM="1">
+      <extent>
+        <charseq START="81" END="83">共和党</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E10" ENTITYMENTIONID="10-11" ARGNUM="2">
+      <extent>
+        <charseq START="81" END="88">共和党和民主两党</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R3" TYPE="DISC">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="81" END="88">共和党和民主两党</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E12" ENTITYMENTIONID="12-14" ARGNUM="1">
+      <extent>
+        <charseq START="85" END="86">民主</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E10" ENTITYMENTIONID="10-11" ARGNUM="2">
+      <extent>
+        <charseq START="81" END="88">共和党和民主两党</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="110" END="117">佛州的7位大法官</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E13" ENTITYMENTIONID="13-16" ARGNUM="1">
+      <extent>
+        <charseq START="110" END="117">佛州的7位大法官</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E8" ENTITYMENTIONID="8-17" ARGNUM="2">
+      <extent>
+        <charseq START="110" END="111">佛州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="128" END="135">佛罗里达州三个郡</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E14" ENTITYMENTIONID="14-19" ARGNUM="1">
+      <extent>
+        <charseq START="128" END="135">佛罗里达州三个郡</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E8" ENTITYMENTIONID="8-20" ARGNUM="2">
+      <extent>
+        <charseq START="128" END="132">佛罗里达州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R6" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="159" END="167">代表戈尔阵营的律师</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E16" ENTITYMENTIONID="16-22" ARGNUM="1">
+      <extent>
+        <charseq START="159" END="167">代表戈尔阵营的律师</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E17" ENTITYMENTIONID="17-23" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="164">戈尔阵营</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="244" END="247">法庭人员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="244" END="247">法庭人员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E6" ENTITYMENTIONID="6-8" ARGNUM="2">
+      <extent>
+        <charseq START="244" END="245">法庭</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001122.1300.1414-R8" TYPE="PER-SOC" SUBTYPE="Other">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="161" END="164">戈尔阵营</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E17" ENTITYMENTIONID="17-23" ARGNUM="1">
+      <extent>
+        <charseq START="161" END="164">戈尔阵营</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001122.1300.1414-E18" ENTITYMENTIONID="18-24" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="162">戈尔</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

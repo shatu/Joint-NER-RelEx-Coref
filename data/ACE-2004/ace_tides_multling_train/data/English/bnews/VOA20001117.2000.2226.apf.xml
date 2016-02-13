@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001117.2000.2226.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001117.2000.2226">
+<entity ID="VOA20001117.2000.2226-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="126" END="151">Radio
+Canada International</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="151">Radio
+Canada International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="261" END="263">RCI</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="263">RCI</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="126" END="151">Radio
+Canada International</charseq>
+    </name>
+    <name>
+      <charseq START="261" END="263">RCI</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001117.2000.2226-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="98" END="111">BBC monitoring</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="111">BBC monitoring</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="98" END="111">BBC monitoring</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001117.2000.2226-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="158" END="174">YLE Radio Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="174">YLE Radio Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="283" END="285">YLE</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="285">YLE</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="158" END="174">YLE Radio Finland</charseq>
+    </name>
+    <name>
+      <charseq START="283" END="285">YLE</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001117.2000.2226-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="214" END="234">St. Petersburg Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="227">St. Petersburg</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="214" END="227">St. Petersburg</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001117.2000.2226-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="229" END="234">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="234">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="229" END="234">Russia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001117.2000.2226-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="91">The Voice of Russia DX Club</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="91">Voice of Russia DX Club</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="91">Voice of Russia DX Club</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VOA20001117.2000.2226-R1" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="VOA20001117.2000.2226-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001117.2000.2226-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="65" END="111">The Voice of Russia DX Club, via BBC monitoring</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="91">The Voice of Russia DX Club</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="111">BBC monitoring</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001117.2000.2226-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOA20001117.2000.2226-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001117.2000.2226-E5" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="214" END="234">St. Petersburg Russia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="234">St. Petersburg Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="229" END="234">Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

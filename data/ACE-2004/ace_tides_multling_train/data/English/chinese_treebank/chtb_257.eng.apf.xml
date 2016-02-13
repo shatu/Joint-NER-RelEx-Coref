@@ -1,0 +1,1946 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_257.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_257.eng">
+<entity ID="chtb_257.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="591" END="607">Tiemuer
+Dawamaiti</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="607">Tiemuer
+Dawamaiti</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="610" END="682">vice-chairman of the Standing Committee of the National
+People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="622">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="591" END="607">Tiemuer
+Dawamaiti</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="685" END="699">Shimayi Aimaiti</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="699">Shimayi Aimaiti</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="702" END="738">member of the State Affairs
+Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="707">member</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="685" END="699">Shimayi Aimaiti</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="627" END="682">the Standing Committee of the National
+People's Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="682">Standing Committee of the National
+People's Congress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="631" END="682">Standing Committee of the National
+People's Congress</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="712" END="738">the State Affairs
+Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="738">State Affairs
+Committee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="716" END="738">State Affairs
+Committee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="829" END="845">foreign merchants</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="845">merchants</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="882" END="1012">Nearly 2000 traveling merchants
+from 42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="904" END="912">merchants</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E9" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-12" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="942">countries and regions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="953" END="957">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="953" END="957">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="953" END="957">Japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="960" END="970">South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="960" END="970">South Korea</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="960" END="970">South Korea</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="973" END="980">Pakistan</charseq>
+    </extent>
+    <head>
+      <charseq START="973" END="980">Pakistan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="973" END="980">Pakistan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="983" END="988">the US</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="988">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="987" END="988">US</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E14" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="14-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="991" END="999">Hong Kong</charseq>
+    </extent>
+    <head>
+      <charseq START="991" END="999">Hong Kong</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="991" END="999">Hong Kong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1002" END="1007">Taiwan</charseq>
+    </extent>
+    <head>
+      <charseq START="1002" END="1007">Taiwan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1002" END="1007">Taiwan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E16" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="16-19" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1010" END="1012">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1012">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="17-20" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1100" END="1132">companies and commercial agencies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1143" END="1161">Ito Bureau of Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="1143" END="1152">Ito Bureau</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1143" END="1152">Ito Bureau</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1164" END="1191">Han Hua Group of South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1176">Han Hua Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1164" END="1176">Han Hua Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-71" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="188" END="200">Shengjiang
+Li</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="200">Shengjiang
+Li</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="188" END="200">Shengjiang
+Li</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1194" END="1216">Jeffrey
+Group of the US</charseq>
+    </extent>
+    <head>
+      <charseq START="1194" END="1206">Jeffrey
+Group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1194" END="1206">Jeffrey
+Group</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="22-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1219" END="1221">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="1219" END="1221">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="23-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1157" END="1161">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="1157" END="1161">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1157" END="1161">Japan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="24-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1181" END="1191">South Korea</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1191">South Korea</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1181" END="1191">South Korea</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="25-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1211" END="1216">the US</charseq>
+    </extent>
+    <head>
+      <charseq START="1215" END="1216">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1215" END="1216">US</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="26-28" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1275" END="1328">Enterprises from domestic coastal provinces and cities</charseq>
+    </extent>
+    <head>
+      <charseq START="1275" END="1285">Enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E27" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="27-29" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="1292" END="1328">domestic coastal provinces and cities</charseq>
+    </extent>
+    <head>
+      <charseq START="1309" END="1328">provinces and cities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1355" END="1466">altogether 30 enterprise representatives from 30 provinces,
+cities and autonomous regions coming to this meeting</charseq>
+    </extent>
+    <head>
+      <charseq START="1380" END="1394">representatives</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E29" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="29-31" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="1401" END="1443">30 provinces,
+cities and autonomous regions</charseq>
+    </extent>
+    <head>
+      <charseq START="1404" END="1443">provinces,
+cities and autonomous regions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="30-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="131" END="148">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="148">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="131" END="148">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="31-35" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="2041" END="2061">neighboring countries</charseq>
+    </extent>
+    <head>
+      <charseq START="2053" END="2061">countries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E32" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="32-36" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="2077" END="2097">countries and regions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E33" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="33-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2107" END="2112">Europe</charseq>
+    </extent>
+    <head>
+      <charseq START="2107" END="2112">Europe</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2107" END="2112">Europe</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="34-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2118" END="2124">America</charseq>
+    </extent>
+    <head>
+      <charseq START="2118" END="2124">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2118" END="2124">America</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E35" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="35-39" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2127" END="2140">southeast Asia</charseq>
+    </extent>
+    <head>
+      <charseq START="2127" END="2140">southeast Asia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2127" END="2140">southeast Asia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E36" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="36-40" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2143" END="2154">western Asia</charseq>
+    </extent>
+    <head>
+      <charseq START="2151" END="2154">Asia</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E37" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="37-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2157" END="2171">the Middle East</charseq>
+    </extent>
+    <head>
+      <charseq START="2161" END="2171">Middle East</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2161" END="2171">Middle East</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E38" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="38-42" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2174" END="2176">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="2174" END="2176">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="39-33" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1800" END="1803">here</charseq>
+    </extent>
+    <head>
+      <charseq START="1800" END="1803">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-43" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2434" END="2442">the China</charseq>
+    </extent>
+    <head>
+      <charseq START="2438" END="2442">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-73" TYPE="NAM" LDCTYPE="NAM" ROLE="PER">
+    <extent>
+      <charseq START="230" END="234">China</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="234">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-79" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="417" END="420">home</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="420">home</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2438" END="2442">China</charseq>
+    </name>
+    <name>
+      <charseq START="230" END="234">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E40" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="40-46" TYPE="PRO" LDCTYPE="PTV" ROLE="ORG">
+    <extent>
+      <charseq START="2743" END="2793">Some of the remote and poor counties in this region</charseq>
+    </extent>
+    <head>
+      <charseq START="2743" END="2746">Some</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-68" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2832" END="2836">their</charseq>
+    </extent>
+    <head>
+      <charseq START="2832" END="2836">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E41" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="41-49" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2863" END="2870">merchant</charseq>
+    </extent>
+    <head>
+      <charseq START="2863" END="2870">merchant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E42" TYPE="GPE" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="42-53" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="3137" END="3170">more than 50 countries and
+regions</charseq>
+    </extent>
+    <head>
+      <charseq START="3150" END="3170">countries and
+regions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="43-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+    </extent>
+    <head>
+      <charseq START="3200" END="3209">industries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="44-55" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3219" END="3224">energy</charseq>
+    </extent>
+    <head>
+      <charseq START="3219" END="3224">energy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="45-56" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3227" END="3240">transportation</charseq>
+    </extent>
+    <head>
+      <charseq START="3227" END="3240">transportation</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="46-57" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3243" END="3260">telecommunications</charseq>
+    </extent>
+    <head>
+      <charseq START="3243" END="3260">telecommunications</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E47" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="47-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3263" END="3265">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="3263" END="3265">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="48-65" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="151" END="157">Urumchi</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="157">Urumchi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-76" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="359" END="381">the capital of Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="369">capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-77" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="384" END="390">Urumchi</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="390">Urumchi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="151" END="157">Urumchi</charseq>
+    </name>
+    <name>
+      <charseq START="384" END="390">Urumchi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E49" TYPE="FAC" SUBTYPE="Barrier" CLASS="SPC">
+  <entity_mention ID="49-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3658" END="3670">15 open ports</charseq>
+    </extent>
+    <head>
+      <charseq START="3666" END="3670">ports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E50" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="50-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1752" END="1759">Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="1752" END="1759">Xinjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-45" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2502" END="2509">Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="2502" END="2509">Xinjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-47" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2783" END="2793">this region</charseq>
+    </extent>
+    <head>
+      <charseq START="2788" END="2793">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-48" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="381">Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="381">Xinjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-50" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2970" END="2977">Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="2970" END="2977">Xinjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-51" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3007" END="3009">its</charseq>
+    </extent>
+    <head>
+      <charseq START="3007" END="3009">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-52" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3063" END="3064">It</charseq>
+    </extent>
+    <head>
+      <charseq START="3063" END="3064">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-58" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="3577" END="3584">Xinjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="3577" END="3584">Xinjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-61" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3673" END="3674">It</charseq>
+    </extent>
+    <head>
+      <charseq START="3673" END="3674">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-62" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3687" END="3751">one of China's provinces
+and regions having the most border ports</charseq>
+    </extent>
+    <head>
+      <charseq START="3687" END="3689">one</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-84" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="499" END="534">the Xinjiang Uigur Autonomous
+Region</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="534">Xinjiang Uigur Autonomous
+Region</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1752" END="1759">Xinjiang</charseq>
+    </name>
+    <name>
+      <charseq START="2502" END="2509">Xinjiang</charseq>
+    </name>
+    <name>
+      <charseq START="374" END="381">Xinjiang</charseq>
+    </name>
+    <name>
+      <charseq START="2970" END="2977">Xinjiang</charseq>
+    </name>
+    <name>
+      <charseq START="3577" END="3584">Xinjiang</charseq>
+    </name>
+    <name>
+      <charseq START="503" END="534">Xinjiang Uigur Autonomous
+Region</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E51" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+  <entity_mention ID="51-63" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="3694" END="3722">China's provinces
+and regions</charseq>
+    </extent>
+    <head>
+      <charseq START="3702" END="3722">provinces
+and regions</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E52" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="52-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3731" END="3751">the most border ports</charseq>
+    </extent>
+    <head>
+      <charseq START="3747" END="3751">ports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E53" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="53-74" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="238" END="244">Urumchi</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="244">Urumchi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="238" END="244">Urumchi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E56" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="56-66" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="206" END="219">Jian'gang Ding</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="219">Jian'gang Ding</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="206" END="219">Jian'gang Ding</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E57" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="57-67" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2751" END="2793">the remote and poor counties in this region</charseq>
+    </extent>
+    <head>
+      <charseq START="2771" END="2778">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E59" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="59-72" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="178" END="186">reporters</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="186">reporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E60" TYPE="PER" CLASS="USP">
+  <entity_mention ID="60-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="395" END="431">Over 4000 guests from home and abroad</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="410">guests</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E61" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="61-81" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="465" END="484">Ahbulaity Ahbudurecy</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="484">Ahbulaity Ahbudurecy</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="61-82" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="487" END="534">chairman of the Xinjiang Uigur Autonomous
+Region</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="494">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="465" END="484">Ahbulaity Ahbudurecy</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_257.eng-E63" TYPE="LOC" SUBTYPE="Region-International" CLASS="USP">
+  <entity_mention ID="63-34" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="1809" END="1814">abroad</charseq>
+    </extent>
+    <head>
+      <charseq START="1809" END="1814">abroad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-44" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2460" END="2476">the outside world</charseq>
+    </extent>
+    <head>
+      <charseq START="2472" END="2476">world</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-69" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="3025" END="3041">the
+outside world</charseq>
+    </extent>
+    <head>
+      <charseq START="3037" END="3041">world</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-83" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="426" END="431">abroad</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="431">abroad</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E65" TYPE="PER" CLASS="USP">
+  <entity_mention ID="65-85" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="575" END="744">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc.</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="581">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_257.eng-E66" TYPE="PER" CLASS="USP">
+  <entity_mention ID="66-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="741" END="744">etc.</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="744">etc.</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_257.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E50" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="359" END="381">the capital of Xinjiang</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-76" ARGNUM="1">
+      <extent>
+        <charseq START="359" END="381">the capital of Xinjiang</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="50-48" ARGNUM="2">
+      <extent>
+        <charseq START="374" END="381">Xinjiang</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E60" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E39" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="395" END="431">Over 4000 guests from home and abroad</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="60-78" ARGNUM="1">
+      <extent>
+        <charseq START="395" END="431">Over 4000 guests from home and abroad</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-79" ARGNUM="2">
+      <extent>
+        <charseq START="417" END="420">home</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E60" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E63" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="395" END="431">Over 4000 guests from home and abroad</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="60-78" ARGNUM="1">
+      <extent>
+        <charseq START="395" END="431">Over 4000 guests from home and abroad</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="63-83" ARGNUM="2">
+      <extent>
+        <charseq START="426" END="431">abroad</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E61" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E50" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="487" END="534">chairman of the Xinjiang Uigur Autonomous
+Region</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="61-82" ARGNUM="1">
+      <extent>
+        <charseq START="487" END="534">chairman of the Xinjiang Uigur Autonomous
+Region</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="50-84" ARGNUM="2">
+      <extent>
+        <charseq START="499" END="534">the Xinjiang Uigur Autonomous
+Region</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E65" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="575" END="743">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-6" ARGNUM="1">
+      <extent>
+        <charseq START="591" END="607">Tiemuer
+Dawamaiti</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="65-85" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="744">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E65" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="575" END="743">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="685" END="699">Shimayi Aimaiti</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="65-85" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="744">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E66" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E65" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="575" END="743">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="66-86" ARGNUM="1">
+      <extent>
+        <charseq START="741" END="744">etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="65-85" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="744">leaders such as Tiemuer
+Dawamaiti, vice-chairman of the Standing Committee of the National
+People's Congress, Shimayi Aimaiti, member of the State Affairs
+Committee, etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E5" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="610" END="682">vice-chairman of the Standing Committee of the National
+People's Congress</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="1">
+      <extent>
+        <charseq START="610" END="682">vice-chairman of the Standing Committee of the National
+People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="627" END="682">the Standing Committee of the National
+People's Congress</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R9" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E6" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="702" END="738">member of the State Affairs
+Committee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="702" END="738">member of the State Affairs
+Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-9" ARGNUM="2">
+      <extent>
+        <charseq START="712" END="738">the State Affairs
+Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R10" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="882" END="1012">Nearly 2000 traveling merchants
+from 42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="1">
+      <extent>
+        <charseq START="882" END="1012">Nearly 2000 traveling merchants
+from 42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R11" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-13" ARGNUM="1">
+      <extent>
+        <charseq START="953" END="957">Japan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-14" ARGNUM="1">
+      <extent>
+        <charseq START="960" END="970">South Korea</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R13" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-15" ARGNUM="1">
+      <extent>
+        <charseq START="973" END="980">Pakistan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R14" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-16" ARGNUM="1">
+      <extent>
+        <charseq START="983" END="988">the US</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R15" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-17" ARGNUM="1">
+      <extent>
+        <charseq START="991" END="999">Hong Kong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R16" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-18" ARGNUM="1">
+      <extent>
+        <charseq START="1002" END="1007">Taiwan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R17" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E9" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-19" ARGNUM="1">
+      <extent>
+        <charseq START="1010" END="1012">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-12" ARGNUM="2">
+      <extent>
+        <charseq START="919" END="1012">42 countries and regions, such as Japan, South Korea, Pakistan,
+the US, Hong Kong, Taiwan, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R18" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E17" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-21" ARGNUM="1">
+      <extent>
+        <charseq START="1143" END="1161">Ito Bureau of Japan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R19" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E17" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-22" ARGNUM="1">
+      <extent>
+        <charseq START="1164" END="1191">Han Hua Group of South Korea</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R20" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E17" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-23" ARGNUM="1">
+      <extent>
+        <charseq START="1194" END="1216">Jeffrey
+Group of the US</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R21" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E17" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-24" ARGNUM="1">
+      <extent>
+        <charseq START="1219" END="1221">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1221">A number of powerful international companies and commercial agencies,
+such as Ito Bureau of Japan, Han Hua Group of South Korea, Jeffrey
+Group of the US, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R22" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E27" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1275" END="1328">Enterprises from domestic coastal provinces and cities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-28" ARGNUM="1">
+      <extent>
+        <charseq START="1275" END="1328">Enterprises from domestic coastal provinces and cities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-29" ARGNUM="2">
+      <extent>
+        <charseq START="1292" END="1328">domestic coastal provinces and cities</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R23" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E29" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1355" END="1466">altogether 30 enterprise representatives from 30 provinces,
+cities and autonomous regions coming to this meeting</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-30" ARGNUM="1">
+      <extent>
+        <charseq START="1355" END="1466">altogether 30 enterprise representatives from 30 provinces,
+cities and autonomous regions coming to this meeting</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-31" ARGNUM="2">
+      <extent>
+        <charseq START="1401" END="1443">30 provinces,
+cities and autonomous regions</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R24" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-37" ARGNUM="1">
+      <extent>
+        <charseq START="2107" END="2112">Europe</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R25" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-38" ARGNUM="1">
+      <extent>
+        <charseq START="2118" END="2124">America</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R26" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-39" ARGNUM="1">
+      <extent>
+        <charseq START="2127" END="2140">southeast Asia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R27" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-40" ARGNUM="1">
+      <extent>
+        <charseq START="2143" END="2154">western Asia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R28" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="28-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-41" ARGNUM="1">
+      <extent>
+        <charseq START="2157" END="2171">the Middle East</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R29" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E32" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-42" ARGNUM="1">
+      <extent>
+        <charseq START="2174" END="2176">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-36" ARGNUM="2">
+      <extent>
+        <charseq START="2066" END="2176">nearly 100
+countries and regions such as Europe and America, southeast Asia,
+western Asia, the Middle East, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R30" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E44" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E43" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-55" ARGNUM="1">
+      <extent>
+        <charseq START="3219" END="3224">energy</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-54" ARGNUM="2">
+      <extent>
+        <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R31" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E45" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E43" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-56" ARGNUM="1">
+      <extent>
+        <charseq START="3227" END="3240">transportation</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-54" ARGNUM="2">
+      <extent>
+        <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R32" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E46" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E43" ARGNUM="2" />
+  <relation_mention ID="32-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="46-57" ARGNUM="1">
+      <extent>
+        <charseq START="3243" END="3260">telecommunications</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-54" ARGNUM="2">
+      <extent>
+        <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R33" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E47" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E43" ARGNUM="2" />
+  <relation_mention ID="33-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="47-59" ARGNUM="1">
+      <extent>
+        <charseq START="3263" END="3265">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-54" ARGNUM="2">
+      <extent>
+        <charseq START="3194" END="3265">basic industries such as energy, transportation,
+telecommunications, etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R34" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E30" ARGNUM="2" />
+  <relation_mention ID="34-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="131" END="219">Xinhua News Agency, Urumchi, September 1st, by reporters Shengjiang
+Li and Jian'gang Ding</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-71" ARGNUM="1">
+      <extent>
+        <charseq START="188" END="200">Shengjiang
+Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-1" ARGNUM="2">
+      <extent>
+        <charseq START="131" END="148">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R35" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E56" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E30" ARGNUM="2" />
+  <relation_mention ID="35-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="131" END="219">Xinhua News Agency, Urumchi, September 1st, by reporters Shengjiang
+Li and Jian'gang Ding</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="56-66" ARGNUM="1">
+      <extent>
+        <charseq START="206" END="219">Jian'gang Ding</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-1" ARGNUM="2">
+      <extent>
+        <charseq START="131" END="148">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R36" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E48" ARGNUM="2" />
+  <relation_mention ID="36-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="131" END="219">Xinhua News Agency, Urumchi, September 1st, by reporters Shengjiang
+Li and Jian'gang Ding</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-71" ARGNUM="1">
+      <extent>
+        <charseq START="188" END="200">Shengjiang
+Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="48-65" ARGNUM="2">
+      <extent>
+        <charseq START="151" END="157">Urumchi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R37" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E56" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E48" ARGNUM="2" />
+  <relation_mention ID="37-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="131" END="219">Xinhua News Agency, Urumchi, September 1st, by reporters Shengjiang
+Li and Jian'gang Ding</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="56-66" ARGNUM="1">
+      <extent>
+        <charseq START="206" END="219">Jian'gang Ding</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="48-65" ARGNUM="2">
+      <extent>
+        <charseq START="151" END="157">Urumchi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R38" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E23" ARGNUM="2" />
+  <relation_mention ID="38-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1143" END="1161">Ito Bureau of Japan</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-21" ARGNUM="1">
+      <extent>
+        <charseq START="1143" END="1161">Ito Bureau of Japan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-25" ARGNUM="2">
+      <extent>
+        <charseq START="1157" END="1161">Japan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R39" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E24" ARGNUM="2" />
+  <relation_mention ID="39-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1164" END="1191">Han Hua Group of South Korea</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-22" ARGNUM="1">
+      <extent>
+        <charseq START="1164" END="1191">Han Hua Group of South Korea</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-26" ARGNUM="2">
+      <extent>
+        <charseq START="1181" END="1191">South Korea</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R40" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E25" ARGNUM="2" />
+  <relation_mention ID="40-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1194" END="1216">Jeffrey
+Group of the US</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-23" ARGNUM="1">
+      <extent>
+        <charseq START="1194" END="1216">Jeffrey
+Group of the US</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-27" ARGNUM="2">
+      <extent>
+        <charseq START="1211" END="1216">the US</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R41" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E57" ARGNUM="2" />
+  <relation_mention ID="41-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2743" END="2793">Some of the remote and poor counties in this region</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-46" ARGNUM="1">
+      <extent>
+        <charseq START="2743" END="2793">Some of the remote and poor counties in this region</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="57-67" ARGNUM="2">
+      <extent>
+        <charseq START="2751" END="2793">the remote and poor counties in this region</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R42" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E57" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E50" ARGNUM="2" />
+  <relation_mention ID="42-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2751" END="2793">the remote and poor counties in this region</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="57-67" ARGNUM="1">
+      <extent>
+        <charseq START="2751" END="2793">the remote and poor counties in this region</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="50-47" ARGNUM="2">
+      <extent>
+        <charseq START="2783" END="2793">this region</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R43" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E50" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E49" ARGNUM="2" />
+  <relation_mention ID="43-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3577" END="3670">Xinjiang has already opened up 33 international and domestic flight
+routes, owns 15 open ports</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="50-58" ARGNUM="1">
+      <extent>
+        <charseq START="3577" END="3584">Xinjiang</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-60" ARGNUM="2">
+      <extent>
+        <charseq START="3658" END="3670">15 open ports</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R44" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E50" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E51" ARGNUM="2" />
+  <relation_mention ID="44-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3687" END="3751">one of China's provinces
+and regions having the most border ports</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="50-62" ARGNUM="1">
+      <extent>
+        <charseq START="3687" END="3751">one of China's provinces
+and regions having the most border ports</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="51-63" ARGNUM="2">
+      <extent>
+        <charseq START="3694" END="3722">China's provinces
+and regions</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R45" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E52" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E51" ARGNUM="2" />
+  <relation_mention ID="45-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3694" END="3751">China's provinces
+and regions having the most border ports</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="52-64" ARGNUM="1">
+      <extent>
+        <charseq START="3731" END="3751">the most border ports</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="51-63" ARGNUM="2">
+      <extent>
+        <charseq START="3694" END="3722">China's provinces
+and regions</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_257.eng-R46" TYPE="METONYMY">
+  <rel_entity_arg ENTITYID="chtb_257.eng-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_257.eng-E53" ARGNUM="2" />
+</relation>
+</document>
+</source_file>

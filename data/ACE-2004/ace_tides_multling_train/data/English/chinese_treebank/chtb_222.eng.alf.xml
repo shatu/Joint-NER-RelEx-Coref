@@ -1,0 +1,1011 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_222.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_222.eng">
+<composite_entity ID="chtb_222.eng-CE1">
+  <entity ID="chtb_222.eng-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="441" END="484">the Philosophy and Social Science Department</charseq>
+      </extent>
+      <head>
+        <charseq START="445" END="484">Philosophy and Social Science Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="445" END="484">Philosophy and Social Science Department</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE2">
+  <entity ID="chtb_222.eng-E3" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="3-7" TYPE="PRE">
+      <extent>
+        <charseq START="596" END="602">college</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="602">college</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE3">
+  <entity ID="chtb_222.eng-E4" TYPE="ORG" SUBTYPE="Other" CLASS="GEN">
+    <entity_mention ID="4-8" TYPE="NOM">
+      <extent>
+        <charseq START="638" END="671">a
+welfare institution of New China</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="658">institution</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE4">
+  <entity ID="chtb_222.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="663" END="671">New China</charseq>
+      </extent>
+      <head>
+        <charseq START="663" END="671">New China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="663" END="671">New China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE5">
+  <entity ID="chtb_222.eng-E10" TYPE="ORG" SUBTYPE="Educational" CLASS="ATR">
+    <entity_mention ID="10-33" TYPE="PRE">
+      <extent>
+        <charseq START="1390" END="1399">university</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1399">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-47" TYPE="PRE">
+      <extent>
+        <charseq START="1926" END="1935">university</charseq>
+      </extent>
+      <head>
+        <charseq START="1926" END="1935">university</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE6">
+  <entity ID="chtb_222.eng-E6" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="6-21" TYPE="NOM">
+      <extent>
+        <charseq START="1058" END="1086">a school in a nearby township</charseq>
+      </extent>
+      <head>
+        <charseq START="1060" END="1065">school</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE7">
+  <entity ID="chtb_222.eng-E7" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-22" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1070" END="1086">a nearby township</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1086">township</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE8">
+  <entity ID="chtb_222.eng-E8" TYPE="PER" CLASS="USP">
+    <entity_mention ID="8-24" TYPE="NOM">
+      <extent>
+        <charseq START="1123" END="1165">the children's welfare institution teachers</charseq>
+      </extent>
+      <head>
+        <charseq START="1158" END="1165">teachers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE9">
+  <entity ID="chtb_222.eng-E11" TYPE="PER" CLASS="USP">
+    <entity_mention ID="11-37" TYPE="NOM">
+      <extent>
+        <charseq START="1555" END="1588">the people
+from all social circles</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1564">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-42" TYPE="BAR">
+      <extent>
+        <charseq START="1815" END="1848">People from all circles of society</charseq>
+      </extent>
+      <head>
+        <charseq START="1815" END="1820">People</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE10">
+  <entity ID="chtb_222.eng-E12" TYPE="PER" CLASS="USP">
+    <entity_mention ID="12-43" TYPE="NOM">
+      <extent>
+        <charseq START="1571" END="1588">all social circles</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1588">circles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-44" TYPE="NOM">
+      <extent>
+        <charseq START="1827" END="1848">all circles of society</charseq>
+      </extent>
+      <head>
+        <charseq START="1831" END="1837">circles</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE11">
+  <entity ID="chtb_222.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-48" TYPE="NAM">
+      <extent>
+        <charseq START="1959" END="2011">the Longchang Grain and Oil Trade Company of Hangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="1963" END="2011">Longchang Grain and Oil Trade Company of Hangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1963" END="2011">Longchang Grain and Oil Trade Company of Hangzhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE12">
+  <entity ID="chtb_222.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="15-51" TYPE="NAM">
+      <extent>
+        <charseq START="2107" END="2134">the Artificial Limbs Factory</charseq>
+      </extent>
+      <head>
+        <charseq START="2111" END="2134">Artificial Limbs Factory</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2111" END="2134">Artificial Limbs Factory</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE13">
+  <entity ID="chtb_222.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="16-52" TYPE="PRO">
+      <extent>
+        <charseq START="2137" END="2139">etc</charseq>
+      </extent>
+      <head>
+        <charseq START="2137" END="2139">etc</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE14">
+  <entity ID="chtb_222.eng-E17" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+    <entity_mention ID="17-54" TYPE="NOM">
+      <extent>
+        <charseq START="2151" END="2162">a wheelchair</charseq>
+      </extent>
+      <head>
+        <charseq START="2153" END="2162">wheelchair</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE15">
+  <entity ID="chtb_222.eng-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-1" TYPE="NAM">
+      <extent>
+        <charseq START="137" END="154">Xinhua News Agency</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="154">Xinhua News Agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="137" END="154">Xinhua News Agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE16">
+  <entity ID="chtb_222.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-55" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="157" END="164">Hangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="164">Hangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-67" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="350" END="357">Hangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="357">Hangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="157" END="164">Hangzhou</charseq>
+      </name>
+      <name>
+        <charseq START="350" END="357">Hangzhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE17">
+  <entity ID="chtb_222.eng-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-56" TYPE="NAM">
+      <extent>
+        <charseq START="185" END="204">reporter Guoxian Zhu</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="204">Guoxian Zhu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="194" END="204">Guoxian Zhu</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_222.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-57" TYPE="PRE">
+      <extent>
+        <charseq START="185" END="192">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="192">reporter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE18">
+  <entity ID="chtb_222.eng-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-58" TYPE="NAM">
+      <extent>
+        <charseq START="210" END="227">intern Zhehui Guan</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="227">Zhehui Guan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="217" END="227">Zhehui Guan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_222.eng-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-59" TYPE="PRE">
+      <extent>
+        <charseq START="210" END="215">intern</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="215">intern</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE19">
+  <entity ID="chtb_222.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-5" TYPE="NOM">
+      <extent>
+        <charseq START="569" END="671">the
+first disabled, orphan college student adopted and brought up by a
+welfare institution of New China</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="610">student</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_222.eng-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-3" TYPE="NAM">
+      <extent>
+        <charseq START="525" END="563">Hao Ding, who is 19 years old this year</charseq>
+      </extent>
+      <head>
+        <charseq START="525" END="532">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-4" TYPE="WHQ">
+      <extent>
+        <charseq START="535" END="537">who</charseq>
+      </extent>
+      <head>
+        <charseq START="535" END="537">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-10" TYPE="PRO">
+      <extent>
+        <charseq START="709" END="709">I</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="709">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-11" TYPE="NAM">
+      <extent>
+        <charseq START="743" END="750">Hao Ding</charseq>
+      </extent>
+      <head>
+        <charseq START="743" END="750">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-12" TYPE="PRO">
+      <extent>
+        <charseq START="757" END="758">he</charseq>
+      </extent>
+      <head>
+        <charseq START="757" END="758">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-13" TYPE="PRO">
+      <extent>
+        <charseq START="788" END="790">his</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="790">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-14" TYPE="PRO">
+      <extent>
+        <charseq START="822" END="823">he</charseq>
+      </extent>
+      <head>
+        <charseq START="822" END="823">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-15" TYPE="PRO">
+      <extent>
+        <charseq START="866" END="868">him</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="868">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-16" TYPE="PRO">
+      <extent>
+        <charseq START="927" END="928">he</charseq>
+      </extent>
+      <head>
+        <charseq START="927" END="928">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-17" TYPE="NAM">
+      <extent>
+        <charseq START="970" END="977">Hao Ding</charseq>
+      </extent>
+      <head>
+        <charseq START="970" END="977">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-20" TYPE="PRO">
+      <extent>
+        <charseq START="1047" END="1048">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1047" END="1048">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-27" TYPE="PRO">
+      <extent>
+        <charseq START="1172" END="1174">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1174">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-28" TYPE="PRO">
+      <extent>
+        <charseq START="1187" END="1189">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1187" END="1189">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-29" TYPE="PRO">
+      <extent>
+        <charseq START="1218" END="1219">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1218" END="1219">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-31" TYPE="PRO">
+      <extent>
+        <charseq START="1330" END="1331">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1330" END="1331">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-32" TYPE="PRO">
+      <extent>
+        <charseq START="1370" END="1371">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1370" END="1371">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-34" TYPE="PRO">
+      <extent>
+        <charseq START="1454" END="1455">he</charseq>
+      </extent>
+      <head>
+        <charseq START="1454" END="1455">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-36" TYPE="NAM">
+      <extent>
+        <charseq START="1496" END="1503">Hao Ding</charseq>
+      </extent>
+      <head>
+        <charseq START="1496" END="1503">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-40" TYPE="PRO">
+      <extent>
+        <charseq START="1679" END="1681">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1679" END="1681">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-41" TYPE="PRO">
+      <extent>
+        <charseq START="1745" END="1747">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1745" END="1747">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-45" TYPE="PRO">
+      <extent>
+        <charseq START="1881" END="1883">him</charseq>
+      </extent>
+      <head>
+        <charseq START="1881" END="1883">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-46" TYPE="NAM">
+      <extent>
+        <charseq START="1906" END="1913">Hao Ding</charseq>
+      </extent>
+      <head>
+        <charseq START="1906" END="1913">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-49" TYPE="PRO">
+      <extent>
+        <charseq START="2050" END="2052">his</charseq>
+      </extent>
+      <head>
+        <charseq START="2050" END="2052">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-53" TYPE="PRO">
+      <extent>
+        <charseq START="2147" END="2149">him</charseq>
+      </extent>
+      <head>
+        <charseq START="2147" END="2149">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-60" TYPE="NAM">
+      <extent>
+        <charseq START="230" END="357">The disabled student Hao Ding, who became an orphan in his childhood
+and grew up in a children's welfare institution in Hangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="258">Hao Ding</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-62" TYPE="WHQ">
+      <extent>
+        <charseq START="261" END="263">who</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="263">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-64" TYPE="PRO">
+      <extent>
+        <charseq START="285" END="287">his</charseq>
+      </extent>
+      <head>
+        <charseq START="285" END="287">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="970" END="977">Hao Ding</charseq>
+      </name>
+      <name>
+        <charseq START="1496" END="1503">Hao Ding</charseq>
+      </name>
+      <name>
+        <charseq START="1906" END="1913">Hao Ding</charseq>
+      </name>
+      <name>
+        <charseq START="251" END="258">Hao Ding</charseq>
+      </name>
+      <name>
+        <charseq START="525" END="532">Hao Ding</charseq>
+      </name>
+      <name>
+        <charseq START="743" END="750">Hao Ding</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_222.eng-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-61" TYPE="PRE">
+      <extent>
+        <charseq START="230" END="249">The disabled student</charseq>
+      </extent>
+      <head>
+        <charseq START="243" END="249">student</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_222.eng-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-6" TYPE="PRE">
+      <extent>
+        <charseq START="589" END="594">orphan</charseq>
+      </extent>
+      <head>
+        <charseq START="589" END="594">orphan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-63" TYPE="NOM">
+      <extent>
+        <charseq START="272" END="280">an orphan</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="280">orphan</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_222.eng-E29" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="29-69" TYPE="NOM">
+      <extent>
+        <charseq START="428" END="499">a student
+of the Philosophy and Social Science Department of this school</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="436">student</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE20">
+  <entity ID="chtb_222.eng-E9" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="9-25" TYPE="PRE">
+      <extent>
+        <charseq START="1127" END="1156">children's welfare institution</charseq>
+      </extent>
+      <head>
+        <charseq START="1146" END="1156">institution</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_222.eng-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="26-18" TYPE="NOM">
+      <extent>
+        <charseq START="1006" END="1039">the children's welfare
+institution</charseq>
+      </extent>
+      <head>
+        <charseq START="1029" END="1039">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-19" TYPE="NOM">
+      <extent>
+        <charseq START="945" END="965">a welfare
+institution</charseq>
+      </extent>
+      <head>
+        <charseq START="955" END="965">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-30" TYPE="NOM">
+      <extent>
+        <charseq START="1263" END="1285">the welfare institution</charseq>
+      </extent>
+      <head>
+        <charseq START="1275" END="1285">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-38" TYPE="NOM">
+      <extent>
+        <charseq START="1605" END="1638">the children's welfare institution</charseq>
+      </extent>
+      <head>
+        <charseq START="1628" END="1638">institution</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-65" TYPE="NOM">
+      <extent>
+        <charseq START="314" END="357">a children's welfare institution in Hangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="345">institution</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE21">
+  <entity ID="chtb_222.eng-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="27-23" TYPE="PRE">
+      <extent>
+        <charseq START="1010" END="1017">children</charseq>
+      </extent>
+      <head>
+        <charseq START="1010" END="1017">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-26" TYPE="PRE">
+      <extent>
+        <charseq START="1127" END="1134">children</charseq>
+      </extent>
+      <head>
+        <charseq START="1127" END="1134">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-39" TYPE="PRE">
+      <extent>
+        <charseq START="1609" END="1616">children</charseq>
+      </extent>
+      <head>
+        <charseq START="1609" END="1616">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-66" TYPE="BAR">
+      <extent>
+        <charseq START="316" END="323">children</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="323">children</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_222.eng-CE22">
+  <entity ID="chtb_222.eng-E28" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+    <entity_mention ID="28-35" TYPE="NAM">
+      <extent>
+        <charseq START="1473" END="1491">Hangzhou University</charseq>
+      </extent>
+      <head>
+        <charseq START="1473" END="1491">Hangzhou University</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-50" TYPE="BAR">
+      <extent>
+        <charseq START="2063" END="2072">university</charseq>
+      </extent>
+      <head>
+        <charseq START="2063" END="2072">university</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-68" TYPE="NAM">
+      <extent>
+        <charseq START="378" END="396">Hangzhou University</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="396">Hangzhou University</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-70" TYPE="NOM">
+      <extent>
+        <charseq START="489" END="499">this school</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="499">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1473" END="1491">Hangzhou University</charseq>
+      </name>
+      <name>
+        <charseq START="378" END="396">Hangzhou University</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_222.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="227">Xinhua News Agency, Hangzhou, September 1st, by reporter Guoxian Zhu
+and intern Zhehui Guan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E19" ENTITYMENTIONID="19-56" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="204">reporter Guoxian Zhu</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E18" ENTITYMENTIONID="18-55" ARGNUM="2">
+      <extent>
+        <charseq START="157" END="164">Hangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="204">Xinhua News Agency, Hangzhou, September 1st, by reporter Guoxian Zhu</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E19" ENTITYMENTIONID="19-56" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="204">reporter Guoxian Zhu</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E13" ENTITYMENTIONID="13-1" ARGNUM="2">
+      <extent>
+        <charseq START="137" END="154">Xinhua News Agency</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="227">Xinhua News Agency, Hangzhou, September 1st, by reporter Guoxian Zhu
+and intern Zhehui Guan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E21" ENTITYMENTIONID="21-58" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="227">intern Zhehui Guan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E13" ENTITYMENTIONID="13-1" ARGNUM="2">
+      <extent>
+        <charseq START="137" END="154">Xinhua News Agency</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="227">Xinhua News Agency, Hangzhou, September 1st, by reporter Guoxian Zhu
+and intern Zhehui Guan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E21" ENTITYMENTIONID="21-58" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="227">intern Zhehui Guan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E18" ENTITYMENTIONID="18-55" ARGNUM="2">
+      <extent>
+        <charseq START="157" END="164">Hangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R5" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="261" END="357">who became an orphan in his childhood
+and grew up in a children's welfare institution in Hangzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E23" ENTITYMENTIONID="23-62" ARGNUM="1">
+      <extent>
+        <charseq START="261" END="263">who</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E26" ENTITYMENTIONID="26-65" ARGNUM="2">
+      <extent>
+        <charseq START="314" END="357">a children's welfare institution in Hangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="5-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="927" END="965">he was adopted by a welfare
+institution</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E23" ENTITYMENTIONID="23-16" ARGNUM="1">
+      <extent>
+        <charseq START="927" END="928">he</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E26" ENTITYMENTIONID="26-19" ARGNUM="2">
+      <extent>
+        <charseq START="945" END="965">a welfare
+institution</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="314" END="357">a children's welfare institution in Hangzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E26" ENTITYMENTIONID="26-65" ARGNUM="1">
+      <extent>
+        <charseq START="314" END="357">a children's welfare institution in Hangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E18" ENTITYMENTIONID="18-67" ARGNUM="2">
+      <extent>
+        <charseq START="350" END="357">Hangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R7" TYPE="EMP-ORG" SUBTYPE="Other">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="428" END="499">a student
+of the Philosophy and Social Science Department of this school</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E29" ENTITYMENTIONID="29-69" ARGNUM="1">
+      <extent>
+        <charseq START="428" END="499">a student
+of the Philosophy and Social Science Department of this school</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="441" END="484">the Philosophy and Social Science Department</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="441" END="499">the Philosophy and Social Science Department of this school</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="441" END="484">the Philosophy and Social Science Department</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E28" ENTITYMENTIONID="28-70" ARGNUM="2">
+      <extent>
+        <charseq START="489" END="499">this school</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="638" END="671">a
+welfare institution of New China</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E4" ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="638" END="671">a
+welfare institution of New China</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E5" ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="663" END="671">New China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1058" END="1086">a school in a nearby township</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E6" ENTITYMENTIONID="6-21" ARGNUM="1">
+      <extent>
+        <charseq START="1058" END="1086">a school in a nearby township</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E7" ENTITYMENTIONID="7-22" ARGNUM="2">
+      <extent>
+        <charseq START="1070" END="1086">a nearby township</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1123" END="1165">the children's welfare institution teachers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E8" ENTITYMENTIONID="8-24" ARGNUM="1">
+      <extent>
+        <charseq START="1123" END="1165">the children's welfare institution teachers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E9" ENTITYMENTIONID="9-25" ARGNUM="2">
+      <extent>
+        <charseq START="1127" END="1156">children's welfare institution</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="13-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1218" END="1285">he boarded, and every Saturday,
+went back to the welfare institution</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E23" ENTITYMENTIONID="23-29" ARGNUM="1">
+      <extent>
+        <charseq START="1218" END="1219">he</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E26" ENTITYMENTIONID="26-30" ARGNUM="2">
+      <extent>
+        <charseq START="1263" END="1285">the welfare institution</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_222.eng-R14" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1555" END="1588">the people
+from all social circles</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E11" ENTITYMENTIONID="11-37" ARGNUM="1">
+      <extent>
+        <charseq START="1555" END="1588">the people
+from all social circles</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E12" ENTITYMENTIONID="12-43" ARGNUM="2">
+      <extent>
+        <charseq START="1571" END="1588">all social circles</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="14-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1815" END="1848">People from all circles of society</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E11" ENTITYMENTIONID="11-42" ARGNUM="1">
+      <extent>
+        <charseq START="1815" END="1848">People from all circles of society</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_222.eng-E12" ENTITYMENTIONID="12-44" ARGNUM="2">
+      <extent>
+        <charseq START="1827" END="1848">all circles of society</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

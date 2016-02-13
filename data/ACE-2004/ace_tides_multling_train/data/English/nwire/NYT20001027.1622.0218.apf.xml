@@ -1,0 +1,754 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001027.1622.0218.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001027.1622.0218">
+<entity ID="NYT20001027.1622.0218-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1335" END="1351">Roberta Burroughs</charseq>
+    </extent>
+    <head>
+      <charseq START="1335" END="1351">Roberta Burroughs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1354" END="1404">spokeswoman for the Seattle field office of the
+FBI</charseq>
+    </extent>
+    <head>
+      <charseq START="1354" END="1364">spokeswoman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1335" END="1351">Roberta Burroughs</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1370" END="1404">the Seattle field office of the
+FBI</charseq>
+    </extent>
+    <head>
+      <charseq START="1388" END="1393">office</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="1374" END="1380">Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1380">Seattle</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1429" END="1449">Microsoft programmers</charseq>
+    </extent>
+    <head>
+      <charseq START="1439" END="1449">programmers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1240" END="1248">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="1240" END="1248">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1429" END="1437">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="1429" END="1437">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1516" END="1526">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="1520" END="1526">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1596" END="1598">our</charseq>
+    </extent>
+    <head>
+      <charseq START="1596" END="1598">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1832" END="1833">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1832" END="1833">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1984" END="1992">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="1984" END="1992">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2068" END="2069">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2068" END="2069">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2166" END="2174">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="2166" END="2174">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2277" END="2285">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="2277" END="2285">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2332" END="2333">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2332" END="2333">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2395" END="2396">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2395" END="2396">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2420" END="2421">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2420" END="2421">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2623" END="2633">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="2627" END="2633">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2709" END="2717">Microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="2709" END="2717">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="335" END="349">Microsoft Corp.</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="349">Microsoft Corp.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="381" END="391">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="391">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="471" END="481">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="481">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-51" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="550" END="560">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="560">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="633" END="643">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="643">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-54" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="705" END="711">company</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="711">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="924" END="926">our</charseq>
+    </extent>
+    <head>
+      <charseq START="924" END="926">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-60" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="960" END="970">The company</charseq>
+    </extent>
+    <head>
+      <charseq START="964" END="970">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="989" END="990">it</charseq>
+    </extent>
+    <head>
+      <charseq START="989" END="990">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1984" END="1992">Microsoft</charseq>
+    </name>
+    <name>
+      <charseq START="2166" END="2174">Microsoft</charseq>
+    </name>
+    <name>
+      <charseq START="2277" END="2285">Microsoft</charseq>
+    </name>
+    <name>
+      <charseq START="2709" END="2717">Microsoft</charseq>
+    </name>
+    <name>
+      <charseq START="335" END="349">Microsoft Corp.</charseq>
+    </name>
+    <name>
+      <charseq START="1240" END="1248">Microsoft</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1455" END="1463">reporters</charseq>
+    </extent>
+    <head>
+      <charseq START="1455" END="1463">reporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1481" END="1497">Stockholm, Sweden</charseq>
+    </extent>
+    <head>
+      <charseq START="1481" END="1489">Stockholm</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1481" END="1489">Stockholm</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1492" END="1497">Sweden</charseq>
+    </extent>
+    <head>
+      <charseq START="1492" END="1497">Sweden</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1492" END="1497">Sweden</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1500" END="1513">Steven Ballmer</charseq>
+    </extent>
+    <head>
+      <charseq START="1500" END="1513">Steven Ballmer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1516" END="1544">the company's chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="1536" END="1544">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1660" END="1666">Ballmer</charseq>
+    </extent>
+    <head>
+      <charseq START="1660" END="1666">Ballmer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1810" END="1810">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1810" END="1810">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-29" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1972" END="1973">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1972" END="1973">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1500" END="1513">Steven Ballmer</charseq>
+    </name>
+    <name>
+      <charseq START="1660" END="1666">Ballmer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1615" END="1621">Reuters</charseq>
+    </extent>
+    <head>
+      <charseq START="1615" END="1621">Reuters</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1615" END="1621">Reuters</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1627" END="1646">The Associated Press</charseq>
+    </extent>
+    <head>
+      <charseq START="1631" END="1646">Associated Press</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1631" END="1646">Associated Press</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E14" TYPE="PER" CLASS="USP">
+  <entity_mention ID="14-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1823" END="1825">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1823" END="1825">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-31" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2034" END="2050">partner companies</charseq>
+    </extent>
+    <head>
+      <charseq START="2042" END="2050">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="16-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2111" END="2119">outsiders</charseq>
+    </extent>
+    <head>
+      <charseq START="2111" END="2119">outsiders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2223" END="2228">anyone</charseq>
+    </extent>
+    <head>
+      <charseq START="2223" END="2228">anyone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E18" TYPE="PER" CLASS="USP">
+  <entity_mention ID="18-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2354" END="2363">the public</charseq>
+    </extent>
+    <head>
+      <charseq START="2358" END="2363">public</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-1" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="305" END="322">Computer intruders</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="322">intruders</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-20" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1572" END="1578">hackers</charseq>
+    </extent>
+    <head>
+      <charseq START="1572" END="1578">hackers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1673" END="1684">the burglars</charseq>
+    </extent>
+    <head>
+      <charseq START="1677" END="1684">burglars</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-42" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2518" END="2524">hackers</charseq>
+    </extent>
+    <head>
+      <charseq START="2518" END="2524">hackers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2657" END="2667">the hackers</charseq>
+    </extent>
+    <head>
+      <charseq START="2661" END="2667">hackers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="502" END="599">the unknown culprits, who had access to some of the company's
+computers for an undetermined period</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="521">culprits</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-50" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="524" END="526">who</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="526">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="890" END="901">the intruder</charseq>
+    </extent>
+    <head>
+      <charseq START="894" END="901">intruder</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1028" END="1043">the perpetrators</charseq>
+    </extent>
+    <head>
+      <charseq START="1032" END="1043">perpetrators</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1132" END="1144">the intruders</charseq>
+    </extent>
+    <head>
+      <charseq START="1136" END="1144">intruders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001027.1622.0218-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="703" END="721">a company spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="721">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="819" END="831">the spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="831">spokesman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="834" END="844">Mark Murray</charseq>
+    </extent>
+    <head>
+      <charseq START="834" END="844">Mark Murray</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="834" END="844">Mark Murray</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="24-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1208" END="1209">We</charseq>
+    </extent>
+    <head>
+      <charseq START="1208" END="1209">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1255" END="1256">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1256">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1398" END="1404">the
+FBI</charseq>
+    </extent>
+    <head>
+      <charseq START="1402" END="1404">FBI</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1006" END="1012">the FBI</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1012">FBI</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1402" END="1404">FBI</charseq>
+    </name>
+    <name>
+      <charseq START="1010" END="1012">FBI</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2462" END="2484">The Wall Street Journal</charseq>
+    </extent>
+    <head>
+      <charseq START="2466" END="2484">Wall Street Journal</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1046" END="1068">The Wall Street Journal</charseq>
+    </extent>
+    <head>
+      <charseq START="1050" END="1068">Wall Street Journal</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2466" END="2484">Wall Street Journal</charseq>
+    </name>
+    <name>
+      <charseq START="1050" END="1068">Wall Street Journal</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001027.1622.0218-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="26-66" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1196" END="1201">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="1196" END="1201">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1196" END="1201">Russia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001027.1622.0218-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E6" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="703" END="721">a company spokesman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-53" ARGNUM="1">
+      <extent>
+        <charseq START="703" END="721">a company spokesman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-54" ARGNUM="2">
+      <extent>
+        <charseq START="705" END="711">company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001027.1622.0218-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1354" END="1404">spokeswoman for the Seattle field office of the
+FBI</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="1">
+      <extent>
+        <charseq START="1354" END="1404">spokeswoman for the Seattle field office of the
+FBI</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-8" ARGNUM="2">
+      <extent>
+        <charseq START="1370" END="1404">the Seattle field office of the
+FBI</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001027.1622.0218-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E4" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1370" END="1404">the Seattle field office of the
+FBI</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-8" ARGNUM="1">
+      <extent>
+        <charseq START="1370" END="1404">the Seattle field office of the
+FBI</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-9" ARGNUM="2">
+      <extent>
+        <charseq START="1374" END="1380">Seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001027.1622.0218-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E6" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1429" END="1449">Microsoft programmers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-11" ARGNUM="1">
+      <extent>
+        <charseq START="1429" END="1449">Microsoft programmers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-12" ARGNUM="2">
+      <extent>
+        <charseq START="1429" END="1437">Microsoft</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001027.1622.0218-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E9" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1481" END="1497">Stockholm, Sweden</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="1481" END="1497">Stockholm, Sweden</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="1492" END="1497">Sweden</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001027.1622.0218-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001027.1622.0218-E6" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1516" END="1544">the company's chief executive</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="1">
+      <extent>
+        <charseq START="1516" END="1544">the company's chief executive</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-19" ARGNUM="2">
+      <extent>
+        <charseq START="1516" END="1526">the company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

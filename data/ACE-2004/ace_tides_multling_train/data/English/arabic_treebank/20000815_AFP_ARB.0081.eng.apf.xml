@@ -1,0 +1,669 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0081.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0081.eng">
+<entity ID="20000815_AFP_ARB.0081.eng-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="671" END="692">its French counterpart</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="692">counterpart</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E2" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="709" END="720">the
+aircraft</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="720">aircraft</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="891" END="909">A company spokesman</charseq>
+    </extent>
+    <head>
+      <charseq START="901" END="909">spokesman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="893" END="899">company</charseq>
+    </extent>
+    <head>
+      <charseq START="893" END="899">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1007" END="1021">British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1021">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1078" END="1079">it</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1079">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1218" END="1232">British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="1218" END="1232">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1274" END="1288">British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="1274" END="1288">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="115" END="129">British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="129">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-33" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="275" END="289">British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="289">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="593" END="594">us</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="594">us</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1007" END="1021">British Airways</charseq>
+    </name>
+    <name>
+      <charseq START="1218" END="1232">British Airways</charseq>
+    </name>
+    <name>
+      <charseq START="1274" END="1288">British Airways</charseq>
+    </name>
+    <name>
+      <charseq START="115" END="129">British Airways</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="5-10" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="503" END="510">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="510">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1058" END="1084">the Concorde
+planes it owns</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1076">planes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-13" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1062" END="1069">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="1062" END="1069">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-17" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1189" END="1232">Concorde planes belonging to British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="1198" END="1203">planes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-19" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1189" END="1196">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1196">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-24" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1345" END="1352">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1352">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-37" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="171">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="171">Concorde</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="6-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1092" END="1114">the Air France Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1114">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1107" END="1114">Concorde</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1127" END="1131">Paris</charseq>
+    </extent>
+    <head>
+      <charseq START="1127" END="1131">Paris</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1127" END="1131">Paris</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1158" END="1167">113 people</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1167">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1294" END="1303">Air France</charseq>
+    </extent>
+    <head>
+      <charseq START="1294" END="1303">Air France</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-26" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1096" END="1105">Air France</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1105">Air France</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1294" END="1303">Air France</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1309" END="1359">the only two companies that
+operate Concorde planes</charseq>
+    </extent>
+    <head>
+      <charseq START="1322" END="1330">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E11" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="11-23" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1345" END="1359">Concorde planes</charseq>
+    </extent>
+    <head>
+      <charseq START="1354" END="1359">planes</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="94" END="99">London</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="99">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="94" END="99">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="916" END="935">Agence France Presse</charseq>
+    </extent>
+    <head>
+      <charseq START="916" END="935">Agence France Presse</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="107" END="109">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="109">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="107" END="109">AFP</charseq>
+    </name>
+    <name>
+      <charseq START="916" END="935">Agence France Presse</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="241" END="270">the air
+navigation authorities</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="270">authorities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="781" END="808">The British Airways official</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="808">official</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-4" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="781" END="799">The British Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="799">British Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="275" END="319">British Airways chief executive Rod Eddington</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="319">Rod Eddington</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-32" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="275" END="305">British Airways chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="305">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="522" END="530">Eddington</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="530">Eddington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="307" END="319">Rod Eddington</charseq>
+    </name>
+    <name>
+      <charseq START="522" END="530">Eddington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="356" END="409">both the British and French Civil Aviation Authorities</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="409">Civil Aviation Authorities</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="384" END="409">Civil Aviation Authorities</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="21-35" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="365" END="371">British</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="371">British</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-27" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="675" END="680">French</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="680">French</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-36" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="377" END="382">French</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="382">French</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E24" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="24-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="977" END="984">Concorde</charseq>
+    </extent>
+    <head>
+      <charseq START="977" END="984">Concorde</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="499" END="517">all Concorde planes</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="517">planes</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="977" END="984">Concorde</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0081.eng-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="25-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="537" END="581">the British Air Accident Investigation Branch</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="581">British Air Accident Investigation Branch</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="651" END="652">it</charseq>
+    </extent>
+    <head>
+      <charseq START="651" END="652">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="671" END="672">it</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="672">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="541" END="581">British Air Accident Investigation Branch</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000815_AFP_ARB.0081.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="275" END="305">British Airways chief executive</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-32" ARGNUM="1">
+      <extent>
+        <charseq START="275" END="305">British Airways chief executive</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-33" ARGNUM="2">
+      <extent>
+        <charseq START="275" END="289">British Airways</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R2" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E7" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1092" END="1167">the Air France Concorde crash near Paris last
+July 25 that killed 113 people</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-25" ARGNUM="1">
+      <extent>
+        <charseq START="1092" END="1114">the Air France Concorde</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-15" ARGNUM="2">
+      <extent>
+        <charseq START="1127" END="1131">Paris</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E21" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="356" END="409">both the British and French Civil Aviation Authorities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-34" ARGNUM="1">
+      <extent>
+        <charseq START="356" END="409">both the British and French Civil Aviation Authorities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-35" ARGNUM="2">
+      <extent>
+        <charseq START="365" END="371">British</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E22" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="356" END="409">both the British and French Civil Aviation Authorities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-34" ARGNUM="1">
+      <extent>
+        <charseq START="356" END="409">both the British and French Civil Aviation Authorities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-36" ARGNUM="2">
+      <extent>
+        <charseq START="377" END="382">French</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E22" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="671" END="692">its French counterpart</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-43" ARGNUM="1">
+      <extent>
+        <charseq START="671" END="692">its French counterpart</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-27" ARGNUM="2">
+      <extent>
+        <charseq START="675" END="680">French</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E17" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="781" END="808">The British Airways official</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-3" ARGNUM="1">
+      <extent>
+        <charseq START="781" END="808">The British Airways official</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-4" ARGNUM="2">
+      <extent>
+        <charseq START="781" END="799">The British Airways</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E4" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="891" END="909">A company spokesman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="891" END="909">A company spokesman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="893" END="899">company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R8" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E5" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E4" ARGNUM="1" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1058" END="1084">the Concorde
+planes it owns</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="2">
+      <extent>
+        <charseq START="1058" END="1084">the Concorde
+planes it owns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-14" ARGNUM="1">
+      <extent>
+        <charseq START="1078" END="1079">it</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="8-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1189" END="1232">Concorde planes belonging to British Airways</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-17" ARGNUM="2">
+      <extent>
+        <charseq START="1189" END="1232">Concorde planes belonging to British Airways</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-18" ARGNUM="1">
+      <extent>
+        <charseq START="1218" END="1232">British Airways</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R9" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E6" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E9" ARGNUM="1" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1092" END="1114">the Air France Concorde</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-25" ARGNUM="2">
+      <extent>
+        <charseq START="1092" END="1114">the Air France Concorde</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-26" ARGNUM="1">
+      <extent>
+        <charseq START="1096" END="1105">Air France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0081.eng-R11" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E11" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0081.eng-E10" ARGNUM="1" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1309" END="1359">the only two companies that
+operate Concorde planes</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-23" ARGNUM="2">
+      <extent>
+        <charseq START="1345" END="1359">Concorde planes</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-22" ARGNUM="1">
+      <extent>
+        <charseq START="1309" END="1359">the only two companies that
+operate Concorde planes</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

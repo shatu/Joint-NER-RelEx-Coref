@@ -1,0 +1,1023 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0089.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0089.arb">
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE1">
+  <entity ID="20001115_AFP_ARB.0089.arb-E46" TYPE="PER" CLASS="USP">
+    <entity_mention ID="46-2" TYPE="PRO">
+      <extent>
+        <charseq START="431" END="432">ون</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="432">ون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-4" TYPE="PRO">
+      <extent>
+        <charseq START="447" END="448">ون</charseq>
+      </extent>
+      <head>
+        <charseq START="447" END="448">ون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-89" TYPE="NOM">
+      <extent>
+        <charseq START="405" END="425">اطفال باللباس العسكري</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="409">اطفال</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE2">
+  <entity ID="20001115_AFP_ARB.0089.arb-E1" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="NOM">
+      <extent>
+        <charseq START="434" END="440">الحجارة</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="440">الحجارة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE3">
+  <entity ID="20001115_AFP_ARB.0089.arb-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM">
+      <extent>
+        <charseq START="454" END="570">محمد الدرة الفتى الفلسطيني (12 عاما) الذي قتل في مطلع تشرين
+الاول/اكتوبر برصاص الجيش الاسرائيلي في الاراضي الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="463">محمد الدرة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-8" TYPE="WHQ">
+      <extent>
+        <charseq START="491" END="494">الذي</charseq>
+      </extent>
+      <head>
+        <charseq START="491" END="494">الذي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="454" END="463">محمد الدرة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE4">
+  <entity ID="20001115_AFP_ARB.0089.arb-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-6" TYPE="NOM">
+      <extent>
+        <charseq START="465" END="570">الفتى الفلسطيني (12 عاما) الذي قتل في مطلع تشرين
+الاول/اكتوبر برصاص الجيش الاسرائيلي في الاراضي الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="469">الفتى</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE5">
+  <entity ID="20001115_AFP_ARB.0089.arb-E4" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="4-9" TYPE="NOM">
+      <extent>
+        <charseq START="527" END="548">برصاص الجيش الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="531">برصاص</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE6">
+  <entity ID="20001115_AFP_ARB.0089.arb-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="5-10" TYPE="PRE">
+      <extent>
+        <charseq START="533" END="548">الجيش الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="537">الجيش</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE7">
+  <entity ID="20001115_AFP_ARB.0089.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="6-11" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="539" END="548">الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="548">الاسرائيلي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="822" END="831">الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="822" END="831">الاسرائيلي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-47" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1018" END="1027">الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="1018" END="1027">الاسرائيلي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-63" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1301" END="1309">اسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="1301" END="1309">اسرائيلية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-70" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1446" END="1455">الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="1446" END="1455">الاسرائيلي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE8">
+  <entity ID="20001115_AFP_ARB.0089.arb-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-13" TYPE="NOM">
+      <extent>
+        <charseq START="581" END="595">مراسل فرانس برس</charseq>
+      </extent>
+      <head>
+        <charseq START="581" END="585">مراسل</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE9">
+  <entity ID="20001115_AFP_ARB.0089.arb-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-14" TYPE="NAM">
+      <extent>
+        <charseq START="587" END="595">فرانس برس</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="595">فرانس برس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="587" END="595">فرانس برس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE10">
+  <entity ID="20001115_AFP_ARB.0089.arb-E9" TYPE="PER" CLASS="USP">
+    <entity_mention ID="9-15" TYPE="NOM">
+      <extent>
+        <charseq START="600" END="614">نحو 200 فلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="608" END="614">فلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-16" TYPE="PRO">
+      <extent>
+        <charseq START="619" END="620">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="620">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-30" TYPE="PRO">
+      <extent>
+        <charseq START="752" END="753">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="752" END="753">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-31" TYPE="PRO">
+      <extent>
+        <charseq START="759" END="760">ون</charseq>
+      </extent>
+      <head>
+        <charseq START="759" END="760">ون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE11">
+  <entity ID="20001115_AFP_ARB.0089.arb-E10" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="10-17" TYPE="NOM">
+      <extent>
+        <charseq START="622" END="749">طرقات مخيم عين الحلوة
+بالقرب من صيدا كبرى مدن جنوب لبنان باتجاه المقر الرئيسي لحركة فتح
+التي يتزعمها الرئيس الفلسطيني ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="626">طرقات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE12">
+  <entity ID="20001115_AFP_ARB.0089.arb-E11" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="11-18" TYPE="NAM">
+      <extent>
+        <charseq START="628" END="749">مخيم عين الحلوة
+بالقرب من صيدا كبرى مدن جنوب لبنان باتجاه المقر الرئيسي لحركة فتح
+التي يتزعمها الرئيس الفلسطيني ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="633" END="642">عين الحلوة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-54" TYPE="NAM">
+      <extent>
+        <charseq START="1173" END="1195">مخيم عين الحلوة المجاور</charseq>
+      </extent>
+      <head>
+        <charseq START="1178" END="1187">عين الحلوة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-57" TYPE="NOM">
+      <extent>
+        <charseq START="1254" END="1259">المخيم</charseq>
+      </extent>
+      <head>
+        <charseq START="1254" END="1259">المخيم</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="633" END="642">عين الحلوة</charseq>
+      </name>
+      <name>
+        <charseq START="1178" END="1187">عين الحلوة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE13">
+  <entity ID="20001115_AFP_ARB.0089.arb-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-19" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="654" END="677">صيدا كبرى مدن جنوب لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="654" END="657">صيدا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-43" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="894" END="897">صيدا</charseq>
+      </extent>
+      <head>
+        <charseq START="894" END="897">صيدا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="654" END="657">صيدا</charseq>
+      </name>
+      <name>
+        <charseq START="894" END="897">صيدا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE14">
+  <entity ID="20001115_AFP_ARB.0089.arb-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="13-20" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="659" END="677">كبرى مدن جنوب لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="666">مدن</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE15">
+  <entity ID="20001115_AFP_ARB.0089.arb-E14" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="14-21" TYPE="NOM">
+      <extent>
+        <charseq START="668" END="677">جنوب لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="673" END="677">لبنان</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE16">
+  <entity ID="20001115_AFP_ARB.0089.arb-E15" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="15-22" TYPE="NOM">
+      <extent>
+        <charseq START="686" END="749">المقر الرئيسي لحركة فتح
+التي يتزعمها الرئيس الفلسطيني ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="686" END="690">المقر</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-38" TYPE="NOM">
+      <extent>
+        <charseq START="848" END="856">هذا
+المقر</charseq>
+      </extent>
+      <head>
+        <charseq START="852" END="856">المقر</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE17">
+  <entity ID="20001115_AFP_ARB.0089.arb-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-23" TYPE="NAM">
+      <extent>
+        <charseq START="700" END="749">لحركة فتح
+التي يتزعمها الرئيس الفلسطيني ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="700" END="708">لحركة فتح</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-24" TYPE="WHQ">
+      <extent>
+        <charseq START="710" END="713">التي</charseq>
+      </extent>
+      <head>
+        <charseq START="710" END="713">التي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-25" TYPE="PRO">
+      <extent>
+        <charseq START="720" END="721">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="720" END="721">ها</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-42" TYPE="NAM">
+      <extent>
+        <charseq START="882" END="889">حركة فتح</charseq>
+      </extent>
+      <head>
+        <charseq START="882" END="889">حركة فتح</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-65" TYPE="NAM">
+      <extent>
+        <charseq START="1335" END="1342">حركة فتح</charseq>
+      </extent>
+      <head>
+        <charseq START="1335" END="1342">حركة فتح</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-66" TYPE="PRO">
+      <extent>
+        <charseq START="1346" END="1346">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="1346" END="1346">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="700" END="708">لحركة فتح</charseq>
+      </name>
+      <name>
+        <charseq START="882" END="889">حركة فتح</charseq>
+      </name>
+      <name>
+        <charseq START="1335" END="1342">حركة فتح</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE18">
+  <entity ID="20001115_AFP_ARB.0089.arb-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-26" TYPE="APP">
+      <extent>
+        <charseq START="723" END="749">الرئيس الفلسطيني ياسر عرفات</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-27" TYPE="NOM">
+      <extent>
+        <charseq START="723" END="738">الرئيس الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="723" END="728">الرئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE19">
+  <entity ID="20001115_AFP_ARB.0089.arb-E18" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="18-28" TYPE="NAM">
+      <extent>
+        <charseq START="740" END="749">ياسر عرفات</charseq>
+      </extent>
+      <head>
+        <charseq START="740" END="749">ياسر عرفات</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="740" END="749">ياسر عرفات</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE20">
+  <entity ID="20001115_AFP_ARB.0089.arb-E19" TYPE="PER" CLASS="USP">
+    <entity_mention ID="19-33" TYPE="PTV">
+      <extent>
+        <charseq START="790" END="805">مجموعة من الشبان</charseq>
+      </extent>
+      <head>
+        <charseq START="790" END="795">مجموعة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-34" TYPE="PRO">
+      <extent>
+        <charseq START="788" END="788">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="788">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE21">
+  <entity ID="20001115_AFP_ARB.0089.arb-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-35" TYPE="NOM">
+      <extent>
+        <charseq START="800" END="805">الشبان</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="805">الشبان</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE22">
+  <entity ID="20001115_AFP_ARB.0089.arb-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="21-37" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="834" END="841">الاميركي</charseq>
+      </extent>
+      <head>
+        <charseq START="834" END="841">الاميركي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-64" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1312" END="1318">اميركية</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1318">اميركية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE23">
+  <entity ID="20001115_AFP_ARB.0089.arb-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-39" TYPE="APP">
+      <extent>
+        <charseq START="866" END="897">خالد عارف مسؤول حركة فتح في صيدا</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="23-40" TYPE="NAM">
+      <extent>
+        <charseq START="866" END="874">خالد عارف</charseq>
+      </extent>
+      <head>
+        <charseq START="866" END="874">خالد عارف</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="866" END="874">خالد عارف</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE24">
+  <entity ID="20001115_AFP_ARB.0089.arb-E24" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="24-41" TYPE="NOM">
+      <extent>
+        <charseq START="876" END="897">مسؤول حركة فتح في صيدا</charseq>
+      </extent>
+      <head>
+        <charseq START="876" END="880">مسؤول</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE25">
+  <entity ID="20001115_AFP_ARB.0089.arb-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-44" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="927" END="933">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="927" END="933">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="927" END="933">اسرائيل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE26">
+  <entity ID="20001115_AFP_ARB.0089.arb-E26" TYPE="PER" CLASS="USP">
+    <entity_mention ID="26-45" TYPE="PTV">
+      <extent>
+        <charseq START="975" END="991">اكثر من مئتي قتيل</charseq>
+      </extent>
+      <head>
+        <charseq START="975" END="978">اكثر</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE27">
+  <entity ID="20001115_AFP_ARB.0089.arb-E27" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="27-46" TYPE="NOM">
+      <extent>
+        <charseq START="983" END="991">مئتي قتيل</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="991">قتيل</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE28">
+  <entity ID="20001115_AFP_ARB.0089.arb-E28" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="28-48" TYPE="NOM">
+      <extent>
+        <charseq START="1030" END="1039">المستوطنين</charseq>
+      </extent>
+      <head>
+        <charseq START="1030" END="1039">المستوطنين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE29">
+  <entity ID="20001115_AFP_ARB.0089.arb-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="29-50" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1100" END="1133">دولة فلسطينية عاصمتها القدس الشريف</charseq>
+      </extent>
+      <head>
+        <charseq START="1100" END="1103">دولة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-52" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="1119" END="1120">ها</charseq>
+      </extent>
+      <head>
+        <charseq START="1119" END="1120">ها</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE30">
+  <entity ID="20001115_AFP_ARB.0089.arb-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="30-53" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1114" END="1133">عاصمتها القدس الشريف</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1133">القدس الشريف</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-61" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1273" END="1277">القدس</charseq>
+      </extent>
+      <head>
+        <charseq START="1273" END="1277">القدس</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1122" END="1133">القدس الشريف</charseq>
+      </name>
+      <name>
+        <charseq START="1273" END="1277">القدس</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE31">
+  <entity ID="20001115_AFP_ARB.0089.arb-E31" TYPE="PER" CLASS="USP">
+    <entity_mention ID="31-55" TYPE="NOM">
+      <extent>
+        <charseq START="1201" END="1247">تلامذة تتراوح اعمارهم بين الخامسة
+والسادسة عشرة</charseq>
+      </extent>
+      <head>
+        <charseq START="1201" END="1206">تلامذة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-56" TYPE="PRO">
+      <extent>
+        <charseq START="1220" END="1221">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="1220" END="1221">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-58" TYPE="PRO">
+      <extent>
+        <charseq START="1262" END="1263">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="1262" END="1263">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-59" TYPE="PRO">
+      <extent>
+        <charseq START="1269" END="1270">ون</charseq>
+      </extent>
+      <head>
+        <charseq START="1269" END="1270">ون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-60" TYPE="PRO">
+      <extent>
+        <charseq START="1279" END="1281">لنا</charseq>
+      </extent>
+      <head>
+        <charseq START="1279" END="1281">لنا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-62" TYPE="PRO">
+      <extent>
+        <charseq START="1291" END="1292">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="1291" END="1292">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE32">
+  <entity ID="20001115_AFP_ARB.0089.arb-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="127" END="130">البص</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="130">البص</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="127" END="130">البص</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE33">
+  <entity ID="20001115_AFP_ARB.0089.arb-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="32-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="553" END="570">الاراضي الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="570">الاراضي الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-49" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1044" END="1061">الاراضي
+الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="1044" END="1061">الاراضي
+الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-67" TYPE="NAM" ROLE="PER">
+      <extent>
+        <charseq START="1348" END="1358">الفلسطينيين</charseq>
+      </extent>
+      <head>
+        <charseq START="1348" END="1358">الفلسطينيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-68" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1419" END="1423">الارض</charseq>
+      </extent>
+      <head>
+        <charseq START="1419" END="1423">الارض</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-72" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1483" END="1508">الاراضي الفلسطينية المحتلة</charseq>
+      </extent>
+      <head>
+        <charseq START="1483" END="1500">الاراضي الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="553" END="570">الاراضي الفلسطينية</charseq>
+      </name>
+      <name>
+        <charseq START="1044" END="1061">الاراضي
+الفلسطينية</charseq>
+      </name>
+      <name>
+        <charseq START="1348" END="1358">الفلسطينيين</charseq>
+      </name>
+      <name>
+        <charseq START="1483" END="1500">الاراضي الفلسطينية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE34">
+  <entity ID="20001115_AFP_ARB.0089.arb-E33" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="33-69" TYPE="NOM">
+      <extent>
+        <charseq START="1431" END="1455">قوات "الاحتلال الاسرائيلي</charseq>
+      </extent>
+      <head>
+        <charseq START="1431" END="1434">قوات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE35">
+  <entity ID="20001115_AFP_ARB.0089.arb-E34" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="34-71" TYPE="NOM">
+      <extent>
+        <charseq START="1458" END="1473">قطعان المستوطنين</charseq>
+      </extent>
+      <head>
+        <charseq START="1464" END="1473">المستوطنين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE36">
+  <entity ID="20001115_AFP_ARB.0089.arb-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="35-74" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="133" END="137">لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="137">لبنان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-79" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="190" END="194">لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="194">لبنان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="133" END="137">لبنان</charseq>
+      </name>
+      <name>
+        <charseq START="190" END="194">لبنان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE37">
+  <entity ID="20001115_AFP_ARB.0089.arb-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="36-75" TYPE="NAM">
+      <extent>
+        <charseq START="147" END="150">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="150">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="147" END="150">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE38">
+  <entity ID="20001115_AFP_ARB.0089.arb-E37" TYPE="PER" CLASS="USP">
+    <entity_mention ID="37-76" TYPE="NOM">
+      <extent>
+        <charseq START="161" END="194">الاف اللاجئين الفلسطينيين في لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="173">اللاجئين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="37-77" TYPE="PRO">
+      <extent>
+        <charseq START="159" END="159">ا</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="159">ا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="37-80" TYPE="PRO">
+      <extent>
+        <charseq START="222" END="223">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="223">هم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE39">
+  <entity ID="20001115_AFP_ARB.0089.arb-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="38-7" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="471" END="479">الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="479">الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-29" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="730" END="738">الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="738">الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-32" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="770" END="779">الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="770" END="779">الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-51" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1105" END="1112">فلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="1105" END="1112">فلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-73" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1559" END="1567">الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1567">الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="38-78" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="175" END="185">الفلسطينيين</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="185">الفلسطينيين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE40">
+  <entity ID="20001115_AFP_ARB.0089.arb-E39" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="39-81" TYPE="NOM">
+      <extent>
+        <charseq START="216" END="223">مخيماتهم</charseq>
+      </extent>
+      <head>
+        <charseq START="216" END="221">مخيمات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE41">
+  <entity ID="20001115_AFP_ARB.0089.arb-E40" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="40-82" TYPE="NAM">
+      <extent>
+        <charseq START="252" END="274">المجلس الوطني الفلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="252" END="274">المجلس الوطني الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="252" END="274">المجلس الوطني الفلسطيني</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE42">
+  <entity ID="20001115_AFP_ARB.0089.arb-E41" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="41-83" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="304" END="310">الجزائر</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="310">الجزائر</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="304" END="310">الجزائر</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE43">
+  <entity ID="20001115_AFP_ARB.0089.arb-E42" TYPE="PER" CLASS="USP">
+    <entity_mention ID="42-84" TYPE="NOM">
+      <extent>
+        <charseq START="322" END="342">نحو خمسة الاف فلسطيني</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="342">فلسطيني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="42-88" TYPE="PRO">
+      <extent>
+        <charseq START="396" END="397">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="397">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE44">
+  <entity ID="20001115_AFP_ARB.0089.arb-E43" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="43-85" TYPE="NAM">
+      <extent>
+        <charseq START="347" END="388">مخيم البص بالقرب من صور (83 كلم جنوب
+بيروت</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="355">البص</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="352" END="355">البص</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE45">
+  <entity ID="20001115_AFP_ARB.0089.arb-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="44-86" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="367" END="369">صور</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="369">صور</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="367" END="369">صور</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.arb-CE46">
+  <entity ID="20001115_AFP_ARB.0089.arb-E45" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="45-87" TYPE="NOM">
+      <extent>
+        <charseq START="379" END="388">جنوب
+بيروت</charseq>
+      </extent>
+      <head>
+        <charseq START="384" END="388">بيروت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+</document>
+</source_file>

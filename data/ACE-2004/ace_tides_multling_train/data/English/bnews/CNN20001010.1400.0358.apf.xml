@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001010.1400.0358.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001010.1400.0358">
+<entity ID="CNN20001010.1400.0358-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="90" END="92">u.s</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="92">u.s</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="216" END="232">the united states</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="232">united states</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="220" END="232">united states</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="95" END="99">china</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="99">china</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="176">china</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="176">china</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="387" END="391">china</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="391">china</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-13" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="456" END="460">china</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="460">china</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-14" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="521" END="527">beijing</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="527">beijing</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="387" END="391">china</charseq>
+    </name>
+    <name>
+      <charseq START="456" END="460">china</charseq>
+    </name>
+    <name>
+      <charseq START="172" END="176">china</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="112" END="120">president</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="120">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="112" END="128">president clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="128">clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="235" END="236">he</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="236">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="122" END="128">clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="250" END="272">key members of
+congress</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="260">members</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0358-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="265" END="272">congress</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="272">congress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="265" END="272">congress</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E9" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="299" END="313">the white house</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="313">white house</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="303" END="313">white house</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-12" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="409" END="432">almost all other nations</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="432">nations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001010.1400.0358-E11" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="537" END="564">the world trade organization</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="564">world trade organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="541" END="564">world trade organization</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="567" END="575">the house</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="575">house</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="571" END="575">house</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001010.1400.0358-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="601" END="610">the senate</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="610">senate</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="605" END="610">senate</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001010.1400.0358-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0358-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001010.1400.0358-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="250" END="272">key members of
+congress</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="1">
+      <extent>
+        <charseq START="250" END="272">key members of
+congress</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="265" END="272">congress</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

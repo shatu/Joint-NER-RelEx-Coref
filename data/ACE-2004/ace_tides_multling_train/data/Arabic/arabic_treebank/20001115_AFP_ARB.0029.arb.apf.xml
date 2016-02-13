@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0029.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0029.arb">
+<entity ID="20001115_AFP_ARB.0029.arb-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="324" END="338">ولاية
+كارناتاكا</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="338">كارناتاكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="493" END="507">ولاية كارناتاكا</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="507">كارناتاكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="554" END="560">الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="560">الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-44" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="318" END="338">حكومة ولاية
+كارناتاكا</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="322">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="499" END="507">كارناتاكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="87" END="93">بنغالور</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="93">بنغالور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="388" END="394">بنغالور</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="394">بنغالور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="479" END="485">بنغالور</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="485">بنغالور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="487" END="507">عاصمة ولاية كارناتاكا</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="491">عاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="479" END="485">بنغالور</charseq>
+    </name>
+    <name>
+      <charseq START="87" END="93">بنغالور</charseq>
+    </name>
+    <name>
+      <charseq START="388" END="394">بنغالور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="4-15" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="567" END="575">شعب كنادا</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="569">شعب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="5-16" TYPE="NAM" LDCTYPE="NAM" ROLE="PER">
+    <extent>
+      <charseq START="571" END="575">كنادا</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="575">كنادا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="571" END="575">كنادا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="603" END="609">التاميل</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="609">التاميل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-21" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="630" END="634">تاميل</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="634">تاميل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="603" END="609">التاميل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="623" END="634">قوميون تاميل</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="628">قوميون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+  <entity_mention ID="8-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="715" END="736">الغابات في جنوب الهند،</charseq>
+    </extent>
+    <head>
+      <charseq START="715" END="721">الغابات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="110" END="113">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="113">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="110" END="113">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="96" END="100">الهند</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="100">الهند</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="96" END="100">الهند</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="123" END="133">مسؤول حكومي</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="127">مسؤول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-32" TYPE="PRE" LDCTYPE="PRE" ROLE="ORG">
+    <extent>
+      <charseq START="129" END="133">حكومي</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="133">حكومي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="359" END="366">راجكومار</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="366">راجكومار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="380" END="380">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="380">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="431" END="438">راجكومار</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="438">راجكومار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="519" END="526">راجكومار</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="526">راجكومار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="513" END="513">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="513">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="529" END="560">الممثل الشعبي جدا في هذه الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="534">الممثل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="586" END="592">فيرابان</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="592">فيرابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="580" END="580">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="580">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="668" END="682">الممثل
+راجكومار</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="682">راجكومار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="161" END="204">الممثل الهندي راجكومار
+الذي كان محتجزا رهينة</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="166">الممثل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="175" END="182">راجكومار</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="182">راجكومار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-36" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="184" END="187">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="187">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="198" END="198">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="198">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="431" END="438">راجكومار</charseq>
+    </name>
+    <name>
+      <charseq START="519" END="526">راجكومار</charseq>
+    </name>
+    <name>
+      <charseq START="586" END="592">فيرابان</charseq>
+    </name>
+    <name>
+      <charseq START="675" END="682">راجكومار</charseq>
+    </name>
+    <name>
+      <charseq START="175" END="182">راجكومار</charseq>
+    </name>
+    <name>
+      <charseq START="359" END="366">راجكومار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-34" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="168" END="173">الهندي</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="173">الهندي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="688" END="688">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="688">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="693" END="735">فيرابان الذي يختبئ في الغابات في جنوب الهند</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="699">فيرابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-25" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="701" END="704">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="701" END="704">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="706" END="706">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="706">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="231" END="248">قاطع الطرق فيرابان</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="234">قاطع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="242" END="248">فيرابان</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="248">فيرابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="693" END="699">فيرابان</charseq>
+    </name>
+    <name>
+      <charseq START="242" END="248">فيرابان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E19" TYPE="LOC" SUBTYPE="Region-National" CLASS="USP">
+  <entity_mention ID="19-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="726" END="735">جنوب الهند</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="735">الهند</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="253" END="262">جنوب الهند</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="262">الهند</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0029.arb-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="273" END="283">شاندرا غودا</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="283">شاندرا غودا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="285" END="338">وزير العدل والشؤون البرلمانية في حكومة ولاية
+كارناتاكا</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="288">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="273" END="283">شاندرا غودا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001115_AFP_ARB.0029.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E13" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="123" END="133">مسؤول حكومي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-31" ARGNUM="1">
+      <extent>
+        <charseq START="123" END="133">مسؤول حكومي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-32" ARGNUM="2">
+      <extent>
+        <charseq START="129" END="133">حكومي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="285" END="338">وزير العدل والشؤون البرلمانية في حكومة ولاية
+كارناتاكا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-43" ARGNUM="1">
+      <extent>
+        <charseq START="285" END="338">وزير العدل والشؤون البرلمانية في حكومة ولاية
+كارناتاكا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-44" ARGNUM="2">
+      <extent>
+        <charseq START="318" END="338">حكومة ولاية
+كارناتاكا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.arb-R3" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E6" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="623" END="634">قوميون تاميل</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-20" ARGNUM="1">
+      <extent>
+        <charseq START="623" END="634">قوميون تاميل</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-21" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="634">تاميل</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.arb-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0029.arb-E8" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="693" END="736">فيرابان الذي يختبئ في الغابات في جنوب الهند،</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-24" ARGNUM="1">
+      <extent>
+        <charseq START="693" END="735">فيرابان الذي يختبئ في الغابات في جنوب الهند</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-27" ARGNUM="2">
+      <extent>
+        <charseq START="715" END="736">الغابات في جنوب الهند،</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

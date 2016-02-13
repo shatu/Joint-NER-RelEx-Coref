@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001125.1400.0193.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001125.1400.0193">
+<composite_entity ID="CNN20001125.1400.0193-CE1">
+  <entity ID="CNN20001125.1400.0193-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="109">former senate majority leader george mitchell</charseq>
+      </extent>
+      <head>
+        <charseq START="95" END="109">george mitchell</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-7" TYPE="PRO">
+      <extent>
+        <charseq START="162" END="163">he</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="163">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="95" END="109">george mitchell</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001125.1400.0193-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE">
+      <extent>
+        <charseq START="65" END="93">former senate majority leader</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="93">leader</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE2">
+  <entity ID="CNN20001125.1400.0193-E2" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="PRE">
+      <extent>
+        <charseq START="72" END="77">senate</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="77">senate</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE3">
+  <entity ID="CNN20001125.1400.0193-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="117" END="127">tallahassee</charseq>
+      </extent>
+      <head>
+        <charseq START="117" END="127">tallahassee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="117" END="127">tallahassee</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE4">
+  <entity ID="CNN20001125.1400.0193-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="143" END="159">the gore campaign</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="159">campaign</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE5">
+  <entity ID="CNN20001125.1400.0193-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-6" TYPE="PRE">
+      <extent>
+        <charseq START="147" END="150">gore</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="150">gore</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE6">
+  <entity ID="CNN20001125.1400.0193-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="253" END="257">texas</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="257">texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="253" END="257">texas</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE7">
+  <entity ID="CNN20001125.1400.0193-E8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="263" END="269">florida</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="269">florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="263" END="269">florida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE8">
+  <entity ID="CNN20001125.1400.0193-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="USP">
+    <entity_mention ID="9-10" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="286">other states</charseq>
+      </extent>
+      <head>
+        <charseq START="281" END="286">states</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE9">
+  <entity ID="CNN20001125.1400.0193-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="10-11" TYPE="NOM">
+      <extent>
+        <charseq START="405" END="413">the voter</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="413">voter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE10">
+  <entity ID="CNN20001125.1400.0193-E11" TYPE="ORG" SUBTYPE="Government" CLASS="NEG">
+    <entity_mention ID="11-12" TYPE="NOM">
+      <extent>
+        <charseq START="472" END="497">no court, state or federal</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="479">court</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001125.1400.0193-CE11">
+  <entity ID="CNN20001125.1400.0193-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="12-13" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="482" END="486">state</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="486">state</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001125.1400.0193-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="93">former senate majority leader</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001125.1400.0193-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="93">former senate majority leader</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001125.1400.0193-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="72" END="77">senate</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001125.1400.0193-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="143" END="159">the gore campaign</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001125.1400.0193-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="143" END="159">the gore campaign</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001125.1400.0193-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="147" END="150">gore</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

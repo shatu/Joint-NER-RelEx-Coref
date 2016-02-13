@@ -1,0 +1,843 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_265.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_265.man">
+<entity ID="chtb_265.man-E1" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="169" END="174">海口至洋浦段</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="174">段</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E2" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="176" END="180">三亚市区段</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="180">区段</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="172" END="173">洋浦</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="173">洋浦</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="172" END="173">洋浦</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="176" END="178">三亚市</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="178">三亚市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="200" END="201">三亚</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="201">三亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="200" END="201">三亚</charseq>
+    </name>
+    <name>
+      <charseq START="176" END="178">三亚市</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="254" END="256">投资者</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="256">投资者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="267" END="271">近百家客商</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="271">客商</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="273" END="278">招商工作部门</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="278">部门</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="286" END="292">二十多家客
+户</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="292">客
+户</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="315" END="326">海口旭峰旅业发展有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="326">旭峰旅业发展有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="328" END="340">较早进入海南的一家外资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="340">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="342" END="342">其</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="342">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="362" END="386">德国ＥＶＢＬＩＮ财务信托公司
+在泰国的独家合作公司</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="386">公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="390" END="401">海口旭峰旅业发展有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="401">旭峰旅业发展有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="403" END="403">其</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="403">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="348" END="360">泰国ＥＶＲＥＣ国际有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="360">ＥＶＲＥＣ国际有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="107" END="138">由泰国ＥＶＰ
+ＥＣ国际有限公司授权委托的海口旭峰旅业发展有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="138">海口旭峰旅业发展有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="108" END="121">泰国ＥＶＰ
+ＥＣ国际有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="121">ＥＶＰ
+ＥＣ国际有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="140" END="152">西线高速
+公路投资经营业主</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="152">业主</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="342" END="347">其合作
+伙伴</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="347">伙伴</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="317" END="326">旭峰旅业发展有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="392" END="401">旭峰旅业发展有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="350" END="360">ＥＶＲＥＣ国际有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="127" END="138">海口旭峰旅业发展有限公司</charseq>
+    </name>
+    <name>
+      <charseq START="110" END="121">ＥＶＰ
+ＥＣ国际有限公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="362" END="375">德国ＥＶＢＬＩＮ财务信托公司</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="375">ＥＶＢＬＩＮ财务信托公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="364" END="375">ＥＶＢＬＩＮ财务信托公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="362" END="363">德国</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="363">德国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="362" END="363">德国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="403" END="406">其合作人</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="406">合作人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_265.man-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="450" END="452">中
+国</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="452">中
+国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="450" END="452">中
+国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="63" END="65">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="63" END="65">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="63" END="65">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="169" END="170">海口</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="170">海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="195" END="196">海口</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="196">海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="315" END="316">海口</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="316">海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="390" END="391">海口</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="391">海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="66" END="67">海口</charseq>
+    </extent>
+    <head>
+      <charseq START="66" END="67">海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="195" END="196">海口</charseq>
+    </name>
+    <name>
+      <charseq START="315" END="316">海口</charseq>
+    </name>
+    <name>
+      <charseq START="390" END="391">海口</charseq>
+    </name>
+    <name>
+      <charseq START="66" END="67">海口</charseq>
+    </name>
+    <name>
+      <charseq START="169" END="170">海口</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="78" END="79">陈江</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="79">陈江</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="76" END="77">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="77">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="83" END="84">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="83" END="84">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="78" END="79">陈江</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="294" END="301">海南省交通运输厅</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="301">交通运输厅</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="86" END="93">海南省交通运输厅</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="93">交通运输厅</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="297" END="301">交通运输厅</charseq>
+    </name>
+    <name>
+      <charseq START="89" END="93">交通运输厅</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="21-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="185" END="186">海南</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="186">海南</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="239" END="241">海南省</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="241">海南省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="294" END="296">海南省</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="296">海南省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="332" END="333">海南</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="333">海南</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-38" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="510" END="516">海南省人民政府</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="516">海南省人民政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-45" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="86" END="88">海南省</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="88">海南省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-47" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="97" END="101">海南省政府</charseq>
+    </extent>
+    <head>
+      <charseq START="100" END="101">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-48" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="97" END="99">海南省</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="99">海南省</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="185" END="186">海南</charseq>
+    </name>
+    <name>
+      <charseq START="239" END="241">海南省</charseq>
+    </name>
+    <name>
+      <charseq START="294" END="296">海南省</charseq>
+    </name>
+    <name>
+      <charseq START="332" END="333">海南</charseq>
+    </name>
+    <name>
+      <charseq START="510" END="516">海南省人民政府</charseq>
+    </name>
+    <name>
+      <charseq START="86" END="88">海南省</charseq>
+    </name>
+    <name>
+      <charseq START="97" END="99">海南省</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="24-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="348" END="349">泰国</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="349">泰国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="378" END="379">泰国</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="379">泰国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-51" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="108" END="109">泰国</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="109">泰国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="348" END="349">泰国</charseq>
+    </name>
+    <name>
+      <charseq START="378" END="379">泰国</charseq>
+    </name>
+    <name>
+      <charseq START="108" END="109">泰国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_265.man-E26" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="26-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="140" END="146">西线高速
+公路</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="146">西线高速
+公路</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="185" END="192">海南西线高速公路</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="192">西线高速公路</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="414" END="419">西线高速公路</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="419">西线高速公路</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="414" END="419">西线高速公路</charseq>
+    </name>
+    <name>
+      <charseq START="140" END="146">西线高速
+公路</charseq>
+    </name>
+    <name>
+      <charseq START="187" END="192">西线高速公路</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_265.man-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E24" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="108" END="121">泰国ＥＶＰ
+ＥＣ国际有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-50" ARGNUM="1">
+      <extent>
+        <charseq START="108" END="121">泰国ＥＶＰ
+ＥＣ国际有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-51" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="109">泰国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E26" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="140" END="152">西线高速
+公路投资经营业主</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-52" ARGNUM="1">
+      <extent>
+        <charseq START="140" END="152">西线高速
+公路投资经营业主</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-8" ARGNUM="2">
+      <extent>
+        <charseq START="140" END="146">西线高速
+公路</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R3" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="342" END="347">其合作
+伙伴</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-53" ARGNUM="1">
+      <extent>
+        <charseq START="342" END="347">其合作
+伙伴</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-24" ARGNUM="2">
+      <extent>
+        <charseq START="342" END="342">其</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E24" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="348" END="360">泰国ＥＶＲＥＣ国际有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-44" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="360">泰国ＥＶＲＥＣ国际有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-26" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="349">泰国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="108" END="121">泰国ＥＶＰ
+ＥＣ国际有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-50" ARGNUM="1">
+      <extent>
+        <charseq START="108" END="121">泰国ＥＶＰ
+ＥＣ国际有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-51" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="109">泰国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_265.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E17" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="63" END="67">新华社海口</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-1" ARGNUM="1">
+      <extent>
+        <charseq START="63" END="65">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-39" ARGNUM="2">
+      <extent>
+        <charseq START="66" END="67">海口</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_265.man-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E21" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="86" END="93">海南省交通运输厅</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-46" ARGNUM="1">
+      <extent>
+        <charseq START="86" END="93">海南省交通运输厅</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-45" ARGNUM="2">
+      <extent>
+        <charseq START="86" END="88">海南省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="6-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="294" END="301">海南省交通运输厅</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-18" ARGNUM="1">
+      <extent>
+        <charseq START="294" END="301">海南省交通运输厅</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-19" ARGNUM="2">
+      <extent>
+        <charseq START="294" END="296">海南省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R7" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="362" END="386">德国ＥＶＢＬＩＮ财务信托公司
+在泰国的独家合作公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-27" ARGNUM="1">
+      <extent>
+        <charseq START="362" END="386">德国ＥＶＢＬＩＮ财务信托公司
+在泰国的独家合作公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-28" ARGNUM="2">
+      <extent>
+        <charseq START="362" END="375">德国ＥＶＢＬＩＮ财务信托公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_265.man-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E21" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="185" END="192">海南西线高速公路</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-9" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="192">海南西线高速公路</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-10" ARGNUM="2">
+      <extent>
+        <charseq START="185" END="186">海南</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E17" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="315" END="326">海口旭峰旅业发展有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-20" ARGNUM="1">
+      <extent>
+        <charseq START="315" END="326">海口旭峰旅业发展有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-21" ARGNUM="2">
+      <extent>
+        <charseq START="315" END="316">海口</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="11-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="390" END="401">海口旭峰旅业发展有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-32" ARGNUM="1">
+      <extent>
+        <charseq START="390" END="401">海口旭峰旅业发展有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-33" ARGNUM="2">
+      <extent>
+        <charseq START="390" END="391">海口</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_265.man-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E12" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="362" END="375">德国ＥＶＢＬＩＮ财务信托公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-28" ARGNUM="1">
+      <extent>
+        <charseq START="362" END="375">德国ＥＶＢＬＩＮ财务信托公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-29" ARGNUM="2">
+      <extent>
+        <charseq START="362" END="363">德国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_265.man-R13" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="chtb_265.man-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_265.man-E9" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="403" END="406">其合作人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-34" ARGNUM="1">
+      <extent>
+        <charseq START="403" END="406">其合作人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-35" ARGNUM="2">
+      <extent>
+        <charseq START="403" END="403">其</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

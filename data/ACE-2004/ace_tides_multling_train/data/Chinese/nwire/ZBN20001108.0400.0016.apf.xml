@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ZBN20001108.0400.0016.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ZBN20001108.0400.0016">
+<entity ID="ZBN20001108.0400.0016-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="377" END="380">16个州</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="380">州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="380" END="380">州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="382" END="387">哥伦比亚特区</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="387">哥伦比亚特区</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="382" END="387">哥伦比亚特区</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="5-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="397" END="402">宾西法尼亚州</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="402">宾西法尼亚州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="397" END="402">宾西法尼亚州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="404" END="407">密歇根州</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="407">密歇根州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="404" END="407">密歇根州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="417" END="420">田纳西州</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="420">田纳西州</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-37" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="422" END="426">戈尔的老家</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="426">老家</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-38" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="430" END="431">那里</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="431">那里</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="417" END="420">田纳西州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="422" END="423">戈尔</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="423">戈尔</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="613" END="614">戈尔</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="614">戈尔</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="422" END="423">戈尔</charseq>
+    </name>
+    <name>
+      <charseq START="613" END="614">戈尔</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="9-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="442" END="446">得克萨斯州</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="446">得克萨斯州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="442" END="446">得克萨斯州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="453" END="454">布什</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="454">布什</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="631" END="632">布什</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="632">布什</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="453" END="454">布什</charseq>
+    </name>
+    <name>
+      <charseq START="631" END="632">布什</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="11-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="468" END="471">衣拉华州</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="471">衣拉华州</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="473" END="474">该州</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="474">州</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-52" TYPE="PRO" LDCTYPE="HLS" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="459" END="465">值得特别注意的</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="465">值得特别注意的</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="468" END="471">衣拉华州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="489" END="492">获
+胜者</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="492">获
+胜者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="13-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="527" END="530">阿肯色州</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="530">阿肯色州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="527" END="530">阿肯色州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="569" END="572">第一夫人</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="572">第一夫人</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="569" END="572">第一夫人</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="15-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="578" END="580">参议院</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="580">参议院</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="578" END="580">参议院</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="17-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="583" END="586">威斯康星</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="586">威斯康星</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="583" END="586">威斯康星</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="18-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="588" END="591">明尼苏达</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="591">明尼苏达</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="588" END="591">明尼苏达</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="19-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="593" END="596">新墨西哥</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="596">新墨西哥</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="593" END="596">新墨西哥</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="20-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="605" END="607">纽约州</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="607">纽约州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="605" END="607">纽约州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="22-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="616" END="620">路易斯安那</charseq>
+    </extent>
+    <head>
+      <charseq START="616" END="620">路易斯安那</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="616" END="620">路易斯安那</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="23-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="622" END="625">亚利桑那</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="625">亚利桑那</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="622" END="625">亚利桑那</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E25" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="25-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="669" END="672">内华达州</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="672">内华达州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="669" END="672">内华达州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E26" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="26-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="707" END="711">加利福尼亚</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="711">加利福尼亚</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="707" END="711">加利福尼亚</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E27" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="27-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="732" END="735">华盛顿州</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="735">华盛顿州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="732" END="735">华盛顿州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="28-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="126" END="128">华盛顿</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="128">华盛顿</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="126" END="128">华盛顿</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="29-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="746" END="749">俄勒岗州</charseq>
+    </extent>
+    <head>
+      <charseq START="746" END="749">俄勒岗州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="746" END="749">俄勒岗州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E30" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="30-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="790" END="794">阿拉斯加州</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="794">阿拉斯加州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="790" END="794">阿拉斯加州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E31" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="31-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="804" END="810">阿拉斯
+加州人</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="810">阿拉斯
+加州人</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="804" END="810">阿拉斯
+加州人</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E33" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="33-39" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="249" END="252">选
+举人</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="252">选
+举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E34" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="34-40" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="304" END="306">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="306">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E35" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="35-41" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="353" END="355">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="355">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E36" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="36-42" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="497" END="499">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="499">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E37" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="37-43" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="538" END="540">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="540">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E38" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="38-44" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="637" END="639">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="639">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E39" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="39-45" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="680" END="683">选
+举人</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="683">选
+举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E40" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="40-46" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="715" END="717">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="715" END="717">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E41" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="41-47" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="740" END="742">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="742">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E42" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="42-48" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="754" END="756">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="756">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E43" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="43-49" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="764" END="766">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="766">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E44" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="44-50" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="798" END="800">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="800">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E45" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="45-51" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="834" END="836">选举人</charseq>
+    </extent>
+    <head>
+      <charseq START="834" END="836">选举人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E47" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="47-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="664" END="667">伊阿华州</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="667">伊阿华州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="664" END="667">伊阿华州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E48" TYPE="PER" CLASS="USP">
+  <entity_mention ID="48-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="133" END="136">美国总统</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="136">总统</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="49-54" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="133" END="134">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="134">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="49-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="183" END="184">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="184">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="133" END="134">美国</charseq>
+    </name>
+    <name>
+      <charseq START="183" END="184">美国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="50-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="159" END="161">新加坡</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="161">新加坡</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-58" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="210" END="212">新加坡</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="212">新加坡</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="159" END="161">新加坡</charseq>
+    </name>
+    <name>
+      <charseq START="210" END="212">新加坡</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E51" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="51-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="186">美国东部</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="186">东部</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E53" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="53-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="232" END="235">印地安那</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="235">印地安那</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="232" END="235">印地安那</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E54" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="54-62" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="237" END="239">肯塔基</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="239">肯塔基</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="237" END="239">肯塔基</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E55" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="55-63" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="273" END="277">佛罗里达州</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="277">佛罗里达州</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-64" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="283" END="284">该州</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="284">州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="273" END="277">佛罗里达州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E56" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="56-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="290" END="292">双
+方</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="292">方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E57" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="57-66" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="333" END="338">西弗吉尼亚州</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="338">西弗吉尼亚州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="333" END="338">西弗吉尼亚州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001108.0400.0016-E58" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="58-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="340" END="343">俄亥俄州</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="343">俄亥俄州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="340" END="343">俄亥俄州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ZBN20001108.0400.0016-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E49" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="133" END="136">美国总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-53" ARGNUM="1">
+      <extent>
+        <charseq START="133" END="136">美国总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-54" ARGNUM="2">
+      <extent>
+        <charseq START="133" END="134">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ZBN20001108.0400.0016-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E51" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E49" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="183" END="186">美国东部</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="51-56" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="186">美国东部</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="49-57" ARGNUM="2">
+      <extent>
+        <charseq START="183" END="184">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ZBN20001108.0400.0016-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ZBN20001108.0400.0016-E7" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="422" END="426">戈尔的老家</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-10" ARGNUM="1">
+      <extent>
+        <charseq START="422" END="423">戈尔</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-37" ARGNUM="2">
+      <extent>
+        <charseq START="422" END="426">戈尔的老家</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

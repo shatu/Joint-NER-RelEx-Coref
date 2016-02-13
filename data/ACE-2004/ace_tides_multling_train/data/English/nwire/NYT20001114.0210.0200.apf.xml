@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001114.0210.0200.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001114.0210.0200">
+<entity ID="NYT20001114.0210.0200-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="265" END="272">NEW YORK</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="272">NEW YORK</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="265" END="272">NEW YORK</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001114.0210.0200-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="321" END="328">American</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="328">American</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001114.0210.0200-E3" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="3-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="429" END="430">we</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="430">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001114.0210.0200-E4" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="584" END="591">the cook</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="591">cook</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001114.0210.0200-E5" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="889" END="896">everyone</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="896">everyone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001114.0210.0200-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="978" END="979">My</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="979">My</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1562" END="1562">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1562" END="1562">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2128" END="2128">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2128" END="2128">I</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001114.0210.0200-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1064" END="1066">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1064" END="1066">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1177" END="1179">You</charseq>
+    </extent>
+    <head>
+      <charseq START="1177" END="1179">You</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1387" END="1389">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1387" END="1389">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1632" END="1634">You</charseq>
+    </extent>
+    <head>
+      <charseq START="1632" END="1634">You</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1781" END="1783">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1781" END="1783">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2199" END="2201">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2199" END="2201">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+</document>
+</source_file>

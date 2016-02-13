@@ -1,0 +1,710 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001201.2000.1828.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001201.2000.1828">
+<entity ID="PRI20001201.2000.1828-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="370" END="379">Republican</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="379">Republican</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="529" END="532">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="532">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="370" END="394">Republican
+George W. Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="394">George W. Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="381" END="394">George W. Bush</charseq>
+    </name>
+    <name>
+      <charseq START="529" END="532">Bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="463" END="490">the crucial state of Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="479">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="484" END="490">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="490">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="703" END="707">State</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="707">State</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-14" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="795" END="799">State</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="799">State</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1056" END="1062">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1062">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-31" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="874" END="878">State</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="878">State</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="484" END="490">Florida</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="501" END="519">Ruth Bater
+Ginsburg</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="519">Ruth Bater
+Ginsburg</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="501" END="519">Ruth Bater
+Ginsburg</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="529" END="541">Bush's lawyer</charseq>
+    </extent>
+    <head>
+      <charseq START="536" END="541">lawyer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E5" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="601" END="625">the Florida Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="625">Florida Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1204" END="1228">the Florida Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="1208" END="1228">Florida Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="870" END="884">the State court</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="884">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1052" END="1068">the Florida court</charseq>
+    </extent>
+    <head>
+      <charseq START="1064" END="1068">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="605" END="625">Florida Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="1208" END="1228">Florida Supreme Court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="693" END="694">we</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="694">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="725" END="726">we</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="726">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E9" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="9-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="791" END="813">the State Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="813">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="832" END="858">Justice Sandra Day O'Connor</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="858">Sandra Day O'Connor</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="840" END="858">Sandra Day O'Connor</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="956" END="958">you</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="958">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="917" END="931">The legislature</charseq>
+    </extent>
+    <head>
+      <charseq START="921" END="931">legislature</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1156" END="1156">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1156" END="1156">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1161" END="1174">Judith Spencer</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1174">Judith Spencer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="249" END="262">Judith Spencer</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="262">Judith Spencer</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="249" END="262">Judith Spencer</charseq>
+    </name>
+    <name>
+      <charseq START="1161" END="1174">Judith Spencer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="15-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1179" END="1188">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="1179" END="1188">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1179" END="1188">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E16" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="16-27" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1340" END="1373">Palm Beach and Miami Dade counties</charseq>
+    </extent>
+    <head>
+      <charseq START="1366" END="1373">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E17" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="17-28" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1340" END="1349">Palm Beach</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1349">Palm Beach</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E18" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="18-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1355" END="1364">Miami Dade</charseq>
+    </extent>
+    <head>
+      <charseq START="1355" END="1364">Miami Dade</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="87">BBC News in London</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="77">BBC News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="70" END="77">BBC News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-30" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="703" END="713">State court</charseq>
+    </extent>
+    <head>
+      <charseq START="709" END="713">court</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="82" END="87">London</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="87">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="82" END="87">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="90" END="90">I</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="90">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="95" END="106">Gregor Cragy</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="106">Gregor Cragy</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="95" END="106">Gregor Cragy</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="24-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="558" END="579">the Federal High Court</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="579">Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="123" END="142">The US
+Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="142">US
+Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1073" END="1092">The US Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="1077" END="1092">US Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-40" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="334" END="346">Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="346">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="127" END="142">US
+Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="1077" END="1092">US Supreme Court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001201.2000.1828-E25" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="25-37" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="218" END="229">presidential</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="229">presidential</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E27" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="27-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="322" END="355">the stately Supreme Court building</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="355">building</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-41" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="358" END="415">lawyers for Republican
+George W. Bush and Democrat AL Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="364">lawyers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001201.2000.1828-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1268" END="1274">Al Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1268" END="1274">Al Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="400" END="415">Democrat AL Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="415">AL Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-43" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="400" END="407">Democrat</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="407">Democrat</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1268" END="1274">Al Gore</charseq>
+    </name>
+    <name>
+      <charseq START="409" END="415">AL Gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="PRI20001201.2000.1828-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E21" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="87">BBC News in London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="87">BBC News in London</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-32" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="87">London</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E2" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="703" END="713">State court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-30" ARGNUM="1">
+      <extent>
+        <charseq START="703" END="713">State court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-13" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="707">State</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E15" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1156" END="1188">I am Judith Spencer in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-22" ARGNUM="1">
+      <extent>
+        <charseq START="1156" END="1156">I</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-24" ARGNUM="2">
+      <extent>
+        <charseq START="1179" END="1188">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E27" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="322" END="355">the stately Supreme Court building</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-40" ARGNUM="1">
+      <extent>
+        <charseq START="334" END="346">Supreme Court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-39" ARGNUM="2">
+      <extent>
+        <charseq START="322" END="355">the stately Supreme Court building</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="358" END="415">lawyers for Republican
+George W. Bush and Democrat AL Gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-41" ARGNUM="1">
+      <extent>
+        <charseq START="358" END="415">lawyers for Republican
+George W. Bush and Democrat AL Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-44" ARGNUM="2">
+      <extent>
+        <charseq START="370" END="394">Republican
+George W. Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R6" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E30" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="358" END="415">lawyers for Republican
+George W. Bush and Democrat AL Gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-41" ARGNUM="1">
+      <extent>
+        <charseq START="358" END="415">lawyers for Republican
+George W. Bush and Democrat AL Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-42" ARGNUM="2">
+      <extent>
+        <charseq START="400" END="415">Democrat AL Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R7" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E4" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="529" END="541">Bush's lawyer</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="1">
+      <extent>
+        <charseq START="529" END="532">Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="529" END="541">Bush's lawyer</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E2" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="791" END="813">the State Supreme Court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-25" ARGNUM="1">
+      <extent>
+        <charseq START="791" END="813">the State Supreme Court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-14" ARGNUM="2">
+      <extent>
+        <charseq START="795" END="799">State</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E2" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="870" END="884">the State court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-16" ARGNUM="1">
+      <extent>
+        <charseq START="870" END="884">the State court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-31" ARGNUM="2">
+      <extent>
+        <charseq START="874" END="878">State</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="9-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1052" END="1068">the Florida court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-19" ARGNUM="1">
+      <extent>
+        <charseq START="1052" END="1068">the Florida court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-20" ARGNUM="2">
+      <extent>
+        <charseq START="1056" END="1062">Florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R11" TYPE="DISC">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E16" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1340" END="1373">Palm Beach and Miami Dade counties</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-28" ARGNUM="1">
+      <extent>
+        <charseq START="1340" END="1349">Palm Beach</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-27" ARGNUM="2">
+      <extent>
+        <charseq START="1340" END="1373">Palm Beach and Miami Dade counties</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001201.2000.1828-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001201.2000.1828-E16" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1340" END="1373">Palm Beach and Miami Dade counties</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-29" ARGNUM="1">
+      <extent>
+        <charseq START="1355" END="1364">Miami Dade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-27" ARGNUM="2">
+      <extent>
+        <charseq START="1340" END="1373">Palm Beach and Miami Dade counties</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

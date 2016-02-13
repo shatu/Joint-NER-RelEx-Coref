@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001012.1400.1027.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001012.1400.1027">
+<composite_entity ID="CNN20001012.1400.1027-CE1">
+  <entity ID="CNN20001012.1400.1027-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NOM">
+      <extent>
+        <charseq START="65" END="104">a leading chinese pharmaceutical company</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="104">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-6" TYPE="NOM">
+      <extent>
+        <charseq START="261" END="273">the drugmaker</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="273">drugmaker</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-7" TYPE="NOM">
+      <extent>
+        <charseq START="287" END="305">the chinese company</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="305">company</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1027-CE2">
+  <entity ID="CNN20001012.1400.1027-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="75" END="81">chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="75" END="81">chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="291" END="297">chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="291" END="297">chinese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1027-CE3">
+  <entity ID="CNN20001012.1400.1027-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="3-3" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="156" END="159">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="159">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-5" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="173" END="176">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="176">u.s.</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1027-CE4">
+  <entity ID="CNN20001012.1400.1027-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="169" END="205">the u.s. food and drug
+administration</charseq>
+      </extent>
+      <head>
+        <charseq START="178" END="205">food and drug
+administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="178" END="205">food and drug
+administration</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1027-CE5">
+  <entity ID="CNN20001012.1400.1027-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-10" TYPE="PRE">
+      <extent>
+        <charseq START="385" END="392">consumer</charseq>
+      </extent>
+      <head>
+        <charseq START="385" END="392">consumer</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001012.1400.1027-CE6">
+  <entity ID="CNN20001012.1400.1027-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="6-9" TYPE="PRE">
+      <extent>
+        <charseq START="372" END="379">business</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="379">business</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001012.1400.1027-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="104">a leading chinese pharmaceutical company</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="104">a leading chinese pharmaceutical company</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="75" END="81">chinese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="287" END="305">the chinese company</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E1" ENTITYMENTIONID="1-7" ARGNUM="1">
+      <extent>
+        <charseq START="287" END="305">the chinese company</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E2" ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="291" END="297">chinese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001012.1400.1027-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="169" END="205">the u.s. food and drug
+administration</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="169" END="205">the u.s. food and drug
+administration</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001012.1400.1027-E3" ENTITYMENTIONID="3-5" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="176">u.s.</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

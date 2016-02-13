@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="XIN20001123.1400.0119.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="XIN20001123.1400.0119">
+<composite_entity ID="XIN20001123.1400.0119-CE1">
+  <entity ID="XIN20001123.1400.0119-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="1-2" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="181" END="183">县、乡</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="183">县、乡</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-6" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="247" END="248">县乡</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="248">县乡</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE2">
+  <entity ID="XIN20001123.1400.0119-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="183" END="183">乡</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="183">乡</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-7" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="248" END="248">乡</charseq>
+      </extent>
+      <head>
+        <charseq START="248" END="248">乡</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE3">
+  <entity ID="XIN20001123.1400.0119-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="3-4" TYPE="NOM">
+      <extent>
+        <charseq START="211" END="212">农户</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="212">农户</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE4">
+  <entity ID="XIN20001123.1400.0119-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="218" END="220">各乡镇</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="220">乡镇</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE5">
+  <entity ID="XIN20001123.1400.0119-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-21" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="222" END="225">各行政村</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="225">村</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE6">
+  <entity ID="XIN20001123.1400.0119-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="7-30" TYPE="NOM">
+      <extent>
+        <charseq START="241" END="243">村干部</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="243">干部</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE7">
+  <entity ID="XIN20001123.1400.0119-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NOM">
+      <extent>
+        <charseq START="296" END="299">安阳市委</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="299">市委</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE8">
+  <entity ID="XIN20001123.1400.0119-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-14" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="312" END="313">本地</charseq>
+      </extent>
+      <head>
+        <charseq START="312" END="313">本地</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-24" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="302" END="303">各县</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="303">县</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-25" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="338" END="339">各县</charseq>
+      </extent>
+      <head>
+        <charseq START="339" END="339">县</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE9">
+  <entity ID="XIN20001123.1400.0119-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="10-11" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="305" END="307">市、区</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="307">市、区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-15" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="341" END="343">市、区</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="343">市、区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE10">
+  <entity ID="XIN20001123.1400.0119-E11" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="307" END="307">区</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="307">区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-17" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="343" END="343">区</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="343">区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE11">
+  <entity ID="XIN20001123.1400.0119-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="6-39" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="241" END="241">村</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="241">村</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE12">
+  <entity ID="XIN20001123.1400.0119-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="12-18" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="247" END="247">县</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="247">县</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-19" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="181" END="181">县</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="181">县</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE13">
+  <entity ID="XIN20001123.1400.0119-E13" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="13-20" TYPE="NOM">
+      <extent>
+        <charseq START="188" END="189">农村</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="189">农村</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-22" TYPE="NOM">
+      <extent>
+        <charseq START="194" END="195">农村</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="195">农村</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE14">
+  <entity ID="XIN20001123.1400.0119-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NAM">
+      <extent>
+        <charseq START="69" END="71">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="71">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="69" END="71">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE15">
+  <entity ID="XIN20001123.1400.0119-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="72" END="73">郑州</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="73">郑州</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="72" END="73">郑州</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE16">
+  <entity ID="XIN20001123.1400.0119-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-27" TYPE="APP">
+      <extent>
+        <charseq START="82" END="85">记者刘健</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="16-28" TYPE="NAM">
+      <extent>
+        <charseq START="84" END="85">刘健</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="85">刘健</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="84" END="85">刘健</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001123.1400.0119-E17" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="17-29" TYPE="NOM">
+      <extent>
+        <charseq START="82" END="83">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="83">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE17">
+  <entity ID="XIN20001123.1400.0119-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="296" END="297">安阳</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="297">安阳</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-12" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="305" END="305">市</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="305">市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-16" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="341" END="341">市</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="341">市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-31" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="87" END="93">河南省安阳
+市</charseq>
+      </extent>
+      <head>
+        <charseq START="90" END="93">安阳
+市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-33" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="100" END="101">全市</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="101">全市</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-38" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="140">安阳市</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="140">安阳市</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="138" END="140">安阳市</charseq>
+      </name>
+      <name>
+        <charseq START="296" END="297">安阳</charseq>
+      </name>
+      <name>
+        <charseq START="90" END="93">安阳
+市</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE18">
+  <entity ID="XIN20001123.1400.0119-E19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="19-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="87" END="89">河南省</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="89">河南省</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="87" END="89">河南省</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE19">
+  <entity ID="XIN20001123.1400.0119-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="20-8" TYPE="NOM">
+      <extent>
+        <charseq START="287" END="289">农
+民</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="289">农
+民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-34" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="120" END="121">农民</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="121">农民</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE20">
+  <entity ID="XIN20001123.1400.0119-E21" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="21-35" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="127" END="128">农村</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="128">农村</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-41" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="169" END="170">农村</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="170">农村</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE21">
+  <entity ID="XIN20001123.1400.0119-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="135" END="136">滑县</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="136">滑县</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-40" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="155" END="157">这个县</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="157">县</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="135" END="136">滑县</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001123.1400.0119-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="23-37" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="149">安阳市所辖的一个农业大县</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="149">大县</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001123.1400.0119-CE22">
+  <entity ID="XIN20001123.1400.0119-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="24-5" TYPE="NOM">
+      <extent>
+        <charseq START="247" END="250">县乡干部</charseq>
+      </extent>
+      <head>
+        <charseq START="249" END="250">干部</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-42" TYPE="NOM">
+      <extent>
+        <charseq START="181" END="186">县、乡
+干部</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="186">干部</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="XIN20001123.1400.0119-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="69" END="73">新华社郑州</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E14" ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="69" END="71">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E15" ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="72" END="73">郑州</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001123.1400.0119-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="87" END="93">河南省安阳
+市</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E18" ENTITYMENTIONID="18-31" ARGNUM="1">
+      <extent>
+        <charseq START="87" END="93">河南省安阳
+市</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E19" ENTITYMENTIONID="19-32" ARGNUM="2">
+      <extent>
+        <charseq START="87" END="89">河南省</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001123.1400.0119-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="296" END="299">安阳市委</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E8" ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="296" END="299">安阳市委</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001123.1400.0119-E18" ENTITYMENTIONID="18-10" ARGNUM="2">
+      <extent>
+        <charseq START="296" END="297">安阳</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

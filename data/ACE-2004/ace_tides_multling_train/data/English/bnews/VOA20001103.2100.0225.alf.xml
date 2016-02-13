@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="VOA20001103.2100.0225.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001103.2100.0225">
+<composite_entity ID="VOA20001103.2100.0225-CE1">
+  <entity ID="VOA20001103.2100.0225-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="1-18" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="607" END="619">the same city</charseq>
+      </extent>
+      <head>
+        <charseq START="616" END="619">city</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE2">
+  <entity ID="VOA20001103.2100.0225-E3" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="3-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="93">Afghanistan's Taliban faction</charseq>
+      </extent>
+      <head>
+        <charseq START="87" END="93">faction</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="87" END="93">faction</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001103.2100.0225-E4" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="4-5" TYPE="PRE">
+      <extent>
+        <charseq START="79" END="85">Taliban</charseq>
+      </extent>
+      <head>
+        <charseq START="79" END="85">Taliban</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE3">
+  <entity ID="VOA20001103.2100.0225-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="75">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="75">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="217" END="227">Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="227">Afghanistan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="75">Afghanistan</charseq>
+      </name>
+      <name>
+        <charseq START="217" END="227">Afghanistan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE4">
+  <entity ID="VOA20001103.2100.0225-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NAM">
+      <extent>
+        <charseq START="99" END="130">the opposition Northern Alliance</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="130">Northern Alliance</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="114" END="130">Northern Alliance</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE5">
+  <entity ID="VOA20001103.2100.0225-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM">
+      <extent>
+        <charseq START="172" END="189">the United Nations</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="189">United Nations</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-11" TYPE="NOM">
+      <extent>
+        <charseq START="253" END="266">the world body</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="266">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="176" END="189">United Nations</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001103.2100.0225-E9" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="9-9" TYPE="PRE">
+      <extent>
+        <charseq START="196" END="197">UN</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="197">UN</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE6">
+  <entity ID="VOA20001103.2100.0225-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-4" TYPE="NAM">
+      <extent>
+        <charseq START="229" END="246">Franchesco Bendrel</charseq>
+      </extent>
+      <head>
+        <charseq START="229" END="246">Franchesco Bendrel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="229" END="246">Franchesco Bendrel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001103.2100.0225-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-2" TYPE="APP">
+      <extent>
+        <charseq START="192" END="246">The UN
+special envoy for Afghanistan Franchesco Bendrel</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="8-3" TYPE="NOM">
+      <extent>
+        <charseq START="192" END="227">The UN
+special envoy for Afghanistan</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="211">envoy</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-14" TYPE="NAM">
+      <extent>
+        <charseq START="427" END="437">Mr. Bendrel</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="437">Bendrel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-16" TYPE="PRO">
+      <extent>
+        <charseq START="444" END="445">he</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="445">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="431" END="437">Bendrel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="VOA20001103.2100.0225-E12" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="12-15" TYPE="PRE">
+      <extent>
+        <charseq START="427" END="428">Mr</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="428">Mr</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE7">
+  <entity ID="VOA20001103.2100.0225-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="ATR">
+    <entity_mention ID="10-12" TYPE="PRE">
+      <extent>
+        <charseq START="257" END="261">world</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="261">world</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE8">
+  <entity ID="VOA20001103.2100.0225-E11" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NOM">
+      <extent>
+        <charseq START="303" END="315">the two sides</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="315">sides</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VOA20001103.2100.0225-CE9">
+  <entity ID="VOA20001103.2100.0225-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-17" TYPE="NOM">
+      <extent>
+        <charseq START="513" END="531">the two
+delegations</charseq>
+      </extent>
+      <head>
+        <charseq START="521" END="531">delegations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="VOA20001103.2100.0225-R1" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="192" END="227">The UN
+special envoy for Afghanistan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E8" ENTITYMENTIONID="8-3" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="227">The UN
+special envoy for Afghanistan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E5" ENTITYMENTIONID="5-10" ARGNUM="2">
+      <extent>
+        <charseq START="217" END="227">Afghanistan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001103.2100.0225-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="192" END="227">The UN
+special envoy for Afghanistan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E8" ENTITYMENTIONID="8-3" ARGNUM="1">
+      <extent>
+        <charseq START="192" END="227">The UN
+special envoy for Afghanistan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E9" ENTITYMENTIONID="9-9" ARGNUM="2">
+      <extent>
+        <charseq START="196" END="197">UN</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001103.2100.0225-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="65" END="93">Afghanistan's Taliban faction</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E3" ENTITYMENTIONID="3-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="93">Afghanistan's Taliban faction</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VOA20001103.2100.0225-E5" ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="75">Afghanistan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>
