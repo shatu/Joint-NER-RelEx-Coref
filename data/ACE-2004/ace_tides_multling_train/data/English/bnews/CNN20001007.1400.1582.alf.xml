@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001007.1400.1582.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001007.1400.1582">
+<composite_entity ID="CNN20001007.1400.1582-CE1">
+  <entity ID="CNN20001007.1400.1582-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-1" TYPE="BAR">
+      <extent>
+        <charseq START="65" END="123">students at a middle school in calaveras county, california</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="72">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-6" TYPE="PRO">
+      <extent>
+        <charseq START="203" END="207">their</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="207">their</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001007.1400.1582-CE2">
+  <entity ID="CNN20001007.1400.1582-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="77" END="123">a middle school in calaveras county, california</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="91">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="NOM">
+      <extent>
+        <charseq START="203" END="214">their campus</charseq>
+      </extent>
+      <head>
+        <charseq START="209" END="214">campus</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001007.1400.1582-CE3">
+  <entity ID="CNN20001007.1400.1582-E3" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="96" END="123">calaveras county, california</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="111">calaveras county</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="96" END="111">calaveras county</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001007.1400.1582-E6" TYPE="GPE" SUBTYPE="County-or-District" CLASS="ATR">
+    <entity_mention ID="6-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="321" END="326">county</charseq>
+      </extent>
+      <head>
+        <charseq START="321" END="326">county</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001007.1400.1582-CE4">
+  <entity ID="CNN20001007.1400.1582-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="114" END="123">california</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="123">california</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="114" END="123">california</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001007.1400.1582-CE5">
+  <entity ID="CNN20001007.1400.1582-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="317" END="351">the county
+agriculture commissioner</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="351">commissioner</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001007.1400.1582-CE6">
+  <entity ID="CNN20001007.1400.1582-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-9" TYPE="NOM">
+      <extent>
+        <charseq START="363" END="375">the beekeeper</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="375">beekeeper</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001007.1400.1582-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="65" END="123">students at a middle school in calaveras county, california</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="123">students at a middle school in calaveras county, california</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="77" END="123">a middle school in calaveras county, california</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001007.1400.1582-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="77" END="123">a middle school in calaveras county, california</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="77" END="123">a middle school in calaveras county, california</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="96" END="123">calaveras county, california</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001007.1400.1582-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="96" END="123">calaveras county, california</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="96" END="123">calaveras county, california</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E4" ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="114" END="123">california</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001007.1400.1582-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="203" END="214">their campus</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E1" ENTITYMENTIONID="1-6" ARGNUM="1">
+      <extent>
+        <charseq START="203" END="207">their</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E2" ENTITYMENTIONID="2-5" ARGNUM="2">
+      <extent>
+        <charseq START="203" END="214">their campus</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001007.1400.1582-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="317" END="351">the county
+agriculture commissioner</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="317" END="351">the county
+agriculture commissioner</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001007.1400.1582-E6" ENTITYMENTIONID="6-8" ARGNUM="2">
+      <extent>
+        <charseq START="321" END="326">county</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

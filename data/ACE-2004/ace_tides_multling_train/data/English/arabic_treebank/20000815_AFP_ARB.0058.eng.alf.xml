@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0058.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0058.eng">
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE1">
+  <entity ID="20000815_AFP_ARB.0058.eng-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="NOM">
+      <extent>
+        <charseq START="522" END="540">the fleet's command</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="540">command</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE2">
+  <entity ID="20000815_AFP_ARB.0058.eng-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="2-4" TYPE="NOM">
+      <extent>
+        <charseq START="522" END="530">the fleet</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="530">fleet</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE3">
+  <entity ID="20000815_AFP_ARB.0058.eng-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="NAM">
+      <extent>
+        <charseq START="565" END="583">Komsomoliska Pravda</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="583">Komsomoliska Pravda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="565" END="583">Komsomoliska Pravda</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE4">
+  <entity ID="20000815_AFP_ARB.0058.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-7" TYPE="APP">
+      <extent>
+        <charseq START="594" END="646">Boris Pavlov, head of the Biological
+Crisis Institute</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="4-8" TYPE="NAM">
+      <extent>
+        <charseq START="594" END="605">Boris Pavlov</charseq>
+      </extent>
+      <head>
+        <charseq START="594" END="605">Boris Pavlov</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-16" TYPE="PRO">
+      <extent>
+        <charseq START="1014" END="1015">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1014" END="1015">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="594" END="605">Boris Pavlov</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0058.eng-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-9" TYPE="BAR">
+      <extent>
+        <charseq START="608" END="646">head of the Biological
+Crisis Institute</charseq>
+      </extent>
+      <head>
+        <charseq START="608" END="611">head</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE5">
+  <entity ID="20000815_AFP_ARB.0058.eng-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="NAM">
+      <extent>
+        <charseq START="620" END="646">Biological
+Crisis Institute</charseq>
+      </extent>
+      <head>
+        <charseq START="620" END="646">Biological
+Crisis Institute</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="620" END="646">Biological
+Crisis Institute</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE6">
+  <entity ID="20000815_AFP_ARB.0058.eng-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="7-13" TYPE="NOM">
+      <extent>
+        <charseq START="765" END="774">The sailor</charseq>
+      </extent>
+      <head>
+        <charseq START="769" END="774">sailor</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-15" TYPE="PRO">
+      <extent>
+        <charseq START="880" END="881">he</charseq>
+      </extent>
+      <head>
+        <charseq START="880" END="881">he</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE7">
+  <entity ID="20000815_AFP_ARB.0058.eng-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="8-14" TYPE="NOM">
+      <extent>
+        <charseq START="853" END="867">any other diver</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="867">diver</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE8">
+  <entity ID="20000815_AFP_ARB.0058.eng-E9" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="GEN">
+    <entity_mention ID="9-34" TYPE="MWH">
+      <extent>
+        <charseq START="787" END="819">the airlock (SAS) or torpedo tube</charseq>
+      </extent>
+      <head>
+        <charseq START="791" END="819">airlock (SAS) or torpedo tube</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE9">
+  <entity ID="20000815_AFP_ARB.0058.eng-E10" TYPE="VEH" SUBTYPE="Water" CLASS="GEN">
+    <entity_mention ID="10-17" TYPE="NOM">
+      <extent>
+        <charseq START="1077" END="1105">a
+submarine the size of Kursk</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1087">submarine</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE10">
+  <entity ID="20000815_AFP_ARB.0058.eng-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-19" TYPE="NAM">
+      <extent>
+        <charseq START="1130" END="1151">the newspaper Sigodina</charseq>
+      </extent>
+      <head>
+        <charseq START="1144" END="1151">Sigodina</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1144" END="1151">Sigodina</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0058.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="12-20" TYPE="PRE">
+      <extent>
+        <charseq START="1130" END="1142">the newspaper</charseq>
+      </extent>
+      <head>
+        <charseq START="1134" END="1142">newspaper</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE11">
+  <entity ID="20000815_AFP_ARB.0058.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="NOM">
+      <extent>
+        <charseq START="1167" END="1237">the "crew on
+board submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+      </extent>
+      <head>
+        <charseq START="1172" END="1175">crew</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE12">
+  <entity ID="20000815_AFP_ARB.0058.eng-E14" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention ID="14-22" TYPE="NAM">
+      <extent>
+        <charseq START="1186" END="1237">submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+      </extent>
+      <head>
+        <charseq START="1196" END="1200">K-429</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1196" END="1200">K-429</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE13">
+  <entity ID="20000815_AFP_ARB.0058.eng-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="15-23" TYPE="NAM">
+      <extent>
+        <charseq START="1219" END="1237">Pacific Ocean Fleet</charseq>
+      </extent>
+      <head>
+        <charseq START="1219" END="1237">Pacific Ocean Fleet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1219" END="1237">Pacific Ocean Fleet</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE14">
+  <entity ID="20000815_AFP_ARB.0058.eng-E16" TYPE="VEH" SUBTYPE="Water" CLASS="USP">
+    <entity_mention ID="16-25" TYPE="NOM">
+      <extent>
+        <charseq START="1360" END="1372">a rescue
+boat</charseq>
+      </extent>
+      <head>
+        <charseq START="1369" END="1372">boat</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE15">
+  <entity ID="20000815_AFP_ARB.0058.eng-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-28" TYPE="NOM">
+      <extent>
+        <charseq START="1424" END="1441">five to six people</charseq>
+      </extent>
+      <head>
+        <charseq START="1436" END="1441">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE16">
+  <entity ID="20000815_AFP_ARB.0058.eng-E18" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="SPC">
+    <entity_mention ID="18-35" TYPE="NOM">
+      <extent>
+        <charseq START="1505" END="1537">the central part of
+the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="1517" END="1520">part</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE17">
+  <entity ID="20000815_AFP_ARB.0058.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="20-36" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="113" END="118">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="118">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="113" END="118">Moscow</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE18">
+  <entity ID="20000815_AFP_ARB.0058.eng-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="21-37" TYPE="NAM">
+      <extent>
+        <charseq START="126" END="128">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="128">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="126" END="128">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE19">
+  <entity ID="20000815_AFP_ARB.0058.eng-E22" TYPE="WEA" SUBTYPE="Exploding" CLASS="ATR">
+    <entity_mention ID="22-38" TYPE="PRE">
+      <extent>
+        <charseq START="808" END="814">torpedo</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="814">torpedo</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE20">
+  <entity ID="20000815_AFP_ARB.0058.eng-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-1" TYPE="NOM">
+      <extent>
+        <charseq START="157" END="268">the crew on the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea the day before yesterday</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="164">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-31" TYPE="NOM">
+      <extent>
+        <charseq START="1540" END="1554">the entire crew</charseq>
+      </extent>
+      <head>
+        <charseq START="1551" END="1554">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-33" TYPE="PRO">
+      <extent>
+        <charseq START="1590" END="1594">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1590" END="1594">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-53" TYPE="NOM">
+      <extent>
+        <charseq START="433" END="440">the crew</charseq>
+      </extent>
+      <head>
+        <charseq START="437" END="440">crew</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE21">
+  <entity ID="20000815_AFP_ARB.0058.eng-E23" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention ID="23-2" TYPE="NOM">
+      <extent>
+        <charseq START="478" END="490">the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="482" END="490">submarine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-11" TYPE="NOM">
+      <extent>
+        <charseq START="661" END="673">The submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="673">submarine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-18" TYPE="NAM">
+      <extent>
+        <charseq START="1101" END="1105">Kursk</charseq>
+      </extent>
+      <head>
+        <charseq START="1101" END="1105">Kursk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-26" TYPE="NOM">
+      <extent>
+        <charseq START="1386" END="1398">the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="1390" END="1398">submarine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-30" TYPE="NOM">
+      <extent>
+        <charseq START="1525" END="1537">the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="1529" END="1537">submarine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-39" TYPE="NAM">
+      <extent>
+        <charseq START="169" END="268">the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea the day before yesterday</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="195">Kursk</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-40" TYPE="WHQ">
+      <extent>
+        <charseq START="198" END="202">which</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="202">which</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-46" TYPE="NOM">
+      <extent>
+        <charseq START="363" END="375">the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="367" END="375">submarine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1101" END="1105">Kursk</charseq>
+      </name>
+      <name>
+        <charseq START="191" END="195">Kursk</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0058.eng-E24" TYPE="VEH" SUBTYPE="Water" CLASS="ATR">
+    <entity_mention ID="24-41" TYPE="PRE">
+      <extent>
+        <charseq START="173" END="189">Russian submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="189">submarine</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE22">
+  <entity ID="20000815_AFP_ARB.0058.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="25-42" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="173" END="179">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="179">Russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE23">
+  <entity ID="20000815_AFP_ARB.0058.eng-E26" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="26-43" TYPE="NOM">
+      <extent>
+        <charseq START="215" END="243">the bottom of the Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="224">bottom</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE24">
+  <entity ID="20000815_AFP_ARB.0058.eng-E27" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="27-44" TYPE="NAM">
+      <extent>
+        <charseq START="233" END="243">Barents Sea</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="243">Barents Sea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="233" END="243">Barents Sea</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE25">
+  <entity ID="20000815_AFP_ARB.0058.eng-E28" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="28-5" TYPE="PRE">
+      <extent>
+        <charseq START="545" END="554">Individual</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="554">Individual</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-12" TYPE="PRE">
+      <extent>
+        <charseq START="693" END="702">individual</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="702">individual</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-45" TYPE="PRE">
+      <extent>
+        <charseq START="282" END="291">individual</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="291">individual</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE26">
+  <entity ID="20000815_AFP_ARB.0058.eng-E29" TYPE="VEH" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="29-24" TYPE="NOM">
+      <extent>
+        <charseq START="1315" END="1398">a "basket" filled with oxygen suspended from a rescue
+boat attached to the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="1318" END="1323">basket</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-27" TYPE="NOM">
+      <extent>
+        <charseq START="1402" END="1412">Each basket</charseq>
+      </extent>
+      <head>
+        <charseq START="1407" END="1412">basket</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-47" TYPE="NOM">
+      <extent>
+        <charseq START="313" END="327">a rescue basket</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="327">basket</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE27">
+  <entity ID="20000815_AFP_ARB.0058.eng-E30" TYPE="VEH" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="30-29" TYPE="NOM">
+      <extent>
+        <charseq START="1472" END="1537">the two rescue capsules found in the central part of
+the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="1487" END="1494">capsules</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-32" TYPE="NOM">
+      <extent>
+        <charseq START="1570" END="1585">the two capsules</charseq>
+      </extent>
+      <head>
+        <charseq START="1578" END="1585">capsules</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-48" TYPE="NOM">
+      <extent>
+        <charseq START="332" END="375">the
+rescue capsules present in the submarine</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="350">capsules</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE28">
+  <entity ID="20000815_AFP_ARB.0058.eng-E31" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="31-49" TYPE="APP">
+      <extent>
+        <charseq START="380" END="425">A military intelligence expert, Vladimir Orban</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="31-50" TYPE="NOM">
+      <extent>
+        <charseq START="380" END="409">A military intelligence expert</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="409">expert</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0058.eng-E32" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="32-51" TYPE="NAM">
+      <extent>
+        <charseq START="412" END="425">Vladimir Orban</charseq>
+      </extent>
+      <head>
+        <charseq START="412" END="425">Vladimir Orban</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="412" END="425">Vladimir Orban</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0058.eng-CE29">
+  <entity ID="20000815_AFP_ARB.0058.eng-E33" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="33-52" TYPE="PRE">
+      <extent>
+        <charseq START="382" END="389">military</charseq>
+      </extent>
+      <head>
+        <charseq START="382" END="389">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20000815_AFP_ARB.0058.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1167" END="1237">the "crew on
+board submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E13" ENTITYMENTIONID="13-21" ARGNUM="1">
+      <extent>
+        <charseq START="1167" END="1237">the "crew on
+board submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E14" ENTITYMENTIONID="14-22" ARGNUM="2">
+      <extent>
+        <charseq START="1186" END="1237">submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="169" END="243">the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E25" ENTITYMENTIONID="25-42" ARGNUM="1">
+      <extent>
+        <charseq START="173" END="179">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E24" ENTITYMENTIONID="24-41" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="189">Russian submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="157" END="268">the crew on the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea the day before yesterday</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E19" ENTITYMENTIONID="19-1" ARGNUM="1">
+      <extent>
+        <charseq START="157" END="268">the crew on the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea the day before yesterday</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E24" ENTITYMENTIONID="24-41" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="189">Russian submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="215" END="243">the bottom of the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E26" ENTITYMENTIONID="26-43" ARGNUM="1">
+      <extent>
+        <charseq START="215" END="243">the bottom of the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E27" ENTITYMENTIONID="27-44" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="243">Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="169" END="243">the Russian submarine Kursk, which
+settled at the bottom of the Barents Sea</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E24" ENTITYMENTIONID="24-41" ARGNUM="1">
+      <extent>
+        <charseq START="173" END="189">Russian submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E26" ENTITYMENTIONID="26-43" ARGNUM="2">
+      <extent>
+        <charseq START="215" END="243">the bottom of the Barents Sea</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="332" END="375">the
+rescue capsules present in the submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E30" ENTITYMENTIONID="30-48" ARGNUM="1">
+      <extent>
+        <charseq START="332" END="375">the
+rescue capsules present in the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E23" ENTITYMENTIONID="23-46" ARGNUM="2">
+      <extent>
+        <charseq START="363" END="375">the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="522" END="540">the fleet's command</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E1" ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="522" END="540">the fleet's command</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E2" ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="522" END="530">the fleet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R8" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="8-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1315" END="1398">a "basket" filled with oxygen suspended from a rescue
+boat attached to the submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E29" ENTITYMENTIONID="29-24" ARGNUM="1">
+      <extent>
+        <charseq START="1315" END="1398">a "basket" filled with oxygen suspended from a rescue
+boat attached to the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E16" ENTITYMENTIONID="16-25" ARGNUM="2">
+      <extent>
+        <charseq START="1360" END="1372">a rescue
+boat</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R9" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1360" END="1398">a rescue
+boat attached to the submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E16" ENTITYMENTIONID="16-25" ARGNUM="1">
+      <extent>
+        <charseq START="1360" END="1372">a rescue
+boat</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E23" ENTITYMENTIONID="23-26" ARGNUM="2">
+      <extent>
+        <charseq START="1386" END="1398">the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1472" END="1537">the two rescue capsules found in the central part of
+the submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E30" ENTITYMENTIONID="30-29" ARGNUM="1">
+      <extent>
+        <charseq START="1472" END="1537">the two rescue capsules found in the central part of
+the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E18" ENTITYMENTIONID="18-35" ARGNUM="2">
+      <extent>
+        <charseq START="1505" END="1537">the central part of
+the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1505" END="1537">the central part of
+the submarine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E18" ENTITYMENTIONID="18-35" ARGNUM="1">
+      <extent>
+        <charseq START="1505" END="1537">the central part of
+the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E23" ENTITYMENTIONID="23-30" ARGNUM="2">
+      <extent>
+        <charseq START="1525" END="1537">the submarine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R12" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1186" END="1237">submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E15" ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="1219" END="1237">Pacific Ocean Fleet</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E14" ENTITYMENTIONID="14-22" ARGNUM="2">
+      <extent>
+        <charseq START="1186" END="1237">submarine K-429 belonging to the Pacific Ocean Fleet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0058.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="608" END="646">head of the Biological
+Crisis Institute</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E5" ENTITYMENTIONID="5-9" ARGNUM="1">
+      <extent>
+        <charseq START="608" END="646">head of the Biological
+Crisis Institute</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0058.eng-E6" ENTITYMENTIONID="6-10" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="646">Biological
+Crisis Institute</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

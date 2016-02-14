@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000715_AFP_ARB.0065.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000715_AFP_ARB.0065.eng">
+<entity ID="20000715_AFP_ARB.0065.eng-E1" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="1-7" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="184" END="196">Dresden
+(east</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="190">Dresden</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="299" END="306">far left</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="306">left</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="346" END="353">far left</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="353">left</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="94" END="110">Dresden (Germany)</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="100">Dresden</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="265" END="268">town</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="268">town</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="94" END="100">Dresden</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="109">Germany</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="109">Germany</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="103" END="109">Germany</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="120">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="120">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="118" END="120">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="126" END="131">Police</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="131">Police</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="325" END="334">The police</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="334">police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="221" END="275">300 neo-Nazi activists demonstrating in
+the town center</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="242">activists</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="398" END="410">the neo-Nazis</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="410">neo-Nazis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E8" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="261" END="275">the town center</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="275">center</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="295" END="320">200 far left demonstrators</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="320">demonstrators</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="346" END="363">far left activists</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="363">activists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E11" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="11-12" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="225" END="232">neo-Nazi</charseq>
+    </extent>
+    <head>
+      <charseq START="225" END="232">neo-Nazi</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E12" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="12-15" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="371" END="376">stones</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="376">stones</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="416" END="430">security forces</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="430">forces</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000715_AFP_ARB.0065.eng-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="470" END="486">the demonstrators</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="486">demonstrators</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20000715_AFP_ARB.0065.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="221" END="275">300 neo-Nazi activists demonstrating in
+the town center</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="1">
+      <extent>
+        <charseq START="221" END="275">300 neo-Nazi activists demonstrating in
+the town center</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="261" END="275">the town center</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.eng-R2" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E11" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="221" END="275">300 neo-Nazi activists demonstrating in
+the town center</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="1">
+      <extent>
+        <charseq START="221" END="275">300 neo-Nazi activists demonstrating in
+the town center</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-12" ARGNUM="2">
+      <extent>
+        <charseq START="225" END="232">neo-Nazi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.eng-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E3" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="261" END="275">the town center</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="261" END="275">the town center</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-10" ARGNUM="2">
+      <extent>
+        <charseq START="265" END="268">town</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.eng-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E12" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="346" END="376">far left activists threw stones</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-14" ARGNUM="1">
+      <extent>
+        <charseq START="346" END="363">far left activists</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-15" ARGNUM="2">
+      <extent>
+        <charseq START="371" END="376">stones</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0065.eng-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E4" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="20000715_AFP_ARB.0065.eng-E3" ARGNUM="1" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="94" END="110">Dresden (Germany)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="103" END="109">Germany</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-1" ARGNUM="1">
+      <extent>
+        <charseq START="94" END="110">Dresden (Germany)</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

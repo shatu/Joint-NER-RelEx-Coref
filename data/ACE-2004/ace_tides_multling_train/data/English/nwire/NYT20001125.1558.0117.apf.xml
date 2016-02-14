@@ -1,0 +1,1825 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001125.1558.0117.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001125.1558.0117">
+<entity ID="NYT20001125.1558.0117-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="873" END="884">Pennsylvania</charseq>
+    </extent>
+    <head>
+      <charseq START="873" END="884">Pennsylvania</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="873" END="884">Pennsylvania</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="860" END="867">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="867">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="860" END="867">New York</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1027" END="1045">Lt.
+Suzanne Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1045">Suzanne Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1027" END="1029">Lt.</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1029">Lt.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1048" END="1154">hunter safety administrator of the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+    </extent>
+    <head>
+      <charseq START="1062" END="1074">administrator</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1551" END="1557">Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1557">Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1859" END="1865">Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="1859" END="1865">Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-78" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3252" END="3258">Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="3252" END="3258">Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-81" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3364" END="3370">Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="3364" END="3370">Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-91" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3646" END="3652">Koppelo</charseq>
+    </extent>
+    <head>
+      <charseq START="3646" END="3652">Koppelo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3730" END="3732">she</charseq>
+    </extent>
+    <head>
+      <charseq START="3730" END="3732">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1031" END="1045">Suzanne Koppelo</charseq>
+    </name>
+    <name>
+      <charseq START="1551" END="1557">Koppelo</charseq>
+    </name>
+    <name>
+      <charseq START="1859" END="1865">Koppelo</charseq>
+    </name>
+    <name>
+      <charseq START="3252" END="3258">Koppelo</charseq>
+    </name>
+    <name>
+      <charseq START="3364" END="3370">Koppelo</charseq>
+    </name>
+    <name>
+      <charseq START="3646" END="3652">Koppelo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1079" END="1154">the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+    </extent>
+    <head>
+      <charseq START="1099" END="1106">division</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2223" END="2250">the law enforcement division</charseq>
+    </extent>
+    <head>
+      <charseq START="2243" END="2250">division</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1111" END="1154">the Michigan Department of Natural Resources</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1154">Department of Natural Resources</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1124" END="1154">Department of Natural Resources</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E7" TYPE="FAC" SUBTYPE="Other" CLASS="GEN">
+  <entity_mention ID="7-16" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1192" END="1199">platform</charseq>
+    </extent>
+    <head>
+      <charseq START="1192" END="1199">platform</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-31" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1827" END="1834">platform</charseq>
+    </extent>
+    <head>
+      <charseq START="1827" END="1834">platform</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-96" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="3859" END="3867">platforms</charseq>
+    </extent>
+    <head>
+      <charseq START="3859" END="3867">platforms</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-128" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="589" END="606">elevated platforms</charseq>
+    </extent>
+    <head>
+      <charseq START="598" END="606">platforms</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-129" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="780" END="797">elevated platforms</charseq>
+    </extent>
+    <head>
+      <charseq START="789" END="797">platforms</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E8" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1340" END="1348">platforms</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1348">platforms</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1390" END="1422">a hunter shooting from a platform</charseq>
+    </extent>
+    <head>
+      <charseq START="1392" END="1397">hunter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E10" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="10-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1413" END="1422">a platform</charseq>
+    </extent>
+    <head>
+      <charseq START="1415" END="1422">platform</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2147" END="2158">the platform</charseq>
+    </extent>
+    <head>
+      <charseq START="2151" END="2158">platform</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E11" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="11-23" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1430" END="1436">hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="1430" END="1436">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-45" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2462" END="2468">hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="2462" END="2468">hunters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-24" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1468" END="1470">one</charseq>
+    </extent>
+    <head>
+      <charseq START="1468" END="1470">one</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-26" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1572" END="1576">human</charseq>
+    </extent>
+    <head>
+      <charseq START="1572" END="1576">human</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1611" END="1644">More than 750,000 licensed hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="1638" END="1644">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1696" END="1699">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1696" END="1699">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="15-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1660" END="1677">the Michigan woods</charseq>
+    </extent>
+    <head>
+      <charseq START="1673" END="1677">woods</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-102" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1690" END="1766">where they are expected to kill about 500,000 of the
+state's 1.9 million deer</charseq>
+    </extent>
+    <head>
+      <charseq START="1690" END="1694">where</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E16" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="16-15" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1184" END="1190">firearm</charseq>
+    </extent>
+    <head>
+      <charseq START="1184" END="1190">firearm</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1849" END="1856">firearms</charseq>
+    </extent>
+    <head>
+      <charseq START="1849" END="1856">firearms</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-95" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3833" END="3839">firearm</charseq>
+    </extent>
+    <head>
+      <charseq START="3833" END="3839">firearm</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-127" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="759" END="765">Firearm</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="765">Firearm</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E17" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="17-34" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1921" END="1949">hunters using bows and
+arrows</charseq>
+    </extent>
+    <head>
+      <charseq START="1921" END="1927">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2014" END="2017">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2014" END="2017">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E18" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="18-105" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1935" END="1938">bows</charseq>
+    </extent>
+    <head>
+      <charseq START="1935" END="1938">bows</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2161" END="2181">Sgt. Larry D. Sargent</charseq>
+    </extent>
+    <head>
+      <charseq START="2166" END="2181">Larry D. Sargent</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2161" END="2164">Sgt.</charseq>
+    </extent>
+    <head>
+      <charseq START="2161" END="2164">Sgt.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-41" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="2184" END="2250">hunter education field coordinator for the law enforcement division</charseq>
+    </extent>
+    <head>
+      <charseq START="2207" END="2217">coordinator</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-72" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2998" END="3004">Sargent</charseq>
+    </extent>
+    <head>
+      <charseq START="2998" END="3004">Sargent</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-89" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3562" END="3568">Sargent</charseq>
+    </extent>
+    <head>
+      <charseq START="3562" END="3568">Sargent</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2166" END="2181">Larry D. Sargent</charseq>
+    </name>
+    <name>
+      <charseq START="2998" END="3004">Sargent</charseq>
+    </name>
+    <name>
+      <charseq START="3562" END="3568">Sargent</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="275" END="299">GROSSE POINTE PARK, Mich.</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="292">GROSSE POINTE PARK</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="275" END="292">GROSSE POINTE PARK</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-11" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1048" END="1053">hunter</charseq>
+    </extent>
+    <head>
+      <charseq START="1048" END="1053">hunter</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-43" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2184" END="2189">hunter</charseq>
+    </extent>
+    <head>
+      <charseq START="2184" END="2189">hunter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E23" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="23-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2412" END="2423">other people</charseq>
+    </extent>
+    <head>
+      <charseq START="2418" END="2423">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E24" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2541" END="2545">a gun</charseq>
+    </extent>
+    <head>
+      <charseq START="2543" END="2545">gun</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E25" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="25-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2550" END="2561">Rob Williams</charseq>
+    </extent>
+    <head>
+      <charseq START="2550" END="2561">Rob Williams</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2572" END="2573">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2572" END="2573">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2716" END="2723">Williams</charseq>
+    </extent>
+    <head>
+      <charseq START="2716" END="2723">Williams</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2779" END="2780">He</charseq>
+    </extent>
+    <head>
+      <charseq START="2779" END="2780">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2797" END="2798">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2797" END="2798">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2822" END="2823">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2822" END="2823">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2861" END="2863">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2861" END="2863">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2873" END="2875">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2873" END="2875">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2888" END="2889">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2888" END="2889">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2943" END="2945">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2943" END="2945">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2927" END="2928">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2927" END="2928">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2980" END="2982">him</charseq>
+    </extent>
+    <head>
+      <charseq START="2980" END="2982">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2954" END="2955">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2954" END="2955">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2963" END="2965">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2963" END="2965">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2550" END="2561">Rob Williams</charseq>
+    </name>
+    <name>
+      <charseq START="2716" END="2723">Williams</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2579" END="2595">a hunting partner</charseq>
+    </extent>
+    <head>
+      <charseq START="2589" END="2595">partner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2598" END="2605">Art Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="2598" END="2605">Art Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2598" END="2605">Art Bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E28" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="28-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2638" END="2707">a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+    </extent>
+    <head>
+      <charseq START="2672" END="2676">blind</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="29-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2701" END="2707">Detroit</charseq>
+    </extent>
+    <head>
+      <charseq START="2701" END="2707">Detroit</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2701" END="2707">Detroit</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E30" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="30-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2765" END="2776">a loaded gun</charseq>
+    </extent>
+    <head>
+      <charseq START="2774" END="2776">gun</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E31" TYPE="FAC" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="31-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2811" END="2820">a platform</charseq>
+    </extent>
+    <head>
+      <charseq START="2813" END="2820">platform</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2943" END="2951">his stand</charseq>
+    </extent>
+    <head>
+      <charseq START="2947" END="2951">stand</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E32" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="32-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2873" END="2919">his gun, which he leaves unloaded on the
+ground</charseq>
+    </extent>
+    <head>
+      <charseq START="2877" END="2879">gun</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-69" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2882" END="2886">which</charseq>
+    </extent>
+    <head>
+      <charseq START="2882" END="2886">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2963" END="2969">his gun</charseq>
+    </extent>
+    <head>
+      <charseq START="2967" END="2969">gun</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-108" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2994" END="2995">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2994" END="2995">it</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3148" END="3167">A 16-year-old hunter</charseq>
+    </extent>
+    <head>
+      <charseq START="3162" END="3167">hunter</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3228" END="3229">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3228" END="3229">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3266" END="3278">The teen-ager</charseq>
+    </extent>
+    <head>
+      <charseq START="3270" END="3278">teen-ager</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3299" END="3300">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3299" END="3300">he</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E34" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="34-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3236" END="3242">the gun</charseq>
+    </extent>
+    <head>
+      <charseq START="3240" END="3242">gun</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3266" END="3284">The teen-ager's gun</charseq>
+    </extent>
+    <head>
+      <charseq START="3282" END="3284">gun</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-80" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3326" END="3331">Others</charseq>
+    </extent>
+    <head>
+      <charseq START="3326" END="3331">Others</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E36" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="36-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3529" END="3541">A lot of guys</charseq>
+    </extent>
+    <head>
+      <charseq START="3538" END="3541">guys</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3578" END="3581">They</charseq>
+    </extent>
+    <head>
+      <charseq START="3578" END="3581">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3590" END="3593">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3590" END="3593">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E37" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="37-90" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3638" END="3643">Others</charseq>
+    </extent>
+    <head>
+      <charseq START="3638" END="3643">Others</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-94" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3774" END="3808">Michigan's large hunting population</charseq>
+    </extent>
+    <head>
+      <charseq START="3799" END="3808">population</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E39" TYPE="PER" CLASS="USP">
+  <entity_mention ID="39-97" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="3870" END="3873">most</charseq>
+    </extent>
+    <head>
+      <charseq START="3870" END="3873">most</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E40" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="40-98" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="3920" END="3931">other states</charseq>
+    </extent>
+    <head>
+      <charseq START="3926" END="3931">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E41" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="41-100" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3939" END="3952">Peter Thompson</charseq>
+    </extent>
+    <head>
+      <charseq START="3939" END="3952">Peter Thompson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3955" END="3974">a 16-year-old hunter</charseq>
+    </extent>
+    <head>
+      <charseq START="3969" END="3974">hunter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3939" END="3952">Peter Thompson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E43" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="43-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="935" END="942">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="935" END="942">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-14" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1115" END="1122">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="1115" END="1122">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1218" END="1225">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="1218" END="1225">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1664" END="1671">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="1664" END="1671">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-83" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3382" END="3386">state</charseq>
+    </extent>
+    <head>
+      <charseq START="3382" END="3386">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-86" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="295" END="299">Mich.</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="299">Mich.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-93" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3774" END="3781">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="3774" END="3781">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-103" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1739" END="1747">the
+state</charseq>
+    </extent>
+    <head>
+      <charseq START="1743" END="1747">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-115" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="332" END="339">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="339">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-118" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="396" END="400">state</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="400">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-122" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="641" END="648">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="641" END="648">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-123" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="693" END="700">Michigan</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="700">Michigan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="935" END="942">Michigan</charseq>
+    </name>
+    <name>
+      <charseq START="1218" END="1225">Michigan</charseq>
+    </name>
+    <name>
+      <charseq START="295" END="299">Mich.</charseq>
+    </name>
+    <name>
+      <charseq START="3774" END="3781">Michigan</charseq>
+    </name>
+    <name>
+      <charseq START="332" END="339">Michigan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001125.1558.0117-E44" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+  <entity_mention ID="44-106" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1944" END="1949">arrows</charseq>
+    </extent>
+    <head>
+      <charseq START="1944" END="1949">arrows</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E45" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="45-107" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2003" END="2011">the
+woods</charseq>
+    </extent>
+    <head>
+      <charseq START="2007" END="2011">woods</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="45-114" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2389" END="2397">the woods</charseq>
+    </extent>
+    <head>
+      <charseq START="2393" END="2397">woods</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E46" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="46-109" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3611" END="3618">the yard</charseq>
+    </extent>
+    <head>
+      <charseq START="3615" END="3618">yard</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E47" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+  <entity_mention ID="47-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2910" END="2919">the
+ground</charseq>
+    </extent>
+    <head>
+      <charseq START="2914" END="2919">ground</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="47-111" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1376" END="1385">the ground</charseq>
+    </extent>
+    <head>
+      <charseq START="1380" END="1385">ground</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E48" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="48-112" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1973" END="1982">the ground</charseq>
+    </extent>
+    <head>
+      <charseq START="1977" END="1982">ground</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-113" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2347" END="2356">the ground</charseq>
+    </extent>
+    <head>
+      <charseq START="2351" END="2356">ground</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E49" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="49-116" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="346" END="389">hunters who climb trees with loaded shotguns</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="352">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="49-124" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="354" END="356">who</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="356">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E50" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="50-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="949" END="957">officials</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="957">officials</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-82" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3382" END="3396">state
+officials</charseq>
+    </extent>
+    <head>
+      <charseq START="3388" END="3396">officials</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-117" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="396" END="410">state
+officials</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="410">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E52" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="52-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1309" END="1319">Two hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="1313" END="1319">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="52-104" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1326" END="1335">themselves</charseq>
+    </extent>
+    <head>
+      <charseq START="1326" END="1335">themselves</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="52-119" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="451" END="457">Two men</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="457">men</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E53" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="53-20" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1354" END="1360">another</charseq>
+    </extent>
+    <head>
+      <charseq START="1354" END="1360">another</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="53-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2124" END="2158">the hunter killed from the platform</charseq>
+    </extent>
+    <head>
+      <charseq START="2128" END="2133">hunter</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="53-120" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="481" END="487">a third</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="487">third</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E54" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="54-6" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="979" END="985">hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="985">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-84" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3490" END="3496">hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="3490" END="3496">hunters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-121" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="641" END="656">Michigan hunters</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="656">hunters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E55" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="55-125" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="375" END="389">loaded shotguns</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="389">shotguns</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-126" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="579" END="586">shotguns</charseq>
+    </extent>
+    <head>
+      <charseq START="579" END="586">shotguns</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001125.1558.0117-E58" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="58-130" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="822" END="884">other
+states with heavy hunting, like New York and Pennsylvania</charseq>
+    </extent>
+    <head>
+      <charseq START="828" END="833">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001125.1558.0117-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="275" END="299">GROSSE POINTE PARK, Mich.</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-1" ARGNUM="1">
+      <extent>
+        <charseq START="275" END="299">GROSSE POINTE PARK, Mich.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-86" ARGNUM="2">
+      <extent>
+        <charseq START="295" END="299">Mich.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E49" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E55" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="346" END="389">hunters who climb trees with loaded shotguns</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="49-116" ARGNUM="1">
+      <extent>
+        <charseq START="346" END="389">hunters who climb trees with loaded shotguns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="55-125" ARGNUM="2">
+      <extent>
+        <charseq START="375" END="389">loaded shotguns</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E50" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="396" END="410">state
+officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="50-117" ARGNUM="1">
+      <extent>
+        <charseq START="396" END="410">state
+officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-118" ARGNUM="2">
+      <extent>
+        <charseq START="396" END="400">state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3382" END="3396">state
+officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="50-82" ARGNUM="1">
+      <extent>
+        <charseq START="3382" END="3396">state
+officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-83" ARGNUM="2">
+      <extent>
+        <charseq START="3382" END="3386">state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E54" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="641" END="656">Michigan hunters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="54-121" ARGNUM="1">
+      <extent>
+        <charseq START="641" END="656">Michigan hunters</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-122" ARGNUM="2">
+      <extent>
+        <charseq START="641" END="648">Michigan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E58" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="822" END="884">other
+states with heavy hunting, like New York and Pennsylvania</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="860" END="867">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-130" ARGNUM="2">
+      <extent>
+        <charseq START="822" END="884">other
+states with heavy hunting, like New York and Pennsylvania</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E58" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="822" END="884">other
+states with heavy hunting, like New York and Pennsylvania</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="873" END="884">Pennsylvania</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="58-130" ARGNUM="2">
+      <extent>
+        <charseq START="822" END="884">other
+states with heavy hunting, like New York and Pennsylvania</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E5" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1048" END="1154">hunter safety administrator of the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-10" ARGNUM="1">
+      <extent>
+        <charseq START="1048" END="1154">hunter safety administrator of the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="2">
+      <extent>
+        <charseq START="1079" END="1154">the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E6" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1079" END="1154">the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="1">
+      <extent>
+        <charseq START="1079" END="1154">the law enforcement
+division of the Michigan Department of Natural Resources</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="2">
+      <extent>
+        <charseq START="1111" END="1154">the Michigan Department of Natural Resources</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1111" END="1154">the Michigan Department of Natural Resources</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="1111" END="1154">the Michigan Department of Natural Resources</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-14" ARGNUM="2">
+      <extent>
+        <charseq START="1115" END="1122">Michigan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E52" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E8" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1309" END="1348">Two hunters shot themselves on platforms</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="52-18" ARGNUM="1">
+      <extent>
+        <charseq START="1309" END="1319">Two hunters</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="1340" END="1348">platforms</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E10" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1390" END="1422">a hunter shooting from a platform</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-21" ARGNUM="1">
+      <extent>
+        <charseq START="1390" END="1422">a hunter shooting from a platform</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-22" ARGNUM="2">
+      <extent>
+        <charseq START="1413" END="1422">a platform</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E15" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1611" END="1677">More than 750,000 licensed hunters are taking to the Michigan woods</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-27" ARGNUM="1">
+      <extent>
+        <charseq START="1611" END="1644">More than 750,000 licensed hunters</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-28" ARGNUM="2">
+      <extent>
+        <charseq START="1660" END="1677">the Michigan woods</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="12-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1690" END="1766">where they are expected to kill about 500,000 of the
+state's 1.9 million deer</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-30" ARGNUM="1">
+      <extent>
+        <charseq START="1696" END="1699">they</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-102" ARGNUM="2">
+      <extent>
+        <charseq START="1690" END="1766">where they are expected to kill about 500,000 of the
+state's 1.9 million deer</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R13" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1660" END="1677">the Michigan woods</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-28" ARGNUM="1">
+      <extent>
+        <charseq START="1660" END="1677">the Michigan woods</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-29" ARGNUM="2">
+      <extent>
+        <charseq START="1664" END="1671">Michigan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R14" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E18" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1921" END="1949">hunters using bows and
+arrows</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="1">
+      <extent>
+        <charseq START="1921" END="1949">hunters using bows and
+arrows</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-105" ARGNUM="2">
+      <extent>
+        <charseq START="1935" END="1938">bows</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E5" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2184" END="2250">hunter education field coordinator for the law enforcement division</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-41" ARGNUM="1">
+      <extent>
+        <charseq START="2184" END="2250">hunter education field coordinator for the law enforcement division</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-42" ARGNUM="2">
+      <extent>
+        <charseq START="2223" END="2250">the law enforcement division</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R16" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E28" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2572" END="2707">he and a hunting partner, Art Bush, waited on a recent morning in
+a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-48" ARGNUM="1">
+      <extent>
+        <charseq START="2572" END="2573">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-52" ARGNUM="2">
+      <extent>
+        <charseq START="2638" END="2707">a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R17" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E28" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2579" END="2707">a hunting partner, Art Bush, waited on a recent morning in
+a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-50" ARGNUM="1">
+      <extent>
+        <charseq START="2579" END="2595">a hunting partner</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-52" ARGNUM="2">
+      <extent>
+        <charseq START="2638" END="2707">a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R18" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E29" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2638" END="2707">a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-52" ARGNUM="1">
+      <extent>
+        <charseq START="2638" END="2707">a conventional earthbound hunting blind about 20 miles west of
+Detroit</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-53" ARGNUM="2">
+      <extent>
+        <charseq START="2701" END="2707">Detroit</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R19" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E31" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2797" END="2820">he hunts from a platform</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-57" ARGNUM="1">
+      <extent>
+        <charseq START="2797" END="2798">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-67" ARGNUM="2">
+      <extent>
+        <charseq START="2811" END="2820">a platform</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="19-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2927" END="2951">he is secure in his stand</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-63" ARGNUM="1">
+      <extent>
+        <charseq START="2927" END="2928">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-70" ARGNUM="2">
+      <extent>
+        <charseq START="2943" END="2951">his stand</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R20" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E32" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2873" END="2919">his gun, which he leaves unloaded on the
+ground</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-60" ARGNUM="1">
+      <extent>
+        <charseq START="2873" END="2875">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-68" ARGNUM="2">
+      <extent>
+        <charseq START="2873" END="2919">his gun, which he leaves unloaded on the
+ground</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="20-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2963" END="2969">his gun</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-66" ARGNUM="1">
+      <extent>
+        <charseq START="2963" END="2965">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-71" ARGNUM="2">
+      <extent>
+        <charseq START="2963" END="2969">his gun</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R22" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E31" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2943" END="2951">his stand</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-62" ARGNUM="1">
+      <extent>
+        <charseq START="2943" END="2945">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-70" ARGNUM="2">
+      <extent>
+        <charseq START="2943" END="2951">his stand</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R24" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E34" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3266" END="3284">The teen-ager's gun</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-76" ARGNUM="1">
+      <extent>
+        <charseq START="3266" END="3278">The teen-ager</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-77" ARGNUM="2">
+      <extent>
+        <charseq START="3266" END="3284">The teen-ager's gun</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R26" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E43" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3774" END="3808">Michigan's large hunting population</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-94" ARGNUM="1">
+      <extent>
+        <charseq START="3774" END="3808">Michigan's large hunting population</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-93" ARGNUM="2">
+      <extent>
+        <charseq START="3774" END="3781">Michigan</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R27" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E53" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E47" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1354" END="1422">another was
+killed on the ground by a hunter shooting from a platform</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="53-20" ARGNUM="1">
+      <extent>
+        <charseq START="1354" END="1360">another</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="47-111" ARGNUM="2">
+      <extent>
+        <charseq START="1376" END="1385">the ground</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R29" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E44" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1921" END="1949">hunters using bows and
+arrows</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="1">
+      <extent>
+        <charseq START="1921" END="1949">hunters using bows and
+arrows</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="44-106" ARGNUM="2">
+      <extent>
+        <charseq START="1944" END="1949">arrows</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R30" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E26" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2572" END="2595">he and a hunting partner</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-48" ARGNUM="1">
+      <extent>
+        <charseq START="2572" END="2573">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-50" ARGNUM="2">
+      <extent>
+        <charseq START="2579" END="2595">a hunting partner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001125.1558.0117-R31" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001125.1558.0117-E47" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2882" END="2919">which he leaves unloaded on the
+ground</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-69" ARGNUM="1">
+      <extent>
+        <charseq START="2882" END="2886">which</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="47-110" ARGNUM="2">
+      <extent>
+        <charseq START="2910" END="2919">the
+ground</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

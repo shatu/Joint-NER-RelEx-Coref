@@ -1,0 +1,662 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CTS20001219.1300.0812.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001219.1300.0812">
+<composite_entity ID="CTS20001219.1300.0812-CE1">
+  <entity ID="CTS20001219.1300.0812-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="168" END="169">中港</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="169">中港</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="168" END="169">中港</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE2">
+  <entity ID="CTS20001219.1300.0812-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NOM">
+      <extent>
+        <charseq START="186" END="191">曾明来的太太</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="191">太太</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="PRO">
+      <extent>
+        <charseq START="198" END="198">她</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="198">她</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE3">
+  <entity ID="CTS20001219.1300.0812-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="3-7" TYPE="NOM">
+      <extent>
+        <charseq START="214" END="219">大陆藉的船员</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="219">船员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE4">
+  <entity ID="CTS20001219.1300.0812-E4" TYPE="PER" CLASS="USP">
+    <entity_mention ID="4-9" TYPE="PRO">
+      <extent>
+        <charseq START="221" END="221">谁</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="221">谁</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE5">
+  <entity ID="CTS20001219.1300.0812-E5" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention ID="5-10" TYPE="APP">
+      <extent>
+        <charseq START="236" END="249">琉球藉的尾吊船“龙王神47号</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="5-12" TYPE="NAM">
+      <extent>
+        <charseq START="244" END="249">龙王神47号</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="249">龙王神47号</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="244" END="249">龙王神47号</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CTS20001219.1300.0812-E6" TYPE="VEH" SUBTYPE="Water" CLASS="ATR">
+    <entity_mention ID="6-11" TYPE="NOM">
+      <extent>
+        <charseq START="236" END="242">琉球藉的尾吊船</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="242">尾吊船</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE6">
+  <entity ID="CTS20001219.1300.0812-E7" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="7-17" TYPE="PCN">
+      <extent>
+        <charseq START="273" END="274">凶嫌</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="274">凶嫌</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE7">
+  <entity ID="CTS20001219.1300.0812-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-23" TYPE="NOM">
+      <extent>
+        <charseq START="315" END="316">家属</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="316">家属</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-25" TYPE="NOM">
+      <extent>
+        <charseq START="349" END="350">家属</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="350">家属</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE8">
+  <entity ID="CTS20001219.1300.0812-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-26" TYPE="EAP">
+      <extent>
+        <charseq START="357" END="367">双手被砍断的大副林辉国</charseq>
+      </extent>
+      <head>
+        <charseq START="357" END="367">双手被砍断的大副林辉国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-27" TYPE="APP">
+      <extent>
+        <charseq START="363" END="367">大副林辉国</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="9-28" TYPE="NAM">
+      <extent>
+        <charseq START="365" END="367">林辉国</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="367">林辉国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="365" END="367">林辉国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CTS20001219.1300.0812-E10" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="10-29" TYPE="NOM">
+      <extent>
+        <charseq START="363" END="364">大副</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="364">大副</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE9">
+  <entity ID="CTS20001219.1300.0812-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="11-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="65" END="66">屏东</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">屏东</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="65" END="66">屏东</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE10">
+  <entity ID="CTS20001219.1300.0812-E12" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+    <entity_mention ID="12-30" TYPE="NOM">
+      <extent>
+        <charseq START="68" END="75">一艘琉球藉的渔船</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="75">渔船</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE11">
+  <entity ID="CTS20001219.1300.0812-E13" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="13-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="236" END="237">琉球</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="237">琉球</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="70" END="71">琉球</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="71">琉球</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="236" END="237">琉球</charseq>
+      </name>
+      <name>
+        <charseq START="70" END="71">琉球</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE12">
+  <entity ID="CTS20001219.1300.0812-E14" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="14-14" TYPE="NOM">
+      <extent>
+        <charseq START="255" END="261">马来西亚的海域</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="261">海域</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-32" TYPE="NOM">
+      <extent>
+        <charseq START="77" END="82">马来西亚海域</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="82">海域</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE13">
+  <entity ID="CTS20001219.1300.0812-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="255" END="258">马来西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="258">马来西亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="330" END="333">马来西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="333">马来西亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-33" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="77" END="80">马来西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="80">马来西亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="146" END="147">马国</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="147">马国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="255" END="258">马来西亚</charseq>
+      </name>
+      <name>
+        <charseq START="330" END="333">马来西亚</charseq>
+      </name>
+      <name>
+        <charseq START="77" END="80">马来西亚</charseq>
+      </name>
+      <name>
+        <charseq START="146" END="147">马国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE14">
+  <entity ID="CTS20001219.1300.0812-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-16" TYPE="NOM">
+      <extent>
+        <charseq START="265" END="276">一名44岁的大陆凶嫌渔工</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="276">渔工</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-19" TYPE="PRO">
+      <extent>
+        <charseq START="286" END="286">他</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="286">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-34" TYPE="NOM">
+      <extent>
+        <charseq START="98" END="101">大陆渔工</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="101">渔工</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE15">
+  <entity ID="CTS20001219.1300.0812-E17" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="214" END="215">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="214" END="215">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-18" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="271" END="272">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="272">大陆</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-35" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="98" END="99">大陆</charseq>
+      </extent>
+      <head>
+        <charseq START="98" END="99">大陆</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE16">
+  <entity ID="CTS20001219.1300.0812-E18" TYPE="WEA" SUBTYPE="Sharp" CLASS="SPC">
+    <entity_mention ID="18-20" TYPE="NOM">
+      <extent>
+        <charseq START="288" END="293">大型的割鱼刀</charseq>
+      </extent>
+      <head>
+        <charseq START="291" END="293">割鱼刀</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-36" TYPE="NOM">
+      <extent>
+        <charseq START="121" END="121">刀</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="121">刀</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE17">
+  <entity ID="CTS20001219.1300.0812-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-4" TYPE="NAM">
+      <extent>
+        <charseq START="186" END="188">曾明来</charseq>
+      </extent>
+      <head>
+        <charseq START="186" END="188">曾明来</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-6" TYPE="NAM">
+      <extent>
+        <charseq START="206" END="208">曾明来</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="208">曾明来</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-21" TYPE="NOM">
+      <extent>
+        <charseq START="297" END="298">船长</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="298">船长</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-22" TYPE="PRO">
+      <extent>
+        <charseq START="301" END="301">他</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="301">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-37" TYPE="NOM">
+      <extent>
+        <charseq START="123" END="124">船长</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="124">船长</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-41" TYPE="EAP">
+      <extent>
+        <charseq START="158" END="167">遭到杀害的船长曾明来</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="167">遭到杀害的船长曾明来</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-42" TYPE="APP">
+      <extent>
+        <charseq START="163" END="167">船长曾明来</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="19-43" TYPE="NAM">
+      <extent>
+        <charseq START="165" END="167">曾明来</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="167">曾明来</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="186" END="188">曾明来</charseq>
+      </name>
+      <name>
+        <charseq START="206" END="208">曾明来</charseq>
+      </name>
+      <name>
+        <charseq START="165" END="167">曾明来</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CTS20001219.1300.0812-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-44" TYPE="NOM">
+      <extent>
+        <charseq START="163" END="164">船长</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="164">船长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE18">
+  <entity ID="CTS20001219.1300.0812-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-38" TYPE="NOM">
+      <extent>
+        <charseq START="128" END="131">两名船员</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="131">船员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE19">
+  <entity ID="CTS20001219.1300.0812-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="21-39" TYPE="NOM">
+      <extent>
+        <charseq START="146" END="149">马国警方</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="149">警方</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001219.1300.0812-CE20">
+  <entity ID="CTS20001219.1300.0812-E23" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="23-45" TYPE="NOM">
+      <extent>
+        <charseq START="168" END="171">中港的家</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="171">家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CTS20001219.1300.0812-R1" TYPE="ART" SUBTYPE="Other">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="68" END="75">一艘琉球藉的渔船</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E13" ENTITYMENTIONID="13-31" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="71">琉球</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E12" ENTITYMENTIONID="12-30" ARGNUM="2">
+      <extent>
+        <charseq START="68" END="75">一艘琉球藉的渔船</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R2" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="77" END="82">马来西亚海域</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E14" ENTITYMENTIONID="14-32" ARGNUM="1">
+      <extent>
+        <charseq START="77" END="82">马来西亚海域</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E15" ENTITYMENTIONID="15-33" ARGNUM="2">
+      <extent>
+        <charseq START="77" END="80">马来西亚</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="255" END="261">马来西亚的海域</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E14" ENTITYMENTIONID="14-14" ARGNUM="1">
+      <extent>
+        <charseq START="255" END="261">马来西亚的海域</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E15" ENTITYMENTIONID="15-15" ARGNUM="2">
+      <extent>
+        <charseq START="255" END="258">马来西亚</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="98" END="101">大陆渔工</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E16" ENTITYMENTIONID="16-34" ARGNUM="1">
+      <extent>
+        <charseq START="98" END="101">大陆渔工</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E17" ENTITYMENTIONID="17-35" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="99">大陆</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="265" END="276">一名44岁的大陆凶嫌渔工</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E16" ENTITYMENTIONID="16-16" ARGNUM="1">
+      <extent>
+        <charseq START="265" END="276">一名44岁的大陆凶嫌渔工</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E17" ENTITYMENTIONID="17-18" ARGNUM="2">
+      <extent>
+        <charseq START="271" END="272">大陆</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="146" END="149">马国警方</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E21" ENTITYMENTIONID="21-39" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="149">马国警方</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E15" ENTITYMENTIONID="15-40" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="147">马国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="168" END="171">中港的家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E23" ENTITYMENTIONID="23-45" ARGNUM="1">
+      <extent>
+        <charseq START="168" END="171">中港的家</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="168" END="169">中港</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R6" TYPE="PER-SOC" SUBTYPE="Family">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="186" END="191">曾明来的太太</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E2" ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="186" END="191">曾明来的太太</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E19" ENTITYMENTIONID="19-4" ARGNUM="2">
+      <extent>
+        <charseq START="186" END="188">曾明来</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R9" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="214" END="219">大陆藉的船员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E3" ENTITYMENTIONID="3-7" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="219">大陆藉的船员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E17" ENTITYMENTIONID="17-8" ARGNUM="2">
+      <extent>
+        <charseq START="214" END="215">大陆</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001219.1300.0812-R10" TYPE="ART" SUBTYPE="Other">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="236" END="242">琉球藉的尾吊船</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E13" ENTITYMENTIONID="13-13" ARGNUM="1">
+      <extent>
+        <charseq START="236" END="237">琉球</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001219.1300.0812-E6" ENTITYMENTIONID="6-11" ARGNUM="2">
+      <extent>
+        <charseq START="236" END="242">琉球藉的尾吊船</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

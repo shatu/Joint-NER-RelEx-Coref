@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_214.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_214.man">
+<composite_entity ID="chtb_214.man-CE1">
+  <entity ID="chtb_214.man-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="1-5" TYPE="NAM">
+      <extent>
+        <charseq START="227" END="233">宇宙开发事业团</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="233">宇宙开发事业团</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-15" TYPE="NAM">
+      <extent>
+        <charseq START="397" END="414">负责这项发射工作的日本宇宙开发事业团</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="414">宇宙开发事业团</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-26" TYPE="NAM">
+      <extent>
+        <charseq START="541" END="549">日本宇宙开发事业团</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="549">宇宙开发事业团</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="408" END="414">宇宙开发事业团</charseq>
+      </name>
+      <name>
+        <charseq START="543" END="549">宇宙开发事业团</charseq>
+      </name>
+      <name>
+        <charseq START="227" END="233">宇宙开发事业团</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE2">
+  <entity ID="chtb_214.man-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-6" TYPE="NOM">
+      <extent>
+        <charseq START="236" END="241">一个检查小组</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="241">小组</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE3">
+  <entity ID="chtb_214.man-E3" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="3-11" TYPE="NAM">
+      <extent>
+        <charseq START="328" END="335">Ｈ２－２”号火箭</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="335">Ｈ２－２”号火箭</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="328" END="335">Ｈ２－２”号火箭</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE4">
+  <entity ID="chtb_214.man-E4" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="NOM">
+      <extent>
+        <charseq START="372" END="373">地球</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="373">地球</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-43" TYPE="NOM">
+      <extent>
+        <charseq START="107" END="108">地球</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="108">地球</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE5">
+  <entity ID="chtb_214.man-E5" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="5-20" TYPE="NOM">
+      <extent>
+        <charseq START="470" END="479">日本迄
+今发射的卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="479">卫星</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE6">
+  <entity ID="chtb_214.man-E6" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="6-22" TYPE="HLS">
+      <extent>
+        <charseq START="481" END="485">最大的一颗</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="485">最大的一颗</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE7">
+  <entity ID="chtb_214.man-E7" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="7-25" TYPE="NOM">
+      <extent>
+        <charseq START="522" END="523">世界</charseq>
+      </extent>
+      <head>
+        <charseq START="522" END="523">世界</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE8">
+  <entity ID="chtb_214.man-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-30" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="572" END="577">欧美先进国家</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="577">国家</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE9">
+  <entity ID="chtb_214.man-E9" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="9-31" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="572" END="573">欧美</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="573">欧美</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE10">
+  <entity ID="chtb_214.man-E10" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="10-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="572" END="572">欧</charseq>
+      </extent>
+      <head>
+        <charseq START="572" END="572">欧</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="572" END="572">欧</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE11">
+  <entity ID="chtb_214.man-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-33" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="573" END="573">美</charseq>
+      </extent>
+      <head>
+        <charseq START="573" END="573">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="573" END="573">美</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE12">
+  <entity ID="chtb_214.man-E12" TYPE="FAC" SUBTYPE="Other" CLASS="GEN">
+    <entity_mention ID="12-34" TYPE="NOM">
+      <extent>
+        <charseq START="584" END="587">大型卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="587">卫星</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE13">
+  <entity ID="chtb_214.man-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-1" TYPE="NAM">
+      <extent>
+        <charseq START="64" END="66">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="64" END="66">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="64" END="66">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE14">
+  <entity ID="chtb_214.man-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-37" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="67" END="68">东京</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="68">东京</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="67" END="68">东京</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE15">
+  <entity ID="chtb_214.man-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-38" TYPE="APP">
+      <extent>
+        <charseq START="75" END="79">记者黄凤珍</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-39" TYPE="NAM">
+      <extent>
+        <charseq START="77" END="79">黄凤珍</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="79">黄凤珍</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="77" END="79">黄凤珍</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_214.man-E16" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="16-40" TYPE="NOM">
+      <extent>
+        <charseq START="75" END="76">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="75" END="76">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE16">
+  <entity ID="chtb_214.man-E17" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-2" TYPE="NOM">
+      <extent>
+        <charseq START="210" END="213">这颗卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="213">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-7" TYPE="NOM">
+      <extent>
+        <charseq START="247" END="249">卫
+星</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="249">卫
+星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-8" TYPE="NOM">
+      <extent>
+        <charseq START="274" END="275">卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="275">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-9" TYPE="NAM">
+      <extent>
+        <charseq START="311" END="317">菊花６号”卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="316" END="317">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-10" TYPE="NAM">
+      <extent>
+        <charseq START="311" END="314">菊花６号</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="314">菊花６号</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-12" TYPE="NOM">
+      <extent>
+        <charseq START="351" END="352">卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="352">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-13" TYPE="PRO">
+      <extent>
+        <charseq START="366" END="366">其</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="366">其</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-17" TYPE="NOM">
+      <extent>
+        <charseq START="432" END="433">卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="433">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-18" TYPE="NAM">
+      <extent>
+        <charseq START="444" END="450">菊花６号”卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="450">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-19" TYPE="NAM">
+      <extent>
+        <charseq START="444" END="447">菊花６号</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="447">菊花６号</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-23" TYPE="NOM">
+      <extent>
+        <charseq START="492" END="495">这颗卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="494" END="495">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-28" TYPE="NOM">
+      <extent>
+        <charseq START="555" END="558">这颗卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="557" END="558">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-35" TYPE="NOM">
+      <extent>
+        <charseq START="597" END="600">这颗卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="599" END="600">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-41" TYPE="APP">
+      <extent>
+        <charseq START="83" END="101">日本发射的大型科学试验卫星“菊花６号”</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-42" TYPE="NAM">
+      <extent>
+        <charseq START="97" END="100">菊花６号</charseq>
+      </extent>
+      <head>
+        <charseq START="97" END="100">菊花６号</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-54" TYPE="NOM">
+      <extent>
+        <charseq START="172" END="182">花掉巨额经费研制的卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="182">卫星</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="316" END="317">卫星</charseq>
+      </name>
+      <name>
+        <charseq START="311" END="314">菊花６号</charseq>
+      </name>
+      <name>
+        <charseq START="449" END="450">卫星</charseq>
+      </name>
+      <name>
+        <charseq START="444" END="447">菊花６号</charseq>
+      </name>
+      <name>
+        <charseq START="97" END="100">菊花６号</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_214.man-E18" TYPE="FAC" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="18-45" TYPE="NOM">
+      <extent>
+        <charseq START="83" END="95">日本发射的大型科学试验卫星</charseq>
+      </extent>
+      <head>
+        <charseq START="94" END="95">卫星</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE17">
+  <entity ID="chtb_214.man-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="19-16" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="406" END="407">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="407">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="470" END="471">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="471">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="513">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="513">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="541" END="542">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="542">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-29" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="564" END="565">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="564" END="565">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="626" END="627">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="626" END="627">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-44" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="83" END="84">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="84">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-51" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="157" END="162">日本全体国民</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">国民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-52" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="157" END="158">日本</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="158">日本</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="406" END="407">日本</charseq>
+      </name>
+      <name>
+        <charseq START="470" END="471">日本</charseq>
+      </name>
+      <name>
+        <charseq START="512" END="513">日本</charseq>
+      </name>
+      <name>
+        <charseq START="541" END="542">日本</charseq>
+      </name>
+      <name>
+        <charseq START="564" END="565">日本</charseq>
+      </name>
+      <name>
+        <charseq START="626" END="627">日本</charseq>
+      </name>
+      <name>
+        <charseq START="83" END="84">日本</charseq>
+      </name>
+      <name>
+        <charseq START="157" END="158">日本</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE18">
+  <entity ID="chtb_214.man-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-4" TYPE="NAM">
+      <extent>
+        <charseq START="219" END="223">田中真纪子</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="223">田中真纪子</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-46" TYPE="APP">
+      <extent>
+        <charseq START="118" END="127">科技厅长官田中真纪子</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="20-47" TYPE="NAM">
+      <extent>
+        <charseq START="123" END="127">田中真纪子</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="127">田中真纪子</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-53" TYPE="PRO">
+      <extent>
+        <charseq START="168" END="168">她</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="168">她</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="123" END="127">田中真纪子</charseq>
+      </name>
+      <name>
+        <charseq START="219" END="223">田中真纪子</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_214.man-E21" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="21-48" TYPE="NOM">
+      <extent>
+        <charseq START="118" END="122">科技厅长官</charseq>
+      </extent>
+      <head>
+        <charseq START="121" END="122">长官</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE19">
+  <entity ID="chtb_214.man-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="22-49" TYPE="NOM">
+      <extent>
+        <charseq START="118" END="120">科技厅</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="120">科技厅</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE20">
+  <entity ID="chtb_214.man-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-50" TYPE="NOM">
+      <extent>
+        <charseq START="132" END="135">众多记者</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="135">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_214.man-CE21">
+  <entity ID="chtb_214.man-E24" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="24-3" TYPE="NOM">
+      <extent>
+        <charseq START="189" END="190">宇宙</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="190">宇宙</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_214.man-R1" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="470" END="479">日本迄
+今发射的卫星</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E19" ENTITYMENTIONID="19-21" ARGNUM="1">
+      <extent>
+        <charseq START="470" END="471">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E5" ENTITYMENTIONID="5-20" ARGNUM="2">
+      <extent>
+        <charseq START="470" END="479">日本迄
+今发射的卫星</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_214.man-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="64" END="68">新华社东京</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E13" ENTITYMENTIONID="13-1" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="66">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E14" ENTITYMENTIONID="14-37" ARGNUM="2">
+      <extent>
+        <charseq START="67" END="68">东京</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_214.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="118" END="122">科技厅长官</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E21" ENTITYMENTIONID="21-48" ARGNUM="1">
+      <extent>
+        <charseq START="118" END="122">科技厅长官</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E22" ENTITYMENTIONID="22-49" ARGNUM="2">
+      <extent>
+        <charseq START="118" END="120">科技厅</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_214.man-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="572" END="577">欧美先进国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E8" ENTITYMENTIONID="8-30" ARGNUM="1">
+      <extent>
+        <charseq START="572" END="577">欧美先进国家</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E10" ENTITYMENTIONID="10-32" ARGNUM="2">
+      <extent>
+        <charseq START="572" END="572">欧</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_214.man-R5" TYPE="DISC">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="572" END="577">欧美先进国家</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E11" ENTITYMENTIONID="11-33" ARGNUM="1">
+      <extent>
+        <charseq START="573" END="573">美</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E8" ENTITYMENTIONID="8-30" ARGNUM="2">
+      <extent>
+        <charseq START="572" END="577">欧美先进国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_214.man-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="397" END="414">负责这项发射工作的日本宇宙开发事业团</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E1" ENTITYMENTIONID="1-15" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="414">负责这项发射工作的日本宇宙开发事业团</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E19" ENTITYMENTIONID="19-16" ARGNUM="2">
+      <extent>
+        <charseq START="406" END="407">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="6-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="541" END="549">日本宇宙开发事业团</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_214.man-E1" ENTITYMENTIONID="1-26" ARGNUM="1">
+      <extent>
+        <charseq START="541" END="549">日本宇宙开发事业团</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_214.man-E19" ENTITYMENTIONID="19-27" ARGNUM="2">
+      <extent>
+        <charseq START="541" END="542">日本</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

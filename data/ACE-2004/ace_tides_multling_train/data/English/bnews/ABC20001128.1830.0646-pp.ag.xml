@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="ABC20001128.1830.0646" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">broadcast news</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">ABC20001128.1830.0646.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="ABC20001128.1830.0646:T1">
+<Signal id="ABC20001128.1830.0646:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="ABC20001128.1830.0646:1" timeline="ABC20001128.1830.0646:T1">
+<Metadata>
+<MetadataElement name="docid">ABC20001128.1830.0646</MetadataElement>
+</Metadata>
+<Anchor id="ABC20001128.1830.0646:1:1" offset="201.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:3" offset="201.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:2" offset="208.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:4" offset="208.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:9" offset="365.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:B" offset="365.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:A" offset="375.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:C" offset="375.000000"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:5"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:6"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:7"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:8"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:D"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:F"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:G"></Anchor>
+<Anchor id="ABC20001128.1830.0646:1:H"></Anchor>
+<Annotation id="ABC20001128.1830.0646:1:E3" type="entity" start="ABC20001128.1830.0646:1:5" end="ABC20001128.1830.0646:1:6">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">ABC20001128.1830.0646:1:E4</Feature>
+<Feature name="id">ABC20001128.1830.0646-E1</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E4" type="composite_entity" start="ABC20001128.1830.0646:1:7" end="ABC20001128.1830.0646:1:8">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">ABC20001128.1830.0646-CE1</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E7" type="entity" start="ABC20001128.1830.0646:1:D" end="ABC20001128.1830.0646:1:F">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">ABC20001128.1830.0646:1:E8</Feature>
+<Feature name="id">ABC20001128.1830.0646-E2</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">TRUE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">TRUE</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E8" type="composite_entity" start="ABC20001128.1830.0646:1:G" end="ABC20001128.1830.0646:1:H">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">ABC20001128.1830.0646-CE2</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E1" type="entity_mention" start="ABC20001128.1830.0646:1:1" end="ABC20001128.1830.0646:1:2">
+<Feature name="entity">ABC20001128.1830.0646:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ABC20001128.1830.0646:1:E2</Feature>
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">consumer</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E2" type="entity_mention_head" start="ABC20001128.1830.0646:1:3" end="ABC20001128.1830.0646:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">consumer</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E5" type="entity_mention" start="ABC20001128.1830.0646:1:9" end="ABC20001128.1830.0646:1:A">
+<Feature name="entity">ABC20001128.1830.0646:1:E7</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ABC20001128.1830.0646:1:E6</Feature>
+<Feature name="id">2-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">wall street</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ABC20001128.1830.0646:1:E6" type="entity_mention_head" start="ABC20001128.1830.0646:1:B" end="ABC20001128.1830.0646:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">wall street</Feature>
+</Annotation>
+</AG>
+</AGSet>

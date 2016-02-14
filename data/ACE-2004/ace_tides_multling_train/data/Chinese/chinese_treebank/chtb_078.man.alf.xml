@@ -1,0 +1,1592 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_078.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_078.man">
+<composite_entity ID="chtb_078.man-CE1">
+  <entity ID="chtb_078.man-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-90" TYPE="NAM">
+      <extent>
+        <charseq START="135" END="137">史纪良</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="137">史纪良</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="135" END="137">史纪良</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="139" END="147">中国人民银行副行长</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="147">副行长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE2">
+  <entity ID="chtb_078.man-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM">
+      <extent>
+        <charseq START="139" END="144">中国人民银行</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="144">中国人民银行</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="139" END="144">中国人民银行</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE3">
+  <entity ID="chtb_078.man-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="149" END="150">陈耕</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="150">陈耕</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="149" END="150">陈耕</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="152" END="166">中国石
+油天然气总公司副总经理</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="166">副总经理</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE4">
+  <entity ID="chtb_078.man-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NAM">
+      <extent>
+        <charseq START="152" END="162">中国石
+油天然气总公司</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="162">中国石
+油天然气总公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-54" TYPE="NAM">
+      <extent>
+        <charseq START="390" END="399">中国石油天然气总公司</charseq>
+      </extent>
+      <head>
+        <charseq START="390" END="399">中国石油天然气总公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="152" END="162">中国石
+油天然气总公司</charseq>
+      </name>
+      <name>
+        <charseq START="390" END="399">中国石油天然气总公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE5">
+  <entity ID="chtb_078.man-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-7" TYPE="NAM">
+      <extent>
+        <charseq START="168" END="170">王永秋</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="170">王永秋</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="168" END="170">王永秋</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-8" TYPE="NOM">
+      <extent>
+        <charseq START="172" END="178">驻旧金山总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="178">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE6">
+  <entity ID="chtb_078.man-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-9" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="173" END="175">旧金山</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="175">旧金山</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-57" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="412" END="414">旧金山</charseq>
+      </extent>
+      <head>
+        <charseq START="412" END="414">旧金山</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="173" END="175">旧金山</charseq>
+      </name>
+      <name>
+        <charseq START="412" END="414">旧金山</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE7">
+  <entity ID="chtb_078.man-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-10" TYPE="NAM">
+      <extent>
+        <charseq START="185" END="188">霍
+淑珍</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="188">霍
+淑珍</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="185" END="188">霍
+淑珍</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-11" TYPE="NOM">
+      <extent>
+        <charseq START="190" END="196">驻圣保罗总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="196">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE8">
+  <entity ID="chtb_078.man-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="191" END="193">圣保罗</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="193">圣保罗</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-60" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="432" END="434">圣保罗</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="434">圣保罗</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="191" END="193">圣保罗</charseq>
+      </name>
+      <name>
+        <charseq START="432" END="434">圣保罗</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE9">
+  <entity ID="chtb_078.man-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-13" TYPE="NAM">
+      <extent>
+        <charseq START="198" END="199">陆琪</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="199">陆琪</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="198" END="199">陆琪</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E14" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="14-14" TYPE="NOM">
+      <extent>
+        <charseq START="201" END="206">驻福冈总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="206">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE10">
+  <entity ID="chtb_078.man-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-15" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="202" END="203">福冈</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="203">福冈</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-63" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="447" END="448">福冈</charseq>
+      </extent>
+      <head>
+        <charseq START="447" END="448">福冈</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="202" END="203">福冈</charseq>
+      </name>
+      <name>
+        <charseq START="447" END="448">福冈</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE11">
+  <entity ID="chtb_078.man-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-16" TYPE="NAM">
+      <extent>
+        <charseq START="208" END="210">安启光</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="210">安启光</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="208" END="210">安启光</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E17" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="17-17" TYPE="NOM">
+      <extent>
+        <charseq START="212" END="219">驻卡拉奇总
+领事</charseq>
+      </extent>
+      <head>
+        <charseq START="216" END="219">总
+领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE12">
+  <entity ID="chtb_078.man-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="213" END="215">卡拉奇</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="215">卡拉奇</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-67" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="460" END="462">卡拉奇</charseq>
+      </extent>
+      <head>
+        <charseq START="460" END="462">卡拉奇</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="213" END="215">卡拉奇</charseq>
+      </name>
+      <name>
+        <charseq START="460" END="462">卡拉奇</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE13">
+  <entity ID="chtb_078.man-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-19" TYPE="NAM">
+      <extent>
+        <charseq START="221" END="223">李志国</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="223">李志国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="221" END="223">李志国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-20" TYPE="NOM">
+      <extent>
+        <charseq START="225" END="230">驻迪拜总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="230">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE14">
+  <entity ID="chtb_078.man-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="21-21" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="226" END="227">迪拜</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="227">迪拜</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-70" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="474" END="475">迪拜</charseq>
+      </extent>
+      <head>
+        <charseq START="474" END="475">迪拜</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="226" END="227">迪拜</charseq>
+      </name>
+      <name>
+        <charseq START="474" END="475">迪拜</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE15">
+  <entity ID="chtb_078.man-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-22" TYPE="NAM">
+      <extent>
+        <charseq START="232" END="234">刘峻岫</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="234">刘峻岫</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="232" END="234">刘峻岫</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E23" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="23-23" TYPE="NOM">
+      <extent>
+        <charseq START="236" END="243">驻巴塞罗那总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="243">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE16">
+  <entity ID="chtb_078.man-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="24-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="237" END="240">巴塞罗那</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="240">巴塞罗那</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-73" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="488" END="491">巴塞罗那</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="491">巴塞罗那</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="237" END="240">巴塞罗那</charseq>
+      </name>
+      <name>
+        <charseq START="488" END="491">巴塞罗那</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE17">
+  <entity ID="chtb_078.man-E25" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="25-25" TYPE="NAM">
+      <extent>
+        <charseq START="245" END="247">王格武</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="247">王格武</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="245" END="247">王格武</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E26" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="26-26" TYPE="NOM">
+      <extent>
+        <charseq START="250" END="256">驻蒂华纳总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="256">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE18">
+  <entity ID="chtb_078.man-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="27-27" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="251" END="253">蒂华纳</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="253">蒂华纳</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-76" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="503" END="505">蒂华纳</charseq>
+      </extent>
+      <head>
+        <charseq START="503" END="505">蒂华纳</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="251" END="253">蒂华纳</charseq>
+      </name>
+      <name>
+        <charseq START="503" END="505">蒂华纳</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE19">
+  <entity ID="chtb_078.man-E28" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="28-28" TYPE="NAM">
+      <extent>
+        <charseq START="263" END="265">俞晓松</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="265">俞晓松</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="263" END="265">俞晓松</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE20">
+  <entity ID="chtb_078.man-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="29-29" TYPE="NOM">
+      <extent>
+        <charseq START="267" END="278">国家经济贸易委员会副主任</charseq>
+      </extent>
+      <head>
+        <charseq START="276" END="278">副主任</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE21">
+  <entity ID="chtb_078.man-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="30-30" TYPE="NAM">
+      <extent>
+        <charseq START="267" END="275">国家经济贸易委员会</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="275">国家经济贸易委员会</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="267" END="275">国家经济贸易委员会</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE22">
+  <entity ID="chtb_078.man-E32" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="32-31" TYPE="NAM">
+      <extent>
+        <charseq START="282" END="284">张福森</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="284">张福森</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="282" END="284">张福森</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE23">
+  <entity ID="chtb_078.man-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="33-32" TYPE="NOM">
+      <extent>
+        <charseq START="286" END="292">司法部副部
+长</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="292">副部
+长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE24">
+  <entity ID="chtb_078.man-E34" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="34-33" TYPE="NAM">
+      <extent>
+        <charseq START="286" END="288">司法部</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="288">司法部</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="286" END="288">司法部</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE25">
+  <entity ID="chtb_078.man-E35" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="35-34" TYPE="NAM">
+      <extent>
+        <charseq START="296" END="298">张柏林</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="298">张柏林</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="296" END="298">张柏林</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE26">
+  <entity ID="chtb_078.man-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="36-35" TYPE="NOM">
+      <extent>
+        <charseq START="300" END="305">人事部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="305">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE27">
+  <entity ID="chtb_078.man-E37" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="37-37" TYPE="NAM">
+      <extent>
+        <charseq START="309" END="311">濮洪九</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="311">濮洪九</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="309" END="311">濮洪九</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE28">
+  <entity ID="chtb_078.man-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="38-38" TYPE="NOM">
+      <extent>
+        <charseq START="313" END="320">煤炭工业部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="320">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE29">
+  <entity ID="chtb_078.man-E39" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="39-40" TYPE="PMM">
+      <extent>
+        <charseq START="325" END="335">刘习良、何栋材、杨伟光</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="335">刘习良、何栋材、杨伟光</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE30">
+  <entity ID="chtb_078.man-E40" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="40-41" TYPE="NAM">
+      <extent>
+        <charseq START="325" END="327">刘习良</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="327">刘习良</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="325" END="327">刘习良</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE31">
+  <entity ID="chtb_078.man-E41" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="41-42" TYPE="NAM">
+      <extent>
+        <charseq START="329" END="331">何栋材</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="331">何栋材</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="329" END="331">何栋材</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE32">
+  <entity ID="chtb_078.man-E42" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="42-43" TYPE="NAM">
+      <extent>
+        <charseq START="333" END="335">杨伟光</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="335">杨伟光</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="333" END="335">杨伟光</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE33">
+  <entity ID="chtb_078.man-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="43-44" TYPE="NOM">
+      <extent>
+        <charseq START="337" END="346">广播电影电视部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="346">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE34">
+  <entity ID="chtb_078.man-E44" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="44-46" TYPE="NAM">
+      <extent>
+        <charseq START="350" END="352">夏赞忠</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="352">夏赞忠</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="350" END="352">夏赞忠</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE35">
+  <entity ID="chtb_078.man-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="31-1" TYPE="NAM">
+      <extent>
+        <charseq START="58" END="60">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="58" END="60">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-48" TYPE="NAM">
+      <extent>
+        <charseq START="355" END="359">新华通讯社</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="359">新华通讯社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="355" END="359">新华通讯社</charseq>
+      </name>
+      <name>
+        <charseq START="58" END="60">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE36">
+  <entity ID="chtb_078.man-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="45-47" TYPE="NOM">
+      <extent>
+        <charseq START="355" END="362">新华通讯社副社长</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="362">副社长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE37">
+  <entity ID="chtb_078.man-E46" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="46-49" TYPE="NAM">
+      <extent>
+        <charseq START="366" END="368">李毅中</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="368">李毅中</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="366" END="368">李毅中</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE38">
+  <entity ID="chtb_078.man-E47" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="47-50" TYPE="NOM">
+      <extent>
+        <charseq START="370" END="382">中国石油化工总公司副总经理</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="382">副总经理</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE39">
+  <entity ID="chtb_078.man-E48" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="48-52" TYPE="NAM">
+      <extent>
+        <charseq START="387" END="388">张轰</charseq>
+      </extent>
+      <head>
+        <charseq START="387" END="388">张轰</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="387" END="388">张轰</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE40">
+  <entity ID="chtb_078.man-E49" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="49-51" TYPE="NAM">
+      <extent>
+        <charseq START="370" END="378">中国石油化工总公司</charseq>
+      </extent>
+      <head>
+        <charseq START="370" END="378">中国石油化工总公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="370" END="378">中国石油化工总公司</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE41">
+  <entity ID="chtb_078.man-E50" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="50-55" TYPE="NAM">
+      <extent>
+        <charseq START="407" END="409">宋增寿</charseq>
+      </extent>
+      <head>
+        <charseq START="407" END="409">宋增寿</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="407" END="409">宋增寿</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE42">
+  <entity ID="chtb_078.man-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="51-56" TYPE="NOM">
+      <extent>
+        <charseq START="411" END="418">驻旧金山
+总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="416" END="418">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE43">
+  <entity ID="chtb_078.man-E52" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="52-58" TYPE="NAM">
+      <extent>
+        <charseq START="427" END="429">谬启平</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="429">谬启平</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="427" END="429">谬启平</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE44">
+  <entity ID="chtb_078.man-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="53-59" TYPE="NOM">
+      <extent>
+        <charseq START="431" END="437">驻圣保罗总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="437">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE45">
+  <entity ID="chtb_078.man-E54" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="54-61" TYPE="NAM">
+      <extent>
+        <charseq START="441" END="443">吴从勇</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="443">吴从勇</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="441" END="443">吴从勇</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE46">
+  <entity ID="chtb_078.man-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="55-62" TYPE="NOM">
+      <extent>
+        <charseq START="445" END="451">驻
+福冈总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="451">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE47">
+  <entity ID="chtb_078.man-E56" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="56-64" TYPE="NAM">
+      <extent>
+        <charseq START="455" END="457">王修才</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="457">王修才</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="455" END="457">王修才</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE48">
+  <entity ID="chtb_078.man-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="57-65" TYPE="NOM">
+      <extent>
+        <charseq START="459" END="465">驻卡拉奇总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="465">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE49">
+  <entity ID="chtb_078.man-E58" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="58-68" TYPE="NAM">
+      <extent>
+        <charseq START="469" END="471">闻兆祥</charseq>
+      </extent>
+      <head>
+        <charseq START="469" END="471">闻兆祥</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="469" END="471">闻兆祥</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE50">
+  <entity ID="chtb_078.man-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="59-69" TYPE="NOM">
+      <extent>
+        <charseq START="473" END="479">驻迪拜总
+领事</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="479">总
+领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE51">
+  <entity ID="chtb_078.man-E60" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="60-71" TYPE="NAM">
+      <extent>
+        <charseq START="483" END="485">许昌财</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="485">许昌财</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="483" END="485">许昌财</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE52">
+  <entity ID="chtb_078.man-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="61-72" TYPE="NOM">
+      <extent>
+        <charseq START="487" END="494">驻巴塞罗那总领事</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="494">总领事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE53">
+  <entity ID="chtb_078.man-E62" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="62-74" TYPE="NAM">
+      <extent>
+        <charseq START="498" END="500">麦国彦</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="500">麦国彦</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="498" END="500">麦国彦</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE54">
+  <entity ID="chtb_078.man-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="63-75" TYPE="NOM">
+      <extent>
+        <charseq START="502" END="509">驻蒂华纳总领
+事</charseq>
+      </extent>
+      <head>
+        <charseq START="506" END="509">总领
+事</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE55">
+  <entity ID="chtb_078.man-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="65-53" TYPE="NAM">
+      <extent>
+        <charseq START="390" END="403">中国石油天然气总公司副总经理</charseq>
+      </extent>
+      <head>
+        <charseq START="400" END="403">副总经理</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="400" END="403">副总经理</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE56">
+  <entity ID="chtb_078.man-E64" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="64-66" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="61" END="62">北京</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="62">北京</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="61" END="62">北京</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE57">
+  <entity ID="chtb_078.man-E66" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="66-77" TYPE="NAM">
+      <extent>
+        <charseq START="73" END="77">中国国务院</charseq>
+      </extent>
+      <head>
+        <charseq START="75" END="77">国务院</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="75" END="77">国务院</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE58">
+  <entity ID="chtb_078.man-E67" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="67-78" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="73" END="74">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="73" END="74">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="67-80" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="84" END="85">国家</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="85">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="73" END="74">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE59">
+  <entity ID="chtb_078.man-E68" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="68-79" TYPE="NOM">
+      <extent>
+        <charseq START="82" END="89">一批国家工作人员</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="89">人员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE60">
+  <entity ID="chtb_078.man-E69" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="69-81" TYPE="NAM">
+      <extent>
+        <charseq START="96" END="98">戴光前</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="98">戴光前</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="96" END="98">戴光前</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E70" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="70-82" TYPE="NOM">
+      <extent>
+        <charseq START="100" END="105">人事部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="105">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE61">
+  <entity ID="chtb_078.man-E71" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="71-36" TYPE="NAM">
+      <extent>
+        <charseq START="300" END="302">人事部</charseq>
+      </extent>
+      <head>
+        <charseq START="300" END="302">人事部</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="71-83" TYPE="NAM">
+      <extent>
+        <charseq START="100" END="102">人事部</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="102">人事部</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="300" END="302">人事部</charseq>
+      </name>
+      <name>
+        <charseq START="100" END="102">人事部</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE62">
+  <entity ID="chtb_078.man-E72" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="72-84" TYPE="NAM">
+      <extent>
+        <charseq START="107" END="108">王君</charseq>
+      </extent>
+      <head>
+        <charseq START="107" END="108">王君</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="107" END="108">王君</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E73" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="73-85" TYPE="NOM">
+      <extent>
+        <charseq START="110" END="117">煤炭工业部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="117">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE63">
+  <entity ID="chtb_078.man-E74" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="74-39" TYPE="NAM">
+      <extent>
+        <charseq START="313" END="317">煤炭工业部</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="317">煤炭工业部</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="74-86" TYPE="NAM">
+      <extent>
+        <charseq START="110" END="114">煤炭工业部</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="114">煤炭工业部</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="313" END="317">煤炭工业部</charseq>
+      </name>
+      <name>
+        <charseq START="110" END="114">煤炭工业部</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE64">
+  <entity ID="chtb_078.man-E75" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="75-87" TYPE="NAM">
+      <extent>
+        <charseq START="119" END="121">张海涛</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="121">张海涛</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="119" END="121">张海涛</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_078.man-E76" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="76-88" TYPE="NOM">
+      <extent>
+        <charseq START="123" END="133">广
+播电影电视部副部长</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="133">副部长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_078.man-CE65">
+  <entity ID="chtb_078.man-E77" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="77-45" TYPE="NAM">
+      <extent>
+        <charseq START="337" END="343">广播电影电视部</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="343">广播电影电视部</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="77-89" TYPE="NAM">
+      <extent>
+        <charseq START="123" END="130">广
+播电影电视部</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="130">广
+播电影电视部</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="337" END="343">广播电影电视部</charseq>
+      </name>
+      <name>
+        <charseq START="123" END="130">广
+播电影电视部</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_078.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="58" END="62">新华社北京</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E31" ENTITYMENTIONID="31-1" ARGNUM="1">
+      <extent>
+        <charseq START="58" END="60">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E64" ENTITYMENTIONID="64-66" ARGNUM="2">
+      <extent>
+        <charseq START="61" END="62">北京</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="73" END="77">中国国务院</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E66" ENTITYMENTIONID="66-77" ARGNUM="1">
+      <extent>
+        <charseq START="73" END="77">中国国务院</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E67" ENTITYMENTIONID="67-78" ARGNUM="2">
+      <extent>
+        <charseq START="73" END="74">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="82" END="89">一批国家工作人员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E68" ENTITYMENTIONID="68-79" ARGNUM="1">
+      <extent>
+        <charseq START="82" END="89">一批国家工作人员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E67" ENTITYMENTIONID="67-80" ARGNUM="2">
+      <extent>
+        <charseq START="84" END="85">国家</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="100" END="105">人事部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E70" ENTITYMENTIONID="70-82" ARGNUM="1">
+      <extent>
+        <charseq START="100" END="105">人事部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E71" ENTITYMENTIONID="71-83" ARGNUM="2">
+      <extent>
+        <charseq START="100" END="102">人事部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="110" END="117">煤炭工业部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E73" ENTITYMENTIONID="73-85" ARGNUM="1">
+      <extent>
+        <charseq START="110" END="117">煤炭工业部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E74" ENTITYMENTIONID="74-86" ARGNUM="2">
+      <extent>
+        <charseq START="110" END="114">煤炭工业部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="123" END="133">广
+播电影电视部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E76" ENTITYMENTIONID="76-88" ARGNUM="1">
+      <extent>
+        <charseq START="123" END="133">广
+播电影电视部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E77" ENTITYMENTIONID="77-89" ARGNUM="2">
+      <extent>
+        <charseq START="123" END="130">广
+播电影电视部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="147">中国人民银行副行长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="147">中国人民银行副行长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="144">中国人民银行</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="152" END="166">中国石
+油天然气总公司副总经理</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E5" ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="166">中国石
+油天然气总公司副总经理</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E6" ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="152" END="162">中国石
+油天然气总公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="267" END="278">国家经济贸易委员会副主任</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E29" ENTITYMENTIONID="29-29" ARGNUM="1">
+      <extent>
+        <charseq START="267" END="278">国家经济贸易委员会副主任</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E30" ENTITYMENTIONID="30-30" ARGNUM="2">
+      <extent>
+        <charseq START="267" END="275">国家经济贸易委员会</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="286" END="292">司法部副部
+长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E33" ENTITYMENTIONID="33-32" ARGNUM="1">
+      <extent>
+        <charseq START="286" END="292">司法部副部
+长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E34" ENTITYMENTIONID="34-33" ARGNUM="2">
+      <extent>
+        <charseq START="286" END="288">司法部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="300" END="305">人事部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E36" ENTITYMENTIONID="36-35" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="305">人事部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E71" ENTITYMENTIONID="71-36" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="302">人事部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="313" END="320">煤炭工业部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E38" ENTITYMENTIONID="38-38" ARGNUM="1">
+      <extent>
+        <charseq START="313" END="320">煤炭工业部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E74" ENTITYMENTIONID="74-39" ARGNUM="2">
+      <extent>
+        <charseq START="313" END="317">煤炭工业部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="337" END="346">广播电影电视部副部长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E43" ENTITYMENTIONID="43-44" ARGNUM="1">
+      <extent>
+        <charseq START="337" END="346">广播电影电视部副部长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E77" ENTITYMENTIONID="77-45" ARGNUM="2">
+      <extent>
+        <charseq START="337" END="343">广播电影电视部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="355" END="362">新华通讯社副社长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E45" ENTITYMENTIONID="45-47" ARGNUM="1">
+      <extent>
+        <charseq START="355" END="362">新华通讯社副社长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E31" ENTITYMENTIONID="31-48" ARGNUM="2">
+      <extent>
+        <charseq START="355" END="359">新华通讯社</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="370" END="382">中国石油化工总公司副总经理</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E47" ENTITYMENTIONID="47-50" ARGNUM="1">
+      <extent>
+        <charseq START="370" END="382">中国石油化工总公司副总经理</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E49" ENTITYMENTIONID="49-51" ARGNUM="2">
+      <extent>
+        <charseq START="370" END="378">中国石油化工总公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_078.man-R16" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="390" END="403">中国石油天然气总公司副总经理</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_078.man-E65" ENTITYMENTIONID="65-53" ARGNUM="1">
+      <extent>
+        <charseq START="390" END="403">中国石油天然气总公司副总经理</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_078.man-E6" ENTITYMENTIONID="6-54" ARGNUM="2">
+      <extent>
+        <charseq START="390" END="399">中国石油天然气总公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

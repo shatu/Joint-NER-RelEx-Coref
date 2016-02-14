@@ -1,0 +1,706 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0085.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0085.eng">
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE1">
+  <entity ID="20000815_AFP_ARB.0085.eng-E1" TYPE="FAC" SUBTYPE="Conduit" CLASS="SPC">
+    <entity_mention ID="1-37" TYPE="NOM">
+      <extent>
+        <charseq START="445" END="497">an underpass beneath Pushkin Square in
+central Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="456">underpass</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE2">
+  <entity ID="20000815_AFP_ARB.0085.eng-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="466" END="497">Pushkin Square in
+central Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="479">Pushkin Square</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="466" END="479">Pushkin Square</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE3">
+  <entity ID="20000815_AFP_ARB.0085.eng-E3" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NOM">
+      <extent>
+        <charseq START="514" END="535">a 1.3 kg TNT time bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="532" END="535">bomb</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE4">
+  <entity ID="20000815_AFP_ARB.0085.eng-E4" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NOM">
+      <extent>
+        <charseq START="540" END="559">The explosive charge</charseq>
+      </extent>
+      <head>
+        <charseq START="554" END="559">charge</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE5">
+  <entity ID="20000815_AFP_ARB.0085.eng-E5" TYPE="WEA" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="5-6" TYPE="APP">
+      <extent>
+        <charseq START="574" END="734">a mixture of gunpowder and ammonia,
+the same materials used to make the bomb which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="574" END="607">a mixture of gunpowder and ammonia</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="582">mixture</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0085.eng-E8" TYPE="WEA" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="8-10" TYPE="NOM">
+      <extent>
+        <charseq START="610" END="734">the same materials used to make the bomb which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="619" END="627">materials</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE6">
+  <entity ID="20000815_AFP_ARB.0085.eng-E6" TYPE="WEA" SUBTYPE="Chemical" CLASS="USP">
+    <entity_mention ID="6-8" TYPE="BAR">
+      <extent>
+        <charseq START="601" END="607">ammonia</charseq>
+      </extent>
+      <head>
+        <charseq START="601" END="607">ammonia</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE7">
+  <entity ID="20000815_AFP_ARB.0085.eng-E7" TYPE="WEA" SUBTYPE="Exploding" CLASS="USP">
+    <entity_mention ID="7-9" TYPE="BAR">
+      <extent>
+        <charseq START="587" END="595">gunpowder</charseq>
+      </extent>
+      <head>
+        <charseq START="587" END="595">gunpowder</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE8">
+  <entity ID="20000815_AFP_ARB.0085.eng-E9" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="9-11" TYPE="NOM">
+      <extent>
+        <charseq START="642" END="734">the bomb which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="646" END="649">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-12" TYPE="WHQ">
+      <extent>
+        <charseq START="651" END="655">which</charseq>
+      </extent>
+      <head>
+        <charseq START="651" END="655">which</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE9">
+  <entity ID="20000815_AFP_ARB.0085.eng-E10" TYPE="PER" CLASS="USP">
+    <entity_mention ID="10-13" TYPE="NOM">
+      <extent>
+        <charseq START="664" END="680">around 211
+people</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="680">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE10">
+  <entity ID="20000815_AFP_ARB.0085.eng-E11" TYPE="LOC" SUBTYPE="Region-National" CLASS="USP">
+    <entity_mention ID="11-15" TYPE="NOM">
+      <extent>
+        <charseq START="714" END="734">other areas of Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="720" END="724">areas</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE11">
+  <entity ID="20000815_AFP_ARB.0085.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-18" TYPE="NOM">
+      <extent>
+        <charseq START="828" END="907">120 casualties, including 12 deaths and 50
+wounded who are still in the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="832" END="841">casualties</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE12">
+  <entity ID="20000815_AFP_ARB.0085.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-19" TYPE="HLS">
+      <extent>
+        <charseq START="868" END="907">50
+wounded who are still in the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="871" END="877">wounded</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-20" TYPE="WHQ">
+      <extent>
+        <charseq START="879" END="881">who</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="881">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE13">
+  <entity ID="20000815_AFP_ARB.0085.eng-E14" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+    <entity_mention ID="14-21" TYPE="NOM">
+      <extent>
+        <charseq START="896" END="907">the hospital</charseq>
+      </extent>
+      <head>
+        <charseq START="900" END="907">hospital</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE14">
+  <entity ID="20000815_AFP_ARB.0085.eng-E16" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="16-22" TYPE="PRE">
+      <extent>
+        <charseq START="141" END="156">Russian Interior</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="156">Interior</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE15">
+  <entity ID="20000815_AFP_ARB.0085.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="15-33" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="351" END="359">Muscovite</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="359">Muscovite</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0085.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="116" END="121">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="121">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="703" END="708">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="708">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="116" END="121">Moscow</charseq>
+      </name>
+      <name>
+        <charseq START="703" END="708">Moscow</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE16">
+  <entity ID="20000815_AFP_ARB.0085.eng-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-24" TYPE="NAM">
+      <extent>
+        <charseq START="129" END="131">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="129" END="131">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="129" END="131">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE17">
+  <entity ID="20000815_AFP_ARB.0085.eng-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-25" TYPE="APP">
+      <extent>
+        <charseq START="137" END="183">The Russian Interior Minister Vladimir Ruchalio</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="20-26" TYPE="NOM">
+      <extent>
+        <charseq START="137" END="165">The Russian Interior Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="165">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0085.eng-E21" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="21-27" TYPE="NAM">
+      <extent>
+        <charseq START="167" END="183">Vladimir Ruchalio</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="183">Vladimir Ruchalio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="167" END="183">Vladimir Ruchalio</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE18">
+  <entity ID="20000815_AFP_ARB.0085.eng-E22" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="22-28" TYPE="NOM">
+      <extent>
+        <charseq START="214" END="251">over two and a half tons of explosives</charseq>
+      </extent>
+      <head>
+        <charseq START="242" END="251">explosives</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE19">
+  <entity ID="20000815_AFP_ARB.0085.eng-E23" TYPE="LOC" SUBTYPE="Region-National" CLASS="USP">
+    <entity_mention ID="23-29" TYPE="BAR">
+      <extent>
+        <charseq START="273" END="295">various parts of Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="281" END="285">parts</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE20">
+  <entity ID="20000815_AFP_ARB.0085.eng-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="17-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="141" END="147">Russian</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="147">Russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0085.eng-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="24-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="729" END="734">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="729" END="734">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-30" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="290" END="295">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="295">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="729" END="734">Russia</charseq>
+      </name>
+      <name>
+        <charseq START="290" END="295">Russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE21">
+  <entity ID="20000815_AFP_ARB.0085.eng-E25" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="25-3" TYPE="PRE">
+      <extent>
+        <charseq START="484" END="497">central Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="492" END="497">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-17" TYPE="BAR">
+      <extent>
+        <charseq START="788" END="801">central Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="796" END="801">Moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-31" TYPE="BAR">
+      <extent>
+        <charseq START="320" END="333">central Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="328" END="333">Moscow</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE22">
+  <entity ID="20000815_AFP_ARB.0085.eng-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-32" TYPE="NAM">
+      <extent>
+        <charseq START="351" END="387">Muscovite bomb expert Adolph Mishoeev</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="387">Adolph Mishoeev</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="373" END="387">Adolph Mishoeev</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000815_AFP_ARB.0085.eng-E27" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="27-34" TYPE="PRE">
+      <extent>
+        <charseq START="361" END="371">bomb expert</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="371">expert</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE23">
+  <entity ID="20000815_AFP_ARB.0085.eng-E28" TYPE="WEA" SUBTYPE="Exploding" CLASS="ATR">
+    <entity_mention ID="28-35" TYPE="PRE">
+      <extent>
+        <charseq START="361" END="364">bomb</charseq>
+      </extent>
+      <head>
+        <charseq START="361" END="364">bomb</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000815_AFP_ARB.0085.eng-CE24">
+  <entity ID="20000815_AFP_ARB.0085.eng-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="29-36" TYPE="NAM">
+      <extent>
+        <charseq START="394" END="407">NTV television</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="407">NTV television</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="394" END="407">NTV television</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20000815_AFP_ARB.0085.eng-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="141" END="156">Russian Interior</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E16" ENTITYMENTIONID="16-22" ARGNUM="1">
+      <extent>
+        <charseq START="141" END="156">Russian Interior</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E17" ENTITYMENTIONID="17-23" ARGNUM="2">
+      <extent>
+        <charseq START="141" END="147">Russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="137" END="165">The Russian Interior Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E20" ENTITYMENTIONID="20-26" ARGNUM="1">
+      <extent>
+        <charseq START="137" END="165">The Russian Interior Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E16" ENTITYMENTIONID="16-22" ARGNUM="2">
+      <extent>
+        <charseq START="141" END="156">Russian Interior</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="214" END="295">over two and a half tons of explosives have been seized
+in various parts of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E22" ENTITYMENTIONID="22-28" ARGNUM="1">
+      <extent>
+        <charseq START="214" END="251">over two and a half tons of explosives</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E23" ENTITYMENTIONID="23-29" ARGNUM="2">
+      <extent>
+        <charseq START="273" END="295">various parts of Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="351" END="387">Muscovite bomb expert Adolph Mishoeev</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E26" ENTITYMENTIONID="26-32" ARGNUM="1">
+      <extent>
+        <charseq START="351" END="387">Muscovite bomb expert Adolph Mishoeev</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E15" ENTITYMENTIONID="15-33" ARGNUM="2">
+      <extent>
+        <charseq START="351" END="359">Muscovite</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R5" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="445" END="497">an underpass beneath Pushkin Square in
+central Moscow</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E1" ENTITYMENTIONID="1-37" ARGNUM="1">
+      <extent>
+        <charseq START="445" END="497">an underpass beneath Pushkin Square in
+central Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="466" END="497">Pushkin Square in
+central Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="466" END="497">Pushkin Square in
+central Moscow</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="466" END="497">Pushkin Square in
+central Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E25" ENTITYMENTIONID="25-3" ARGNUM="2">
+      <extent>
+        <charseq START="484" END="497">central Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="574" END="734">a mixture of gunpowder and ammonia,
+the same materials used to make the bomb which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E7" ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="587" END="595">gunpowder</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="574" END="607">a mixture of gunpowder and ammonia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R8" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="574" END="734">a mixture of gunpowder and ammonia,
+the same materials used to make the bomb which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E6" ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="601" END="607">ammonia</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="574" END="607">a mixture of gunpowder and ammonia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="651" END="734">which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E9" ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="651" END="655">which</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E18" ENTITYMENTIONID="18-14" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="708">Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="651" END="734">which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E9" ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="651" END="655">which</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E11" ENTITYMENTIONID="11-15" ARGNUM="2">
+      <extent>
+        <charseq START="714" END="734">other areas of Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="651" END="734">which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E10" ENTITYMENTIONID="10-13" ARGNUM="1">
+      <extent>
+        <charseq START="664" END="680">around 211
+people</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E18" ENTITYMENTIONID="18-14" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="708">Moscow</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="651" END="734">which killed around 211
+people in September 1999 in Moscow and other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E10" ENTITYMENTIONID="10-13" ARGNUM="1">
+      <extent>
+        <charseq START="664" END="680">around 211
+people</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E11" ENTITYMENTIONID="11-15" ARGNUM="2">
+      <extent>
+        <charseq START="714" END="734">other areas of Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R13" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="714" END="734">other areas of Russia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E11" ENTITYMENTIONID="11-15" ARGNUM="1">
+      <extent>
+        <charseq START="714" END="734">other areas of Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E24" ENTITYMENTIONID="24-16" ARGNUM="2">
+      <extent>
+        <charseq START="729" END="734">Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0085.eng-R14" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="14-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="879" END="907">who are still in the hospital</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E13" ENTITYMENTIONID="13-20" ARGNUM="1">
+      <extent>
+        <charseq START="879" END="881">who</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000815_AFP_ARB.0085.eng-E14" ENTITYMENTIONID="14-21" ARGNUM="2">
+      <extent>
+        <charseq START="896" END="907">the hospital</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

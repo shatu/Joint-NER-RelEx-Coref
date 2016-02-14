@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0029.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0029.eng">
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0029.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-17" TYPE="NAM">
+      <extent>
+        <charseq START="690" END="705">the
+Kinada caste</charseq>
+      </extent>
+      <head>
+        <charseq START="694" END="705">Kinada caste</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="694" END="705">Kinada caste</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0029.eng-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="4-19" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="725" END="729">Tamil</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="729">Tamil</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-20" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="748" END="752">Tamil</charseq>
+      </extent>
+      <head>
+        <charseq START="748" END="752">Tamil</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0029.eng-E5" TYPE="PER" CLASS="USP">
+    <entity_mention ID="5-21" TYPE="BAR">
+      <extent>
+        <charseq START="748" END="765">Tamil nationalists</charseq>
+      </extent>
+      <head>
+        <charseq START="754" END="765">nationalists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0029.eng-E7" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+    <entity_mention ID="7-25" TYPE="BAR">
+      <extent>
+        <charseq START="858" END="882">forests in southern India</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="864">forests</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0029.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="8-27" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="175" END="180">Indian</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="180">Indian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0029.eng-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-35" TYPE="NOM">
+      <extent>
+        <charseq START="774" END="789">the negotiations</charseq>
+      </extent>
+      <head>
+        <charseq START="778" END="789">negotiations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0029.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="1-10" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="586" END="622">the capital of the state of Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="590" END="596">capital</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="10-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="85" END="100">Bangalore (India</charseq>
+      </extent>
+      <head>
+        <charseq START="85" END="93">Bangalore</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-6" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="476" END="484">Bangalore</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="484">Bangalore</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-8" TYPE="APP" ROLE="LOC">
+      <extent>
+        <charseq START="575" END="622">Bangalore, the capital of the state of Karnataka</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="10-9" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="575" END="583">Bangalore</charseq>
+      </extent>
+      <head>
+        <charseq START="575" END="583">Bangalore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="85" END="93">Bangalore</charseq>
+      </name>
+      <name>
+        <charseq START="476" END="484">Bangalore</charseq>
+      </name>
+      <name>
+        <charseq START="575" END="583">Bangalore</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0029.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-28" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="96" END="100">India</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="100">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="96" END="100">India</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0029.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-29" TYPE="NAM">
+      <extent>
+        <charseq START="110" END="112">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="112">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="110" END="112">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0029.eng-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-4" TYPE="PRO">
+      <extent>
+        <charseq START="448" END="449">He</charseq>
+      </extent>
+      <head>
+        <charseq START="448" END="449">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-30" TYPE="NOM">
+      <extent>
+        <charseq START="118" END="138">A government official</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="138">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-40" TYPE="APP">
+      <extent>
+        <charseq START="290" END="398">Chandre Goda, the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="13-41" TYPE="NAM">
+      <extent>
+        <charseq START="290" END="301">Chandre Goda</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="301">Chandre Goda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="290" END="301">Chandre Goda</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-42" TYPE="NOM">
+      <extent>
+        <charseq START="304" END="398">the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="315">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0029.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-15" TYPE="NOM">
+      <extent>
+        <charseq START="637" END="679">a very popular representative in this state</charseq>
+      </extent>
+      <head>
+        <charseq START="652" END="665">representative</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-23" TYPE="PRE">
+      <extent>
+        <charseq START="810" END="823">representative</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="823">representative</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-3" TYPE="NAM">
+      <extent>
+        <charseq START="417" END="424">Rajkumar</charseq>
+      </extent>
+      <head>
+        <charseq START="417" END="424">Rajkumar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-5" TYPE="PRO">
+      <extent>
+        <charseq START="458" END="459">he</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="459">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-7" TYPE="NAM">
+      <extent>
+        <charseq START="510" END="529">74-year-old Rajkumar</charseq>
+      </extent>
+      <head>
+        <charseq START="522" END="529">Rajkumar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-13" TYPE="APP">
+      <extent>
+        <charseq START="627" END="679">Rajkumar, a very popular representative in this state</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-14" TYPE="NAM">
+      <extent>
+        <charseq START="627" END="634">Rajkumar</charseq>
+      </extent>
+      <head>
+        <charseq START="627" END="634">Rajkumar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-22" TYPE="NAM">
+      <extent>
+        <charseq START="810" END="832">representative Rajkumar</charseq>
+      </extent>
+      <head>
+        <charseq START="825" END="832">Rajkumar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-32" TYPE="APP">
+      <extent>
+        <charseq START="171" END="196">the Indian
+deputy Rajkumar</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-33" TYPE="NOM">
+      <extent>
+        <charseq START="171" END="187">the Indian
+deputy</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="187">deputy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="627" END="634">Rajkumar</charseq>
+      </name>
+      <name>
+        <charseq START="825" END="832">Rajkumar</charseq>
+      </name>
+      <name>
+        <charseq START="417" END="424">Rajkumar</charseq>
+      </name>
+      <name>
+        <charseq START="522" END="529">Rajkumar</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E16" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="16-34" TYPE="NAM">
+      <extent>
+        <charseq START="189" END="196">Rajkumar</charseq>
+      </extent>
+      <head>
+        <charseq START="189" END="196">Rajkumar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="189" END="196">Rajkumar</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0029.eng-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-18" TYPE="NAM">
+      <extent>
+        <charseq START="709" END="717">Veerappan</charseq>
+      </extent>
+      <head>
+        <charseq START="709" END="717">Veerappan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-24" TYPE="NAM">
+      <extent>
+        <charseq START="837" END="882">Veerappan, hiding in forests in southern India</charseq>
+      </extent>
+      <head>
+        <charseq START="837" END="845">Veerappan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-36" TYPE="APP">
+      <extent>
+        <charseq START="229" END="248">the bandit Veerappan</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-37" TYPE="NOM">
+      <extent>
+        <charseq START="229" END="238">the bandit</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="238">bandit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="709" END="717">Veerappan</charseq>
+      </name>
+      <name>
+        <charseq START="837" END="845">Veerappan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E18" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="18-38" TYPE="NAM">
+      <extent>
+        <charseq START="240" END="248">Veerappan</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="248">Veerappan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="240" END="248">Veerappan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0029.eng-E19" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="19-26" TYPE="BAR">
+      <extent>
+        <charseq START="869" END="882">southern India</charseq>
+      </extent>
+      <head>
+        <charseq START="878" END="882">India</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-39" TYPE="BAR">
+      <extent>
+        <charseq START="253" END="266">southern India</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="266">India</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0029.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0029.eng-E14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="14-31" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="120" END="129">government</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="129">government</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0029.eng-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="21-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="390" END="398">Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="390" END="398">Karnataka</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-11" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="601" END="622">the state of Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="605" END="609">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="614" END="622">Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="614" END="622">Karnataka</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-16" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="670" END="679">this state</charseq>
+      </extent>
+      <head>
+        <charseq START="675" END="679">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-43" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="359" END="398">the government in the state of Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="372">government</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-44" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="377" END="398">the state of Karnataka</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="385">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="614" END="622">Karnataka</charseq>
+      </name>
+      <name>
+        <charseq START="390" END="398">Karnataka</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0029.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="85" END="100">Bangalore (India</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E10" ENTITYMENTIONID="10-1" ARGNUM="1">
+      <extent>
+        <charseq START="85" END="100">Bangalore (India</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E11" ENTITYMENTIONID="11-28" ARGNUM="2">
+      <extent>
+        <charseq START="96" END="100">India</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="118" END="138">A government official</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E13" ENTITYMENTIONID="13-30" ARGNUM="1">
+      <extent>
+        <charseq START="118" END="138">A government official</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E14" ENTITYMENTIONID="14-31" ARGNUM="2">
+      <extent>
+        <charseq START="120" END="129">government</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="171" END="187">the Indian
+deputy</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E15" ENTITYMENTIONID="15-33" ARGNUM="1">
+      <extent>
+        <charseq START="171" END="187">the Indian
+deputy</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E8" ENTITYMENTIONID="8-27" ARGNUM="2">
+      <extent>
+        <charseq START="175" END="180">Indian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="171" END="266">the Indian
+deputy Rajkumar, held hostage since July 30 by the bandit Veerappan
+in southern India</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E15" ENTITYMENTIONID="15-33" ARGNUM="1">
+      <extent>
+        <charseq START="171" END="187">the Indian
+deputy</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E19" ENTITYMENTIONID="19-39" ARGNUM="2">
+      <extent>
+        <charseq START="253" END="266">southern India</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="304" END="398">the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E20" ENTITYMENTIONID="20-42" ARGNUM="1">
+      <extent>
+        <charseq START="304" END="398">the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E21" ENTITYMENTIONID="21-43" ARGNUM="2">
+      <extent>
+        <charseq START="359" END="398">the government in the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="5-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="304" END="398">the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E20" ENTITYMENTIONID="20-42" ARGNUM="1">
+      <extent>
+        <charseq START="304" END="398">the Minister for Justice and Parliamentary Affairs for
+the government in the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E21" ENTITYMENTIONID="21-43" ARGNUM="2">
+      <extent>
+        <charseq START="359" END="398">the government in the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="586" END="622">the capital of the state of Karnataka</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E1" ENTITYMENTIONID="1-10" ARGNUM="1">
+      <extent>
+        <charseq START="586" END="622">the capital of the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E21" ENTITYMENTIONID="21-11" ARGNUM="2">
+      <extent>
+        <charseq START="601" END="622">the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="6-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="586" END="622">the capital of the state of Karnataka</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E1" ENTITYMENTIONID="1-10" ARGNUM="1">
+      <extent>
+        <charseq START="586" END="622">the capital of the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E21" ENTITYMENTIONID="21-11" ARGNUM="2">
+      <extent>
+        <charseq START="601" END="622">the state of Karnataka</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R7" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="709" END="743">Veerappan is of Tamil ethnic origin</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E17" ENTITYMENTIONID="17-18" ARGNUM="1">
+      <extent>
+        <charseq START="709" END="717">Veerappan</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E4" ENTITYMENTIONID="4-19" ARGNUM="2">
+      <extent>
+        <charseq START="725" END="729">Tamil</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R8" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="748" END="765">Tamil nationalists</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E5" ENTITYMENTIONID="5-21" ARGNUM="1">
+      <extent>
+        <charseq START="748" END="765">Tamil nationalists</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E4" ENTITYMENTIONID="4-20" ARGNUM="2">
+      <extent>
+        <charseq START="748" END="752">Tamil</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="837" END="882">Veerappan, hiding in forests in southern India</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E17" ENTITYMENTIONID="17-24" ARGNUM="1">
+      <extent>
+        <charseq START="837" END="882">Veerappan, hiding in forests in southern India</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E7" ENTITYMENTIONID="7-25" ARGNUM="2">
+      <extent>
+        <charseq START="858" END="882">forests in southern India</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="858" END="882">forests in southern India</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E7" ENTITYMENTIONID="7-25" ARGNUM="1">
+      <extent>
+        <charseq START="858" END="882">forests in southern India</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E19" ENTITYMENTIONID="19-26" ARGNUM="2">
+      <extent>
+        <charseq START="869" END="882">southern India</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="637" END="679">a very popular representative in this state</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E2" ENTITYMENTIONID="2-15" ARGNUM="1">
+      <extent>
+        <charseq START="637" END="679">a very popular representative in this state</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E21" ENTITYMENTIONID="21-16" ARGNUM="2">
+      <extent>
+        <charseq START="670" END="679">this state</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0029.eng-R14" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="14-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="627" END="705">Rajkumar, a very popular representative in this state, is from the
+Kinada caste</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E15" ENTITYMENTIONID="15-14" ARGNUM="1">
+      <extent>
+        <charseq START="627" END="634">Rajkumar</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0029.eng-E3" ENTITYMENTIONID="3-17" ARGNUM="2">
+      <extent>
+        <charseq START="690" END="705">the
+Kinada caste</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

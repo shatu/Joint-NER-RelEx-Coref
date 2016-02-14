@@ -1,0 +1,897 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0157.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0157.arb">
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE1">
+  <entity ID="20001015_AFP_ARB.0157.arb-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="HLS">
+      <extent>
+        <charseq START="323" END="328">ثمانية</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="328">ثمانية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE2">
+  <entity ID="20001015_AFP_ARB.0157.arb-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-8" TYPE="MWH">
+      <extent>
+        <charseq START="378" END="394">العربية الاسلامية</charseq>
+      </extent>
+      <head>
+        <charseq START="378" END="394">العربية الاسلامية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE3">
+  <entity ID="20001015_AFP_ARB.0157.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="3-10" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="465" END="472">الصهيوني</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="472">الصهيوني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-17" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="636" END="643">الصهيوني</charseq>
+      </extent>
+      <head>
+        <charseq START="636" END="643">الصهيوني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-32" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="936" END="946">الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="936" END="946">الاسرائيلية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0157.arb-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="27-37" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="985" END="998">الدولة العبرية</charseq>
+      </extent>
+      <head>
+        <charseq START="985" END="990">الدولة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-56" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="228" END="234">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="234">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="228" END="234">اسرائيل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE4">
+  <entity ID="20001015_AFP_ARB.0157.arb-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="4-11" TYPE="NOM">
+      <extent>
+        <charseq START="475" END="480">عملائه</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="480">عملائه</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE5">
+  <entity ID="20001015_AFP_ARB.0157.arb-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-12" TYPE="NAM">
+      <extent>
+        <charseq START="512" END="545">النائب طلال ارسلان غاب عن الاجتماع</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="529">طلال ارسلان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-13" TYPE="PRO">
+      <extent>
+        <charseq START="510" END="510">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="510">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="519" END="529">طلال ارسلان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE6">
+  <entity ID="20001015_AFP_ARB.0157.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-15" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="623" END="623">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="623">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-16" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="630" END="643">العدو الصهيوني</charseq>
+      </extent>
+      <head>
+        <charseq START="630" END="634">العدو</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE7">
+  <entity ID="20001015_AFP_ARB.0157.arb-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="7-19" TYPE="NOM">
+      <extent>
+        <charseq START="681" END="692">جيش
+الاحتلال</charseq>
+      </extent>
+      <head>
+        <charseq START="681" END="683">جيش</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-36" TYPE="NOM">
+      <extent>
+        <charseq START="981" END="998">جيش الدولة العبرية</charseq>
+      </extent>
+      <head>
+        <charseq START="981" END="983">جيش</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE8">
+  <entity ID="20001015_AFP_ARB.0157.arb-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="8-22" TYPE="PTV">
+      <extent>
+        <charseq START="749" END="767">للكثيرين من اسلافكم</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="756">للكثيرين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE9">
+  <entity ID="20001015_AFP_ARB.0157.arb-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-23" TYPE="NOM">
+      <extent>
+        <charseq START="761" END="767">اسلافكم</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="765">اسلاف</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE10">
+  <entity ID="20001015_AFP_ARB.0157.arb-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="10-26" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="805" END="810">لسوريا</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="810">لسوريا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-29" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="895" END="899">سوريا</charseq>
+      </extent>
+      <head>
+        <charseq START="895" END="899">سوريا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="805" END="810">لسوريا</charseq>
+      </name>
+      <name>
+        <charseq START="895" END="899">سوريا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE11">
+  <entity ID="20001015_AFP_ARB.0157.arb-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="888" END="892">لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="888" END="892">لبنان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="888" END="892">لبنان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE12">
+  <entity ID="20001015_AFP_ARB.0157.arb-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-34" TYPE="NOM">
+      <extent>
+        <charseq START="954" END="960">ابناؤهم</charseq>
+      </extent>
+      <head>
+        <charseq START="954" END="958">ابناؤ</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-35" TYPE="PRO">
+      <extent>
+        <charseq START="949" END="949">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="949" END="949">ي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE13">
+  <entity ID="20001015_AFP_ARB.0157.arb-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-38" TYPE="PTV">
+      <extent>
+        <charseq START="1011" END="1084">احد الجنود الثلاثة الذين
+اسرهم حزب الله اللبناني في السابع من الشهر الجاري</charseq>
+      </extent>
+      <head>
+        <charseq START="1011" END="1013">احد</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE14">
+  <entity ID="20001015_AFP_ARB.0157.arb-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-39" TYPE="NOM">
+      <extent>
+        <charseq START="1015" END="1028">الجنود الثلاثة</charseq>
+      </extent>
+      <head>
+        <charseq START="1015" END="1020">الجنود</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-40" TYPE="WHQ">
+      <extent>
+        <charseq START="1030" END="1034">الذين</charseq>
+      </extent>
+      <head>
+        <charseq START="1030" END="1034">الذين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-41" TYPE="PRO">
+      <extent>
+        <charseq START="1039" END="1040">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="1039" END="1040">هم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE15">
+  <entity ID="20001015_AFP_ARB.0157.arb-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-42" TYPE="NAM">
+      <extent>
+        <charseq START="1042" END="1058">حزب الله اللبناني</charseq>
+      </extent>
+      <head>
+        <charseq START="1042" END="1048">حزب الل</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1042" END="1048">حزب الل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE16">
+  <entity ID="20001015_AFP_ARB.0157.arb-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="114" END="118">بيروت</charseq>
+      </extent>
+      <head>
+        <charseq START="114" END="118">بيروت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="114" END="118">بيروت</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE17">
+  <entity ID="20001015_AFP_ARB.0157.arb-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="18-44" TYPE="NAM">
+      <extent>
+        <charseq START="127" END="130">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="127" END="130">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="127" END="130">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE18">
+  <entity ID="20001015_AFP_ARB.0157.arb-E19" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="19-4" TYPE="NAM">
+      <extent>
+        <charseq START="345" END="362">النائب
+وليد جنبلاط</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="362">وليد جنبلاط</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-24" TYPE="NAM">
+      <extent>
+        <charseq START="781" END="823">النائب وليد جنبلاط حليف لسوريا منذ وقت طويل</charseq>
+      </extent>
+      <head>
+        <charseq START="788" END="798">وليد جنبلاط</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-27" TYPE="PRO">
+      <extent>
+        <charseq START="831" END="831">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="831" END="831">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-45" TYPE="APP">
+      <extent>
+        <charseq START="139" END="180">الزعيم السياسي اللبناني الدرزي وليد جنبلاط</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="19-46" TYPE="NOM">
+      <extent>
+        <charseq START="139" END="168">الزعيم السياسي اللبناني الدرزي</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="144">الزعيم</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="788" END="798">وليد جنبلاط</charseq>
+      </name>
+      <name>
+        <charseq START="352" END="362">وليد جنبلاط</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0157.arb-E22" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="22-25" TYPE="NOM">
+      <extent>
+        <charseq START="800" END="823">حليف لسوريا منذ وقت طويل</charseq>
+      </extent>
+      <head>
+        <charseq START="800" END="803">حليف</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-49" TYPE="NAM">
+      <extent>
+        <charseq START="170" END="180">وليد جنبلاط</charseq>
+      </extent>
+      <head>
+        <charseq START="170" END="180">وليد جنبلاط</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="170" END="180">وليد جنبلاط</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE19">
+  <entity ID="20001015_AFP_ARB.0157.arb-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="20-43" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1051" END="1058">اللبناني</charseq>
+      </extent>
+      <head>
+        <charseq START="1051" END="1058">اللبناني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-47" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="161">اللبناني</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="161">اللبناني</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-59" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="302" END="309">لبنانيون</charseq>
+      </extent>
+      <head>
+        <charseq START="302" END="309">لبنانيون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE20">
+  <entity ID="20001015_AFP_ARB.0157.arb-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-30" TYPE="PRO">
+      <extent>
+        <charseq START="905" END="905">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="905" END="905">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-31" TYPE="NOM">
+      <extent>
+        <charseq START="916" END="926">75 الف درزي</charseq>
+      </extent>
+      <head>
+        <charseq START="923" END="926">درزي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-33" TYPE="PRO">
+      <extent>
+        <charseq START="959" END="960">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="959" END="960">هم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0157.arb-E21" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="21-48" TYPE="PRE">
+      <extent>
+        <charseq START="163" END="168">الدرزي</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="168">الدرزي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-60" TYPE="PRE">
+      <extent>
+        <charseq START="311" END="314">دروز</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="314">دروز</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE21">
+  <entity ID="20001015_AFP_ARB.0157.arb-E23" TYPE="PER" CLASS="USP">
+    <entity_mention ID="23-50" TYPE="BAR">
+      <extent>
+        <charseq START="182" END="197">ونواب من الطائفة</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="186">ونواب</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE22">
+  <entity ID="20001015_AFP_ARB.0157.arb-E24" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="24-6" TYPE="NOM">
+      <extent>
+        <charseq START="370" END="394">طائفتنا العربية الاسلامية</charseq>
+      </extent>
+      <head>
+        <charseq START="370" END="374">طائفت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-51" TYPE="NOM">
+      <extent>
+        <charseq START="191" END="197">الطائفة</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="197">الطائفة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-55" TYPE="NOM">
+      <extent>
+        <charseq START="217" END="234">طائفتهم في اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="223">طائفتهم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE23">
+  <entity ID="20001015_AFP_ARB.0157.arb-E25" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="25-5" TYPE="NOM">
+      <extent>
+        <charseq START="365" END="394">شباب طائفتنا العربية الاسلامية</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="368">شباب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-14" TYPE="PRO">
+      <extent>
+        <charseq START="570" END="571">كم</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="571">كم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-18" TYPE="PRO">
+      <extent>
+        <charseq START="647" END="648">كم</charseq>
+      </extent>
+      <head>
+        <charseq START="647" END="648">كم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-20" TYPE="PRO">
+      <extent>
+        <charseq START="706" END="707">تم</charseq>
+      </extent>
+      <head>
+        <charseq START="706" END="707">تم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-21" TYPE="PRO">
+      <extent>
+        <charseq START="766" END="767">كم</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="767">كم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-52" TYPE="NOM">
+      <extent>
+        <charseq START="211" END="234">ابناء طائفتهم في اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="215">ابناء</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE24">
+  <entity ID="20001015_AFP_ARB.0157.arb-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-53" TYPE="PRO">
+      <extent>
+        <charseq START="222" END="223">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="222" END="223">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-54" TYPE="CMC">
+      <extent>
+        <charseq START="139" END="197">الزعيم السياسي اللبناني الدرزي وليد جنبلاط ونواب من الطائفة</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE25">
+  <entity ID="20001015_AFP_ARB.0157.arb-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="28-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="435" END="444">الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="435" END="444">الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-57" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="272" END="281">الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="272" END="281">الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0157.arb-CE26">
+  <entity ID="20001015_AFP_ARB.0157.arb-E29" TYPE="PER" CLASS="USP">
+    <entity_mention ID="29-3" TYPE="PRO">
+      <extent>
+        <charseq START="335" END="336">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="336">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-7" TYPE="PRO">
+      <extent>
+        <charseq START="375" END="376">نا</charseq>
+      </extent>
+      <head>
+        <charseq START="375" END="376">نا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-58" TYPE="NOM">
+      <extent>
+        <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+      </extent>
+      <head>
+        <charseq START="297" END="300">نواب</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0157.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="168">الزعيم السياسي اللبناني الدرزي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E19" ENTITYMENTIONID="19-46" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="168">الزعيم السياسي اللبناني الدرزي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E20" ENTITYMENTIONID="20-47" ARGNUM="2">
+      <extent>
+        <charseq START="154" END="161">اللبناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R2" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="168">الزعيم السياسي اللبناني الدرزي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E19" ENTITYMENTIONID="19-46" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="168">الزعيم السياسي اللبناني الدرزي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E21" ENTITYMENTIONID="21-48" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="168">الدرزي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R3" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="182" END="197">ونواب من الطائفة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E23" ENTITYMENTIONID="23-50" ARGNUM="1">
+      <extent>
+        <charseq START="182" END="197">ونواب من الطائفة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E24" ENTITYMENTIONID="24-51" ARGNUM="2">
+      <extent>
+        <charseq START="191" END="197">الطائفة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R4" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="211" END="234">ابناء طائفتهم في اسرائيل</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E25" ENTITYMENTIONID="25-52" ARGNUM="1">
+      <extent>
+        <charseq START="211" END="234">ابناء طائفتهم في اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E24" ENTITYMENTIONID="24-55" ARGNUM="2">
+      <extent>
+        <charseq START="217" END="234">طائفتهم في اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="4-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="365" END="394">شباب طائفتنا العربية الاسلامية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E25" ENTITYMENTIONID="25-5" ARGNUM="1">
+      <extent>
+        <charseq START="365" END="394">شباب طائفتنا العربية الاسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E24" ENTITYMENTIONID="24-6" ARGNUM="2">
+      <extent>
+        <charseq START="370" END="394">طائفتنا العربية الاسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="211" END="234">ابناء طائفتهم في اسرائيل</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E25" ENTITYMENTIONID="25-52" ARGNUM="1">
+      <extent>
+        <charseq START="211" END="234">ابناء طائفتهم في اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E27" ENTITYMENTIONID="27-56" ARGNUM="2">
+      <extent>
+        <charseq START="228" END="234">اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E29" ENTITYMENTIONID="29-58" ARGNUM="1">
+      <extent>
+        <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E20" ENTITYMENTIONID="20-59" ARGNUM="2">
+      <extent>
+        <charseq START="302" END="309">لبنانيون</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R7" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E29" ENTITYMENTIONID="29-58" ARGNUM="1">
+      <extent>
+        <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E21" ENTITYMENTIONID="21-60" ARGNUM="2">
+      <extent>
+        <charseq START="311" END="314">دروز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E29" ENTITYMENTIONID="29-58" ARGNUM="1">
+      <extent>
+        <charseq START="292" END="328">سبعة نواب لبنانيون دروز من اصل ثمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E1" ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="323" END="328">ثمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R10" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="365" END="394">شباب طائفتنا العربية الاسلامية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E24" ENTITYMENTIONID="24-6" ARGNUM="1">
+      <extent>
+        <charseq START="370" END="394">طائفتنا العربية الاسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E29" ENTITYMENTIONID="29-7" ARGNUM="2">
+      <extent>
+        <charseq START="375" END="376">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R11" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="365" END="394">شباب طائفتنا العربية الاسلامية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E24" ENTITYMENTIONID="24-6" ARGNUM="1">
+      <extent>
+        <charseq START="370" END="394">طائفتنا العربية الاسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E2" ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="378" END="394">العربية الاسلامية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R12" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="630" END="643">العدو الصهيوني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E6" ENTITYMENTIONID="6-16" ARGNUM="1">
+      <extent>
+        <charseq START="630" END="643">العدو الصهيوني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E3" ENTITYMENTIONID="3-17" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="643">الصهيوني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R13" TYPE="DISC">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="749" END="767">للكثيرين من اسلافكم</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E8" ENTITYMENTIONID="8-22" ARGNUM="1">
+      <extent>
+        <charseq START="749" END="767">للكثيرين من اسلافكم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E9" ENTITYMENTIONID="9-23" ARGNUM="2">
+      <extent>
+        <charseq START="761" END="767">اسلافكم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R14" TYPE="PER-SOC" SUBTYPE="Family">
+  <relation_mention ID="14-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="761" END="767">اسلافكم</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E9" ENTITYMENTIONID="9-23" ARGNUM="1">
+      <extent>
+        <charseq START="761" END="767">اسلافكم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E25" ENTITYMENTIONID="25-21" ARGNUM="2">
+      <extent>
+        <charseq START="766" END="767">كم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0157.arb-R15" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="800" END="823">حليف لسوريا منذ وقت طويل</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E22" ENTITYMENTIONID="22-25" ARGNUM="1">
+      <extent>
+        <charseq START="800" END="823">حليف لسوريا منذ وقت طويل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0157.arb-E10" ENTITYMENTIONID="10-26" ARGNUM="2">
+      <extent>
+        <charseq START="805" END="810">لسوريا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CTS20001108.1300.1022.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001108.1300.1022">
+<composite_entity ID="CTS20001108.1300.1022-CE1">
+  <entity ID="CTS20001108.1300.1022-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-43" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="341" END="342">台北</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="342">台北</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="341" END="342">台北</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE2">
+  <entity ID="CTS20001108.1300.1022-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="2-6" TYPE="NOM">
+      <extent>
+        <charseq START="428" END="433">台南的工业区</charseq>
+      </extent>
+      <head>
+        <charseq START="431" END="433">工业区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE3">
+  <entity ID="CTS20001108.1300.1022-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="428" END="429">台南</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="429">台南</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="428" END="429">台南</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE4">
+  <entity ID="CTS20001108.1300.1022-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="4-8" TYPE="NOM">
+      <extent>
+        <charseq START="438" END="450">大义交通跟东洋实业两家公司</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="450">公司</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="PMM">
+      <extent>
+        <charseq START="438" END="446">大义交通跟东洋实业</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="446">大义交通跟东洋实业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE5">
+  <entity ID="CTS20001108.1300.1022-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-9" TYPE="NAM">
+      <extent>
+        <charseq START="438" END="441">大义交通</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="441">大义交通</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="438" END="441">大义交通</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE6">
+  <entity ID="CTS20001108.1300.1022-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="NAM">
+      <extent>
+        <charseq START="443" END="446">东洋实业</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="446">东洋实业</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="443" END="446">东洋实业</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE7">
+  <entity ID="CTS20001108.1300.1022-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-14" TYPE="NOM">
+      <extent>
+        <charseq START="469" END="472">传统产业</charseq>
+      </extent>
+      <head>
+        <charseq START="471" END="472">产业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE8">
+  <entity ID="CTS20001108.1300.1022-E8" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="8-15" TYPE="NOM">
+      <extent>
+        <charseq START="484" END="485">南部</charseq>
+      </extent>
+      <head>
+        <charseq START="484" END="485">南部</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-19" TYPE="NOM">
+      <extent>
+        <charseq START="99" END="100">南部</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="100">南部</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE9">
+  <entity ID="CTS20001108.1300.1022-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="9-18" TYPE="NOM">
+      <extent>
+        <charseq START="99" END="105">南部的基层产业</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="105">产业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE10">
+  <entity ID="CTS20001108.1300.1022-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-23" TYPE="NAM">
+      <extent>
+        <charseq START="163" END="171">冈山的叶联钢铁集团</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="171">叶联钢铁集团</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="166" END="171">叶联钢铁集团</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE11">
+  <entity ID="CTS20001108.1300.1022-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="11-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="163" END="164">冈山</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="164">冈山</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="163" END="164">冈山</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE12">
+  <entity ID="CTS20001108.1300.1022-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-25" TYPE="NOM">
+      <extent>
+        <charseq START="176" END="177">员工</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="177">员工</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE13">
+  <entity ID="CTS20001108.1300.1022-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-27" TYPE="NOM">
+      <extent>
+        <charseq START="197" END="200">正副总统</charseq>
+      </extent>
+      <head>
+        <charseq START="199" END="200">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-28" TYPE="PMM">
+      <extent>
+        <charseq START="197" END="198">正副</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="198">正副</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE14">
+  <entity ID="CTS20001108.1300.1022-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-30" TYPE="NOM">
+      <extent>
+        <charseq START="198" END="198">副</charseq>
+      </extent>
+      <head>
+        <charseq START="198" END="198">副</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE15">
+  <entity ID="CTS20001108.1300.1022-E15" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="15-1" TYPE="NOM">
+      <extent>
+        <charseq START="75" END="77">立法院</charseq>
+      </extent>
+      <head>
+        <charseq START="75" END="77">立法院</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-26" TYPE="NOM">
+      <extent>
+        <charseq START="187" END="189">立法院</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="189">立法院</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE16">
+  <entity ID="CTS20001108.1300.1022-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-2" TYPE="NAM">
+      <extent>
+        <charseq START="354" END="355">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="355">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-3" TYPE="NAM">
+      <extent>
+        <charseq START="376" END="377">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="376" END="377">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-4" TYPE="NOM">
+      <extent>
+        <charseq START="420" END="423">阿扁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="422" END="423">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-5" TYPE="NAM">
+      <extent>
+        <charseq START="420" END="421">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="421">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-12" TYPE="NOM">
+      <extent>
+        <charseq START="452" END="455">阿扁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="455">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-13" TYPE="NAM">
+      <extent>
+        <charseq START="452" END="453">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="452" END="453">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-16" TYPE="NOM">
+      <extent>
+        <charseq START="82" END="85">阿扁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="85">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-17" TYPE="NAM">
+      <extent>
+        <charseq START="82" END="83">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="83">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-20" TYPE="PRO">
+      <extent>
+        <charseq START="132" END="132">他</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="132">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-21" TYPE="NOM">
+      <extent>
+        <charseq START="148" END="151">阿扁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="151">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-22" TYPE="NAM">
+      <extent>
+        <charseq START="148" END="149">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="149">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-29" TYPE="NOM">
+      <extent>
+        <charseq START="197" END="197">正</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="197">正</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-31" TYPE="NOM">
+      <extent>
+        <charseq START="208" END="211">阿扁总统</charseq>
+      </extent>
+      <head>
+        <charseq START="210" END="211">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-32" TYPE="NAM">
+      <extent>
+        <charseq START="208" END="209">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="209">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-37" TYPE="NAM">
+      <extent>
+        <charseq START="265" END="266">阿扁</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="266">阿扁</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-38" TYPE="NOM">
+      <extent>
+        <charseq START="282" END="283">总统</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="283">总统</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="354" END="355">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="376" END="377">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="420" END="421">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="452" END="453">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="82" END="83">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="148" END="149">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="208" END="209">阿扁</charseq>
+      </name>
+      <name>
+        <charseq START="265" END="266">阿扁</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE17">
+  <entity ID="CTS20001108.1300.1022-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-33" TYPE="APP">
+      <extent>
+        <charseq START="235" END="242">经济部次长林一夫</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="17-34" TYPE="NAM">
+      <extent>
+        <charseq START="240" END="242">林一夫</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="242">林一夫</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="240" END="242">林一夫</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CTS20001108.1300.1022-E18" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="18-35" TYPE="NOM">
+      <extent>
+        <charseq START="235" END="239">经济部次长</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="239">次长</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE18">
+  <entity ID="CTS20001108.1300.1022-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="19-36" TYPE="NAM">
+      <extent>
+        <charseq START="235" END="237">经济部</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="237">经济部</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="235" END="237">经济部</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE19">
+  <entity ID="CTS20001108.1300.1022-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="20-39" TYPE="NOM">
+      <extent>
+        <charseq START="300" END="306">国内的基层产业</charseq>
+      </extent>
+      <head>
+        <charseq START="305" END="306">产业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE20">
+  <entity ID="CTS20001108.1300.1022-E21" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="21-40" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="300" END="301">国内</charseq>
+      </extent>
+      <head>
+        <charseq START="300" END="301">国内</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="325" END="326">台湾</charseq>
+      </extent>
+      <head>
+        <charseq START="325" END="326">台湾</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="325" END="326">台湾</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CTS20001108.1300.1022-CE21">
+  <entity ID="CTS20001108.1300.1022-E22" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="22-42" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="330" END="331">国际</charseq>
+      </extent>
+      <head>
+        <charseq START="330" END="331">国际</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CTS20001108.1300.1022-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="99" END="105">南部的基层产业</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E9" ENTITYMENTIONID="9-18" ARGNUM="1">
+      <extent>
+        <charseq START="99" END="105">南部的基层产业</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E8" ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="99" END="100">南部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="163" END="171">冈山的叶联钢铁集团</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E10" ENTITYMENTIONID="10-23" ARGNUM="1">
+      <extent>
+        <charseq START="163" END="171">冈山的叶联钢铁集团</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E11" ENTITYMENTIONID="11-24" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="164">冈山</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="235" END="239">经济部次长</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E18" ENTITYMENTIONID="18-35" ARGNUM="1">
+      <extent>
+        <charseq START="235" END="239">经济部次长</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E19" ENTITYMENTIONID="19-36" ARGNUM="2">
+      <extent>
+        <charseq START="235" END="237">经济部</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="300" END="306">国内的基层产业</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E20" ENTITYMENTIONID="20-39" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="306">国内的基层产业</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E21" ENTITYMENTIONID="21-40" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="301">国内</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="428" END="433">台南的工业区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E2" ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="428" END="433">台南的工业区</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E3" ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="428" END="429">台南</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="438" END="450">大义交通跟东洋实业两家公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E5" ENTITYMENTIONID="5-9" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="441">大义交通</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E4" ENTITYMENTIONID="4-8" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="450">大义交通跟东洋实业两家公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001108.1300.1022-R7" TYPE="DISC">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="438" END="450">大义交通跟东洋实业两家公司</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E6" ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="443" END="446">东洋实业</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CTS20001108.1300.1022-E4" ENTITYMENTIONID="4-8" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="450">大义交通跟东洋实业两家公司</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

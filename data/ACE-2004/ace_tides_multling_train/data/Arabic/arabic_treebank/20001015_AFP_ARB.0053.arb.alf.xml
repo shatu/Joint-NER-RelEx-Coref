@@ -1,0 +1,980 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0053.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0053.arb">
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE1">
+  <entity ID="20001015_AFP_ARB.0053.arb-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="386" END="395">ي السعودية</charseq>
+      </extent>
+      <head>
+        <charseq START="386" END="395">ي السعودية</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="386" END="395">ي السعودية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE2">
+  <entity ID="20001015_AFP_ARB.0053.arb-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="APP">
+      <extent>
+        <charseq START="418" END="495">الامير سلطان بن فهد رئيس رعاية الشباب والرياضة رئيس الاتحاد السعودي
+لكرة القدم</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="3-7" TYPE="NAM">
+      <extent>
+        <charseq START="418" END="436">الامير سلطان بن فهد</charseq>
+      </extent>
+      <head>
+        <charseq START="425" END="436">سلطان بن فهد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="425" END="436">سلطان بن فهد</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0053.arb-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-8" TYPE="NOM">
+      <extent>
+        <charseq START="438" END="463">رئيس رعاية الشباب والرياضة</charseq>
+      </extent>
+      <head>
+        <charseq START="438" END="441">رئيس</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-10" TYPE="NOM">
+      <extent>
+        <charseq START="465" END="495">رئيس الاتحاد السعودي
+لكرة القدم</charseq>
+      </extent>
+      <head>
+        <charseq START="465" END="468">رئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE3">
+  <entity ID="20001015_AFP_ARB.0053.arb-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="1-3" TYPE="PRO">
+      <extent>
+        <charseq START="352" END="352">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="352" END="352">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-4" TYPE="NAM">
+      <extent>
+        <charseq START="354" END="395">الرعاية العامة للشباب والرياضة في السعودية</charseq>
+      </extent>
+      <head>
+        <charseq START="354" END="383">الرعاية العامة للشباب والرياضة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="354" END="383">الرعاية العامة للشباب والرياضة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0053.arb-E5" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="5-9" TYPE="PRE">
+      <extent>
+        <charseq START="443" END="463">رعاية الشباب والرياضة</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="463">رعاية الشباب والرياضة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE4">
+  <entity ID="20001015_AFP_ARB.0053.arb-E6" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="6-11" TYPE="PRE">
+      <extent>
+        <charseq START="470" END="495">الاتحاد السعودي
+لكرة القدم</charseq>
+      </extent>
+      <head>
+        <charseq START="470" END="495">الاتحاد السعودي
+لكرة القدم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0053.arb-E20" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="20-17" TYPE="NAM">
+      <extent>
+        <charseq START="623" END="637">الاتحاد السعودي</charseq>
+      </extent>
+      <head>
+        <charseq START="623" END="637">الاتحاد السعودي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-58" TYPE="NAM">
+      <extent>
+        <charseq START="119" END="144">الاتحاد السعودي لكرة القدم</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="144">الاتحاد السعودي لكرة القدم</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="623" END="637">الاتحاد السعودي</charseq>
+      </name>
+      <name>
+        <charseq START="119" END="144">الاتحاد السعودي لكرة القدم</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE5">
+  <entity ID="20001015_AFP_ARB.0053.arb-E7" TYPE="GPE" SUBTYPE="Continent" CLASS="ATR">
+    <entity_mention ID="7-25" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="857" END="870">الامم الاسيوية</charseq>
+      </extent>
+      <head>
+        <charseq START="857" END="861">الامم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-52" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1354" END="1361">امم اسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="1354" END="1356">امم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE6">
+  <entity ID="20001015_AFP_ARB.0053.arb-E8" TYPE="GPE" SUBTYPE="Continent" CLASS="ATR">
+    <entity_mention ID="8-26" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="863" END="870">الاسيوية</charseq>
+      </extent>
+      <head>
+        <charseq START="863" END="870">الاسيوية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-53" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="1358" END="1361">اسيا</charseq>
+      </extent>
+      <head>
+        <charseq START="1358" END="1361">اسيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-55" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="1415" END="1422">الاسيوية</charseq>
+      </extent>
+      <head>
+        <charseq START="1415" END="1422">الاسيوية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE7">
+  <entity ID="20001015_AFP_ARB.0053.arb-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="899" END="903">لبنان</charseq>
+      </extent>
+      <head>
+        <charseq START="899" END="903">لبنان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-28" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="890" END="890">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="890" END="890">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="899" END="903">لبنان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE8">
+  <entity ID="20001015_AFP_ARB.0053.arb-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="10-33" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1023" END="1030">الامارات</charseq>
+      </extent>
+      <head>
+        <charseq START="1023" END="1030">الامارات</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-54" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1374" END="1381">الامارات</charseq>
+      </extent>
+      <head>
+        <charseq START="1374" END="1381">الامارات</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1023" END="1030">الامارات</charseq>
+      </name>
+      <name>
+        <charseq START="1374" END="1381">الامارات</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE9">
+  <entity ID="20001015_AFP_ARB.0053.arb-E11" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="11-39" TYPE="NOM">
+      <extent>
+        <charseq START="1122" END="1128">القارات</charseq>
+      </extent>
+      <head>
+        <charseq START="1122" END="1128">القارات</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE10">
+  <entity ID="20001015_AFP_ARB.0053.arb-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="12-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1145" END="1151">المكسيك</charseq>
+      </extent>
+      <head>
+        <charseq START="1145" END="1151">المكسيك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1145" END="1151">المكسيك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE11">
+  <entity ID="20001015_AFP_ARB.0053.arb-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-43" TYPE="NOM">
+      <extent>
+        <charseq START="1202" END="1242">اشهر المدربين الذين مروا على منطقة الخليج</charseq>
+      </extent>
+      <head>
+        <charseq START="1207" END="1214">المدربين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-44" TYPE="WHQ">
+      <extent>
+        <charseq START="1216" END="1220">الذين</charseq>
+      </extent>
+      <head>
+        <charseq START="1216" END="1220">الذين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-45" TYPE="PRO">
+      <extent>
+        <charseq START="1224" END="1225">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="1224" END="1225">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE12">
+  <entity ID="20001015_AFP_ARB.0053.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-46" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1231" END="1242">منطقة الخليج</charseq>
+      </extent>
+      <head>
+        <charseq START="1237" END="1242">الخليج</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-51" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="1310" END="1315">الخليج</charseq>
+      </extent>
+      <head>
+        <charseq START="1310" END="1315">الخليج</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1237" END="1242">الخليج</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE13">
+  <entity ID="20001015_AFP_ARB.0053.arb-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-48" TYPE="NOM">
+      <extent>
+        <charseq START="1274" END="1288">المنتخب الكويتي</charseq>
+      </extent>
+      <head>
+        <charseq START="1274" END="1280">المنتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-49" TYPE="PRO">
+      <extent>
+        <charseq START="1294" END="1294">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1294" END="1294">ه</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE14">
+  <entity ID="20001015_AFP_ARB.0053.arb-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="17-50" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1282" END="1288">الكويتي</charseq>
+      </extent>
+      <head>
+        <charseq START="1282" END="1288">الكويتي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE15">
+  <entity ID="20001015_AFP_ARB.0053.arb-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-56" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1427" END="1432">بانكوك</charseq>
+      </extent>
+      <head>
+        <charseq START="1427" END="1432">بانكوك</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1427" END="1432">بانكوك</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE16">
+  <entity ID="20001015_AFP_ARB.0053.arb-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="92" END="96">بيروت</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="96">بيروت</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="92" END="96">بيروت</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE17">
+  <entity ID="20001015_AFP_ARB.0053.arb-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-22" TYPE="NAM">
+      <extent>
+        <charseq START="768" END="785">لوكالة "فرانس برس"</charseq>
+      </extent>
+      <head>
+        <charseq START="768" END="785">لوكالة "فرانس برس"</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-57" TYPE="NAM">
+      <extent>
+        <charseq START="105" END="109">أ ف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="109">أ ف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="768" END="785">لوكالة "فرانس برس"</charseq>
+      </name>
+      <name>
+        <charseq START="105" END="109">أ ف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE18">
+  <entity ID="20001015_AFP_ARB.0053.arb-E21" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="21-12" TYPE="NOM">
+      <extent>
+        <charseq START="519" END="539">المدرب التشيكي ماتشال</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="524">المدرب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-20" TYPE="NAM">
+      <extent>
+        <charseq START="725" END="731">ماتشالا</charseq>
+      </extent>
+      <head>
+        <charseq START="725" END="731">ماتشالا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-21" TYPE="PRO">
+      <extent>
+        <charseq START="742" END="742">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="742" END="742">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-23" TYPE="NAM">
+      <extent>
+        <charseq START="820" END="840">ماتشالا الضحية الاولى</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="825">ماتشال</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-34" TYPE="NAM">
+      <extent>
+        <charseq START="1049" END="1055">ماتشالا</charseq>
+      </extent>
+      <head>
+        <charseq START="1049" END="1055">ماتشالا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-35" TYPE="PRO">
+      <extent>
+        <charseq START="1057" END="1057">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="1057" END="1057">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-41" TYPE="PRO">
+      <extent>
+        <charseq START="1185" END="1185">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="1185" END="1185">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-42" TYPE="NAM">
+      <extent>
+        <charseq START="1191" END="1242">ماتشالا من اشهر المدربين الذين مروا على منطقة الخليج</charseq>
+      </extent>
+      <head>
+        <charseq START="1191" END="1196">ماتشال</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-47" TYPE="PRO">
+      <extent>
+        <charseq START="1250" END="1250">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1250" END="1250">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-59" TYPE="APP">
+      <extent>
+        <charseq START="146" END="179">مدرب المنتخب التشيكي ميلان ماتشالا</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="21-60" TYPE="NOM">
+      <extent>
+        <charseq START="146" END="165">مدرب المنتخب التشيكي</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="149">مدرب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-63" TYPE="PRO">
+      <extent>
+        <charseq START="188" END="188">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="188" END="188">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-64" TYPE="PRO">
+      <extent>
+        <charseq START="211" END="211">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="211">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-65" TYPE="PRO">
+      <extent>
+        <charseq START="218" END="218">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="218">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="725" END="731">ماتشالا</charseq>
+      </name>
+      <name>
+        <charseq START="820" END="825">ماتشال</charseq>
+      </name>
+      <name>
+        <charseq START="1049" END="1055">ماتشالا</charseq>
+      </name>
+      <name>
+        <charseq START="1191" END="1196">ماتشال</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0053.arb-E23" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="23-14" TYPE="NAM">
+      <extent>
+        <charseq START="534" END="539">ماتشال</charseq>
+      </extent>
+      <head>
+        <charseq START="534" END="539">ماتشال</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-24" TYPE="NOM">
+      <extent>
+        <charseq START="828" END="840">الضحية الاولى</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="833">الضحية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-62" TYPE="NAM">
+      <extent>
+        <charseq START="167" END="179">ميلان ماتشالا</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="179">ميلان ماتشالا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="534" END="539">ماتشال</charseq>
+      </name>
+      <name>
+        <charseq START="167" END="179">ميلان ماتشالا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE19">
+  <entity ID="20001015_AFP_ARB.0053.arb-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="22-13" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="526" END="532">التشيكي</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="532">التشيكي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-61" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="159" END="165">التشيكي</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="165">التشيكي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE20">
+  <entity ID="20001015_AFP_ARB.0053.arb-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-15" TYPE="NAM">
+      <extent>
+        <charseq START="549" END="557">ناصر
+جوهر</charseq>
+      </extent>
+      <head>
+        <charseq START="549" END="557">ناصر
+جوهر</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-66" TYPE="NOM">
+      <extent>
+        <charseq START="213" END="228">مساعده ناصر جوهر</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="217">مساعد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="549" END="557">ناصر
+جوهر</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0053.arb-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-67" TYPE="NAM">
+      <extent>
+        <charseq START="220" END="228">ناصر جوهر</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="228">ناصر جوهر</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="220" END="228">ناصر جوهر</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE21">
+  <entity ID="20001015_AFP_ARB.0053.arb-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="26-2" TYPE="PRO">
+      <extent>
+        <charseq START="322" END="322">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="322" END="322">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-16" TYPE="NOM">
+      <extent>
+        <charseq START="566" END="572">المنتخب</charseq>
+      </extent>
+      <head>
+        <charseq START="566" END="572">المنتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-18" TYPE="NOM">
+      <extent>
+        <charseq START="668" END="674">للمنتخب</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="674">للمنتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-30" TYPE="NOM">
+      <extent>
+        <charseq START="980" END="1030">المنتخب السعودي يحمل لقب النسخة الماضية
+في الامارات</charseq>
+      </extent>
+      <head>
+        <charseq START="980" END="986">المنتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-31" TYPE="PRO">
+      <extent>
+        <charseq START="996" END="996">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="996" END="996">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-36" TYPE="NOM">
+      <extent>
+        <charseq START="1068" END="1081">منتخب السعودية</charseq>
+      </extent>
+      <head>
+        <charseq START="1068" END="1072">منتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-38" TYPE="PRO">
+      <extent>
+        <charseq START="1111" END="1111">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1111" END="1111">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-68" TYPE="NOM">
+      <extent>
+        <charseq START="238" END="263">المنتخب السعودي حامل اللقب</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="244">المنتخب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-70" TYPE="PRO">
+      <extent>
+        <charseq START="265" END="265">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="265">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-71" TYPE="PRO">
+      <extent>
+        <charseq START="292" END="292">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="292">ه</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE22">
+  <entity ID="20001015_AFP_ARB.0053.arb-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="27-19" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="707" END="714">السعودية</charseq>
+      </extent>
+      <head>
+        <charseq START="707" END="714">السعودية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-32" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="988" END="994">السعودي</charseq>
+      </extent>
+      <head>
+        <charseq START="988" END="994">السعودي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-37" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1074" END="1081">السعودية</charseq>
+      </extent>
+      <head>
+        <charseq START="1074" END="1081">السعودية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-69" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="246" END="252">السعودي</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="252">السعودي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE23">
+  <entity ID="20001015_AFP_ARB.0053.arb-E28" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="28-72" TYPE="NOM">
+      <extent>
+        <charseq START="288" END="301">نظيره الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="288" END="291">نظير</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0053.arb-CE24">
+  <entity ID="20001015_AFP_ARB.0053.arb-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="29-29" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="950" END="958">اليابانية</charseq>
+      </extent>
+      <head>
+        <charseq START="950" END="958">اليابانية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-73" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="294" END="301">الياباني</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="301">الياباني</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0053.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="146" END="165">مدرب المنتخب التشيكي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E21" ENTITYMENTIONID="21-60" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="165">مدرب المنتخب التشيكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E22" ENTITYMENTIONID="22-61" ARGNUM="2">
+      <extent>
+        <charseq START="159" END="165">التشيكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="519" END="539">المدرب التشيكي ماتشال</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E21" ENTITYMENTIONID="21-12" ARGNUM="1">
+      <extent>
+        <charseq START="519" END="539">المدرب التشيكي ماتشال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E22" ENTITYMENTIONID="22-13" ARGNUM="2">
+      <extent>
+        <charseq START="526" END="532">التشيكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R2" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="213" END="228">مساعده ناصر جوهر</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E24" ENTITYMENTIONID="24-66" ARGNUM="1">
+      <extent>
+        <charseq START="213" END="228">مساعده ناصر جوهر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E21" ENTITYMENTIONID="21-65" ARGNUM="2">
+      <extent>
+        <charseq START="218" END="218">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="238" END="263">المنتخب السعودي حامل اللقب</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E26" ENTITYMENTIONID="26-68" ARGNUM="1">
+      <extent>
+        <charseq START="238" END="263">المنتخب السعودي حامل اللقب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E27" ENTITYMENTIONID="27-69" ARGNUM="2">
+      <extent>
+        <charseq START="246" END="252">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="980" END="1030">المنتخب السعودي يحمل لقب النسخة الماضية
+في الامارات</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E26" ENTITYMENTIONID="26-30" ARGNUM="1">
+      <extent>
+        <charseq START="980" END="1030">المنتخب السعودي يحمل لقب النسخة الماضية
+في الامارات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E27" ENTITYMENTIONID="27-32" ARGNUM="2">
+      <extent>
+        <charseq START="988" END="994">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="3-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1068" END="1081">منتخب السعودية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E26" ENTITYMENTIONID="26-36" ARGNUM="1">
+      <extent>
+        <charseq START="1068" END="1081">منتخب السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E27" ENTITYMENTIONID="27-37" ARGNUM="2">
+      <extent>
+        <charseq START="1074" END="1081">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R4" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="288" END="301">نظيره الياباني</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E28" ENTITYMENTIONID="28-72" ARGNUM="1">
+      <extent>
+        <charseq START="288" END="301">نظيره الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E26" ENTITYMENTIONID="26-71" ARGNUM="2">
+      <extent>
+        <charseq START="292" END="292">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="354" END="395">الرعاية العامة للشباب والرياضة في السعودية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E1" ENTITYMENTIONID="1-4" ARGNUM="1">
+      <extent>
+        <charseq START="354" END="395">الرعاية العامة للشباب والرياضة في السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E2" ENTITYMENTIONID="2-5" ARGNUM="2">
+      <extent>
+        <charseq START="386" END="395">ي السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="438" END="463">رئيس رعاية الشباب والرياضة</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E4" ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="463">رئيس رعاية الشباب والرياضة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E5" ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="443" END="463">رعاية الشباب والرياضة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="465" END="495">رئيس الاتحاد السعودي
+لكرة القدم</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E4" ENTITYMENTIONID="4-10" ARGNUM="1">
+      <extent>
+        <charseq START="465" END="495">رئيس الاتحاد السعودي
+لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E6" ENTITYMENTIONID="6-11" ARGNUM="2">
+      <extent>
+        <charseq START="470" END="495">الاتحاد السعودي
+لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0053.arb-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1274" END="1288">المنتخب الكويتي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E16" ENTITYMENTIONID="16-48" ARGNUM="1">
+      <extent>
+        <charseq START="1274" END="1288">المنتخب الكويتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0053.arb-E17" ENTITYMENTIONID="17-50" ARGNUM="2">
+      <extent>
+        <charseq START="1282" END="1288">الكويتي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

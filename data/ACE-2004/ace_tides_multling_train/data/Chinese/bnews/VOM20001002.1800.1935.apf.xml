@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOM20001002.1800.1935.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOM20001002.1800.1935">
+<entity ID="VOM20001002.1800.1935-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="241" END="242">农业</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="242">农业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E2" TYPE="VEH" SUBTYPE="Air" CLASS="GEN">
+  <entity_mention ID="2-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="284" END="292">先进的喷气式战斗机</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="292">战斗机</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E4" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="294" END="297">作战坦克</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="297">坦克</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E5" TYPE="VEH" SUBTYPE="Water" CLASS="USP">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="306" END="311">一艘航空母舰</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="311">航空母舰</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="121" END="122">普京</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="122">普京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="70" END="71">普京</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="71">普京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="65" END="69">俄罗斯总统</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="69">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="121" END="122">普京</charseq>
+    </name>
+    <name>
+      <charseq START="70" END="71">普京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="74" END="76">新德里</charseq>
+    </extent>
+    <head>
+      <charseq START="74" END="76">新德里</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="74" END="76">新德里</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="276" END="277">印度</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="277">印度</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="299" END="300">印度</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="300">印度</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="80" END="81">印度</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="81">印度</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="135" END="136">印度</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="136">印度</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="299" END="300">印度</charseq>
+    </name>
+    <name>
+      <charseq START="80" END="81">印度</charseq>
+    </name>
+    <name>
+      <charseq START="135" END="136">印度</charseq>
+    </name>
+    <name>
+      <charseq START="276" END="277">印度</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="281" END="283">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="283">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="67">俄罗斯</charseq>
+    </name>
+    <name>
+      <charseq START="281" END="283">俄罗斯</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="139" END="142">瓦杰帕伊</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="142">瓦杰帕伊</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="135" END="138">印度总理</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="138">总理</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="139" END="142">瓦杰帕伊</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="13-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="148" END="152">有关方
+面</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="152">方
+面</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="154" END="155">他们</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="155">他们</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="184">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="184">双方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001002.1800.1935-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="197" END="198">苏联</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="198">苏联</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="197" END="198">苏联</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001002.1800.1935-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-2" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="256" END="257">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="257">双方</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-24" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="193" END="195">两
+国</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="195">国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-26" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="228" END="229">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="229">双方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VOM20001002.1800.1935-R1" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="281" END="297">俄罗斯先进的喷气式战斗机和作战坦克</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-4" ARGNUM="1">
+      <extent>
+        <charseq START="281" END="283">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-22" ARGNUM="2">
+      <extent>
+        <charseq START="284" END="292">先进的喷气式战斗机</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001002.1800.1935-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E10" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="65" END="69">俄罗斯总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="69">俄罗斯总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-14" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="67">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001002.1800.1935-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="135" END="138">印度总理</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-18" ARGNUM="1">
+      <extent>
+        <charseq START="135" END="138">印度总理</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-19" ARGNUM="2">
+      <extent>
+        <charseq START="135" END="136">印度</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001002.1800.1935-R4" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001002.1800.1935-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="281" END="297">俄罗斯先进的喷气式战斗机和作战坦克</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-4" ARGNUM="1">
+      <extent>
+        <charseq START="281" END="283">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="294" END="297">作战坦克</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

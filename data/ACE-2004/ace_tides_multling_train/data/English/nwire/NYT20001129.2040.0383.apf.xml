@@ -1,0 +1,1555 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001129.2040.0383.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001129.2040.0383">
+<entity ID="NYT20001129.2040.0383-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1202" END="1211">the winner</charseq>
+    </extent>
+    <head>
+      <charseq START="1206" END="1211">winner</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1243" END="1273">lawyers for Gov. George W. Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1243" END="1249">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1280" END="1283">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1280" END="1283">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1386" END="1389">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1386" END="1389">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1255" END="1273">Gov. George W. Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1260" END="1273">George W. Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1255" END="1258">Gov.</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1258">Gov.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1822" END="1825">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="1822" END="1825">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-80" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4471" END="4474">Bush</charseq>
+    </extent>
+    <head>
+      <charseq START="4471" END="4474">Bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1260" END="1273">George W. Bush</charseq>
+    </name>
+    <name>
+      <charseq START="1822" END="1825">Bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1401" END="1430">Circuit Judge N. Sanders Sauls</charseq>
+    </extent>
+    <head>
+      <charseq START="1415" END="1430">N. Sanders Sauls</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1401" END="1413">Circuit Judge</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1413">Judge</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2580" END="2584">Sauls</charseq>
+    </extent>
+    <head>
+      <charseq START="2580" END="2584">Sauls</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3263" END="3267">Sauls</charseq>
+    </extent>
+    <head>
+      <charseq START="3263" END="3267">Sauls</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-81" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4720" END="4726">Sanders</charseq>
+    </extent>
+    <head>
+      <charseq START="4720" END="4726">Sanders</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2580" END="2584">Sauls</charseq>
+    </name>
+    <name>
+      <charseq START="3263" END="3267">Sauls</charseq>
+    </name>
+    <name>
+      <charseq START="4720" END="4726">Sanders</charseq>
+    </name>
+    <name>
+      <charseq START="1415" END="1430">N. Sanders Sauls</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1482" END="1515">Miami-Dade and Palm Beach
+counties</charseq>
+    </extent>
+    <head>
+      <charseq START="1508" END="1515">counties</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-44" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2769" END="2784">the two counties</charseq>
+    </extent>
+    <head>
+      <charseq START="2777" END="2784">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E8" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1482" END="1491">Miami-Dade</charseq>
+    </extent>
+    <head>
+      <charseq START="1482" END="1491">Miami-Dade</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E9" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="9-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1497" END="1506">Palm Beach</charseq>
+    </extent>
+    <head>
+      <charseq START="1497" END="1506">Palm Beach</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E10" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1535" END="1547">south Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="1541" END="1547">Florida</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1647" END="1655">the
+judge</charseq>
+    </extent>
+    <head>
+      <charseq START="1651" END="1655">judge</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E12" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1710" END="1722">the Gore
+team</charseq>
+    </extent>
+    <head>
+      <charseq START="1719" END="1722">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1216" END="1217">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1216" END="1217">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-19" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1714" END="1717">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1714" END="1717">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2354" END="2357">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2354" END="2357">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-36" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2462" END="2465">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2462" END="2465">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2550" END="2553">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2550" END="2553">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2602" END="2605">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2602" END="2605">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2827" END="2830">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="2827" END="2830">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3131" END="3134">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="3131" END="3134">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3217" END="3220">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="3217" END="3220">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-67" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3457" END="3460">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="3457" END="3460">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4400" END="4403">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="4400" END="4403">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-100" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="571" END="592">Vice President Al Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="592">Al Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-101" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="571" END="584">Vice President</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="584">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-103" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="642" END="644">his</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="644">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-110" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1013" END="1016">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1013" END="1016">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-113" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1085" END="1088">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1085" END="1088">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-115" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1197" END="1200">Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="1197" END="1200">Gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2354" END="2357">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="2550" END="2553">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="2602" END="2605">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="2827" END="2830">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="3131" END="3134">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="3217" END="3220">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="4400" END="4403">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="586" END="592">Al Gore</charseq>
+    </name>
+    <name>
+      <charseq START="1013" END="1016">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="1085" END="1088">Gore</charseq>
+    </name>
+    <name>
+      <charseq START="1197" END="1200">Gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1807" END="1819">Barry Richard</charseq>
+    </extent>
+    <head>
+      <charseq START="1807" END="1819">Barry Richard</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1822" END="1851">Bush's chief trial lawyer here</charseq>
+    </extent>
+    <head>
+      <charseq START="1841" END="1846">lawyer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1859" END="1860">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1859" END="1860">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1966" END="1972">Richard</charseq>
+    </extent>
+    <head>
+      <charseq START="1966" END="1972">Richard</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1966" END="1972">Richard</charseq>
+    </name>
+    <name>
+      <charseq START="1807" END="1819">Barry Richard</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1937" END="1938">We</charseq>
+    </extent>
+    <head>
+      <charseq START="1937" END="1938">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2064" END="2065">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2064" END="2065">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2236" END="2237">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2236" END="2237">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2001" END="2003">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2001" END="2003">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2026" END="2028">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2028">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2505" END="2505">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2505" END="2505">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2537" END="2547">David Boies</charseq>
+    </extent>
+    <head>
+      <charseq START="2537" END="2547">David Boies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2550" END="2574">Gore's chief trial
+lawyer</charseq>
+    </extent>
+    <head>
+      <charseq START="2569" END="2574">lawyer</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2537" END="2547">David Boies</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="539" END="555">TALLAHASSEE, Fla.</charseq>
+    </extent>
+    <head>
+      <charseq START="539" END="549">TALLAHASSEE</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1695" END="1705">Tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="1695" END="1705">Tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-23" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="1848" END="1851">here</charseq>
+    </extent>
+    <head>
+      <charseq START="1848" END="1851">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-25" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="1927" END="1930">here</charseq>
+    </extent>
+    <head>
+      <charseq START="1927" END="1930">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-76" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="4226" END="4236">Tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="4226" END="4236">Tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-87" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2251" END="2254">here</charseq>
+    </extent>
+    <head>
+      <charseq START="2251" END="2254">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4226" END="4236">Tallahassee</charseq>
+    </name>
+    <name>
+      <charseq START="539" END="549">TALLAHASSEE</charseq>
+    </name>
+    <name>
+      <charseq START="1695" END="1705">Tallahassee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2812" END="2820">the judge</charseq>
+    </extent>
+    <head>
+      <charseq START="2816" END="2820">judge</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-52" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3095" END="3128">electors for the
+Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="3095" END="3102">electors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="23-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3108" END="3128">the
+Electoral College</charseq>
+    </extent>
+    <head>
+      <charseq START="3112" END="3128">Electoral College</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3112" END="3128">Electoral College</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3194" END="3207">Kendall Coffey</charseq>
+    </extent>
+    <head>
+      <charseq START="3194" END="3207">Kendall Coffey</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-56" TYPE="PRO" LDCTYPE="PTV" LDCATR="TRUE">
+    <extent>
+      <charseq START="3210" END="3239">one of Gore's election
+lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="3210" END="3212">one</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3245" END="3246">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3245" END="3246">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3194" END="3207">Kendall Coffey</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E26" TYPE="PER" CLASS="USP">
+  <entity_mention ID="26-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3217" END="3239">Gore's election
+lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="3233" END="3239">lawyers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E27" TYPE="PER" CLASS="USP">
+  <entity_mention ID="27-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3339" END="3342">They</charseq>
+    </extent>
+    <head>
+      <charseq START="3339" END="3342">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3427" END="3430">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3427" END="3430">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="28-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3388" END="3405">the clerk's office</charseq>
+    </extent>
+    <head>
+      <charseq START="3400" END="3405">office</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3388" END="3396">the clerk</charseq>
+    </extent>
+    <head>
+      <charseq START="3392" END="3396">clerk</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E30" TYPE="PER" CLASS="USP">
+  <entity_mention ID="30-73" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3787" END="3796">plaintiffs</charseq>
+    </extent>
+    <head>
+      <charseq START="3787" END="3796">plaintiffs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E31" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="31-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4467" END="4479">the Bush
+team</charseq>
+    </extent>
+    <head>
+      <charseq START="4476" END="4479">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E33" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="33-82" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4759" END="4767">witnesses</charseq>
+    </extent>
+    <head>
+      <charseq START="4759" END="4767">witnesses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E34" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+  <entity_mention ID="34-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3263" END="3278">Sauls' courtroom</charseq>
+    </extent>
+    <head>
+      <charseq START="3270" END="3278">courtroom</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2301" END="2304">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2301" END="2304">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2354" END="2367">Gore's lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="2361" END="2367">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2602" END="2615">Gore's lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="2609" END="2615">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2700" END="2704">their</charseq>
+    </extent>
+    <head>
+      <charseq START="2700" END="2704">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2915" END="2919">their</charseq>
+    </extent>
+    <head>
+      <charseq START="2915" END="2919">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2994" END="2997">them</charseq>
+    </extent>
+    <head>
+      <charseq START="2994" END="2997">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3017" END="3021">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3017" END="3021">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3457" END="3470">Gore's lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="3464" END="3470">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3510" END="3514">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3510" END="3514">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3544" END="3554">the lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="3548" END="3554">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3584" END="3588">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3584" END="3588">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3600" END="3604">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3600" END="3604">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3628" END="3631">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3628" END="3631">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4400" END="4413">Gore's
+lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="4407" END="4413">lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-99" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="559" END="592">Lawyers for Vice President Al Gore</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="565">Lawyers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="609" END="613">their</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="613">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="700" END="703">they</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="703">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-106" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="773" END="776">they</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="776">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-111" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1013" END="1026">Gore's lawyers</charseq>
+    </extent>
+    <head>
+      <charseq START="1020" END="1026">lawyers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001129.2040.0383-E38" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="38-51" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="3077" END="3085">the state</charseq>
+    </extent>
+    <head>
+      <charseq START="3081" END="3085">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-86" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="552" END="555">Fla.</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="555">Fla.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-94" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2869" END="2875">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="2869" END="2875">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-96" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="801" END="807">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="807">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-98" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4373" END="4379">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="4373" END="4379">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-104" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="661" END="667">Florida</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="667">Florida</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-109" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="971" END="979">the state</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="979">state</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="552" END="555">Fla.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="39-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1563" END="1571">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="1567" END="1571">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2178" END="2186">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="2182" END="2186">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-83" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4824" END="4840">the Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="4828" END="4840">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4933" END="4941">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="4937" END="4941">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="5030" END="5032">its</charseq>
+    </extent>
+    <head>
+      <charseq START="5030" END="5032">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="842" END="847">itself</charseq>
+    </extent>
+    <head>
+      <charseq START="842" END="847">itself</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1163" END="1168">itself</charseq>
+    </extent>
+    <head>
+      <charseq START="1163" END="1168">itself</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2865" END="2889">the Florida Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="2877" END="2889">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="797" END="821">the Florida Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="821">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-97" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4369" END="4393">the Florida Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="4381" END="4393">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-108" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="971" END="995">the state's highest
+court</charseq>
+    </extent>
+    <head>
+      <charseq START="991" END="995">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-112" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1054" END="1070">the
+Supreme Court</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1070">Supreme Court</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4828" END="4840">Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="2877" END="2889">Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="809" END="821">Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="4381" END="4393">Supreme Court</charseq>
+    </name>
+    <name>
+      <charseq START="1058" END="1070">Supreme Court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E40" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="40-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3934" END="3952">the Court of
+Appeal</charseq>
+    </extent>
+    <head>
+      <charseq START="3938" END="3952">Court of
+Appeal</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3966" END="3974">the court</charseq>
+    </extent>
+    <head>
+      <charseq START="3970" END="3974">court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-107" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="891" END="918">the District Court of Appeal</charseq>
+    </extent>
+    <head>
+      <charseq START="895" END="918">District Court of Appeal</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3938" END="3952">Court of
+Appeal</charseq>
+    </name>
+    <name>
+      <charseq START="895" END="918">District Court of Appeal</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001129.2040.0383-E42" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="42-114" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1113" END="1139">the
+slow-moving trial court</charseq>
+    </extent>
+    <head>
+      <charseq START="1135" END="1139">court</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001129.2040.0383-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E38" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="539" END="555">TALLAHASSEE, Fla.</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-1" ARGNUM="1">
+      <extent>
+        <charseq START="539" END="555">TALLAHASSEE, Fla.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-86" ARGNUM="2">
+      <extent>
+        <charseq START="552" END="555">Fla.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R2" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E13" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="559" END="592">Lawyers for Vice President Al Gore</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-99" ARGNUM="1">
+      <extent>
+        <charseq START="559" END="592">Lawyers for Vice President Al Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-100" ARGNUM="2">
+      <extent>
+        <charseq START="571" END="592">Vice President Al Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E38" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="971" END="995">the state's highest
+court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-108" ARGNUM="1">
+      <extent>
+        <charseq START="971" END="995">the state's highest
+court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-109" ARGNUM="2">
+      <extent>
+        <charseq START="971" END="979">the state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="797" END="821">the Florida Supreme Court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-95" ARGNUM="1">
+      <extent>
+        <charseq START="797" END="821">the Florida Supreme Court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-96" ARGNUM="2">
+      <extent>
+        <charseq START="801" END="807">Florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2865" END="2889">the Florida Supreme Court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-93" ARGNUM="1">
+      <extent>
+        <charseq START="2865" END="2889">the Florida Supreme Court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-94" ARGNUM="2">
+      <extent>
+        <charseq START="2869" END="2875">Florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4369" END="4393">the Florida Supreme Court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-97" ARGNUM="1">
+      <extent>
+        <charseq START="4369" END="4393">the Florida Supreme Court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-98" ARGNUM="2">
+      <extent>
+        <charseq START="4373" END="4379">Florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R4" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E35" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1013" END="1026">Gore's lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-110" ARGNUM="1">
+      <extent>
+        <charseq START="1013" END="1016">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-111" ARGNUM="2">
+      <extent>
+        <charseq START="1013" END="1026">Gore's lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2354" END="2367">Gore's lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-35" ARGNUM="1">
+      <extent>
+        <charseq START="2354" END="2357">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-34" ARGNUM="2">
+      <extent>
+        <charseq START="2354" END="2367">Gore's lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-3" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2602" END="2615">Gore's lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-46" ARGNUM="1">
+      <extent>
+        <charseq START="2602" END="2605">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-42" ARGNUM="2">
+      <extent>
+        <charseq START="2602" END="2615">Gore's lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-4" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3457" END="3470">Gore's lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-67" ARGNUM="1">
+      <extent>
+        <charseq START="3457" END="3460">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-66" ARGNUM="2">
+      <extent>
+        <charseq START="3457" END="3470">Gore's lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-5" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="4400" END="4413">Gore's
+lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-77" ARGNUM="1">
+      <extent>
+        <charseq START="4400" END="4403">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-78" ARGNUM="2">
+      <extent>
+        <charseq START="4400" END="4413">Gore's
+lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E3" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1243" END="1273">lawyers for Gov. George W. Bush</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="1243" END="1273">lawyers for Gov. George W. Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="2">
+      <extent>
+        <charseq START="1255" END="1273">Gov. George W. Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E7" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1482" END="1515">Miami-Dade and Palm Beach
+counties</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-12" ARGNUM="1">
+      <extent>
+        <charseq START="1482" END="1491">Miami-Dade</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="2">
+      <extent>
+        <charseq START="1482" END="1515">Miami-Dade and Palm Beach
+counties</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E7" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1482" END="1515">Miami-Dade and Palm Beach
+counties</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-13" ARGNUM="1">
+      <extent>
+        <charseq START="1497" END="1506">Palm Beach</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="2">
+      <extent>
+        <charseq START="1482" END="1515">Miami-Dade and Palm Beach
+counties</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E12" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1710" END="1722">the Gore
+team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-19" ARGNUM="1">
+      <extent>
+        <charseq START="1714" END="1717">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="1710" END="1722">the Gore
+team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R9" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E14" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1822" END="1851">Bush's chief trial lawyer here</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-22" ARGNUM="1">
+      <extent>
+        <charseq START="1822" END="1825">Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-21" ARGNUM="2">
+      <extent>
+        <charseq START="1822" END="1851">Bush's chief trial lawyer here</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E20" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1822" END="1851">Bush's chief trial lawyer here</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-21" ARGNUM="1">
+      <extent>
+        <charseq START="1822" END="1851">Bush's chief trial lawyer here</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-23" ARGNUM="2">
+      <extent>
+        <charseq START="1848" END="1851">here</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R12" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E18" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2550" END="2574">Gore's chief trial
+lawyer</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-40" ARGNUM="1">
+      <extent>
+        <charseq START="2550" END="2553">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-39" ARGNUM="2">
+      <extent>
+        <charseq START="2550" END="2574">Gore's chief trial
+lawyer</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R14" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E23" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3095" END="3128">electors for the
+Electoral College</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-52" ARGNUM="1">
+      <extent>
+        <charseq START="3095" END="3128">electors for the
+Electoral College</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-54" ARGNUM="2">
+      <extent>
+        <charseq START="3108" END="3128">the
+Electoral College</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R15" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E26" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3210" END="3239">one of Gore's election
+lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-56" ARGNUM="1">
+      <extent>
+        <charseq START="3210" END="3239">one of Gore's election
+lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-57" ARGNUM="2">
+      <extent>
+        <charseq START="3217" END="3239">Gore's election
+lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R16" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E26" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3217" END="3239">Gore's election
+lawyers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-58" ARGNUM="1">
+      <extent>
+        <charseq START="3217" END="3220">Gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-57" ARGNUM="2">
+      <extent>
+        <charseq START="3217" END="3239">Gore's election
+lawyers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R17" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E34" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3263" END="3278">Sauls' courtroom</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-61" ARGNUM="1">
+      <extent>
+        <charseq START="3263" END="3267">Sauls</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="34-89" ARGNUM="2">
+      <extent>
+        <charseq START="3263" END="3278">Sauls' courtroom</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R18" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E28" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3388" END="3405">the clerk's office</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-65" ARGNUM="1">
+      <extent>
+        <charseq START="3388" END="3396">the clerk</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-64" ARGNUM="2">
+      <extent>
+        <charseq START="3388" END="3405">the clerk's office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001129.2040.0383-R21" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001129.2040.0383-E31" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4467" END="4479">the Bush
+team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-80" ARGNUM="1">
+      <extent>
+        <charseq START="4471" END="4474">Bush</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-79" ARGNUM="2">
+      <extent>
+        <charseq START="4467" END="4479">the Bush
+team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

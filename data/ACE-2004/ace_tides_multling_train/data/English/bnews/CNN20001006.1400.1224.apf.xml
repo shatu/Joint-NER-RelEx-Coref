@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001006.1400.1224.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001006.1400.1224">
+<entity ID="CNN20001006.1400.1224-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="76">the mariners</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="76">mariners</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="717" END="718">we</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="718">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="179" END="185">seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="185">seattle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="274" END="282">this team</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="282">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="317" END="318">we</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="318">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="386" END="400">this whole
+team</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="400">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="447" END="448">we</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="448">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="469" END="469">s</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="469">s</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="485" END="487">our</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="487">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="509" END="510">we</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="510">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="599" END="606">everyone</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="606">everyone</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="76">mariners</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001006.1400.1224-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="93" END="111">the american league</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="111">league</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001006.1400.1224-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="161">the white sox</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="161">white sox</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="153" END="161">white sox</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001006.1400.1224-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="255" END="261">chicago</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="261">chicago</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="255" END="261">chicago</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001006.1400.1224-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="266" END="266">i</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="266">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="309" END="309">i</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="309">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="378" END="378">i</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="378">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001006.1400.1224-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="341" END="343">you</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="343">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001006.1400.1224-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-12" TYPE="PRE" LDCTYPE="PRE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="362" END="368">anaheim</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="368">anaheim</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001006.1400.1224-E8" TYPE="PER" CLASS="USP">
+  <entity_mention ID="8-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="547" END="549">you</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="549">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="678" END="680">you</charseq>
+    </extent>
+    <head>
+      <charseq START="678" END="680">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001006.1400.1224-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="557" END="557">i</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="557">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001006.1400.1224-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001006.1400.1224-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001006.1400.1224-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="179" END="261">seattle is obviously
+upbeat and relaxed after taking the first two games in chicago</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-5" ARGNUM="1">
+      <extent>
+        <charseq START="179" END="185">seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="255" END="261">chicago</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

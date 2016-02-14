@@ -1,0 +1,885 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000915_AFP_ARB.0039.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000915_AFP_ARB.0039.eng">
+<entity ID="20000915_AFP_ARB.0039.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="374" END="379">France</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="379">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="424" END="429">French</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="429">French</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="581" END="586">French</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="586">French</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-49" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="348" END="353">French</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="353">French</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="374" END="379">France</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="420" END="434">his French wife</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="434">wife</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E3" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="3-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="456">his house in Bidar</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="447">house</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E4" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="4-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="566" END="701">the area where French police
+arrested the organization's leadership and its leader at the time,
+Francesco Mojica Garmindia in March 1992</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="573">area</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-18" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="575" END="579">where</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="579">where</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="581" END="593">French police</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="593">police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="638" END="659">its leader at the time</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="662" END="687">Francesco Mojica Garmindia</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="687">Francesco Mojica Garmindia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="662" END="687">Francesco Mojica Garmindia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="604" END="632">the organization's leadership</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="632">leadership</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="9-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="706" END="726">The Spanish judiciary</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="726">judiciary</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-28" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="710" END="716">Spanish</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="716">Spanish</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-33" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="772" END="778">Spanish</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="778">Spanish</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="126" END="130">Spain</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="130">Spain</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="126" END="130">Spain</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="11-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="762" END="794">Renteria
+(Spanish Basque country)</charseq>
+    </extent>
+    <head>
+      <charseq START="762" END="769">Renteria</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="762" END="769">Renteria</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="12-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="772" END="793">Spanish Basque country</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="793">Basque country</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="780" END="793">Basque country</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="836" END="851">King
+Juan Carlos</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="851">Juan Carlos</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-34" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="836" END="839">King</charseq>
+    </extent>
+    <head>
+      <charseq START="836" END="839">King</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="841" END="851">Juan Carlos</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="105" END="110">Madrid</charseq>
+    </extent>
+    <head>
+      <charseq START="105" END="110">Madrid</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="105" END="110">Madrid</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="120">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="120">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="118" END="120">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="126" END="150">Spain's Interior Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="150">Minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="152" END="169">Jamie Mayor Oriega</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="169">Jamie Mayor Oriega</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="152" END="169">Jamie Mayor Oriega</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="401" END="407">Arregui</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="407">Arregui</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="420" END="422">his</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="422">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="439" END="441">his</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="441">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="461" END="523">Arregui, who is considered to be the Eta organization's top man</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="467">Arregui</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-13" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="470" END="472">who</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="472">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="494" END="523">the Eta organization's top man</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="523">man</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="737" END="802">Arregui, who was born in Renteria
+(Spanish Basque country) in 1955</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="743">Arregui</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-30" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="746" END="748">who</charseq>
+    </extent>
+    <head>
+      <charseq START="746" END="748">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="217" END="261">separatist organization Eta's presumed leader</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="261">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="263" END="284">Ignacio Gracia Arregui</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="284">Ignacio Gracia Arregui</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="298" END="314">Inaki de Renteria</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="314">Inaki de Renteria</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="461" END="467">Arregui</charseq>
+    </name>
+    <name>
+      <charseq START="737" END="743">Arregui</charseq>
+    </name>
+    <name>
+      <charseq START="256" END="261">leader</charseq>
+    </name>
+    <name>
+      <charseq START="263" END="284">Ignacio Gracia Arregui</charseq>
+    </name>
+    <name>
+      <charseq START="298" END="314">Inaki de Renteria</charseq>
+    </name>
+    <name>
+      <charseq START="401" END="407">Arregui</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E22" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="22-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="494" END="513">the Eta organization</charseq>
+    </extent>
+    <head>
+      <charseq START="502" END="513">organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-16" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="498" END="500">Eta</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="500">Eta</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="604" END="619">the organization</charseq>
+    </extent>
+    <head>
+      <charseq START="608" END="619">organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="638" END="640">its</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="640">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="217" END="243">separatist organization Eta</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="243">Eta</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-45" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="217" END="239">separatist organization</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="239">organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="241" END="243">Eta</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="24-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="452" END="456">Bidar</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="456">Bidar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="320" END="343">Bidar
+(southeast France)</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="324">Bidar</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="452" END="456">Bidar</charseq>
+    </name>
+    <name>
+      <charseq START="320" END="324">Bidar</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E25" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="25-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="327" END="342">southeast France</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="342">France</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="337" END="342">France</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="26-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="387" END="390">they</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="390">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-48" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="348" END="380">French police in Bayonne (France)</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="360">police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0039.eng-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="28-50" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="365" END="380">Bayonne (France)</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="371">Bayonne</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="365" END="371">Bayonne</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000915_AFP_ARB.0039.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E10" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="126" END="150">Spain's Interior Minister</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-37" ARGNUM="1">
+      <extent>
+        <charseq START="126" END="150">Spain's Interior Minister</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-38" ARGNUM="2">
+      <extent>
+        <charseq START="126" END="130">Spain</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E22" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="217" END="261">separatist organization Eta's presumed leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-41" ARGNUM="1">
+      <extent>
+        <charseq START="217" END="261">separatist organization Eta's presumed leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-44" ARGNUM="2">
+      <extent>
+        <charseq START="217" END="243">separatist organization Eta</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="494" END="523">the Eta organization's top man</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-14" ARGNUM="1">
+      <extent>
+        <charseq START="494" END="523">the Eta organization's top man</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-15" ARGNUM="2">
+      <extent>
+        <charseq START="494" END="513">the Eta organization</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E24" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="217" END="343">separatist organization Eta's presumed leader
+Ignacio Gracia Arregui, nicknamed "Inaki de Renteria" in Bidar
+(southeast France)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-41" ARGNUM="1">
+      <extent>
+        <charseq START="217" END="261">separatist organization Eta's presumed leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-46" ARGNUM="2">
+      <extent>
+        <charseq START="320" END="343">Bidar
+(southeast France)</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E25" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="320" END="343">Bidar
+(southeast France)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-46" ARGNUM="1">
+      <extent>
+        <charseq START="320" END="343">Bidar
+(southeast France)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-47" ARGNUM="2">
+      <extent>
+        <charseq START="327" END="342">southeast France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E28" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="348" END="380">French police in Bayonne (France)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-48" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="380">French police in Bayonne (France)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-50" ARGNUM="2">
+      <extent>
+        <charseq START="365" END="380">Bayonne (France)</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E1" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="348" END="380">French police in Bayonne (France)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-48" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="380">French police in Bayonne (France)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-49" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="353">French</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E1" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="365" END="380">Bayonne (France)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-50" ARGNUM="1">
+      <extent>
+        <charseq START="365" END="380">Bayonne (France)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="374" END="379">France</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R8" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E2" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="420" END="434">his French wife</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-5" ARGNUM="1">
+      <extent>
+        <charseq START="420" END="422">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-7" ARGNUM="2">
+      <extent>
+        <charseq START="420" END="434">his French wife</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R9" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E1" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="420" END="434">his French wife</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-7" ARGNUM="1">
+      <extent>
+        <charseq START="420" END="434">his French wife</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-8" ARGNUM="2">
+      <extent>
+        <charseq START="424" END="429">French</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R10" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E3" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="439" END="456">his house in Bidar</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="1">
+      <extent>
+        <charseq START="439" END="441">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-10" ARGNUM="2">
+      <extent>
+        <charseq START="439" END="456">his house in Bidar</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E24" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="439" END="456">his house in Bidar</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-10" ARGNUM="1">
+      <extent>
+        <charseq START="439" END="456">his house in Bidar</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-11" ARGNUM="2">
+      <extent>
+        <charseq START="452" END="456">Bidar</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R13" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E1" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="581" END="593">French police</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-19" ARGNUM="1">
+      <extent>
+        <charseq START="581" END="593">French police</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-20" ARGNUM="2">
+      <extent>
+        <charseq START="581" END="586">French</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E22" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="604" END="632">the organization's leadership</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-26" ARGNUM="1">
+      <extent>
+        <charseq START="604" END="632">the organization's leadership</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-21" ARGNUM="2">
+      <extent>
+        <charseq START="604" END="619">the organization</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E22" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="638" END="687">its leader at the time,
+Francesco Mojica Garmindia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-24" ARGNUM="1">
+      <extent>
+        <charseq START="638" END="659">its leader at the time</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-22" ARGNUM="2">
+      <extent>
+        <charseq START="638" END="640">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R16" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E10" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="706" END="726">The Spanish judiciary</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-27" ARGNUM="1">
+      <extent>
+        <charseq START="706" END="726">The Spanish judiciary</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-28" ARGNUM="2">
+      <extent>
+        <charseq START="710" END="716">Spanish</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R17" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E11" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="746" END="794">who was born in Renteria
+(Spanish Basque country)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-30" ARGNUM="1">
+      <extent>
+        <charseq START="746" END="748">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-31" ARGNUM="2">
+      <extent>
+        <charseq START="762" END="794">Renteria
+(Spanish Basque country)</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R18" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E12" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="762" END="794">Renteria
+(Spanish Basque country)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-31" ARGNUM="1">
+      <extent>
+        <charseq START="762" END="794">Renteria
+(Spanish Basque country)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-32" ARGNUM="2">
+      <extent>
+        <charseq START="772" END="793">Spanish Basque country</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0039.eng-R19" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0039.eng-E10" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="771" END="794">(Spanish Basque country)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-32" ARGNUM="1">
+      <extent>
+        <charseq START="772" END="793">Spanish Basque country</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-33" ARGNUM="2">
+      <extent>
+        <charseq START="772" END="778">Spanish</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

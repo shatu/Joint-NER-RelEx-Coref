@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNR20001108.1700.0291.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNR20001108.1700.0291">
+<entity ID="CNR20001108.1700.0291-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="190" END="192">张文利</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="192">张文利</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="188" END="189">助手</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="189">助手</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="190" END="192">张文利</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="200" END="223">世界诗人大会主席、美国诗人罗斯・玛丽・威尔金森等</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="223">世界诗人大会主席、美国诗人罗斯・玛丽・威尔金森等</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="213" END="222">罗斯・玛丽・威尔金森</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="222">罗斯・玛丽・威尔金森</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="213" END="222">罗斯・玛丽・威尔金森</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="200" END="207">世界诗人大会主席</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="207">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="209" END="212">美国诗人</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="212">诗人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E6" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="200" END="205">世界诗人大会</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="205">世界诗人大会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="200" END="205">世界诗人大会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="209" END="210">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="209" END="210">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="240" END="241">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="241">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="209" END="210">美国</charseq>
+    </name>
+    <name>
+      <charseq START="240" END="241">美国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="274" END="277">国家元首</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="277">元首</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="279" END="283">政府首
+脑</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="283">首
+脑</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-16" TYPE="NOM" LDCTYPE="PCN" ROLE="ORG">
+    <extent>
+      <charseq START="279" END="280">政府</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="280">政府</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="274" END="275">国家</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="275">国家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="235" END="237">江泽民</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="237">江泽民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="229" END="234">中国国家主席</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="234">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="298" END="300">江泽民</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="300">江泽民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-51" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="294" END="297">国家主席</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="297">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="235" END="237">江泽民</charseq>
+    </name>
+    <name>
+      <charseq START="298" END="300">江泽民</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="17-23" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="231" END="232">国家</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="232">国家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="244" END="246">克林顿</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="246">克林顿</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="240" END="243">美国总统</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="243">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="244" END="246">克林顿</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="252" END="254">希拉克</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="254">希拉克</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="248" END="251">法国总统</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="251">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="252" END="254">希拉克</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="248" END="249">法国</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="249">法国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="248" END="249">法国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="262" END="264">叶利钦</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="264">叶利钦</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="256" END="261">俄罗斯前总统</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="261">总统</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="262" END="264">叶利钦</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="25-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="256" END="258">俄罗斯</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="258">俄罗斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="256" END="258">俄罗斯</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="270" END="272">布莱尔</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="272">布莱尔</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="266" END="269">英国首相</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="269">首相</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="270" END="272">布莱尔</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="27-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="66" END="68">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="66" END="68">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="66" END="68">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="29-39" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="266" END="267">英国</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="267">英国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="266" END="267">英国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E30" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="30-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="286">人类</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="286">人类</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="31-43" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="294" END="295">国家</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="295">国家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E32" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="32-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="72" END="79">104位国家元首</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="79">元首</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="33-45" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="76" END="77">国家</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="77">国家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="115" END="117">中国人</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="117">中国人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="35-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="229" END="230">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="230">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="125" END="126">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="126">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-48" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="140" END="143">中国人民</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="143">人民</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-49" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="140" END="141">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="141">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="229" END="230">中国</charseq>
+    </name>
+    <name>
+      <charseq START="125" END="126">中国</charseq>
+    </name>
+    <name>
+      <charseq START="140" END="141">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E36" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="36-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="145" END="146">世界</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="146">世界</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001108.1700.0291-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="185" END="186">叶义</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="186">叶义</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="167" END="181">剑桥华人世界出版有限公司总编辑</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="181">总编辑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-58" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="183" END="184">诗人</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="184">诗人</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="185" END="186">叶义</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001108.1700.0291-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="42-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="167" END="178">剑桥华人世界出版有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="178">剑桥华人世界出版有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="167" END="178">剑桥华人世界出版有限公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNR20001108.1700.0291-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E42" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="167" END="181">剑桥华人世界出版有限公司总编辑</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-56" ARGNUM="1">
+      <extent>
+        <charseq START="167" END="181">剑桥华人世界出版有限公司总编辑</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-57" ARGNUM="2">
+      <extent>
+        <charseq START="167" END="178">剑桥华人世界出版有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="200" END="207">世界诗人大会主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="200" END="207">世界诗人大会主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-9" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="205">世界诗人大会</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="209" END="212">美国诗人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-10" ARGNUM="1">
+      <extent>
+        <charseq START="209" END="212">美国诗人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="209" END="210">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E2" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="200" END="223">世界诗人大会主席、美国诗人罗斯・玛丽・威尔金森等</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="213" END="222">罗斯・玛丽・威尔金森</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="223">世界诗人大会主席、美国诗人罗斯・玛丽・威尔金森等</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E35" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="229" END="234">中国国家主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-21" ARGNUM="1">
+      <extent>
+        <charseq START="229" END="234">中国国家主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-22" ARGNUM="2">
+      <extent>
+        <charseq START="229" END="230">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E8" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="240" END="243">美国总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="1">
+      <extent>
+        <charseq START="240" END="243">美国总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-27" ARGNUM="2">
+      <extent>
+        <charseq START="240" END="241">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E22" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="248" END="251">法国总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-30" ARGNUM="1">
+      <extent>
+        <charseq START="248" END="251">法国总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-31" ARGNUM="2">
+      <extent>
+        <charseq START="248" END="249">法国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E25" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="256" END="261">俄罗斯前总统</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-34" ARGNUM="1">
+      <extent>
+        <charseq START="256" END="261">俄罗斯前总统</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-35" ARGNUM="2">
+      <extent>
+        <charseq START="256" END="258">俄罗斯</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001108.1700.0291-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001108.1700.0291-E29" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="266" END="269">英国首相</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-38" ARGNUM="1">
+      <extent>
+        <charseq START="266" END="269">英国首相</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-39" ARGNUM="2">
+      <extent>
+        <charseq START="266" END="267">英国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,1461 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_153.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_153.man">
+<entity ID="chtb_153.man-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="145">美国纽约大学史敦工商管理学院</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="145">史敦工商管理学院</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="593" END="606">美国纽约大学史敦工商管理学院</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="606">史敦工商管理学院</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="599" END="606">史敦工商管理学院</charseq>
+    </name>
+    <name>
+      <charseq START="138" END="145">史敦工商管理学院</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E2" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="137">美国纽约大学</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="137">纽约大学</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="593" END="598">美国纽约大学</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="598">纽约大学</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="595" END="598">纽约大学</charseq>
+    </name>
+    <name>
+      <charseq START="134" END="137">纽约大学</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E3" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="191" END="192">人口</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="192">人口</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="193" END="197">九百四十万</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="197">九百四十万</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-12" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="207" END="213">国际港
+口城市</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="213">城市</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E7" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="207" END="208">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="208">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-58" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="618" END="619">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="618" END="619">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-71" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="158" END="159">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="159">国际</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="187" END="188">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="188">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="215" END="220">对外贸易口岸</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="220">口岸</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="224" END="225">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="225">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="251" END="252">全市</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="252">全市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="303" END="304">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="304">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="333" END="334">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="334">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="348" END="349">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="349">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="378" END="380">天津市</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="380">天津市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="432" END="433">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="433">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="580" END="581">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="581">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-70" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="657" END="658">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="657" END="658">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-72" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="73" END="74">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="73" END="74">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-82" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="97" END="98">天津</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="98">天津</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-86" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="119" END="121">天津市</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="121">天津市</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="303" END="304">天津</charseq>
+    </name>
+    <name>
+      <charseq START="333" END="334">天津</charseq>
+    </name>
+    <name>
+      <charseq START="348" END="349">天津</charseq>
+    </name>
+    <name>
+      <charseq START="378" END="380">天津市</charseq>
+    </name>
+    <name>
+      <charseq START="432" END="433">天津</charseq>
+    </name>
+    <name>
+      <charseq START="580" END="581">天津</charseq>
+    </name>
+    <name>
+      <charseq START="657" END="658">天津</charseq>
+    </name>
+    <name>
+      <charseq START="73" END="74">天津</charseq>
+    </name>
+    <name>
+      <charseq START="97" END="98">天津</charseq>
+    </name>
+    <name>
+      <charseq START="119" END="121">天津市</charseq>
+    </name>
+    <name>
+      <charseq START="187" END="188">天津</charseq>
+    </name>
+    <name>
+      <charseq START="224" END="225">天津</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E9" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="200" END="203">中国北方</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="203">北方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="200" END="201">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="201">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="514" END="515">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="515">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="514" END="515">中国</charseq>
+    </name>
+    <name>
+      <charseq START="200" END="201">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="261" END="263">一万家</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="263">一万家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="12-20" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="265" END="266">外国</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="266">外国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-32" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="353" END="354">外国</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="354">外国</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="301" END="309">投资天津的美资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="309">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-26" TYPE="PRO" LDCTYPE="HLS" LDCATR="FALSE">
+    <extent>
+      <charseq START="311" END="313">二千家</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="313">二千家</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="328" END="331">美国企业</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="331">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="373" END="376">美国企业</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="376">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="90" END="93">美资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="93">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-80" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="97" END="112">天津外商投资企业中盈利最多的企业</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="112">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="420" END="425">摩托罗拉公司</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="425">摩托罗拉公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="469" END="471">该公司</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="471">公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="512" END="526">投资中国最成功的外商投资企
+业</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="526">企
+业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="531" END="534">摩托罗拉</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="534">摩托罗拉</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="420" END="425">摩托罗拉公司</charseq>
+    </name>
+    <name>
+      <charseq START="531" END="534">摩托罗拉</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="72">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="72">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="70" END="72">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="577">公司</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="537" END="540">美孚石油</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="540">美孚石油</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="537" END="540">美孚石油</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="542" END="544">奥的斯</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="544">奥的斯</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="542" END="544">奥的斯</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="546" END="548">ＩＢＭ</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="548">ＩＢＭ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="546" END="548">ＩＢＭ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="22-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="550" END="553">ＡＴ＆Ｔ</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="553">ＡＴ＆Ｔ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="550" END="553">ＡＴ＆Ｔ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="555" END="557">Ｐ＆Ｇ</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="557">Ｐ＆Ｇ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="555" END="557">Ｐ＆Ｇ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="559" END="563">可
+口可乐</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="563">可
+口可乐</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="559" END="563">可
+口可乐</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="565" END="568">大通银行</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="568">大通银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="565" END="568">大通银行</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="570" END="573">史克必成</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="573">史克必成</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="570" END="573">史克必成</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="28-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="640" END="641">企业</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="641">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="29-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="643" END="644">公司</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="644">公司</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="30-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="646" END="647">财团</charseq>
+    </extent>
+    <head>
+      <charseq START="646" END="647">财团</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="649" END="650">银行</charseq>
+    </extent>
+    <head>
+      <charseq START="649" END="650">银行</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="84" END="86">李道佳</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="86">李道佳</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-78" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="82" END="83">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="83">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="84" END="86">李道佳</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="35-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="132" END="133">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="133">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="282" END="283">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="283">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="306" END="306">美</charseq>
+    </extent>
+    <head>
+      <charseq START="306" END="306">美</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="328" END="329">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="329">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="373" END="374">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="374">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="593" END="594">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="594">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-64" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="636" END="637">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="637">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-79" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="90" END="90">美</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="90">美</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="306" END="306">美</charseq>
+    </name>
+    <name>
+      <charseq START="328" END="329">美国</charseq>
+    </name>
+    <name>
+      <charseq START="373" END="374">美国</charseq>
+    </name>
+    <name>
+      <charseq START="593" END="594">美国</charseq>
+    </name>
+    <name>
+      <charseq START="636" END="637">美国</charseq>
+    </name>
+    <name>
+      <charseq START="90" END="90">美</charseq>
+    </name>
+    <name>
+      <charseq START="132" END="133">美国</charseq>
+    </name>
+    <name>
+      <charseq START="282" END="283">美国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="37-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="347" END="356">在天津投资的外国企业</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="356">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="251" END="258">全市外商投资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="258">企业</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="97" END="104">天津外商投资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="104">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="38-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="99" END="100">外商</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="100">外商</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="381" END="382">外商</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="382">外商</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="520" END="521">外商</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="521">外商</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="253" END="254">外商</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="254">外商</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="180" END="182">叶迪生</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="182">叶迪生</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="294" END="296">叶迪生</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="296">叶迪生</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-84" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="125" END="127">叶迪生</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="127">叶迪生</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-85" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="119" END="124">天津市副市长</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="124">副市长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="125" END="127">叶迪生</charseq>
+    </name>
+    <name>
+      <charseq START="180" END="182">叶迪生</charseq>
+    </name>
+    <name>
+      <charseq START="294" END="296">叶迪生</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_153.man-E41" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="41-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="593" END="630">美国纽约大学史敦工商管理学院主管企业管理硕士九七级国际实地考
+察团的六十二人</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="630">人</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="593" END="625">美国纽约大学史敦工商管理学院主管企业管理硕士九七级国际实地考
+察团</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="625">考
+察团</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="652" END="653">他们</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="653">他们</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="132" END="164">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级国际实地考察团</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="164">考察团</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_153.man-E42" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="42-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="593" END="617">美国纽约大学史敦工商管理学院主管企业管理硕士九七级</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="617">级</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-88" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="132" END="157">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="157">级</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_153.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_153.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="70" END="74">新华社天津</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="72">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-72" ARGNUM="2">
+      <extent>
+        <charseq START="73" END="74">天津</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E8" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="97" END="104">天津外商投资企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-81" ARGNUM="1">
+      <extent>
+        <charseq START="97" END="104">天津外商投资企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-82" ARGNUM="2">
+      <extent>
+        <charseq START="97" END="98">天津</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="251" END="258">全市外商投资企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-74" ARGNUM="1">
+      <extent>
+        <charseq START="251" END="258">全市外商投资企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-18" ARGNUM="2">
+      <extent>
+        <charseq START="251" END="252">全市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_153.man-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="119" END="124">天津市副市长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-85" ARGNUM="1">
+      <extent>
+        <charseq START="119" END="124">天津市副市长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-86" ARGNUM="2">
+      <extent>
+        <charseq START="119" END="121">天津市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="137">美国纽约大学</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="137">美国纽约大学</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-5" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="133">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="593" END="598">美国纽约大学</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-60" ARGNUM="1">
+      <extent>
+        <charseq START="593" END="598">美国纽约大学</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-61" ARGNUM="2">
+      <extent>
+        <charseq START="593" END="594">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_153.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="145">美国纽约大学史敦工商管理学院</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="145">美国纽约大学史敦工商管理学院</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="137">美国纽约大学</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="593" END="606">美国纽约大学史敦工商管理学院</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-59" ARGNUM="1">
+      <extent>
+        <charseq START="593" END="606">美国纽约大学史敦工商管理学院</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-60" ARGNUM="2">
+      <extent>
+        <charseq START="593" END="598">美国纽约大学</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_153.man-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E10" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="200" END="203">中国北方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="200" END="203">中国北方</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-16" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="201">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_153.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E9" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="200" END="220">中国北方最大的国际港
+口城市和对外贸易口岸</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-12" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="213">国际港
+口城市</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="203">中国北方</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R8" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_153.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E9" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="200" END="220">中国北方最大的国际港
+口城市和对外贸易口岸</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="215" END="220">对外贸易口岸</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="203">中国北方</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R9" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="328" END="331">美国企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-27" ARGNUM="1">
+      <extent>
+        <charseq START="328" END="331">美国企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-28" ARGNUM="2">
+      <extent>
+        <charseq START="328" END="329">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="9-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="373" END="376">美国企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-33" ARGNUM="1">
+      <extent>
+        <charseq START="373" END="376">美国企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-34" ARGNUM="2">
+      <extent>
+        <charseq START="373" END="374">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R11" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-46" ARGNUM="1">
+      <extent>
+        <charseq START="537" END="540">美孚石油</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-47" ARGNUM="1">
+      <extent>
+        <charseq START="542" END="544">奥的斯</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R13" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-48" ARGNUM="1">
+      <extent>
+        <charseq START="546" END="548">ＩＢＭ</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R14" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-49" ARGNUM="1">
+      <extent>
+        <charseq START="550" END="553">ＡＴ＆Ｔ</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R15" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-50" ARGNUM="1">
+      <extent>
+        <charseq START="555" END="557">Ｐ＆Ｇ</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R16" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-52" ARGNUM="1">
+      <extent>
+        <charseq START="565" END="568">大通银行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R17" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_153.man-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E17" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="1">
+      <extent>
+        <charseq START="570" END="573">史克必成</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-44" ARGNUM="2">
+      <extent>
+        <charseq START="537" END="577">美孚石油、奥的斯、ＩＢＭ、ＡＴ＆Ｔ、Ｐ＆Ｇ、可
+口可乐、大通银行、史克必成等大公司</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R20" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_153.man-E42" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E1" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="593" END="617">美国纽约大学史敦工商管理学院主管企业管理硕士九七级</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="42-57" ARGNUM="1">
+      <extent>
+        <charseq START="593" END="617">美国纽约大学史敦工商管理学院主管企业管理硕士九七级</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-59" ARGNUM="2">
+      <extent>
+        <charseq START="593" END="606">美国纽约大学史敦工商管理学院</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="20-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="157">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="42-88" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="157">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="145">美国纽约大学史敦工商管理学院</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R21" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_153.man-E41" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E42" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="593" END="625">美国纽约大学史敦工商管理学院主管企业管理硕士九七级国际实地考
+察团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="41-56" ARGNUM="1">
+      <extent>
+        <charseq START="593" END="625">美国纽约大学史敦工商管理学院主管企业管理硕士九七级国际实地考
+察团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-57" ARGNUM="2">
+      <extent>
+        <charseq START="593" END="617">美国纽约大学史敦工商管理学院主管企业管理硕士九七级</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="21-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="164">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级国际实地考察团</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="41-87" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="164">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级国际实地考察团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="42-88" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="157">美国纽约大学史敦工商管理学院主
+管企业管理硕士九七级</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R22" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="636" END="650">美国各大企业、公司、财团、银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-65" ARGNUM="1">
+      <extent>
+        <charseq START="640" END="641">企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-64" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="637">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R23" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="636" END="650">美国各大企业、公司、财团、银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-66" ARGNUM="1">
+      <extent>
+        <charseq START="643" END="644">公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-64" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="637">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R24" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="636" END="650">美国各大企业、公司、财团、银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-67" ARGNUM="1">
+      <extent>
+        <charseq START="646" END="647">财团</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-64" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="637">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R25" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E35" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="636" END="650">美国各大企业、公司、财团、银行</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-68" ARGNUM="1">
+      <extent>
+        <charseq START="649" END="650">银行</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-64" ARGNUM="2">
+      <extent>
+        <charseq START="636" END="637">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R28" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_153.man-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E8" ARGNUM="2" />
+  <relation_mention ID="28-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="187" END="197">天津拥有人口九百四十万</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-9" ARGNUM="1">
+      <extent>
+        <charseq START="193" END="197">九百四十万</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-7" ARGNUM="2">
+      <extent>
+        <charseq START="187" END="188">天津</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_153.man-R30" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_153.man-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_153.man-E12" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="347" END="356">在天津投资的外国企业</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-30" ARGNUM="1">
+      <extent>
+        <charseq START="347" END="356">在天津投资的外国企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-32" ARGNUM="2">
+      <extent>
+        <charseq START="353" END="354">外国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

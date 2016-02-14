@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001219.1400.0212.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001219.1400.0212">
+<composite_entity ID="CNN20001219.1400.0212-CE1">
+  <entity ID="CNN20001219.1400.0212-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="1-1" TYPE="BAR">
+      <extent>
+        <charseq START="65" END="88">investors on wall street</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="73">investors</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001219.1400.0212-CE2">
+  <entity ID="CNN20001219.1400.0212-E2" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="78" END="88">wall street</charseq>
+      </extent>
+      <head>
+        <charseq START="78" END="88">wall street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="78" END="88">wall street</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001219.1400.0212-CE3">
+  <entity ID="CNN20001219.1400.0212-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM">
+      <extent>
+        <charseq START="120" END="158">federal
+reserve chairman alan greenspan</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="158">alan greenspan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-6" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="187">greenspan</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="187">greenspan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-9" TYPE="NAM">
+      <extent>
+        <charseq START="409" END="417">greenspan</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="417">greenspan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="145" END="158">alan greenspan</charseq>
+      </name>
+      <name>
+        <charseq START="179" END="187">greenspan</charseq>
+      </name>
+      <name>
+        <charseq START="409" END="417">greenspan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001219.1400.0212-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE">
+      <extent>
+        <charseq START="120" END="143">federal
+reserve chairman</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="143">federal
+reserve chairman</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001219.1400.0212-CE4">
+  <entity ID="CNN20001219.1400.0212-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NOM">
+      <extent>
+        <charseq START="204" END="241">the federal reserve board policymakers</charseq>
+      </extent>
+      <head>
+        <charseq START="230" END="241">policymakers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001219.1400.0212-CE5">
+  <entity ID="CNN20001219.1400.0212-E5" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="5-5" TYPE="PRE">
+      <extent>
+        <charseq START="120" END="134">federal
+reserve</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="134">federal
+reserve</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-10" TYPE="PRE">
+      <extent>
+        <charseq START="208" END="228">federal reserve board</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="228">federal reserve board</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001219.1400.0212-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NOM">
+      <extent>
+        <charseq START="302" END="308">the fed</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="308">fed</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001219.1400.0212-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="204" END="241">the federal reserve board policymakers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E6" ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="204" END="241">the federal reserve board policymakers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E5" ENTITYMENTIONID="5-10" ARGNUM="2">
+      <extent>
+        <charseq START="208" END="228">federal reserve board</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001219.1400.0212-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="65" END="88">investors on wall street</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="88">investors on wall street</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="78" END="88">wall street</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001219.1400.0212-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="120" END="143">federal
+reserve chairman</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="120" END="143">federal
+reserve chairman</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001219.1400.0212-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="120" END="134">federal
+reserve</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

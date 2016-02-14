@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ALH20001113.0100.0016.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001113.0100.0016">
+<entity ID="ALH20001113.0100.0016-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="192" END="216">للشاعرة السورية ميّاسة دع</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="198">للشاعرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="208" END="216">ميّاسة دع</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="216">ميّاسة دع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="208" END="216">ميّاسة دع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001113.0100.0016-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="200" END="206">السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="206">السورية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001113.0100.0016-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="228" END="241">دار ألف (دمشق)</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="234">دار ألف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="228" END="234">دار ألف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001113.0100.0016-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="237" END="240">دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="240">دمشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="237" END="240">دمشق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ALH20001113.0100.0016-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ALH20001113.0100.0016-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ALH20001113.0100.0016-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="192" END="216">للشاعرة السورية ميّاسة دع</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="216">ميّاسة دع</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="200" END="206">السورية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001113.0100.0016-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ALH20001113.0100.0016-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ALH20001113.0100.0016-E5" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="228" END="240">دار ألف (دمشق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="228" END="241">دار ألف (دمشق)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="237" END="240">دمشق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

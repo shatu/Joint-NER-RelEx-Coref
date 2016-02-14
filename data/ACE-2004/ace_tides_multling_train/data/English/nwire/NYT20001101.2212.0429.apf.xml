@@ -1,0 +1,1854 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001101.2212.0429.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001101.2212.0429">
+<entity ID="NYT20001101.2212.0429-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1152" END="1222">Haverty, like many other Time Warner shareholders and industry
+analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1158">Haverty</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1296" END="1297">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1296" END="1297">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1609" END="1615">Haverty</charseq>
+    </extent>
+    <head>
+      <charseq START="1609" END="1615">Haverty</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-132" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1041" END="1053">Larry Haverty</charseq>
+    </extent>
+    <head>
+      <charseq START="1041" END="1053">Larry Haverty</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-133" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1056" END="1113">a senior vice
+president at State Street Research in Boston</charseq>
+    </extent>
+    <head>
+      <charseq START="1070" END="1078">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-134" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1119" END="1143">a longtime media
+investor</charseq>
+    </extent>
+    <head>
+      <charseq START="1136" END="1143">investor</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1609" END="1615">Haverty</charseq>
+    </name>
+    <name>
+      <charseq START="1041" END="1053">Larry Haverty</charseq>
+    </name>
+    <name>
+      <charseq START="1152" END="1158">Haverty</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1083" END="1113">State Street Research in Boston</charseq>
+    </extent>
+    <head>
+      <charseq START="1083" END="1103">State Street Research</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1083" END="1103">State Street Research</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1108" END="1113">Boston</charseq>
+    </extent>
+    <head>
+      <charseq START="1108" END="1113">Boston</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1108" END="1113">Boston</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="4-4" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1130" END="1134">media</charseq>
+    </extent>
+    <head>
+      <charseq START="1130" END="1134">media</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-32" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2022" END="2026">media</charseq>
+    </extent>
+    <head>
+      <charseq START="2022" END="2026">media</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1177" END="1200">Time Warner shareholders</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1200">shareholders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-9" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1206" END="1222">industry
+analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="1215" END="1222">analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1313" END="1330">the merged company</charseq>
+    </extent>
+    <head>
+      <charseq START="1324" END="1330">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1668" END="1679">this company</charseq>
+    </extent>
+    <head>
+      <charseq START="1673" END="1679">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2461" END="2478">the merged company</charseq>
+    </extent>
+    <head>
+      <charseq START="2472" END="2478">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-49" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2506" END="2507">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2506" END="2507">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-56" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2752" END="2755">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2752" END="2755">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-57" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2763" END="2764">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2763" END="2764">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-58" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2778" END="2808">a very powerful consumer engine</charseq>
+    </extent>
+    <head>
+      <charseq START="2803" END="2808">engine</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-100" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3792" END="3811">the combined company</charseq>
+    </extent>
+    <head>
+      <charseq START="3805" END="3811">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-108" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4032" END="4051">the combined company</charseq>
+    </extent>
+    <head>
+      <charseq START="4045" END="4051">company</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-14" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1390" END="1417">captive base of online users</charseq>
+    </extent>
+    <head>
+      <charseq START="1398" END="1401">base</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E10" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="10-15" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1406" END="1417">online users</charseq>
+    </extent>
+    <head>
+      <charseq START="1413" END="1417">users</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E11" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="11-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1511" END="1527">major advertisers</charseq>
+    </extent>
+    <head>
+      <charseq START="1517" END="1527">advertisers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E12" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="12-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1596" END="1604">the
+world</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1604">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1644" END="1646">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1644" END="1646">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1651" END="1679">a shareholder in
+this company</charseq>
+    </extent>
+    <head>
+      <charseq START="1653" END="1663">shareholder</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1682" END="1684">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1682" END="1684">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1701" END="1714">a happy camper</charseq>
+    </extent>
+    <head>
+      <charseq START="1709" END="1714">camper</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1798" END="1832">Tom Wolzien of Sanford C. Bernstein</charseq>
+    </extent>
+    <head>
+      <charseq START="1798" END="1808">Tom Wolzien</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1798" END="1808">Tom Wolzien</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1813" END="1832">Sanford C. Bernstein</charseq>
+    </extent>
+    <head>
+      <charseq START="1813" END="1832">Sanford C. Bernstein</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1813" END="1832">Sanford C. Bernstein</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1837" END="1851">These companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1843" END="1851">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1886" END="1889">They</charseq>
+    </extent>
+    <head>
+      <charseq START="1886" END="1889">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-31" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1894" END="1930">subscription-advertising
+combo models</charseq>
+    </extent>
+    <head>
+      <charseq START="1925" END="1930">models</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3091" END="3103">the companies</charseq>
+    </extent>
+    <head>
+      <charseq START="3095" END="3103">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3142" END="3145">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3142" END="3145">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-80" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3296" END="3308">the companies</charseq>
+    </extent>
+    <head>
+      <charseq START="3300" END="3308">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-97" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3689" END="3701">the
+companies</charseq>
+    </extent>
+    <head>
+      <charseq START="3693" END="3701">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-98" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3723" END="3735">the companies</charseq>
+    </extent>
+    <head>
+      <charseq START="3727" END="3735">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1871" END="1883">the other one</charseq>
+    </extent>
+    <head>
+      <charseq START="1881" END="1883">one</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E21" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="21-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2061" END="2101">shareholders in either AOL or Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="2061" END="2072">shareholders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="22-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2104" END="2109">Disney</charseq>
+    </extent>
+    <head>
+      <charseq START="2104" END="2109">Disney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2132" END="2133">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2132" END="2133">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2539" END="2544">Disney</charseq>
+    </extent>
+    <head>
+      <charseq START="2539" END="2544">Disney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2856" END="2861">Disney</charseq>
+    </extent>
+    <head>
+      <charseq START="2856" END="2861">Disney</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2104" END="2109">Disney</charseq>
+    </name>
+    <name>
+      <charseq START="2539" END="2544">Disney</charseq>
+    </name>
+    <name>
+      <charseq START="2856" END="2861">Disney</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2142" END="2159">Capital Cities/ABC</charseq>
+    </extent>
+    <head>
+      <charseq START="2142" END="2159">Capital Cities/ABC</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2142" END="2159">Capital Cities/ABC</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="617" END="619">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="619">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1363" END="1365">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="1363" END="1365">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2084" END="2086">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="2084" END="2086">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-47" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2407" END="2409">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="2407" END="2409">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3181" END="3183">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="3181" END="3183">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3224" END="3226">its</charseq>
+    </extent>
+    <head>
+      <charseq START="3224" END="3226">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-81" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="690" END="700">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="700">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-83" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3375" END="3388">America Online</charseq>
+    </extent>
+    <head>
+      <charseq START="3375" END="3388">America Online</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-110" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4140" END="4153">America Online</charseq>
+    </extent>
+    <head>
+      <charseq START="4140" END="4153">America Online</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-122" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="791" END="804">America
+Online</charseq>
+    </extent>
+    <head>
+      <charseq START="791" END="804">America
+Online</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-129" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="902" END="904">AOL</charseq>
+    </extent>
+    <head>
+      <charseq START="902" END="904">AOL</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1363" END="1365">AOL</charseq>
+    </name>
+    <name>
+      <charseq START="2084" END="2086">AOL</charseq>
+    </name>
+    <name>
+      <charseq START="3181" END="3183">AOL</charseq>
+    </name>
+    <name>
+      <charseq START="4140" END="4153">America Online</charseq>
+    </name>
+    <name>
+      <charseq START="791" END="804">America
+Online</charseq>
+    </name>
+    <name>
+      <charseq START="902" END="904">AOL</charseq>
+    </name>
+    <name>
+      <charseq START="617" END="619">AOL</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2257" END="2260">Time</charseq>
+    </extent>
+    <head>
+      <charseq START="2257" END="2260">Time</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2257" END="2260">Time</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2266" END="2271">Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="2266" END="2271">Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2266" END="2271">Warner</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2349" END="2449">Roger McNamee of Integral
+Capital, which sold its 404,000 AOL shares the day the merger was
+announced</charseq>
+    </extent>
+    <head>
+      <charseq START="2349" END="2361">Roger McNamee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2349" END="2361">Roger McNamee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="28-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2366" END="2449">Integral
+Capital, which sold its 404,000 AOL shares the day the merger was
+announced</charseq>
+    </extent>
+    <head>
+      <charseq START="2366" END="2381">Integral
+Capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-45" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2384" END="2388">which</charseq>
+    </extent>
+    <head>
+      <charseq START="2384" END="2388">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2395" END="2397">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2395" END="2397">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2366" END="2381">Integral
+Capital</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="30-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2550" END="2662">other traditional media companies, which
+are still struggling to figure out how they can profit from the
+Internet</charseq>
+    </extent>
+    <head>
+      <charseq START="2574" END="2582">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-52" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2585" END="2589">which</charseq>
+    </extent>
+    <head>
+      <charseq START="2585" END="2589">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2630" END="2633">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2630" END="2633">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2670" END="2698">Jessica Reif of Merrill Lynch</charseq>
+    </extent>
+    <head>
+      <charseq START="2670" END="2681">Jessica Reif</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2813" END="2816">Reif</charseq>
+    </extent>
+    <head>
+      <charseq START="2813" END="2816">Reif</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2670" END="2681">Jessica Reif</charseq>
+    </name>
+    <name>
+      <charseq START="2813" END="2816">Reif</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2686" END="2698">Merrill Lynch</charseq>
+    </extent>
+    <head>
+      <charseq START="2686" END="2698">Merrill Lynch</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2686" END="2698">Merrill Lynch</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E34" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="34-59" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2794" END="2801">consumer</charseq>
+    </extent>
+    <head>
+      <charseq START="2794" END="2801">consumer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E35" TYPE="PER" CLASS="USP">
+  <entity_mention ID="35-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2848" END="2850">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2848" END="2850">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="36-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2886" END="2888">NBC</charseq>
+    </extent>
+    <head>
+      <charseq START="2886" END="2888">NBC</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2886" END="2888">NBC</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="37-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2903" END="2912">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="2903" END="2912">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2903" END="2912">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-65" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2919" END="2932">John Schreiber</charseq>
+    </extent>
+    <head>
+      <charseq START="2919" END="2932">John Schreiber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2935" END="3083">an assistant portfolio manager at Janus Capital, the
+mutual fund company that is Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+    </extent>
+    <head>
+      <charseq START="2958" END="2964">manager</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-89" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3472" END="3480">Schreiber</charseq>
+    </extent>
+    <head>
+      <charseq START="3472" END="3480">Schreiber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-90" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3516" END="3516">I</charseq>
+    </extent>
+    <head>
+      <charseq START="3516" END="3516">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-91" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3621" END="3622">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3621" END="3622">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-96" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3632" END="3640">Schreiber</charseq>
+    </extent>
+    <head>
+      <charseq START="3632" END="3640">Schreiber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3991" END="3992">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3991" END="3992">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4021" END="4022">he</charseq>
+    </extent>
+    <head>
+      <charseq START="4021" END="4022">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-107" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4054" END="4062">Schreiber</charseq>
+    </extent>
+    <head>
+      <charseq START="4054" END="4062">Schreiber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-116" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4390" END="4398">Schreiber</charseq>
+    </extent>
+    <head>
+      <charseq START="4390" END="4398">Schreiber</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2919" END="2932">John Schreiber</charseq>
+    </name>
+    <name>
+      <charseq START="3472" END="3480">Schreiber</charseq>
+    </name>
+    <name>
+      <charseq START="3632" END="3640">Schreiber</charseq>
+    </name>
+    <name>
+      <charseq START="4054" END="4062">Schreiber</charseq>
+    </name>
+    <name>
+      <charseq START="4390" END="4398">Schreiber</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="40-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2969" END="2981">Janus Capital</charseq>
+    </extent>
+    <head>
+      <charseq START="2969" END="2981">Janus Capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2984" END="3083">the
+mutual fund company that is Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+    </extent>
+    <head>
+      <charseq START="3000" END="3006">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-69" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="3008" END="3011">that</charseq>
+    </extent>
+    <head>
+      <charseq START="3008" END="3011">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-71" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3016" END="3083">Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+    </extent>
+    <head>
+      <charseq START="3038" END="3048">shareholder</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2969" END="2981">Janus Capital</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E43" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="43-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3224" END="3232">its users</charseq>
+    </extent>
+    <head>
+      <charseq START="3228" END="3232">users</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="43-84" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3375" END="3394">America Online
+users</charseq>
+    </extent>
+    <head>
+      <charseq START="3390" END="3394">users</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E44" TYPE="ORG" SUBTYPE="Other" CLASS="GEN">
+  <entity_mention ID="44-82" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3329" END="3343">big advertisers</charseq>
+    </extent>
+    <head>
+      <charseq START="3333" END="3343">advertisers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E45" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="45-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3400" END="3469">the people who watch Time Warner cable channels and read
+its magazines</charseq>
+    </extent>
+    <head>
+      <charseq START="3404" END="3409">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="45-86" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="3411" END="3413">who</charseq>
+    </extent>
+    <head>
+      <charseq START="3411" END="3413">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E46" TYPE="PER" CLASS="USP">
+  <entity_mention ID="46-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3524" END="3526">you</charseq>
+    </extent>
+    <head>
+      <charseq START="3524" END="3526">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E47" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="47-93" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="3585" END="3616">all of Time Warner's advertisers</charseq>
+    </extent>
+    <head>
+      <charseq START="3585" END="3587">all</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="47-94" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3592" END="3616">Time Warner's advertisers</charseq>
+    </extent>
+    <head>
+      <charseq START="3606" END="3616">advertisers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E48" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="48-99" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3762" END="3775">top executives</charseq>
+    </extent>
+    <head>
+      <charseq START="3766" END="3775">executives</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E49" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="49-101" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3865" END="3923">people who feel their
+responsibilities have been diminished</charseq>
+    </extent>
+    <head>
+      <charseq START="3865" END="3870">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="49-102" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="3872" END="3874">who</charseq>
+    </extent>
+    <head>
+      <charseq START="3872" END="3874">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="49-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3881" END="3885">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3881" END="3885">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E50" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="50-104" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="3967" END="3970">some</charseq>
+    </extent>
+    <head>
+      <charseq START="3967" END="3970">some</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="51-111" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4174" END="4201">cable companies like Comcast</charseq>
+    </extent>
+    <head>
+      <charseq START="4180" END="4188">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="52-112" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4195" END="4201">Comcast</charseq>
+    </extent>
+    <head>
+      <charseq START="4195" END="4201">Comcast</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4195" END="4201">Comcast</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="53-113" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4251" END="4269">big media companies</charseq>
+    </extent>
+    <head>
+      <charseq START="4261" END="4269">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E54" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="54-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1177" END="1187">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="1177" END="1187">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1424" END="1434">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="1424" END="1434">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1488" END="1490">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1488" END="1490">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2091" END="2101">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="2091" END="2101">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2174" END="2184">Time
+Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="2174" END="2184">Time
+Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2217" END="2218">it</charseq>
+    </extent>
+    <head>
+      <charseq START="2217" END="2218">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-70" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3016" END="3026">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="3016" END="3026">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3197" END="3207">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="3197" END="3207">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-87" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3421" END="3431">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="3421" END="3431">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-88" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3457" END="3459">its</charseq>
+    </extent>
+    <head>
+      <charseq START="3457" END="3459">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-95" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3592" END="3602">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="3592" END="3602">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-114" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4322" END="4332">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="4322" END="4332">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-117" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="729" END="739">Time
+Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="739">Time
+Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-119" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="747" END="757">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="747" END="757">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-125" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="851" END="861">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="851" END="861">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1424" END="1434">Time Warner</charseq>
+    </name>
+    <name>
+      <charseq START="2091" END="2101">Time Warner</charseq>
+    </name>
+    <name>
+      <charseq START="2174" END="2184">Time
+Warner</charseq>
+    </name>
+    <name>
+      <charseq START="3016" END="3026">Time Warner</charseq>
+    </name>
+    <name>
+      <charseq START="3197" END="3207">Time Warner</charseq>
+    </name>
+    <name>
+      <charseq START="3592" END="3602">Time Warner</charseq>
+    </name>
+    <name>
+      <charseq START="729" END="739">Time
+Warner</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E55" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="55-115" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4322" END="4345">Time Warner
+shareholders</charseq>
+    </extent>
+    <head>
+      <charseq START="4334" END="4345">shareholders</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="55-118" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="745" END="769">a Time Warner shareholder</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="769">shareholder</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001101.2212.0429-E57" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="57-120" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="791" END="815">America
+Online's chairman</charseq>
+    </extent>
+    <head>
+      <charseq START="808" END="815">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-121" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="818" END="829">Stephen Case</charseq>
+    </extent>
+    <head>
+      <charseq START="818" END="829">Stephen Case</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-124" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="847" END="849">his</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="849">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-131" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="995" END="999">Steve</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="999">Steve</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="818" END="829">Stephen Case</charseq>
+    </name>
+    <name>
+      <charseq START="995" END="999">Steve</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E59" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="59-109" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4093" END="4097">Levin</charseq>
+    </extent>
+    <head>
+      <charseq START="4093" END="4097">Levin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="59-126" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="847" END="873">his Time Warner
+counterpart</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="873">counterpart</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="59-127" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="876" END="887">Gerald Levin</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="887">Gerald Levin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4093" END="4097">Levin</charseq>
+    </name>
+    <name>
+      <charseq START="876" END="887">Gerald Levin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001101.2212.0429-E61" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="61-130" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="959" END="974">anyone objective</charseq>
+    </extent>
+    <head>
+      <charseq START="959" END="964">anyone</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001101.2212.0429-R1" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E55" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="745" END="769">a Time Warner shareholder</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="55-118" ARGNUM="1">
+      <extent>
+        <charseq START="745" END="769">a Time Warner shareholder</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-119" ARGNUM="2">
+      <extent>
+        <charseq START="747" END="757">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4322" END="4345">Time Warner
+shareholders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="55-115" ARGNUM="1">
+      <extent>
+        <charseq START="4322" END="4345">Time Warner
+shareholders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-114" ARGNUM="2">
+      <extent>
+        <charseq START="4322" END="4332">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E57" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E24" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="791" END="815">America
+Online's chairman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="57-120" ARGNUM="1">
+      <extent>
+        <charseq START="791" END="815">America
+Online's chairman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-122" ARGNUM="2">
+      <extent>
+        <charseq START="791" END="804">America
+Online</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E59" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="847" END="873">his Time Warner
+counterpart</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="59-126" ARGNUM="1">
+      <extent>
+        <charseq START="847" END="873">his Time Warner
+counterpart</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-125" ARGNUM="2">
+      <extent>
+        <charseq START="851" END="861">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E2" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1056" END="1113">a senior vice
+president at State Street Research in Boston</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-133" ARGNUM="1">
+      <extent>
+        <charseq START="1056" END="1113">a senior vice
+president at State Street Research in Boston</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="1083" END="1113">State Street Research in Boston</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E3" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1083" END="1113">State Street Research in Boston</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="1083" END="1113">State Street Research in Boston</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="1108" END="1113">Boston</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R6" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1177" END="1200">Time Warner shareholders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="1177" END="1200">Time Warner shareholders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-7" ARGNUM="2">
+      <extent>
+        <charseq START="1177" END="1187">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R7" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1488" END="1527">its relationships with major advertisers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-18" ARGNUM="1">
+      <extent>
+        <charseq START="1511" END="1527">major advertisers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-17" ARGNUM="2">
+      <extent>
+        <charseq START="1488" END="1490">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R8" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E8" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1651" END="1679">a shareholder in
+this company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="1">
+      <extent>
+        <charseq START="1651" END="1679">a shareholder in
+this company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-23" ARGNUM="2">
+      <extent>
+        <charseq START="1668" END="1679">this company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E17" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1798" END="1832">Tom Wolzien of Sanford C. Bernstein</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-26" ARGNUM="1">
+      <extent>
+        <charseq START="1798" END="1832">Tom Wolzien of Sanford C. Bernstein</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-27" ARGNUM="2">
+      <extent>
+        <charseq START="1813" END="1832">Sanford C. Bernstein</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R10" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E24" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2061" END="2101">shareholders in either AOL or Time Warner</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-33" ARGNUM="1">
+      <extent>
+        <charseq START="2061" END="2101">shareholders in either AOL or Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-34" ARGNUM="2">
+      <extent>
+        <charseq START="2084" END="2086">AOL</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R11" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2061" END="2101">shareholders in either AOL or Time Warner</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-33" ARGNUM="1">
+      <extent>
+        <charseq START="2061" END="2101">shareholders in either AOL or Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-35" ARGNUM="2">
+      <extent>
+        <charseq START="2091" END="2101">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R12" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E22" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2132" END="2159">it bought Capital Cities/ABC</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-38" ARGNUM="1">
+      <extent>
+        <charseq START="2142" END="2159">Capital Cities/ABC</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-37" ARGNUM="2">
+      <extent>
+        <charseq START="2132" END="2133">it</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R13" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2217" END="2271">it was created in 1990 by the
+merger of Time and Warner</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-41" ARGNUM="1">
+      <extent>
+        <charseq START="2257" END="2260">Time</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-40" ARGNUM="2">
+      <extent>
+        <charseq START="2217" END="2218">it</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R14" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2217" END="2271">it was created in 1990 by the
+merger of Time and Warner</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-42" ARGNUM="1">
+      <extent>
+        <charseq START="2266" END="2271">Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-40" ARGNUM="2">
+      <extent>
+        <charseq START="2217" END="2218">it</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E28" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2349" END="2449">Roger McNamee of Integral
+Capital, which sold its 404,000 AOL shares the day the merger was
+announced</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-43" ARGNUM="1">
+      <extent>
+        <charseq START="2349" END="2449">Roger McNamee of Integral
+Capital, which sold its 404,000 AOL shares the day the merger was
+announced</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-44" ARGNUM="2">
+      <extent>
+        <charseq START="2366" END="2449">Integral
+Capital, which sold its 404,000 AOL shares the day the merger was
+announced</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R16" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E32" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2670" END="2698">Jessica Reif of Merrill Lynch</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-54" ARGNUM="1">
+      <extent>
+        <charseq START="2670" END="2698">Jessica Reif of Merrill Lynch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-55" ARGNUM="2">
+      <extent>
+        <charseq START="2686" END="2698">Merrill Lynch</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E40" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2935" END="3083">an assistant portfolio manager at Janus Capital, the
+mutual fund company that is Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-66" ARGNUM="1">
+      <extent>
+        <charseq START="2935" END="3083">an assistant portfolio manager at Janus Capital, the
+mutual fund company that is Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="40-67" ARGNUM="2">
+      <extent>
+        <charseq START="2969" END="2981">Janus Capital</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R18" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3016" END="3083">Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-71" ARGNUM="1">
+      <extent>
+        <charseq START="3016" END="3083">Time Warner's largest shareholder, with
+more than 120 million shares</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-70" ARGNUM="2">
+      <extent>
+        <charseq START="3016" END="3026">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R19" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E43" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E24" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3224" END="3232">its users</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="43-79" ARGNUM="1">
+      <extent>
+        <charseq START="3224" END="3232">its users</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-78" ARGNUM="2">
+      <extent>
+        <charseq START="3224" END="3226">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="19-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3375" END="3394">America Online
+users</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="43-84" ARGNUM="1">
+      <extent>
+        <charseq START="3375" END="3394">America Online
+users</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-83" ARGNUM="2">
+      <extent>
+        <charseq START="3375" END="3388">America Online</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R21" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E45" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3411" END="3469">who watch Time Warner cable channels and read
+its magazines</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-86" ARGNUM="1">
+      <extent>
+        <charseq START="3411" END="3413">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-87" ARGNUM="2">
+      <extent>
+        <charseq START="3421" END="3431">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="21-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3411" END="3469">who watch Time Warner cable channels and read
+its magazines</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-86" ARGNUM="1">
+      <extent>
+        <charseq START="3411" END="3413">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-88" ARGNUM="2">
+      <extent>
+        <charseq START="3457" END="3459">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R23" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E47" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E54" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3592" END="3616">Time Warner's advertisers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="47-94" ARGNUM="1">
+      <extent>
+        <charseq START="3592" END="3616">Time Warner's advertisers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="54-95" ARGNUM="2">
+      <extent>
+        <charseq START="3592" END="3602">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R24" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E8" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3762" END="3811">top executives would stand in the combined company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-99" ARGNUM="1">
+      <extent>
+        <charseq START="3762" END="3775">top executives</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-100" ARGNUM="2">
+      <extent>
+        <charseq START="3792" END="3811">the combined company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001101.2212.0429-R25" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E52" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001101.2212.0429-E51" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="4174" END="4201">cable companies like Comcast</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="52-112" ARGNUM="1">
+      <extent>
+        <charseq START="4195" END="4201">Comcast</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="51-111" ARGNUM="2">
+      <extent>
+        <charseq START="4174" END="4201">cable companies like Comcast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

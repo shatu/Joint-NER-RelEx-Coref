@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001209.1400.0381.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001209.1400.0381">
+<composite_entity ID="CNN20001209.1400.0381-CE1">
+  <entity ID="CNN20001209.1400.0381-E1" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="517" END="536">a high-speed
+torpedo</charseq>
+      </extent>
+      <head>
+        <charseq START="530" END="536">torpedo</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE2">
+  <entity ID="CNN20001209.1400.0381-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="2-5" TYPE="NOM">
+      <extent>
+        <charseq START="554" END="585">a technology information company</charseq>
+      </extent>
+      <head>
+        <charseq START="579" END="585">company</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE3">
+  <entity ID="CNN20001209.1400.0381-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="NAM">
+      <extent>
+        <charseq START="630" END="655">the clinton administration</charseq>
+      </extent>
+      <head>
+        <charseq START="642" END="655">administration</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="642" END="655">administration</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE4">
+  <entity ID="CNN20001209.1400.0381-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-7" TYPE="PRE">
+      <extent>
+        <charseq START="634" END="640">clinton</charseq>
+      </extent>
+      <head>
+        <charseq START="634" END="640">clinton</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE5">
+  <entity ID="CNN20001209.1400.0381-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-1" TYPE="NAM">
+      <extent>
+        <charseq START="65" END="96">russian president vladimir putin</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="96">vladimir putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-11" TYPE="PRO">
+      <extent>
+        <charseq START="103" END="104">he</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="104">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-21" TYPE="NAM">
+      <extent>
+        <charseq START="307" END="311">putin</charseq>
+      </extent>
+      <head>
+        <charseq START="307" END="311">putin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="307" END="311">putin</charseq>
+      </name>
+      <name>
+        <charseq START="83" END="96">vladimir putin</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001209.1400.0381-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-9" TYPE="PRE">
+      <extent>
+        <charseq START="65" END="81">russian president</charseq>
+      </extent>
+      <head>
+        <charseq START="73" END="81">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE6">
+  <entity ID="CNN20001209.1400.0381-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-3" TYPE="NAM">
+      <extent>
+        <charseq START="539" END="585">pope, who runs a technology information company</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="542">pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-4" TYPE="WHQ">
+      <extent>
+        <charseq START="545" END="547">who</charseq>
+      </extent>
+      <head>
+        <charseq START="545" END="547">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-8" TYPE="NAM">
+      <extent>
+        <charseq START="693" END="696">pope</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="696">pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-12" TYPE="NAM">
+      <extent>
+        <charseq START="130" END="161">american businessman edmond pope</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="161">edmond pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="NAM">
+      <extent>
+        <charseq START="190" END="193">pope</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="193">pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-18" TYPE="PRO">
+      <extent>
+        <charseq START="240" END="242">him</charseq>
+      </extent>
+      <head>
+        <charseq START="240" END="242">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-20" TYPE="NAM">
+      <extent>
+        <charseq START="267" END="270">pope</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="270">pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-22" TYPE="PRO">
+      <extent>
+        <charseq START="333" END="334">he</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="334">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-23" TYPE="PRO">
+      <extent>
+        <charseq START="362" END="363">he</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="363">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-24" TYPE="NOM">
+      <extent>
+        <charseq START="411" END="430">the pennsylvania man</charseq>
+      </extent>
+      <head>
+        <charseq START="428" END="430">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-27" TYPE="PRO">
+      <extent>
+        <charseq START="481" END="482">he</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="482">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="693" END="696">pope</charseq>
+      </name>
+      <name>
+        <charseq START="151" END="161">edmond pope</charseq>
+      </name>
+      <name>
+        <charseq START="190" END="193">pope</charseq>
+      </name>
+      <name>
+        <charseq START="267" END="270">pope</charseq>
+      </name>
+      <name>
+        <charseq START="539" END="542">pope</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001209.1400.0381-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-13" TYPE="PRE">
+      <extent>
+        <charseq START="130" END="149">american businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="149">businessman</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE7">
+  <entity ID="CNN20001209.1400.0381-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="10-14" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="130" END="137">american</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="137">american</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE8">
+  <entity ID="CNN20001209.1400.0381-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="11-15" TYPE="NOM">
+      <extent>
+        <charseq START="164" END="178">a russian court</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="178">court</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE9">
+  <entity ID="CNN20001209.1400.0381-E12" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+    <entity_mention ID="12-19" TYPE="BAR">
+      <extent>
+        <charseq START="259" END="264">prison</charseq>
+      </extent>
+      <head>
+        <charseq START="259" END="264">prison</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE10">
+  <entity ID="CNN20001209.1400.0381-E13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="ATR">
+    <entity_mention ID="13-25" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="415" END="426">pennsylvania</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="426">pennsylvania</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001209.1400.0381-CE11">
+  <entity ID="CNN20001209.1400.0381-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="7-10" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="71">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="71">russian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="166" END="172">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="166" END="172">russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001209.1400.0381-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="451" END="456">russia</charseq>
+      </extent>
+      <head>
+        <charseq START="451" END="456">russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="451" END="456">russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001209.1400.0381-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="65" END="81">russian president</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E6" ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="81">russian president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E7" ENTITYMENTIONID="7-10" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="71">russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="130" END="149">american businessman</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E9" ENTITYMENTIONID="9-13" ARGNUM="1">
+      <extent>
+        <charseq START="130" END="149">american businessman</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E10" ENTITYMENTIONID="10-14" ARGNUM="2">
+      <extent>
+        <charseq START="130" END="137">american</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="164" END="178">a russian court</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E11" ENTITYMENTIONID="11-15" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="178">a russian court</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E7" ENTITYMENTIONID="7-16" ARGNUM="2">
+      <extent>
+        <charseq START="166" END="172">russian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="411" END="430">the pennsylvania man</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E8" ENTITYMENTIONID="8-24" ARGNUM="1">
+      <extent>
+        <charseq START="411" END="430">the pennsylvania man</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E13" ENTITYMENTIONID="13-25" ARGNUM="2">
+      <extent>
+        <charseq START="415" END="426">pennsylvania</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="539" END="585">pope, who runs a technology information company</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E8" ENTITYMENTIONID="8-3" ARGNUM="1">
+      <extent>
+        <charseq START="539" END="585">pope, who runs a technology information company</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E2" ENTITYMENTIONID="2-5" ARGNUM="2">
+      <extent>
+        <charseq START="554" END="585">a technology information company</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="630" END="655">the clinton administration</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E4" ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="634" END="640">clinton</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E3" ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="655">the clinton administration</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001209.1400.0381-R7" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="411" END="468">the pennsylvania man has been jailed in russia since
+april</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E8" ENTITYMENTIONID="8-24" ARGNUM="1">
+      <extent>
+        <charseq START="411" END="430">the pennsylvania man</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001209.1400.0381-E14" ENTITYMENTIONID="14-26" ARGNUM="2">
+      <extent>
+        <charseq START="451" END="456">russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

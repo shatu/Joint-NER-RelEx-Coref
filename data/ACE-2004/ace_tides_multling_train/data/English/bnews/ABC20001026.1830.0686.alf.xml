@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="ABC20001026.1830.0686.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ABC20001026.1830.0686">
+<composite_entity ID="ABC20001026.1830.0686-CE1">
+  <entity ID="ABC20001026.1830.0686-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="68" END="73">africa</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="73">africa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="68" END="73">africa</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE2">
+  <entity ID="ABC20001026.1830.0686-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="76" END="105">the capital of the ivory coast</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="86">capital</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE3">
+  <entity ID="ABC20001026.1830.0686-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="91" END="105">the ivory coast</charseq>
+      </extent>
+      <head>
+        <charseq START="95" END="105">ivory coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="95" END="105">ivory coast</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE4">
+  <entity ID="ABC20001026.1830.0686-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NOM">
+      <extent>
+        <charseq START="158" END="169">the military</charseq>
+      </extent>
+      <head>
+        <charseq START="162" END="169">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE5">
+  <entity ID="ABC20001026.1830.0686-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="186" END="207">two
+opposition leaders</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="207">leaders</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE6">
+  <entity ID="ABC20001026.1830.0686-E6" TYPE="PER" CLASS="USP">
+    <entity_mention ID="6-6" TYPE="NOM">
+      <extent>
+        <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="265">mobs</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE7">
+  <entity ID="ABC20001026.1830.0686-E7" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="7-7" TYPE="PRE">
+      <extent>
+        <charseq START="241" END="249">christian</charseq>
+      </extent>
+      <head>
+        <charseq START="241" END="249">christian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE8">
+  <entity ID="ABC20001026.1830.0686-E8" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="8-8" TYPE="PRE">
+      <extent>
+        <charseq START="255" END="260">muslim</charseq>
+      </extent>
+      <head>
+        <charseq START="255" END="260">muslim</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE9">
+  <entity ID="ABC20001026.1830.0686-E9" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+    <entity_mention ID="9-9" TYPE="NOM">
+      <extent>
+        <charseq START="290" END="300">the streets</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="300">streets</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="ABC20001026.1830.0686-CE10">
+  <entity ID="ABC20001026.1830.0686-E10" TYPE="PER" CLASS="USP">
+    <entity_mention ID="10-10" TYPE="NOM">
+      <extent>
+        <charseq START="303" END="320">at least 60 people</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="320">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="ABC20001026.1830.0686-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="65" END="125">in africa, the capital of the ivory coast is being torn apart</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="76" END="105">the capital of the ivory coast</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E1" ENTITYMENTIONID="1-1" ARGNUM="2">
+      <extent>
+        <charseq START="68" END="73">africa</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001026.1830.0686-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="76" END="105">the capital of the ivory coast</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="76" END="105">the capital of the ivory coast</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="105">the ivory coast</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001026.1830.0686-R3" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E7" ENTITYMENTIONID="7-7" ARGNUM="2">
+      <extent>
+        <charseq START="241" END="249">christian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001026.1830.0686-R4" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E8" ENTITYMENTIONID="8-8" ARGNUM="2">
+      <extent>
+        <charseq START="255" END="260">muslim</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001026.1830.0686-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="241" END="300">christian and
+muslim mobs are fighting it out in the streets</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E9" ENTITYMENTIONID="9-9" ARGNUM="2">
+      <extent>
+        <charseq START="290" END="300">the streets</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="ABC20001026.1830.0686-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="241" END="265">christian and
+muslim mobs</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

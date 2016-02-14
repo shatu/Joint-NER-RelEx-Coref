@@ -1,0 +1,1790 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="chtb_220" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">chinese_treebank</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">chtb_220.eng.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="chtb_220:T1">
+<Signal id="chtb_220:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="chtb_220:1" timeline="chtb_220:T1">
+<Metadata>
+<MetadataElement name="docid">chtb_220.eng</MetadataElement>
+</Metadata>
+<Anchor id="chtb_220:1:1" offset="248.000000"></Anchor>
+<Anchor id="chtb_220:1:3" offset="248.000000"></Anchor>
+<Anchor id="chtb_220:1:4I" offset="248.000000"></Anchor>
+<Anchor id="chtb_220:1:4Q" offset="248.000000"></Anchor>
+<Anchor id="chtb_220:1:2" offset="265.000000"></Anchor>
+<Anchor id="chtb_220:1:4" offset="265.000000"></Anchor>
+<Anchor id="chtb_220:1:9" offset="268.000000"></Anchor>
+<Anchor id="chtb_220:1:B" offset="268.000000"></Anchor>
+<Anchor id="chtb_220:1:A" offset="273.000000"></Anchor>
+<Anchor id="chtb_220:1:C" offset="273.000000"></Anchor>
+<Anchor id="chtb_220:1:I" offset="292.000000"></Anchor>
+<Anchor id="chtb_220:1:Q" offset="292.000000"></Anchor>
+<Anchor id="chtb_220:1:S" offset="292.000000"></Anchor>
+<Anchor id="chtb_220:1:R" offset="299.000000"></Anchor>
+<Anchor id="chtb_220:1:U" offset="299.000000"></Anchor>
+<Anchor id="chtb_220:1:K" offset="301.000000"></Anchor>
+<Anchor id="chtb_220:1:4J" offset="309.000000"></Anchor>
+<Anchor id="chtb_220:1:4R" offset="309.000000"></Anchor>
+<Anchor id="chtb_220:1:J" offset="309.000000"></Anchor>
+<Anchor id="chtb_220:1:L" offset="309.000000"></Anchor>
+<Anchor id="chtb_220:1:Z" offset="312.000000"></Anchor>
+<Anchor id="chtb_220:1:h" offset="314.000000"></Anchor>
+<Anchor id="chtb_220:1:j" offset="314.000000"></Anchor>
+<Anchor id="chtb_220:1:i" offset="320.000000"></Anchor>
+<Anchor id="chtb_220:1:k" offset="320.000000"></Anchor>
+<Anchor id="chtb_220:1:b" offset="332.000000"></Anchor>
+<Anchor id="chtb_220:1:a" offset="336.000000"></Anchor>
+<Anchor id="chtb_220:1:c" offset="336.000000"></Anchor>
+<Anchor id="chtb_220:1:p" offset="342.000000"></Anchor>
+<Anchor id="chtb_220:1:r" offset="356.000000"></Anchor>
+<Anchor id="chtb_220:1:q" offset="368.000000"></Anchor>
+<Anchor id="chtb_220:1:s" offset="368.000000"></Anchor>
+<Anchor id="chtb_220:1:x" offset="468.000000"></Anchor>
+<Anchor id="chtb_220:1:z" offset="468.000000"></Anchor>
+<Anchor id="chtb_220:1:10" offset="469.000000"></Anchor>
+<Anchor id="chtb_220:1:y" offset="469.000000"></Anchor>
+<Anchor id="chtb_220:1:15" offset="485.000000"></Anchor>
+<Anchor id="chtb_220:1:17" offset="485.000000"></Anchor>
+<Anchor id="chtb_220:1:16" offset="487.000000"></Anchor>
+<Anchor id="chtb_220:1:18" offset="487.000000"></Anchor>
+<Anchor id="chtb_220:1:19" offset="506.000000"></Anchor>
+<Anchor id="chtb_220:1:1B" offset="506.000000"></Anchor>
+<Anchor id="chtb_220:1:1A" offset="509.000000"></Anchor>
+<Anchor id="chtb_220:1:1C" offset="509.000000"></Anchor>
+<Anchor id="chtb_220:1:1Q" offset="545.000000"></Anchor>
+<Anchor id="chtb_220:1:1V" offset="549.000000"></Anchor>
+<Anchor id="chtb_220:1:1X" offset="549.000000"></Anchor>
+<Anchor id="chtb_220:1:1W" offset="550.000000"></Anchor>
+<Anchor id="chtb_220:1:1Y" offset="550.000000"></Anchor>
+<Anchor id="chtb_220:1:1S" offset="552.000000"></Anchor>
+<Anchor id="chtb_220:1:1R" offset="561.000000"></Anchor>
+<Anchor id="chtb_220:1:1U" offset="561.000000"></Anchor>
+<Anchor id="chtb_220:1:1d" offset="657.000000"></Anchor>
+<Anchor id="chtb_220:1:1f" offset="657.000000"></Anchor>
+<Anchor id="chtb_220:1:4Z" offset="657.000000"></Anchor>
+<Anchor id="chtb_220:1:1e" offset="660.000000"></Anchor>
+<Anchor id="chtb_220:1:1g" offset="660.000000"></Anchor>
+<Anchor id="chtb_220:1:1h" offset="707.000000"></Anchor>
+<Anchor id="chtb_220:1:1j" offset="711.000000"></Anchor>
+<Anchor id="chtb_220:1:1i" offset="716.000000"></Anchor>
+<Anchor id="chtb_220:1:1k" offset="716.000000"></Anchor>
+<Anchor id="chtb_220:1:4a" offset="716.000000"></Anchor>
+<Anchor id="chtb_220:1:1p" offset="795.000000"></Anchor>
+<Anchor id="chtb_220:1:1r" offset="800.000000"></Anchor>
+<Anchor id="chtb_220:1:1q" offset="805.000000"></Anchor>
+<Anchor id="chtb_220:1:1s" offset="805.000000"></Anchor>
+<Anchor id="chtb_220:1:1t" offset="864.000000"></Anchor>
+<Anchor id="chtb_220:1:4h" offset="864.000000"></Anchor>
+<Anchor id="chtb_220:1:1v" offset="873.000000"></Anchor>
+<Anchor id="chtb_220:1:1w" offset="878.000000"></Anchor>
+<Anchor id="chtb_220:1:21" offset="892.000000"></Anchor>
+<Anchor id="chtb_220:1:23" offset="892.000000"></Anchor>
+<Anchor id="chtb_220:1:1u" offset="898.000000"></Anchor>
+<Anchor id="chtb_220:1:22" offset="898.000000"></Anchor>
+<Anchor id="chtb_220:1:24" offset="898.000000"></Anchor>
+<Anchor id="chtb_220:1:4i" offset="898.000000"></Anchor>
+<Anchor id="chtb_220:1:1I" offset="945.000000"></Anchor>
+<Anchor id="chtb_220:1:25" offset="945.000000"></Anchor>
+<Anchor id="chtb_220:1:2D" offset="945.000000"></Anchor>
+<Anchor id="chtb_220:1:2G" offset="945.000000"></Anchor>
+<Anchor id="chtb_220:1:5D" offset="945.000000"></Anchor>
+<Anchor id="chtb_220:1:2F" offset="949.000000"></Anchor>
+<Anchor id="chtb_220:1:2H" offset="949.000000"></Anchor>
+<Anchor id="chtb_220:1:27" offset="951.000000"></Anchor>
+<Anchor id="chtb_220:1:28" offset="958.000000"></Anchor>
+<Anchor id="chtb_220:1:2I" offset="963.000000"></Anchor>
+<Anchor id="chtb_220:1:2K" offset="963.000000"></Anchor>
+<Anchor id="chtb_220:1:1J" offset="966.000000"></Anchor>
+<Anchor id="chtb_220:1:26" offset="966.000000"></Anchor>
+<Anchor id="chtb_220:1:2J" offset="966.000000"></Anchor>
+<Anchor id="chtb_220:1:2L" offset="966.000000"></Anchor>
+<Anchor id="chtb_220:1:5F" offset="966.000000"></Anchor>
+<Anchor id="chtb_220:1:2M" offset="981.000000"></Anchor>
+<Anchor id="chtb_220:1:2V" offset="981.000000"></Anchor>
+<Anchor id="chtb_220:1:2X" offset="981.000000"></Anchor>
+<Anchor id="chtb_220:1:5M" offset="981.000000"></Anchor>
+<Anchor id="chtb_220:1:2W" offset="985.000000"></Anchor>
+<Anchor id="chtb_220:1:2Y" offset="985.000000"></Anchor>
+<Anchor id="chtb_220:1:2O" offset="987.000000"></Anchor>
+<Anchor id="chtb_220:1:2P" offset="995.000000"></Anchor>
+<Anchor id="chtb_220:1:2d" offset="1009.000000"></Anchor>
+<Anchor id="chtb_220:1:2f" offset="1018.000000"></Anchor>
+<Anchor id="chtb_220:1:2N" offset="1021.000000"></Anchor>
+<Anchor id="chtb_220:1:2e" offset="1021.000000"></Anchor>
+<Anchor id="chtb_220:1:2g" offset="1021.000000"></Anchor>
+<Anchor id="chtb_220:1:5N" offset="1021.000000"></Anchor>
+<Anchor id="chtb_220:1:2l" offset="1026.000000"></Anchor>
+<Anchor id="chtb_220:1:5x" offset="1026.000000"></Anchor>
+<Anchor id="chtb_220:1:2t" offset="1030.000000"></Anchor>
+<Anchor id="chtb_220:1:2v" offset="1030.000000"></Anchor>
+<Anchor id="chtb_220:1:2u" offset="1039.000000"></Anchor>
+<Anchor id="chtb_220:1:2w" offset="1039.000000"></Anchor>
+<Anchor id="chtb_220:1:5p" offset="1041.000000"></Anchor>
+<Anchor id="chtb_220:1:5r" offset="1041.000000"></Anchor>
+<Anchor id="chtb_220:1:5q" offset="1045.000000"></Anchor>
+<Anchor id="chtb_220:1:5s" offset="1045.000000"></Anchor>
+<Anchor id="chtb_220:1:2n" offset="1047.000000"></Anchor>
+<Anchor id="chtb_220:1:2m" offset="1050.000000"></Anchor>
+<Anchor id="chtb_220:1:2o" offset="1050.000000"></Anchor>
+<Anchor id="chtb_220:1:5y" offset="1050.000000"></Anchor>
+<Anchor id="chtb_220:1:31" offset="1080.000000"></Anchor>
+<Anchor id="chtb_220:1:39" offset="1084.000000"></Anchor>
+<Anchor id="chtb_220:1:3B" offset="1084.000000"></Anchor>
+<Anchor id="chtb_220:1:3A" offset="1088.000000"></Anchor>
+<Anchor id="chtb_220:1:3C" offset="1088.000000"></Anchor>
+<Anchor id="chtb_220:1:33" offset="1090.000000"></Anchor>
+<Anchor id="chtb_220:1:32" offset="1099.000000"></Anchor>
+<Anchor id="chtb_220:1:34" offset="1099.000000"></Anchor>
+<Anchor id="chtb_220:1:3D" offset="1136.000000"></Anchor>
+<Anchor id="chtb_220:1:3G" offset="1136.000000"></Anchor>
+<Anchor id="chtb_220:1:3F" offset="1139.000000"></Anchor>
+<Anchor id="chtb_220:1:3H" offset="1139.000000"></Anchor>
+<Anchor id="chtb_220:1:3I" offset="1230.000000"></Anchor>
+<Anchor id="chtb_220:1:3Q" offset="1230.000000"></Anchor>
+<Anchor id="chtb_220:1:3S" offset="1230.000000"></Anchor>
+<Anchor id="chtb_220:1:5V" offset="1230.000000"></Anchor>
+<Anchor id="chtb_220:1:3R" offset="1236.000000"></Anchor>
+<Anchor id="chtb_220:1:3U" offset="1236.000000"></Anchor>
+<Anchor id="chtb_220:1:3K" offset="1238.000000"></Anchor>
+<Anchor id="chtb_220:1:3J" offset="1242.000000"></Anchor>
+<Anchor id="chtb_220:1:3L" offset="1242.000000"></Anchor>
+<Anchor id="chtb_220:1:3Z" offset="1248.000000"></Anchor>
+<Anchor id="chtb_220:1:3b" offset="1248.000000"></Anchor>
+<Anchor id="chtb_220:1:3a" offset="1257.000000"></Anchor>
+<Anchor id="chtb_220:1:3c" offset="1257.000000"></Anchor>
+<Anchor id="chtb_220:1:5W" offset="1257.000000"></Anchor>
+<Anchor id="chtb_220:1:3h" offset="1262.000000"></Anchor>
+<Anchor id="chtb_220:1:3j" offset="1266.000000"></Anchor>
+<Anchor id="chtb_220:1:3i" offset="1267.000000"></Anchor>
+<Anchor id="chtb_220:1:3k" offset="1267.000000"></Anchor>
+<Anchor id="chtb_220:1:3l" offset="1317.000000"></Anchor>
+<Anchor id="chtb_220:1:5d" offset="1317.000000"></Anchor>
+<Anchor id="chtb_220:1:5f" offset="1317.000000"></Anchor>
+<Anchor id="chtb_220:1:65" offset="1317.000000"></Anchor>
+<Anchor id="chtb_220:1:5e" offset="1324.000000"></Anchor>
+<Anchor id="chtb_220:1:5g" offset="1324.000000"></Anchor>
+<Anchor id="chtb_220:1:3n" offset="1326.000000"></Anchor>
+<Anchor id="chtb_220:1:3m" offset="1330.000000"></Anchor>
+<Anchor id="chtb_220:1:3o" offset="1330.000000"></Anchor>
+<Anchor id="chtb_220:1:66" offset="1330.000000"></Anchor>
+<Anchor id="chtb_220:1:3t" offset="1363.000000"></Anchor>
+<Anchor id="chtb_220:1:51" offset="1363.000000"></Anchor>
+<Anchor id="chtb_220:1:3v" offset="1367.000000"></Anchor>
+<Anchor id="chtb_220:1:3u" offset="1368.000000"></Anchor>
+<Anchor id="chtb_220:1:3w" offset="1368.000000"></Anchor>
+<Anchor id="chtb_220:1:3x" offset="1407.000000"></Anchor>
+<Anchor id="chtb_220:1:3z" offset="1407.000000"></Anchor>
+<Anchor id="chtb_220:1:3y" offset="1410.000000"></Anchor>
+<Anchor id="chtb_220:1:40" offset="1410.000000"></Anchor>
+<Anchor id="chtb_220:1:41" offset="1420.000000"></Anchor>
+<Anchor id="chtb_220:1:4t" offset="1420.000000"></Anchor>
+<Anchor id="chtb_220:1:6D" offset="1420.000000"></Anchor>
+<Anchor id="chtb_220:1:6M" offset="1420.000000"></Anchor>
+<Anchor id="chtb_220:1:45" offset="1424.000000"></Anchor>
+<Anchor id="chtb_220:1:47" offset="1424.000000"></Anchor>
+<Anchor id="chtb_220:1:46" offset="1433.000000"></Anchor>
+<Anchor id="chtb_220:1:48" offset="1433.000000"></Anchor>
+<Anchor id="chtb_220:1:5l" offset="1435.000000"></Anchor>
+<Anchor id="chtb_220:1:5n" offset="1435.000000"></Anchor>
+<Anchor id="chtb_220:1:5m" offset="1442.000000"></Anchor>
+<Anchor id="chtb_220:1:5o" offset="1442.000000"></Anchor>
+<Anchor id="chtb_220:1:43" offset="1444.000000"></Anchor>
+<Anchor id="chtb_220:1:42" offset="1447.000000"></Anchor>
+<Anchor id="chtb_220:1:44" offset="1447.000000"></Anchor>
+<Anchor id="chtb_220:1:52" offset="1447.000000"></Anchor>
+<Anchor id="chtb_220:1:6F" offset="1447.000000"></Anchor>
+<Anchor id="chtb_220:1:4p" offset="1452.000000"></Anchor>
+<Anchor id="chtb_220:1:4r" offset="1452.000000"></Anchor>
+<Anchor id="chtb_220:1:4q" offset="1455.000000"></Anchor>
+<Anchor id="chtb_220:1:4s" offset="1455.000000"></Anchor>
+<Anchor id="chtb_220:1:4u" offset="1455.000000"></Anchor>
+<Anchor id="chtb_220:1:6N" offset="1455.000000"></Anchor>
+<Anchor id="chtb_220:1:49" offset="1516.000000"></Anchor>
+<Anchor id="chtb_220:1:4B" offset="1516.000000"></Anchor>
+<Anchor id="chtb_220:1:4A" offset="1519.000000"></Anchor>
+<Anchor id="chtb_220:1:4C" offset="1519.000000"></Anchor>
+<Anchor id="chtb_220:1:4D" offset="1525.000000"></Anchor>
+<Anchor id="chtb_220:1:4G" offset="1529.000000"></Anchor>
+<Anchor id="chtb_220:1:4F" offset="1530.000000"></Anchor>
+<Anchor id="chtb_220:1:4H" offset="1530.000000"></Anchor>
+<Anchor id="chtb_220:1:11"></Anchor>
+<Anchor id="chtb_220:1:12"></Anchor>
+<Anchor id="chtb_220:1:13"></Anchor>
+<Anchor id="chtb_220:1:14"></Anchor>
+<Anchor id="chtb_220:1:1D"></Anchor>
+<Anchor id="chtb_220:1:1F"></Anchor>
+<Anchor id="chtb_220:1:1G"></Anchor>
+<Anchor id="chtb_220:1:1H"></Anchor>
+<Anchor id="chtb_220:1:1K"></Anchor>
+<Anchor id="chtb_220:1:1L"></Anchor>
+<Anchor id="chtb_220:1:1M"></Anchor>
+<Anchor id="chtb_220:1:1N"></Anchor>
+<Anchor id="chtb_220:1:1O"></Anchor>
+<Anchor id="chtb_220:1:1P"></Anchor>
+<Anchor id="chtb_220:1:1Z"></Anchor>
+<Anchor id="chtb_220:1:1a"></Anchor>
+<Anchor id="chtb_220:1:1b"></Anchor>
+<Anchor id="chtb_220:1:1c"></Anchor>
+<Anchor id="chtb_220:1:1l"></Anchor>
+<Anchor id="chtb_220:1:1m"></Anchor>
+<Anchor id="chtb_220:1:1n"></Anchor>
+<Anchor id="chtb_220:1:1o"></Anchor>
+<Anchor id="chtb_220:1:1x"></Anchor>
+<Anchor id="chtb_220:1:1y"></Anchor>
+<Anchor id="chtb_220:1:1z"></Anchor>
+<Anchor id="chtb_220:1:20"></Anchor>
+<Anchor id="chtb_220:1:29"></Anchor>
+<Anchor id="chtb_220:1:2A"></Anchor>
+<Anchor id="chtb_220:1:2B"></Anchor>
+<Anchor id="chtb_220:1:2C"></Anchor>
+<Anchor id="chtb_220:1:2Q"></Anchor>
+<Anchor id="chtb_220:1:2R"></Anchor>
+<Anchor id="chtb_220:1:2S"></Anchor>
+<Anchor id="chtb_220:1:2U"></Anchor>
+<Anchor id="chtb_220:1:2Z"></Anchor>
+<Anchor id="chtb_220:1:2a"></Anchor>
+<Anchor id="chtb_220:1:2b"></Anchor>
+<Anchor id="chtb_220:1:2c"></Anchor>
+<Anchor id="chtb_220:1:2h"></Anchor>
+<Anchor id="chtb_220:1:2i"></Anchor>
+<Anchor id="chtb_220:1:2j"></Anchor>
+<Anchor id="chtb_220:1:2k"></Anchor>
+<Anchor id="chtb_220:1:2p"></Anchor>
+<Anchor id="chtb_220:1:2q"></Anchor>
+<Anchor id="chtb_220:1:2r"></Anchor>
+<Anchor id="chtb_220:1:2s"></Anchor>
+<Anchor id="chtb_220:1:2x"></Anchor>
+<Anchor id="chtb_220:1:2y"></Anchor>
+<Anchor id="chtb_220:1:2z"></Anchor>
+<Anchor id="chtb_220:1:30"></Anchor>
+<Anchor id="chtb_220:1:35"></Anchor>
+<Anchor id="chtb_220:1:36"></Anchor>
+<Anchor id="chtb_220:1:37"></Anchor>
+<Anchor id="chtb_220:1:38"></Anchor>
+<Anchor id="chtb_220:1:3M"></Anchor>
+<Anchor id="chtb_220:1:3N"></Anchor>
+<Anchor id="chtb_220:1:3O"></Anchor>
+<Anchor id="chtb_220:1:3P"></Anchor>
+<Anchor id="chtb_220:1:3V"></Anchor>
+<Anchor id="chtb_220:1:3W"></Anchor>
+<Anchor id="chtb_220:1:3X"></Anchor>
+<Anchor id="chtb_220:1:3Y"></Anchor>
+<Anchor id="chtb_220:1:3d"></Anchor>
+<Anchor id="chtb_220:1:3e"></Anchor>
+<Anchor id="chtb_220:1:3f"></Anchor>
+<Anchor id="chtb_220:1:3g"></Anchor>
+<Anchor id="chtb_220:1:3p"></Anchor>
+<Anchor id="chtb_220:1:3q"></Anchor>
+<Anchor id="chtb_220:1:3r"></Anchor>
+<Anchor id="chtb_220:1:3s"></Anchor>
+<Anchor id="chtb_220:1:4K"></Anchor>
+<Anchor id="chtb_220:1:4L"></Anchor>
+<Anchor id="chtb_220:1:4M"></Anchor>
+<Anchor id="chtb_220:1:4N"></Anchor>
+<Anchor id="chtb_220:1:4O"></Anchor>
+<Anchor id="chtb_220:1:4P"></Anchor>
+<Anchor id="chtb_220:1:4S"></Anchor>
+<Anchor id="chtb_220:1:4U"></Anchor>
+<Anchor id="chtb_220:1:4V"></Anchor>
+<Anchor id="chtb_220:1:4W"></Anchor>
+<Anchor id="chtb_220:1:4X"></Anchor>
+<Anchor id="chtb_220:1:4Y"></Anchor>
+<Anchor id="chtb_220:1:4b"></Anchor>
+<Anchor id="chtb_220:1:4c"></Anchor>
+<Anchor id="chtb_220:1:4d"></Anchor>
+<Anchor id="chtb_220:1:4e"></Anchor>
+<Anchor id="chtb_220:1:4f"></Anchor>
+<Anchor id="chtb_220:1:4g"></Anchor>
+<Anchor id="chtb_220:1:4j"></Anchor>
+<Anchor id="chtb_220:1:4k"></Anchor>
+<Anchor id="chtb_220:1:4l"></Anchor>
+<Anchor id="chtb_220:1:4m"></Anchor>
+<Anchor id="chtb_220:1:4n"></Anchor>
+<Anchor id="chtb_220:1:4o"></Anchor>
+<Anchor id="chtb_220:1:4v"></Anchor>
+<Anchor id="chtb_220:1:4w"></Anchor>
+<Anchor id="chtb_220:1:4x"></Anchor>
+<Anchor id="chtb_220:1:4y"></Anchor>
+<Anchor id="chtb_220:1:4z"></Anchor>
+<Anchor id="chtb_220:1:5"></Anchor>
+<Anchor id="chtb_220:1:50"></Anchor>
+<Anchor id="chtb_220:1:53"></Anchor>
+<Anchor id="chtb_220:1:54"></Anchor>
+<Anchor id="chtb_220:1:55"></Anchor>
+<Anchor id="chtb_220:1:56"></Anchor>
+<Anchor id="chtb_220:1:57"></Anchor>
+<Anchor id="chtb_220:1:58"></Anchor>
+<Anchor id="chtb_220:1:59"></Anchor>
+<Anchor id="chtb_220:1:5A"></Anchor>
+<Anchor id="chtb_220:1:5B"></Anchor>
+<Anchor id="chtb_220:1:5C"></Anchor>
+<Anchor id="chtb_220:1:5G"></Anchor>
+<Anchor id="chtb_220:1:5H"></Anchor>
+<Anchor id="chtb_220:1:5I"></Anchor>
+<Anchor id="chtb_220:1:5J"></Anchor>
+<Anchor id="chtb_220:1:5K"></Anchor>
+<Anchor id="chtb_220:1:5L"></Anchor>
+<Anchor id="chtb_220:1:5O"></Anchor>
+<Anchor id="chtb_220:1:5P"></Anchor>
+<Anchor id="chtb_220:1:5Q"></Anchor>
+<Anchor id="chtb_220:1:5R"></Anchor>
+<Anchor id="chtb_220:1:5S"></Anchor>
+<Anchor id="chtb_220:1:5U"></Anchor>
+<Anchor id="chtb_220:1:5X"></Anchor>
+<Anchor id="chtb_220:1:5Y"></Anchor>
+<Anchor id="chtb_220:1:5Z"></Anchor>
+<Anchor id="chtb_220:1:5a"></Anchor>
+<Anchor id="chtb_220:1:5b"></Anchor>
+<Anchor id="chtb_220:1:5c"></Anchor>
+<Anchor id="chtb_220:1:5h"></Anchor>
+<Anchor id="chtb_220:1:5i"></Anchor>
+<Anchor id="chtb_220:1:5j"></Anchor>
+<Anchor id="chtb_220:1:5k"></Anchor>
+<Anchor id="chtb_220:1:5t"></Anchor>
+<Anchor id="chtb_220:1:5u"></Anchor>
+<Anchor id="chtb_220:1:5v"></Anchor>
+<Anchor id="chtb_220:1:5w"></Anchor>
+<Anchor id="chtb_220:1:5z"></Anchor>
+<Anchor id="chtb_220:1:6"></Anchor>
+<Anchor id="chtb_220:1:60"></Anchor>
+<Anchor id="chtb_220:1:61"></Anchor>
+<Anchor id="chtb_220:1:62"></Anchor>
+<Anchor id="chtb_220:1:63"></Anchor>
+<Anchor id="chtb_220:1:64"></Anchor>
+<Anchor id="chtb_220:1:67"></Anchor>
+<Anchor id="chtb_220:1:68"></Anchor>
+<Anchor id="chtb_220:1:69"></Anchor>
+<Anchor id="chtb_220:1:6A"></Anchor>
+<Anchor id="chtb_220:1:6B"></Anchor>
+<Anchor id="chtb_220:1:6C"></Anchor>
+<Anchor id="chtb_220:1:6G"></Anchor>
+<Anchor id="chtb_220:1:6H"></Anchor>
+<Anchor id="chtb_220:1:6I"></Anchor>
+<Anchor id="chtb_220:1:6J"></Anchor>
+<Anchor id="chtb_220:1:6K"></Anchor>
+<Anchor id="chtb_220:1:6L"></Anchor>
+<Anchor id="chtb_220:1:6O"></Anchor>
+<Anchor id="chtb_220:1:6P"></Anchor>
+<Anchor id="chtb_220:1:6Q"></Anchor>
+<Anchor id="chtb_220:1:6R"></Anchor>
+<Anchor id="chtb_220:1:6S"></Anchor>
+<Anchor id="chtb_220:1:6U"></Anchor>
+<Anchor id="chtb_220:1:7"></Anchor>
+<Anchor id="chtb_220:1:8"></Anchor>
+<Anchor id="chtb_220:1:D"></Anchor>
+<Anchor id="chtb_220:1:F"></Anchor>
+<Anchor id="chtb_220:1:G"></Anchor>
+<Anchor id="chtb_220:1:H"></Anchor>
+<Anchor id="chtb_220:1:M"></Anchor>
+<Anchor id="chtb_220:1:N"></Anchor>
+<Anchor id="chtb_220:1:O"></Anchor>
+<Anchor id="chtb_220:1:P"></Anchor>
+<Anchor id="chtb_220:1:V"></Anchor>
+<Anchor id="chtb_220:1:W"></Anchor>
+<Anchor id="chtb_220:1:X"></Anchor>
+<Anchor id="chtb_220:1:Y"></Anchor>
+<Anchor id="chtb_220:1:d"></Anchor>
+<Anchor id="chtb_220:1:e"></Anchor>
+<Anchor id="chtb_220:1:f"></Anchor>
+<Anchor id="chtb_220:1:g"></Anchor>
+<Anchor id="chtb_220:1:l"></Anchor>
+<Anchor id="chtb_220:1:m"></Anchor>
+<Anchor id="chtb_220:1:n"></Anchor>
+<Anchor id="chtb_220:1:o"></Anchor>
+<Anchor id="chtb_220:1:t"></Anchor>
+<Anchor id="chtb_220:1:u"></Anchor>
+<Anchor id="chtb_220:1:v"></Anchor>
+<Anchor id="chtb_220:1:w"></Anchor>
+<Annotation id="chtb_220:1:E10" type="composite_entity" start="chtb_220:1:1z" end="chtb_220:1:20">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE1</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E15" type="entity" start="chtb_220:1:29" end="chtb_220:1:2A">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E16</Feature>
+<Feature name="id">chtb_220.eng-E1</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E16" type="composite_entity" start="chtb_220:1:2B" end="chtb_220:1:2C">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE2</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1D" type="entity" start="chtb_220:1:2Q" end="chtb_220:1:2R">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1F</Feature>
+<Feature name="id">chtb_220.eng-E2</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1F" type="composite_entity" start="chtb_220:1:2S" end="chtb_220:1:2U">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE3</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1I" type="entity" start="chtb_220:1:2Z" end="chtb_220:1:2a">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:Ee</Feature>
+<Feature name="id">chtb_220.eng-E3</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1M" type="entity" start="chtb_220:1:2h" end="chtb_220:1:2i">
+<Feature name="class">USP</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1N</Feature>
+<Feature name="id">chtb_220.eng-E4</Feature>
+<Feature name="subtype">Water-Body</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">LOC</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1N" type="composite_entity" start="chtb_220:1:2j" end="chtb_220:1:2k">
+<Feature name="composite_entity_class">USP</Feature>
+<Feature name="id">chtb_220.eng-CE4</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1Q" type="entity" start="chtb_220:1:2p" end="chtb_220:1:2q">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1R</Feature>
+<Feature name="id">chtb_220.eng-E5</Feature>
+<Feature name="subtype">Bounded-Area</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">FAC</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1R" type="composite_entity" start="chtb_220:1:2r" end="chtb_220:1:2s">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE5</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1V" type="entity" start="chtb_220:1:2x" end="chtb_220:1:2y">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1q</Feature>
+<Feature name="id">chtb_220.eng-E6</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1Z" type="entity" start="chtb_220:1:35" end="chtb_220:1:36">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1a</Feature>
+<Feature name="id">chtb_220.eng-E7</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1a" type="composite_entity" start="chtb_220:1:37" end="chtb_220:1:38">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE6</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1h" type="entity" start="chtb_220:1:3M" end="chtb_220:1:3N">
+<Feature name="class">GEN</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1i</Feature>
+<Feature name="id">chtb_220.eng-E8</Feature>
+<Feature name="subtype">Bounded-Area</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">FAC</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1i" type="composite_entity" start="chtb_220:1:3O" end="chtb_220:1:3P">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">chtb_220.eng-CE7</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1l" type="entity" start="chtb_220:1:3V" end="chtb_220:1:3W">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1m</Feature>
+<Feature name="id">chtb_220.eng-E9</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1m" type="composite_entity" start="chtb_220:1:3X" end="chtb_220:1:3Y">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">chtb_220.eng-CE8</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1p" type="entity" start="chtb_220:1:3d" end="chtb_220:1:3e">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1q</Feature>
+<Feature name="id">chtb_220.eng-E10</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1q" type="composite_entity" start="chtb_220:1:3f" end="chtb_220:1:3g">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE9</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1v" type="entity" start="chtb_220:1:3p" end="chtb_220:1:3q">
+<Feature name="class">GEN</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E1w</Feature>
+<Feature name="id">chtb_220.eng-E11</Feature>
+<Feature name="subtype">Bounded-Area</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">FAC</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1w" type="composite_entity" start="chtb_220:1:3r" end="chtb_220:1:3s">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">chtb_220.eng-CE10</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2A" type="relation" start="chtb_220:1:4K" end="chtb_220:1:4L">
+<Feature name="id">chtb_220.eng-R1</Feature>
+<Feature name="subtype">Employ-Staff</Feature>
+<Feature name="type">EMP-ORG</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2B" type="relation_mention_argument" start="chtb_220:1:4M" end="chtb_220:1:4N">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E29</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2C" type="relation_mention_argument" start="chtb_220:1:4O" end="chtb_220:1:4P">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E29</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2F" type="relation" start="chtb_220:1:4S" end="chtb_220:1:4U">
+<Feature name="id">chtb_220.eng-R2</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2G" type="relation_mention_argument" start="chtb_220:1:4V" end="chtb_220:1:4W">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2D</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2H" type="relation_mention_argument" start="chtb_220:1:4X" end="chtb_220:1:4Y">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E5</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2D</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2J" type="relation" start="chtb_220:1:4b" end="chtb_220:1:4c">
+<Feature name="id">chtb_220.eng-R3</Feature>
+<Feature name="subtype">Citizen-or-Resident</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2K" type="relation_mention_argument" start="chtb_220:1:4d" end="chtb_220:1:4e">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:Er</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2I</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2L" type="relation_mention_argument" start="chtb_220:1:4f" end="chtb_220:1:4g">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:Ep</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2I</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2N" type="relation" start="chtb_220:1:4j" end="chtb_220:1:4k">
+<Feature name="id">chtb_220.eng-R4</Feature>
+<Feature name="subtype">Citizen-or-Resident</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2O" type="relation_mention_argument" start="chtb_220:1:4l" end="chtb_220:1:4m">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:Ex</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2M</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2P" type="relation_mention_argument" start="chtb_220:1:4n" end="chtb_220:1:4o">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E11</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2M</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2U" type="relation" start="chtb_220:1:4v" end="chtb_220:1:4w">
+<Feature name="id">chtb_220.eng-R5</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+<Feature name="type_difficultDecision">TRUE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2V" type="relation_mention_argument" start="chtb_220:1:4x" end="chtb_220:1:4y">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E21</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2S</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2W" type="relation_mention_argument" start="chtb_220:1:4z" end="chtb_220:1:50">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E2Q</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2S</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2Y" type="relation" start="chtb_220:1:53" end="chtb_220:1:54">
+<Feature name="id">chtb_220.eng-R6</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+<Feature name="type_difficultDecision">TRUE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2Z" type="relation_mention_argument" start="chtb_220:1:55" end="chtb_220:1:56">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E21</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2X</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2a" type="relation_mention_argument" start="chtb_220:1:57" end="chtb_220:1:58">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1x</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2X</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2b" type="relation_mention_argument" start="chtb_220:1:59" end="chtb_220:1:5A">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E17</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:Ef</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2c" type="relation_mention_argument" start="chtb_220:1:5B" end="chtb_220:1:5C">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:Ef</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2e" type="relation" start="chtb_220:1:5G" end="chtb_220:1:5H">
+<Feature name="id">chtb_220.eng-R7</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2f" type="relation_mention_argument" start="chtb_220:1:5I" end="chtb_220:1:5J">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2d</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2g" type="relation_mention_argument" start="chtb_220:1:5K" end="chtb_220:1:5L">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E19</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2d</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2i" type="relation" start="chtb_220:1:5O" end="chtb_220:1:5P">
+<Feature name="id">chtb_220.eng-R8</Feature>
+<Feature name="subtype">Citizen-or-Resident</Feature>
+<Feature name="type">GPE-AFF</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2j" type="relation_mention_argument" start="chtb_220:1:5Q" end="chtb_220:1:5R">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E1B</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2h</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2k" type="relation_mention_argument" start="chtb_220:1:5S" end="chtb_220:1:5U">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1G</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2h</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2m" type="relation" start="chtb_220:1:5X" end="chtb_220:1:5Y">
+<Feature name="id">chtb_220.eng-R9</Feature>
+<Feature name="subtype">Located</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2n" type="relation_mention_argument" start="chtb_220:1:5Z" end="chtb_220:1:5a">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E1f</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2l</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2o" type="relation_mention_argument" start="chtb_220:1:5b" end="chtb_220:1:5c">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1n</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2l</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2r" type="entity" start="chtb_220:1:5h" end="chtb_220:1:5i">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E2s</Feature>
+<Feature name="id">chtb_220.eng-E12</Feature>
+<Feature name="subtype">Government</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2s" type="composite_entity" start="chtb_220:1:5j" end="chtb_220:1:5k">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">chtb_220.eng-CE11</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2x" type="entity" start="chtb_220:1:5t" end="chtb_220:1:5u">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E2y</Feature>
+<Feature name="id">chtb_220.eng-E13</Feature>
+<Feature name="subtype">Government</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2y" type="composite_entity" start="chtb_220:1:5v" end="chtb_220:1:5w">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE12</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3" type="entity" start="chtb_220:1:5" end="chtb_220:1:6">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E4</Feature>
+<Feature name="id">chtb_220.eng-E14</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E30" type="relation" start="chtb_220:1:5z" end="chtb_220:1:60">
+<Feature name="id">chtb_220.eng-R10</Feature>
+<Feature name="subtype">User-or-Owner</Feature>
+<Feature name="type">ART</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E31" type="relation_mention_argument" start="chtb_220:1:61" end="chtb_220:1:62">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1O</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2z</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E32" type="relation_mention_argument" start="chtb_220:1:63" end="chtb_220:1:64">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E2v</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E2z</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E34" type="relation" start="chtb_220:1:67" end="chtb_220:1:68">
+<Feature name="id">chtb_220.eng-R11</Feature>
+<Feature name="subtype">User-or-Owner</Feature>
+<Feature name="type">ART</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E35" type="relation_mention_argument" start="chtb_220:1:69" end="chtb_220:1:6A">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E1t</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E33</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E36" type="relation_mention_argument" start="chtb_220:1:6B" end="chtb_220:1:6C">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E2p</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E33</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E38" type="relation" start="chtb_220:1:6G" end="chtb_220:1:6H">
+<Feature name="id">chtb_220.eng-R12</Feature>
+<Feature name="subtype">User-or-Owner</Feature>
+<Feature name="type">ART</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E39" type="relation_mention_argument" start="chtb_220:1:6I" end="chtb_220:1:6J">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E21</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E37</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3A" type="relation_mention_argument" start="chtb_220:1:6K" end="chtb_220:1:6L">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E2t</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E37</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3C" type="relation" start="chtb_220:1:6O" end="chtb_220:1:6P">
+<Feature name="id">chtb_220.eng-R13</Feature>
+<Feature name="subtype">Part-Whole</Feature>
+<Feature name="type">PHYS</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3D" type="relation_mention_argument" start="chtb_220:1:6Q" end="chtb_220:1:6R">
+<Feature name="argnum">1</Feature>
+<Feature name="entity_mention">chtb_220:1:E23</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E3B</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3F" type="relation_mention_argument" start="chtb_220:1:6S" end="chtb_220:1:6U">
+<Feature name="argnum">2</Feature>
+<Feature name="entity_mention">chtb_220:1:E2Q</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="relation_mention">chtb_220:1:E3B</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E4" type="composite_entity" start="chtb_220:1:7" end="chtb_220:1:8">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE13</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E7" type="entity" start="chtb_220:1:D" end="chtb_220:1:F">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E8</Feature>
+<Feature name="id">chtb_220.eng-E15</Feature>
+<Feature name="subtype">Population-Center</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E8" type="composite_entity" start="chtb_220:1:G" end="chtb_220:1:H">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE14</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EB" type="entity" start="chtb_220:1:M" end="chtb_220:1:N">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EC</Feature>
+<Feature name="id">chtb_220.eng-E16</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EC" type="composite_entity" start="chtb_220:1:O" end="chtb_220:1:P">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE15</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EG" type="entity" start="chtb_220:1:V" end="chtb_220:1:W">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EC</Feature>
+<Feature name="id">chtb_220.eng-E17</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EK" type="entity" start="chtb_220:1:d" end="chtb_220:1:e">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EL</Feature>
+<Feature name="id">chtb_220.eng-E18</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EL" type="composite_entity" start="chtb_220:1:f" end="chtb_220:1:g">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE16</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EO" type="entity" start="chtb_220:1:l" end="chtb_220:1:m">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EP</Feature>
+<Feature name="id">chtb_220.eng-E19</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EP" type="composite_entity" start="chtb_220:1:n" end="chtb_220:1:o">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE17</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:ES" type="entity" start="chtb_220:1:t" end="chtb_220:1:u">
+<Feature name="class">USP</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EU</Feature>
+<Feature name="id">chtb_220.eng-E20</Feature>
+<Feature name="subtype">Other</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EU" type="composite_entity" start="chtb_220:1:v" end="chtb_220:1:w">
+<Feature name="composite_entity_class">USP</Feature>
+<Feature name="id">chtb_220.eng-CE18</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EX" type="entity" start="chtb_220:1:11" end="chtb_220:1:12">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EY</Feature>
+<Feature name="id">chtb_220.eng-E21</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EY" type="composite_entity" start="chtb_220:1:13" end="chtb_220:1:14">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE19</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ed" type="entity" start="chtb_220:1:1D" end="chtb_220:1:1F">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:Ee</Feature>
+<Feature name="id">chtb_220.eng-E22</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ee" type="composite_entity" start="chtb_220:1:1G" end="chtb_220:1:1H">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE20</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Eg" type="relation" start="chtb_220:1:1K" end="chtb_220:1:1L">
+<Feature name="id">chtb_220.eng-R14</Feature>
+<Feature name="subtype">Family</Feature>
+<Feature name="type">PER-SOC</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Eh" type="entity" start="chtb_220:1:1M" end="chtb_220:1:1N">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:Ei</Feature>
+<Feature name="id">chtb_220.eng-E23</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ei" type="composite_entity" start="chtb_220:1:1O" end="chtb_220:1:1P">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE21</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:En" type="entity" start="chtb_220:1:1Z" end="chtb_220:1:1a">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:EY</Feature>
+<Feature name="id">chtb_220.eng-E24</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Et" type="entity" start="chtb_220:1:1l" end="chtb_220:1:1m">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:Eu</Feature>
+<Feature name="id">chtb_220.eng-E25</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Eu" type="composite_entity" start="chtb_220:1:1n" end="chtb_220:1:1o">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">chtb_220.eng-CE22</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ez" type="entity" start="chtb_220:1:1x" end="chtb_220:1:1y">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">chtb_220:1:E10</Feature>
+<Feature name="id">chtb_220.eng-E26</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1" type="entity_mention" start="chtb_220:1:1" end="chtb_220:1:2">
+<Feature name="entity">chtb_220:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E2</Feature>
+<Feature name="id">14-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Xinhua News Agency</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2" type="entity_mention_head" start="chtb_220:1:3" end="chtb_220:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Xinhua News Agency</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E29" type="relation_mention" start="chtb_220:1:4I" end="chtb_220:1:4J">
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Formulaic</Feature>
+<Feature name="relation">chtb_220:1:E2A</Feature>
+<Feature name="text">Xinhua News Agency, Madrid, August 31st, by reporter Tairan Hu</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2D" type="relation_mention" start="chtb_220:1:4Q" end="chtb_220:1:4R">
+<Feature name="id">2-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Formulaic</Feature>
+<Feature name="relation">chtb_220:1:E2F</Feature>
+<Feature name="text">Xinhua News Agency, Madrid, August 31st, by reporter Tairan Hu</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E5" type="entity_mention" start="chtb_220:1:9" end="chtb_220:1:A">
+<Feature name="entity">chtb_220:1:E7</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E6</Feature>
+<Feature name="id">15-29</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Madrid</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E6" type="entity_mention_head" start="chtb_220:1:B" end="chtb_220:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Madrid</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:ED" type="entity_mention" start="chtb_220:1:Q" end="chtb_220:1:R">
+<Feature name="entity">chtb_220:1:EG</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:EF</Feature>
+<Feature name="id">17-31</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">reporter</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EF" type="entity_mention_head" start="chtb_220:1:S" end="chtb_220:1:U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">reporter</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E9" type="entity_mention" start="chtb_220:1:I" end="chtb_220:1:J">
+<Feature name="entity">chtb_220:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:EA</Feature>
+<Feature name="id">16-30</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">reporter Tairan Hu</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EA" type="entity_mention_head" start="chtb_220:1:K" end="chtb_220:1:L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Tairan Hu</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EI" type="entity_mention" start="chtb_220:1:Z" end="chtb_220:1:a">
+<Feature name="entity">chtb_220:1:EK</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:EJ</Feature>
+<Feature name="id">18-32</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">A Spanish left-wing group</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EM" type="entity_mention" start="chtb_220:1:h" end="chtb_220:1:i">
+<Feature name="entity">chtb_220:1:EO</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:EN</Feature>
+<Feature name="id">19-33</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Spanish</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EN" type="entity_mention_head" start="chtb_220:1:j" end="chtb_220:1:k">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Spanish</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EJ" type="entity_mention_head" start="chtb_220:1:b" end="chtb_220:1:c">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">group</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EQ" type="entity_mention" start="chtb_220:1:p" end="chtb_220:1:q">
+<Feature name="entity">chtb_220:1:ES</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:ER</Feature>
+<Feature name="id">20-34</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">36 other mass organizations</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:ER" type="entity_mention_head" start="chtb_220:1:r" end="chtb_220:1:s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">organizations</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EV" type="entity_mention" start="chtb_220:1:x" end="chtb_220:1:y">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:EW</Feature>
+<Feature name="id">21-35</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EW" type="entity_mention_head" start="chtb_220:1:z" end="chtb_220:1:10">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:EZ" type="entity_mention" start="chtb_220:1:15" end="chtb_220:1:16">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Ea</Feature>
+<Feature name="id">21-36</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">its</Feature>
+<Feature name="type">PRO</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ea" type="entity_mention_head" start="chtb_220:1:17" end="chtb_220:1:18">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">its</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Eb" type="entity_mention" start="chtb_220:1:19" end="chtb_220:1:1A">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Ec</Feature>
+<Feature name="id">22-37</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ec" type="entity_mention_head" start="chtb_220:1:1B" end="chtb_220:1:1C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ej" type="entity_mention" start="chtb_220:1:1Q" end="chtb_220:1:1R">
+<Feature name="entity">chtb_220:1:Eh</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Ek</Feature>
+<Feature name="id">23-38</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the US government</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:El" type="entity_mention" start="chtb_220:1:1V" end="chtb_220:1:1W">
+<Feature name="entity">chtb_220:1:En</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Em</Feature>
+<Feature name="id">24-39</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">US</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Em" type="entity_mention_head" start="chtb_220:1:1X" end="chtb_220:1:1Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ek" type="entity_mention_head" start="chtb_220:1:1S" end="chtb_220:1:1U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">government</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ep" type="entity_mention" start="chtb_220:1:1d" end="chtb_220:1:1e">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Eq</Feature>
+<Feature name="id">22-40</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Eq" type="entity_mention_head" start="chtb_220:1:1f" end="chtb_220:1:1g">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2I" type="relation_mention" start="chtb_220:1:4Z" end="chtb_220:1:4a">
+<Feature name="id">3-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_220:1:E2J</Feature>
+<Feature name="text">Cuba) so as to further aggravate opposition among the people</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Er" type="entity_mention" start="chtb_220:1:1h" end="chtb_220:1:1i">
+<Feature name="entity">chtb_220:1:Et</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Es</Feature>
+<Feature name="id">25-41</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">PER</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the people</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Es" type="entity_mention_head" start="chtb_220:1:1j" end="chtb_220:1:1k">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">people</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ev" type="entity_mention" start="chtb_220:1:1p" end="chtb_220:1:1q">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Ew</Feature>
+<Feature name="id">22-42</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">this island</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ew" type="entity_mention_head" start="chtb_220:1:1r" end="chtb_220:1:1s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">island</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2M" type="relation_mention" start="chtb_220:1:4h" end="chtb_220:1:4i">
+<Feature name="id">4-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_220:1:E2N</Feature>
+<Feature name="text">overseas Cubans
+residing in America</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ex" type="entity_mention" start="chtb_220:1:1t" end="chtb_220:1:1u">
+<Feature name="entity">chtb_220:1:Ez</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:Ey</Feature>
+<Feature name="id">26-43</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">overseas Cubans
+residing in America</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ey" type="entity_mention_head" start="chtb_220:1:1v" end="chtb_220:1:1w">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cubans</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E11" type="entity_mention" start="chtb_220:1:21" end="chtb_220:1:22">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E12</Feature>
+<Feature name="id">21-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">America</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E12" type="entity_mention_head" start="chtb_220:1:23" end="chtb_220:1:24">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">America</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E17" type="entity_mention" start="chtb_220:1:2D" end="chtb_220:1:2F">
+<Feature name="entity">chtb_220:1:Ez</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E18</Feature>
+<Feature name="id">26-4</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">their</Feature>
+<Feature name="type">PRO</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E18" type="entity_mention_head" start="chtb_220:1:2G" end="chtb_220:1:2H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">their</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E13" type="entity_mention" start="chtb_220:1:25" end="chtb_220:1:26">
+<Feature name="entity">chtb_220:1:E15</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E14</Feature>
+<Feature name="id">1-3</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">their families in Cuba</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2d" type="relation_mention" start="chtb_220:1:5D" end="chtb_220:1:5F">
+<Feature name="id">7-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_220:1:E2e</Feature>
+<Feature name="text">their families in Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:Ef" type="relation_mention" start="chtb_220:1:1I" end="chtb_220:1:1J">
+<Feature name="id">14-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Possessive</Feature>
+<Feature name="relation">chtb_220:1:Eg</Feature>
+<Feature name="text">their families in Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E14" type="entity_mention_head" start="chtb_220:1:27" end="chtb_220:1:28">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">families</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E19" type="entity_mention" start="chtb_220:1:2I" end="chtb_220:1:2J">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1A</Feature>
+<Feature name="id">22-5</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1A" type="entity_mention_head" start="chtb_220:1:2K" end="chtb_220:1:2L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1G" type="entity_mention" start="chtb_220:1:2V" end="chtb_220:1:2W">
+<Feature name="entity">chtb_220:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1H</Feature>
+<Feature name="id">3-7</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuban</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1H" type="entity_mention_head" start="chtb_220:1:2X" end="chtb_220:1:2Y">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuban</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1B" type="entity_mention" start="chtb_220:1:2M" end="chtb_220:1:2N">
+<Feature name="entity">chtb_220:1:E1D</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1C</Feature>
+<Feature name="id">2-6</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuban stowaways detained on the
+high seas</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2h" type="relation_mention" start="chtb_220:1:5M" end="chtb_220:1:5N">
+<Feature name="id">8-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_220:1:E2i</Feature>
+<Feature name="text">Cuban stowaways detained on the
+high seas</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1C" type="entity_mention_head" start="chtb_220:1:2O" end="chtb_220:1:2P">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">stowaways</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1K" type="entity_mention" start="chtb_220:1:2d" end="chtb_220:1:2e">
+<Feature name="entity">chtb_220:1:E1M</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1L</Feature>
+<Feature name="id">4-8</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the
+high seas</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1L" type="entity_mention_head" start="chtb_220:1:2f" end="chtb_220:1:2g">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">seas</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1O" type="entity_mention" start="chtb_220:1:2l" end="chtb_220:1:2m">
+<Feature name="entity">chtb_220:1:E1Q</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1P</Feature>
+<Feature name="id">5-9</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Guantanamo naval base</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2z" type="relation_mention" start="chtb_220:1:5x" end="chtb_220:1:5y">
+<Feature name="id">10-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_220:1:E30</Feature>
+<Feature name="text">the Guantanamo naval base</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1S" type="entity_mention" start="chtb_220:1:2t" end="chtb_220:1:2u">
+<Feature name="entity">chtb_220:1:E1V</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1U</Feature>
+<Feature name="id">6-10</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Guantanamo</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1U" type="entity_mention_head" start="chtb_220:1:2v" end="chtb_220:1:2w">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Guantanamo</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2v" type="entity_mention" start="chtb_220:1:5p" end="chtb_220:1:5q">
+<Feature name="entity">chtb_220:1:E2x</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E2w</Feature>
+<Feature name="id">13-28</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">naval</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2w" type="entity_mention_head" start="chtb_220:1:5r" end="chtb_220:1:5s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">naval</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1P" type="entity_mention_head" start="chtb_220:1:2n" end="chtb_220:1:2o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">base</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1X" type="entity_mention" start="chtb_220:1:31" end="chtb_220:1:32">
+<Feature name="entity">chtb_220:1:E1Z</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1Y</Feature>
+<Feature name="id">7-11</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Cuban government</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1b" type="entity_mention" start="chtb_220:1:39" end="chtb_220:1:3A">
+<Feature name="entity">chtb_220:1:E1I</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1c</Feature>
+<Feature name="id">3-12</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuban</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1c" type="entity_mention_head" start="chtb_220:1:3B" end="chtb_220:1:3C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuban</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1Y" type="entity_mention_head" start="chtb_220:1:33" end="chtb_220:1:34">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">government</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1d" type="entity_mention" start="chtb_220:1:3D" end="chtb_220:1:3F">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1e</Feature>
+<Feature name="id">22-13</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1e" type="entity_mention_head" start="chtb_220:1:3G" end="chtb_220:1:3H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1j" type="entity_mention" start="chtb_220:1:3Q" end="chtb_220:1:3R">
+<Feature name="entity">chtb_220:1:E1l</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1k</Feature>
+<Feature name="id">9-15</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">refugee</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1k" type="entity_mention_head" start="chtb_220:1:3S" end="chtb_220:1:3U">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">refugee</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1f" type="entity_mention" start="chtb_220:1:3I" end="chtb_220:1:3J">
+<Feature name="entity">chtb_220:1:E1h</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1g</Feature>
+<Feature name="id">8-14</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">refugee
+camps</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2l" type="relation_mention" start="chtb_220:1:5V" end="chtb_220:1:5W">
+<Feature name="id">9-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_220:1:E2m</Feature>
+<Feature name="text">refugee
+camps&quot; at Guantanamo</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1g" type="entity_mention_head" start="chtb_220:1:3K" end="chtb_220:1:3L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">camps</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1n" type="entity_mention" start="chtb_220:1:3Z" end="chtb_220:1:3a">
+<Feature name="entity">chtb_220:1:E1p</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1o</Feature>
+<Feature name="id">10-16</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Guantanamo</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1o" type="entity_mention_head" start="chtb_220:1:3b" end="chtb_220:1:3c">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Guantanamo</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1r" type="entity_mention" start="chtb_220:1:3h" end="chtb_220:1:3i">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1s</Feature>
+<Feature name="id">21-17</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1s" type="entity_mention_head" start="chtb_220:1:3j" end="chtb_220:1:3k">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2p" type="entity_mention" start="chtb_220:1:5d" end="chtb_220:1:5e">
+<Feature name="entity">chtb_220:1:E2r</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E2q</Feature>
+<Feature name="id">12-26</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">military</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2q" type="entity_mention_head" start="chtb_220:1:5f" end="chtb_220:1:5g">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">military</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1t" type="entity_mention" start="chtb_220:1:3l" end="chtb_220:1:3m">
+<Feature name="entity">chtb_220:1:E1v</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1u</Feature>
+<Feature name="id">11-18</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">military bases</Feature>
+<Feature name="type">BAR</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E33" type="relation_mention" start="chtb_220:1:65" end="chtb_220:1:66">
+<Feature name="id">11-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_220:1:E34</Feature>
+<Feature name="text">military bases</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1u" type="entity_mention_head" start="chtb_220:1:3n" end="chtb_220:1:3o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">bases</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1x" type="entity_mention" start="chtb_220:1:3t" end="chtb_220:1:3u">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E1y</Feature>
+<Feature name="id">21-19</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2X" type="relation_mention" start="chtb_220:1:51" end="chtb_220:1:52">
+<Feature name="id">6-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Verbal</Feature>
+<Feature name="relation">chtb_220:1:E2Y</Feature>
+<Feature name="text">the US respect the territorial integrity
+of Cuba, return the Guantanamo military base</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1y" type="entity_mention_head" start="chtb_220:1:3v" end="chtb_220:1:3w">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E1z" type="entity_mention" start="chtb_220:1:3x" end="chtb_220:1:3y">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E20</Feature>
+<Feature name="id">22-20</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E20" type="entity_mention_head" start="chtb_220:1:3z" end="chtb_220:1:40">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E21" type="entity_mention" start="chtb_220:1:41" end="chtb_220:1:42">
+<Feature name="entity">chtb_220:1:E1Q</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E22</Feature>
+<Feature name="id">5-21</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the Guantanamo military base</Feature>
+<Feature name="type">NOM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E37" type="relation_mention" start="chtb_220:1:6D" end="chtb_220:1:6F">
+<Feature name="id">12-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">PreMod</Feature>
+<Feature name="relation">chtb_220:1:E38</Feature>
+<Feature name="text">the Guantanamo military base</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2S" type="relation_mention" start="chtb_220:1:4t" end="chtb_220:1:4u">
+<Feature name="id">5-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_220:1:E2U</Feature>
+<Feature name="text">the Guantanamo military base to Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E3B" type="relation_mention" start="chtb_220:1:6M" end="chtb_220:1:6N">
+<Feature name="id">13-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="lexicalcondition">Preposition</Feature>
+<Feature name="relation">chtb_220:1:E3C</Feature>
+<Feature name="text">the Guantanamo military base to Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E23" type="entity_mention" start="chtb_220:1:45" end="chtb_220:1:46">
+<Feature name="entity">chtb_220:1:E1V</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E24</Feature>
+<Feature name="id">6-22</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">GPE</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Guantanamo</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E24" type="entity_mention_head" start="chtb_220:1:47" end="chtb_220:1:48">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Guantanamo</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2t" type="entity_mention" start="chtb_220:1:5l" end="chtb_220:1:5m">
+<Feature name="entity">chtb_220:1:E2r</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E2u</Feature>
+<Feature name="id">12-27</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">military</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2u" type="entity_mention_head" start="chtb_220:1:5n" end="chtb_220:1:5o">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">military</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E22" type="entity_mention_head" start="chtb_220:1:43" end="chtb_220:1:44">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">base</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2Q" type="entity_mention" start="chtb_220:1:4p" end="chtb_220:1:4q">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E2R</Feature>
+<Feature name="id">22-25</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E2R" type="entity_mention_head" start="chtb_220:1:4r" end="chtb_220:1:4s">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E25" type="entity_mention" start="chtb_220:1:49" end="chtb_220:1:4A">
+<Feature name="entity">chtb_220:1:Ed</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E26</Feature>
+<Feature name="id">22-23</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">Cuba</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E26" type="entity_mention_head" start="chtb_220:1:4B" end="chtb_220:1:4C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">Cuba</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E27" type="entity_mention" start="chtb_220:1:4D" end="chtb_220:1:4F">
+<Feature name="entity">chtb_220:1:EX</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">chtb_220:1:E28</Feature>
+<Feature name="id">21-24</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">ORG</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the US</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="chtb_220:1:E28" type="entity_mention_head" start="chtb_220:1:4G" end="chtb_220:1:4H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">US</Feature>
+</Annotation>
+</AG>
+</AGSet>

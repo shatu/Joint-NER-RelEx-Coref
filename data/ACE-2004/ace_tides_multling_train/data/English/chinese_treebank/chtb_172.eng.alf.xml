@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_172.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_172.eng">
+<composite_entity ID="chtb_172.eng-CE1">
+  <entity ID="chtb_172.eng-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="420" END="434">Russia's troops</charseq>
+      </extent>
+      <head>
+        <charseq START="429" END="434">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-12" TYPE="BAR">
+      <extent>
+        <charseq START="397" END="402">troops</charseq>
+      </extent>
+      <head>
+        <charseq START="397" END="402">troops</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-16" TYPE="NOM">
+      <extent>
+        <charseq START="483" END="528">about 50,000 Soviet troops stationed in Poland</charseq>
+      </extent>
+      <head>
+        <charseq START="503" END="508">troops</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE2">
+  <entity ID="chtb_172.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="92" END="107">The Soviet Union</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="107">Soviet Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="368" END="383">the Soviet
+Union</charseq>
+      </extent>
+      <head>
+        <charseq START="372" END="383">Soviet
+Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="96" END="107">Soviet Union</charseq>
+      </name>
+      <name>
+        <charseq START="372" END="383">Soviet
+Union</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_172.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="130" END="135">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="135">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-7" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="284" END="289">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="284" END="289">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-9" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="306" END="311">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="311">Soviet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-17" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="496" END="501">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="501">Soviet</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE3">
+  <entity ID="chtb_172.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="BAR">
+      <extent>
+        <charseq START="130" END="162">Soviet troops stationed in
+Poland</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="142">troops</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE4">
+  <entity ID="chtb_172.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="157" END="162">Poland</charseq>
+      </extent>
+      <head>
+        <charseq START="157" END="162">Poland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-13" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="409" END="414">Poland</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="414">Poland</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="523" END="528">Poland</charseq>
+      </extent>
+      <head>
+        <charseq START="523" END="528">Poland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="409" END="414">Poland</charseq>
+      </name>
+      <name>
+        <charseq START="523" END="528">Poland</charseq>
+      </name>
+      <name>
+        <charseq START="157" END="162">Poland</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_172.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="7-8" TYPE="PRE" ROLE="LOC">
+      <extent>
+        <charseq START="299" END="304">Polish</charseq>
+      </extent>
+      <head>
+        <charseq START="299" END="304">Polish</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE5">
+  <entity ID="chtb_172.eng-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NOM">
+      <extent>
+        <charseq START="284" END="294">Soviet side</charseq>
+      </extent>
+      <head>
+        <charseq START="291" END="294">side</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE6">
+  <entity ID="chtb_172.eng-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-10" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="340" END="345">Warsaw</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="345">Warsaw</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="340" END="345">Warsaw</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE7">
+  <entity ID="chtb_172.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="420" END="425">Russia</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="425">Russia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="420" END="425">Russia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_172.eng-CE8">
+  <entity ID="chtb_172.eng-E10" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NOM">
+      <extent>
+        <charseq START="449" END="458">the border</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="458">border</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_172.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="130" END="162">Soviet troops stationed in
+Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="130" END="162">Soviet troops stationed in
+Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="157" END="162">Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="284" END="294">Soviet side</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="284" END="294">Soviet side</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E4" ENTITYMENTIONID="4-7" ARGNUM="2">
+      <extent>
+        <charseq START="284" END="289">Soviet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="483" END="528">about 50,000 Soviet troops stationed in Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E1" ENTITYMENTIONID="1-16" ARGNUM="1">
+      <extent>
+        <charseq START="483" END="528">about 50,000 Soviet troops stationed in Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E4" ENTITYMENTIONID="4-17" ARGNUM="2">
+      <extent>
+        <charseq START="496" END="501">Soviet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="483" END="528">about 50,000 Soviet troops stationed in Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E1" ENTITYMENTIONID="1-16" ARGNUM="1">
+      <extent>
+        <charseq START="483" END="528">about 50,000 Soviet troops stationed in Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E5" ENTITYMENTIONID="5-18" ARGNUM="2">
+      <extent>
+        <charseq START="523" END="528">Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="4-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="368" END="414">the Soviet
+Union withdrawing troops from Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E1" ENTITYMENTIONID="1-12" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="402">troops</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E5" ENTITYMENTIONID="5-13" ARGNUM="2">
+      <extent>
+        <charseq START="409" END="414">Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="368" END="414">the Soviet
+Union withdrawing troops from Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E1" ENTITYMENTIONID="1-12" ARGNUM="1">
+      <extent>
+        <charseq START="397" END="402">troops</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E2" ENTITYMENTIONID="2-11" ARGNUM="2">
+      <extent>
+        <charseq START="368" END="383">the Soviet
+Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="420" END="434">Russia's troops</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E1" ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="420" END="434">Russia's troops</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E9" ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="420" END="425">Russia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_172.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="130" END="162">Soviet troops stationed in
+Poland</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="130" END="135">Soviet</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_172.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="130" END="162">Soviet troops stationed in
+Poland</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

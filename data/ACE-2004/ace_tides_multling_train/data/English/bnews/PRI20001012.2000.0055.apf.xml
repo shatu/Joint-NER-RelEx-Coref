@@ -1,0 +1,921 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001012.2000.0055.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001012.2000.0055">
+<entity ID="PRI20001012.2000.0055-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="399" END="430">the Palestinian town of Ramallah</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="418">town</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="423" END="430">Ramallah</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="430">Ramallah</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="423" END="430">Ramallah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="403" END="413">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="413">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="457" END="467">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="467">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-18" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="715" END="730">the
+Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="730">Palestinians</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-27" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="951" END="966">the Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="955" END="966">Palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-9" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="457" END="474">Palestinian police</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="474">police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="511" END="547">a mob that
+stormed the police station</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="515">mob</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-11" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="517" END="520">that</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="520">that</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E5" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="530" END="547">the police station</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="547">station</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="604" END="608">Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="608">Egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-15" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="652" END="653">it</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="653">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-25" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="841" END="845">Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="845">Egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-26" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="877" END="878">it</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="878">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-28" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="971" END="972">We</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="972">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-29" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1009" END="1010">We</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1010">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-37" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1379" END="1383">Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="1379" END="1383">Egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-42" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1523" END="1527">Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="1523" END="1527">Egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="604" END="608">Egypt</charseq>
+    </name>
+    <name>
+      <charseq START="841" END="845">Egypt</charseq>
+    </name>
+    <name>
+      <charseq START="1379" END="1383">Egypt</charseq>
+    </name>
+    <name>
+      <charseq START="1523" END="1527">Egypt</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-16" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="675" END="691">other Arab states</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="691">states</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-17" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="681" END="684">Arab</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="684">Arab</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-33" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1288" END="1298">the parties</charseq>
+    </extent>
+    <head>
+      <charseq START="1292" END="1298">parties</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-34" TYPE="PRO" LDCTYPE="HLS" ROLE="ORG">
+    <extent>
+      <charseq START="1349" END="1352">both</charseq>
+    </extent>
+    <head>
+      <charseq START="1349" END="1352">both</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-35" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1360" END="1363">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1360" END="1363">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-40" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1452" END="1462">the parties</charseq>
+    </extent>
+    <head>
+      <charseq START="1456" END="1462">parties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="773" END="783">Dale Gavlak</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="783">Dale Gavlak</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1588" END="1588">I</charseq>
+    </extent>
+    <head>
+      <charseq START="1588" END="1588">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1593" END="1603">Dale Gavlak</charseq>
+    </extent>
+    <head>
+      <charseq START="1593" END="1603">Dale Gavlak</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="773" END="783">Dale Gavlak</charseq>
+    </name>
+    <name>
+      <charseq START="1593" END="1603">Dale Gavlak</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="798" END="802">Cairo</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="802">Cairo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1608" END="1612">Cairo</charseq>
+    </extent>
+    <head>
+      <charseq START="1608" END="1612">Cairo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="798" END="802">Cairo</charseq>
+    </name>
+    <name>
+      <charseq START="1608" END="1612">Cairo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="807" END="834">Foreign minister Amre Moussa</charseq>
+    </extent>
+    <head>
+      <charseq START="824" END="834">Amre Moussa</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-24" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="807" END="822">Foreign minister</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="822">minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1368" END="1372">Mussa</charseq>
+    </extent>
+    <head>
+      <charseq START="1368" END="1372">Mussa</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="824" END="834">Amre Moussa</charseq>
+    </name>
+    <name>
+      <charseq START="1368" END="1372">Mussa</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E15" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="15-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1133" END="1142">the region</charseq>
+    </extent>
+    <head>
+      <charseq START="1137" END="1142">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1176" END="1190">the Middle East</charseq>
+    </extent>
+    <head>
+      <charseq START="1180" END="1190">Middle East</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1180" END="1190">Middle East</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1233" END="1235">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1233" END="1235">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1410" END="1426">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1426">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-39" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1410" END="1418">President</charseq>
+    </extent>
+    <head>
+      <charseq START="1410" END="1418">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1509" END="1510">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1509" END="1510">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1420" END="1426">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E18" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="18-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="91">NPR News in Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="77">NPR News</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1579" END="1586">NPR News</charseq>
+    </extent>
+    <head>
+      <charseq START="1579" END="1586">NPR News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1579" END="1586">NPR News</charseq>
+    </name>
+    <name>
+      <charseq START="70" END="77">NPR News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="82" END="91">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="91">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="82" END="91">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="94" END="94">I</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="94">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="99" END="112">Corey Flintoff</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="112">Corey Flintoff</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="99" END="112">Corey Flintoff</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E23" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="23-50" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="115" END="138">Israeli army
+helicopters</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="138">helicopters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="24-51" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="115" END="126">Israeli army</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="126">army</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="25-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="351" END="357">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="357">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-14" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="620" END="625">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="625">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-20" TYPE="NOM" LDCTYPE="BAR" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="736" END="743">Israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="743">Israelis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-52" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="115" END="121">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="121">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-59" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="274" END="279">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="279">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="620" END="625">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="274" END="279">Israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E26" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="149" END="181">targets in the West Bank and Gaza</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="155">targets</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E27" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="27-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="178" END="181">Gaza</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="181">Gaza</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="178" END="181">Gaza</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E28" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="28-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="160" END="172">the West Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="172">West Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="164" END="172">West Bank</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E29" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="29-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="207" END="234">Yasser Arafat's headquarters</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="234">headquarters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="207" END="219">Yasser Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="219">Yasser Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="207" END="219">Yasser Arafat</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001012.2000.0055-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="249" END="271">at least
+a dozen people</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="271">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001012.2000.0055-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-3" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="369" END="371">who</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="371">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="433" END="436">They</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="436">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="430">at least two Israeli reservers who apparently became
+lost in the Palestinian town of Ramallah</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="367">reservers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="PRI20001012.2000.0055-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E18" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1575" END="1612">For NPR News I am Dale Gavlak in Cairo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-44" ARGNUM="1">
+      <extent>
+        <charseq START="1588" END="1588">I</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-43" ARGNUM="2">
+      <extent>
+        <charseq START="1579" END="1586">NPR News</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E20" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="70" END="91">NPR News in Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="91">NPR News in Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-47" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="91">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E25" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="115" END="126">Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-51" ARGNUM="1">
+      <extent>
+        <charseq START="115" END="126">Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-52" ARGNUM="2">
+      <extent>
+        <charseq START="115" END="121">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E23" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="115" END="138">Israeli army
+helicopters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-51" ARGNUM="1">
+      <extent>
+        <charseq START="115" END="126">Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-50" ARGNUM="2">
+      <extent>
+        <charseq START="115" END="138">Israeli army
+helicopters</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E28" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="149" END="181">targets in the West Bank and Gaza</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="181">targets in the West Bank and Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-55" ARGNUM="2">
+      <extent>
+        <charseq START="160" END="172">the West Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E27" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="149" END="181">targets in the West Bank and Gaza</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="181">targets in the West Bank and Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-54" ARGNUM="2">
+      <extent>
+        <charseq START="178" END="181">Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R7" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E29" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="207" END="234">Yasser Arafat's headquarters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-57" ARGNUM="1">
+      <extent>
+        <charseq START="207" END="219">Yasser Arafat</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-56" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="234">Yasser Arafat's headquarters</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E25" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="338" END="430">at least two Israeli reservers who apparently became
+lost in the Palestinian town of Ramallah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-60" ARGNUM="1">
+      <extent>
+        <charseq START="338" END="430">at least two Israeli reservers who apparently became
+lost in the Palestinian town of Ramallah</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-2" ARGNUM="2">
+      <extent>
+        <charseq START="351" END="357">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E1" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="338" END="430">at least two Israeli reservers who apparently became
+lost in the Palestinian town of Ramallah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-3" ARGNUM="1">
+      <extent>
+        <charseq START="369" END="371">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-4" ARGNUM="2">
+      <extent>
+        <charseq START="399" END="430">the Palestinian town of Ramallah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E2" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="399" END="430">the Palestinian town of Ramallah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-4" ARGNUM="1">
+      <extent>
+        <charseq START="399" END="430">the Palestinian town of Ramallah</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="2">
+      <extent>
+        <charseq START="403" END="413">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R11" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E2" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="457" END="474">Palestinian police</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-9" ARGNUM="1">
+      <extent>
+        <charseq START="457" END="474">Palestinian police</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-8" ARGNUM="2">
+      <extent>
+        <charseq START="457" END="467">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E5" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="511" END="547">a mob that
+stormed the police station</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-11" ARGNUM="1">
+      <extent>
+        <charseq START="517" END="520">that</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="2">
+      <extent>
+        <charseq START="530" END="547">the police station</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R13" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E8" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="675" END="691">other Arab states</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-16" ARGNUM="1">
+      <extent>
+        <charseq START="675" END="691">other Arab states</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="2">
+      <extent>
+        <charseq START="681" END="684">Arab</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001012.2000.0055-R14" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001012.2000.0055-E12" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="773" END="802">Dale Gavlak
+reports from Cairo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-21" ARGNUM="1">
+      <extent>
+        <charseq START="773" END="783">Dale Gavlak</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-22" ARGNUM="2">
+      <extent>
+        <charseq START="798" END="802">Cairo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="14-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1593" END="1612">Dale Gavlak in Cairo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-45" ARGNUM="1">
+      <extent>
+        <charseq START="1593" END="1603">Dale Gavlak</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-46" ARGNUM="2">
+      <extent>
+        <charseq START="1608" END="1612">Cairo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

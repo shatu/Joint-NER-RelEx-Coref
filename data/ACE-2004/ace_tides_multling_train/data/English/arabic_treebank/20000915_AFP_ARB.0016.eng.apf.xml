@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000915_AFP_ARB.0016.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000915_AFP_ARB.0016.eng">
+<entity ID="20000915_AFP_ARB.0016.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="139" END="148">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="148">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="139" END="148">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="156" END="158">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="158">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="156" END="158">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1231" END="1232">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1231" END="1232">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="164" END="194">American President Bill Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="194">Bill Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="181">American President</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="181">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="233" END="234">he</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="234">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="344" END="350">Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="350">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="479" END="480">he</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="480">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="538" END="539">He</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="539">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="789" END="810">The American President</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="810">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="817" END="818">he</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="818">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="875" END="876">he</charseq>
+    </extent>
+    <head>
+      <charseq START="875" END="876">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="979" END="985">Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="985">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="183" END="194">Bill Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="344" END="350">Clinton</charseq>
+    </name>
+    <name>
+      <charseq START="979" END="985">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="164" END="171">American</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="171">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-15" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="793" END="800">American</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="800">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-18" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="956" END="963">American</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="963">American</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="201" END="211">journalists</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="211">journalists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="394">a journalist</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="394">journalist</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E8" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="567" END="615">the Organization of Petroleum Exporting
+Countries</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="615">Organization of Petroleum Exporting
+Countries</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="571" END="615">Organization of Petroleum Exporting
+Countries</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E9" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="9-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="956" END="973">American consumers</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="973">consumers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0016.eng-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="993" END="1000">Congress</charseq>
+    </extent>
+    <head>
+      <charseq START="993" END="1000">Congress</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="993" END="1000">Congress</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000915_AFP_ARB.0016.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0016.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0016.eng-E5" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="164" END="181">American President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="181">American President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="164" END="171">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="789" END="810">The American President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-14" ARGNUM="1">
+      <extent>
+        <charseq START="789" END="810">The American President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-15" ARGNUM="2">
+      <extent>
+        <charseq START="793" END="800">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0016.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0016.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0016.eng-E5" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="956" END="973">American consumers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="1">
+      <extent>
+        <charseq START="956" END="973">American consumers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-18" ARGNUM="2">
+      <extent>
+        <charseq START="956" END="963">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

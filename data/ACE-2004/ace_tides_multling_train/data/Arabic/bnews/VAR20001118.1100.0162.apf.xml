@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VAR20001118.1100.0162.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001118.1100.0162">
+<entity ID="VAR20001118.1100.0162-E1" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="399" END="439">الأمريكيين الناخبين خارج الولايات
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="408">الأمريكيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E2" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="2-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="416" END="417">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="417">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="424" END="439">الولايات
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="439">الولايات
+المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1031" END="1046">للولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1046">للولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="424" END="439">الولايات
+المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E4" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="4-4" TYPE="PRO" LDCTYPE="PTV" ROLE="LOC">
+    <extent>
+      <charseq START="515" END="572">بعض المقاطعات ذات
+الكثافة السكانية المرتفعة لولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="517">بعض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-29" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="529" END="531">ذات</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="531">ذات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E5" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="519" END="572">المقاطعات ذات
+الكثافة السكانية المرتفعة لولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="527">المقاطعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="661" END="674">مسئولي
+الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="666">مسئولي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="704" END="711">الناخبين</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="711">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="772" END="777">كاترين</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="777">كاترين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="787" END="818">كاترين هارس الأمين
+العام للولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="787" END="797">كاترين هارس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="799" END="818">الأمين
+العام للولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="804">الأمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="772" END="777">كاترين</charseq>
+    </name>
+    <name>
+      <charseq START="787" END="797">كاترين هارس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="897" END="917">مسئولي حملة
+السيد جور</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="902">مسئولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="175" END="175">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="175">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="183" END="216">مسئولو الحملة
+الانتخابية للسيد جور</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="188">مسئولو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="934" END="934">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="934">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="939" END="984">الفائز
+بأصوات الكلية الانتخابية لولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="944">الفائز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1017" END="1046">الرئيس الجديد للولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1017" END="1022">الرئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="80" END="102">الناخبين بولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="87">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="13-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="559" END="572">لولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="572">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-8" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="668" END="674">الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="674">الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-16" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="812" END="818">للولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="818">للولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="971" END="984">لولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="984">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="89" END="102">بولاية
+فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="102">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-36" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="146" END="152">للولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="152">للولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="978" END="984">فلوريدا</charseq>
+    </name>
+    <name>
+      <charseq START="96" END="102">فلوريدا</charseq>
+    </name>
+    <name>
+      <charseq START="566" END="572">فلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="121" END="152">المحكمة
+الدستورية العليا للولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="144">المحكمة
+الدستورية العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="588" END="588">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="588">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="752" END="752">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="752">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="754" END="760">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="760">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="782" END="782">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="782" END="782">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="867" END="867">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="867">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="594" END="610">المحكمة
+الدستورية</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="610">المحكمة
+الدستورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="873" END="879">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="873" END="879">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="115" END="115">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="115">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="594" END="610">المحكمة
+الدستورية</charseq>
+    </name>
+    <name>
+      <charseq START="121" END="144">المحكمة
+الدستورية العليا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-39" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="208" END="216">للسيد جور</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="216">جور</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E17" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+  <entity_mention ID="17-25" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="365" END="365">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="365">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-40" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="236" END="244">المقاطعات</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="244">المقاطعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-48" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="370" END="378">المقاطعات</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="378">المقاطعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-41" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="323">المرشح الجمهوري جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="305">المرشح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="316" END="323">جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="323">جورج بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="334" END="334">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="334">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="316" END="323">جورج بوش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-42" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="307" END="314">الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="314">الجمهوري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0162-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="909" END="917">السيد جور</charseq>
+    </extent>
+    <head>
+      <charseq START="915" END="917">جور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="329" END="352">منافسه
+الديمقراطي آل جور</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="333">منافس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="347" END="352">آل جور</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="352">آل جور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="915" END="917">جور</charseq>
+    </name>
+    <name>
+      <charseq START="347" END="352">آل جور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0162-E22" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="22-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="488" END="499">الديمقراطيون</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="499">الديمقراطيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="486" END="486">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="486">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-46" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="336" END="345">الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="345">الديمقراطي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VAR20001118.1100.0162-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E13" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="80" END="102">الناخبين بولاية
+فلوريدا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-33" ARGNUM="1">
+      <extent>
+        <charseq START="80" END="102">الناخبين بولاية
+فلوريدا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-34" ARGNUM="2">
+      <extent>
+        <charseq START="89" END="102">بولاية
+فلوريدا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="399" END="439">الأمريكيين الناخبين خارج الولايات
+المتحدة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="399" END="439">الأمريكيين الناخبين خارج الولايات
+المتحدة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="424" END="439">الولايات
+المتحدة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E5" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="515" END="571">بعض المقاطعات ذات
+الكثافة السكانية المرتفعة لولاية
+فلوريد</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="515" END="572">بعض المقاطعات ذات
+الكثافة السكانية المرتفعة لولاية
+فلوريدا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="519" END="572">المقاطعات ذات
+الكثافة السكانية المرتفعة لولاية
+فلوريدا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1017" END="1046">الرئيس الجديد للولايات المتحدة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-23" ARGNUM="1">
+      <extent>
+        <charseq START="1017" END="1046">الرئيس الجديد للولايات المتحدة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-24" ARGNUM="2">
+      <extent>
+        <charseq START="1031" END="1046">للولايات المتحدة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E13" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="121" END="152">المحكمة
+الدستورية العليا للولاية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="121" END="152">المحكمة
+الدستورية العليا للولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-36" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="152">للولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R6" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E19" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="300" END="323">المرشح الجمهوري جورج بوش</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-41" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="323">المرشح الجمهوري جورج بوش</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-42" ARGNUM="2">
+      <extent>
+        <charseq START="307" END="314">الجمهوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R7" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E18" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="329" END="352">منافسه
+الديمقراطي آل جور</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-45" ARGNUM="1">
+      <extent>
+        <charseq START="329" END="352">منافسه
+الديمقراطي آل جور</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-44" ARGNUM="2">
+      <extent>
+        <charseq START="334" END="334">ه</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R8" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E22" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="329" END="352">منافسه
+الديمقراطي آل جور</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-45" ARGNUM="1">
+      <extent>
+        <charseq START="329" END="352">منافسه
+الديمقراطي آل جور</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-46" ARGNUM="2">
+      <extent>
+        <charseq START="336" END="345">الديمقراطي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E13" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="661" END="674">مسئولي
+الولاية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-31" ARGNUM="1">
+      <extent>
+        <charseq START="661" END="674">مسئولي
+الولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-8" ARGNUM="2">
+      <extent>
+        <charseq START="668" END="674">الولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0162-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001118.1100.0162-E13" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="799" END="818">الأمين
+العام للولاية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="799" END="818">الأمين
+العام للولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-16" ARGNUM="2">
+      <extent>
+        <charseq START="812" END="818">للولاية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

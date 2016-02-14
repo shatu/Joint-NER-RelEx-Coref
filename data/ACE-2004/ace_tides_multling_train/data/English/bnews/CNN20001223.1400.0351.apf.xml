@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001223.1400.0351.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001223.1400.0351">
+<entity ID="CNN20001223.1400.0351-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1384" END="1413">the person sitting next to you</charseq>
+    </extent>
+    <head>
+      <charseq START="1388" END="1393">person</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1460" END="1481">the only man on the pl</charseq>
+    </extent>
+    <head>
+      <charseq START="1469" END="1471">man</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E3" TYPE="VEH" SUBTYPE="Air" CLASS="USP">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1476" END="1481">the pl</charseq>
+    </extent>
+    <head>
+      <charseq START="1480" END="1481">pl</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="851" END="859">the plane</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="859">plane</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E4" TYPE="PER" CLASS="USP">
+  <entity_mention ID="4-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1684" END="1697">so many people</charseq>
+    </extent>
+    <head>
+      <charseq START="1692" END="1697">people</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E5" TYPE="VEH" SUBTYPE="Subarea-Vehicle" CLASS="GEN">
+  <entity_mention ID="5-11" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1736" END="1740">cabin</charseq>
+    </extent>
+    <head>
+      <charseq START="1736" END="1740">cabin</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-12" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1768" END="1812">the centers
+of disease control and prevention</charseq>
+    </extent>
+    <head>
+      <charseq START="1772" END="1812">centers
+of disease control and prevention</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2035" END="2037">cnn</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2037">cnn</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2035" END="2037">cnn</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001223.1400.0351-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2040" END="2046">atlanta</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2046">atlanta</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2040" END="2046">atlanta</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001223.1400.0351-E9" TYPE="PER" CLASS="USP">
+  <entity_mention ID="9-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="547" END="548">us</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="548">us</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="10-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1340" END="1348">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1344" END="1348">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="103" END="125">some airline passengers</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="125">passengers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-24" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="150" END="153">some</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="153">some</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="159" END="162">they</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="162">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="193" END="196">they</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="196">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="12-23" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="108" END="114">airline</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="114">airline</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2022" END="2032">jim morelli</charseq>
+    </extent>
+    <head>
+      <charseq START="2022" END="2032">jim morelli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="237" END="247">jim morelli</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="247">jim morelli</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2022" END="2032">jim morelli</charseq>
+    </name>
+    <name>
+      <charseq START="237" END="247">jim morelli</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001223.1400.0351-E14" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="14-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1911" END="1921">a
+passenger</charseq>
+    </extent>
+    <head>
+      <charseq START="1913" END="1921">passenger</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-28" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="269" END="278">passengers</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="278">passengers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="285" END="288">they</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="288">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="307" END="310">they</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="310">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="537" END="540">they</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="540">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="551" END="554">they</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="554">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E15" TYPE="VEH" SUBTYPE="Air" CLASS="GEN">
+  <entity_mention ID="15-9" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1648" END="1653">planes</charseq>
+    </extent>
+    <head>
+      <charseq START="1648" END="1653">planes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="332" END="338">a
+plane</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="338">plane</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-36" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="654" END="659">planes</charseq>
+    </extent>
+    <head>
+      <charseq START="654" END="659">planes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-41" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1008" END="1013">planes</charseq>
+    </extent>
+    <head>
+      <charseq START="1008" END="1013">planes</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1411" END="1413">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1411" END="1413">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1486" END="1489">your</charseq>
+    </extent>
+    <head>
+      <charseq START="1486" END="1489">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1536" END="1538">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1536" END="1538">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1599" END="1601">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1599" END="1601">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1932" END="1934">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1932" END="1934">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1946" END="1948">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1946" END="1948">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2008" END="2011">your</charseq>
+    </extent>
+    <head>
+      <charseq START="2008" END="2011">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1999" END="2001">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1999" END="2001">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1965" END="1967">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1965" END="1967">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="345" END="347">you</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="347">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="790" END="793">your</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="793">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="831" END="833">you</charseq>
+    </extent>
+    <head>
+      <charseq START="831" END="833">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1375" END="1377">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1375" END="1377">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="385" END="385">i</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="385">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001223.1400.0351-E18" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="18-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="790" END="802">your own home</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="802">home</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001223.1400.0351-R1" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E12" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="103" END="125">some airline passengers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-1" ARGNUM="1">
+      <extent>
+        <charseq START="103" END="125">some airline passengers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-23" ARGNUM="2">
+      <extent>
+        <charseq START="108" END="114">airline</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001223.1400.0351-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="790" END="802">your own home</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-38" ARGNUM="1">
+      <extent>
+        <charseq START="790" END="793">your</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-37" ARGNUM="2">
+      <extent>
+        <charseq START="790" END="802">your own home</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001223.1400.0351-R3" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E1" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1384" END="1413">the person sitting next to you</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-2" ARGNUM="1">
+      <extent>
+        <charseq START="1411" END="1413">you</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-43" ARGNUM="2">
+      <extent>
+        <charseq START="1384" END="1413">the person sitting next to you</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001223.1400.0351-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1460" END="1481">the only man on the pl</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="1460" END="1481">the only man on the pl</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="1476" END="1481">the pl</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001223.1400.0351-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2022" END="2046">jim morelli, cnn, atlanta</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-18" ARGNUM="1">
+      <extent>
+        <charseq START="2022" END="2032">jim morelli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-20" ARGNUM="2">
+      <extent>
+        <charseq START="2040" END="2046">atlanta</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001223.1400.0351-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001223.1400.0351-E7" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2022" END="2046">jim morelli, cnn, atlanta</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-18" ARGNUM="1">
+      <extent>
+        <charseq START="2022" END="2032">jim morelli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-19" ARGNUM="2">
+      <extent>
+        <charseq START="2035" END="2037">cnn</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

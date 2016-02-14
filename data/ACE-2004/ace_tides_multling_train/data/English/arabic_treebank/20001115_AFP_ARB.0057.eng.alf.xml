@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0057.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0057.eng">
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0057.eng-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NOM">
+      <extent>
+        <charseq START="146" END="176">A high-level Palestinian source</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="176">source</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0057.eng-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="NAM">
+      <extent>
+        <charseq START="204" END="275">the
+Palestinian Superior Security Council led by President Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="244">Palestinian Superior Security Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="208" END="244">Palestinian Superior Security Council</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0057.eng-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-1" TYPE="PRE">
+      <extent>
+        <charseq START="253" END="261">President</charseq>
+      </extent>
+      <head>
+        <charseq START="253" END="261">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0057.eng-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-4" TYPE="NAM">
+      <extent>
+        <charseq START="253" END="275">President Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="263" END="275">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="263" END="275">Yasser Arafat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0057.eng-E6" TYPE="PER" CLASS="USP">
+    <entity_mention ID="6-5" TYPE="BAR">
+      <extent>
+        <charseq START="299" END="319">unknown armed persons</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="319">persons</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0057.eng-E7" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="7-6" TYPE="NAM">
+      <extent>
+        <charseq START="342" END="384">zone
+"A" under complete Palestinian control</charseq>
+      </extent>
+      <head>
+        <charseq START="342" END="349">zone
+"A"</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="342" END="349">zone
+"A"</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0057.eng-E8" TYPE="PER" CLASS="USP">
+    <entity_mention ID="8-8" TYPE="CMC">
+      <extent>
+        <charseq START="396" END="449">buildings and
+civilians in the Palestinian Territories</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0057.eng-E9" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+    <entity_mention ID="9-9" TYPE="BAR">
+      <extent>
+        <charseq START="396" END="404">buildings</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="404">buildings</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0057.eng-E10" TYPE="PER" CLASS="USP">
+    <entity_mention ID="10-10" TYPE="BAR">
+      <extent>
+        <charseq START="410" END="418">civilians</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="418">civilians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0057.eng-E3" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="3-3" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="159" END="169">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="169">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-7" TYPE="PRE" ROLE="ORG">
+      <extent>
+        <charseq START="366" END="376">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="376">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0057.eng-E11" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="11-11" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="423" END="449">the Palestinian Territories</charseq>
+      </extent>
+      <head>
+        <charseq START="427" END="449">Palestinian Territories</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="427" END="449">Palestinian Territories</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0057.eng-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="12-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="126" END="129">Gaza</charseq>
+      </extent>
+      <head>
+        <charseq START="126" END="129">Gaza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="126" END="129">Gaza</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0057.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0057.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-13" TYPE="NAM">
+      <extent>
+        <charseq START="138" END="140">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="140">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="138" END="140">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0057.eng-R1" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="342" END="384">zone
+"A" under complete Palestinian control</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E7" ENTITYMENTIONID="7-6" ARGNUM="1">
+      <extent>
+        <charseq START="342" END="384">zone
+"A" under complete Palestinian control</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E3" ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="366" END="376">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0057.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="396" END="449">buildings and
+civilians in the Palestinian Territories</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E9" ENTITYMENTIONID="9-9" ARGNUM="1">
+      <extent>
+        <charseq START="396" END="404">buildings</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E11" ENTITYMENTIONID="11-11" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="449">the Palestinian Territories</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0057.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="396" END="449">buildings and
+civilians in the Palestinian Territories</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E10" ENTITYMENTIONID="10-10" ARGNUM="1">
+      <extent>
+        <charseq START="410" END="418">civilians</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E11" ENTITYMENTIONID="11-11" ARGNUM="2">
+      <extent>
+        <charseq START="423" END="449">the Palestinian Territories</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0057.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="146" END="176">A high-level Palestinian source</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="159" END="169">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="176">A high-level Palestinian source</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0057.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="204" END="275">the
+Palestinian Superior Security Council led by President Yasser Arafat</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E5" ENTITYMENTIONID="5-4" ARGNUM="1">
+      <extent>
+        <charseq START="253" END="275">President Yasser Arafat</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0057.eng-E4" ENTITYMENTIONID="4-14" ARGNUM="2">
+      <extent>
+        <charseq START="204" END="275">the
+Palestinian Superior Security Council led by President Yasser Arafat</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

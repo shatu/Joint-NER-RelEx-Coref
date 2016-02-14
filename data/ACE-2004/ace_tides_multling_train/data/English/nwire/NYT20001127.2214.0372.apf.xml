@@ -1,0 +1,1085 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001127.2214.0372.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001127.2214.0372">
+<entity ID="NYT20001127.2214.0372-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="369" END="390">its leader of one year</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="378">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="918" END="929">Kim
+LeMaster</charseq>
+    </extent>
+    <head>
+      <charseq START="918" END="929">Kim
+LeMaster</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="918" END="929">Kim
+LeMaster</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-5" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="428" END="462">up to half of its work force of 260</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="437">half</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="442" END="462">its work force of 260</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="455">force</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="460" END="462">260</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="462">260</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="529" END="536">TiVo Inc</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="536">TiVo Inc</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="540" END="581">a competing Silicon Valley startup company</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="581">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1568" END="1571">TiVo</charseq>
+    </extent>
+    <head>
+      <charseq START="1568" END="1571">TiVo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1642" END="1645">TiVo</charseq>
+    </extent>
+    <head>
+      <charseq START="1642" END="1645">TiVo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1882" END="1885">TiVo</charseq>
+    </extent>
+    <head>
+      <charseq START="1882" END="1885">TiVo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2276" END="2279">TiVo</charseq>
+    </extent>
+    <head>
+      <charseq START="2276" END="2279">TiVo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="529" END="536">TiVo Inc</charseq>
+    </name>
+    <name>
+      <charseq START="1568" END="1571">TiVo</charseq>
+    </name>
+    <name>
+      <charseq START="1642" END="1645">TiVo</charseq>
+    </name>
+    <name>
+      <charseq START="1882" END="1885">TiVo</charseq>
+    </name>
+    <name>
+      <charseq START="2276" END="2279">TiVo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="552" END="565">Silicon Valley</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="565">Silicon Valley</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="708" END="725">television
+viewers</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="725">viewers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="829" END="844">Replay's founder</charseq>
+    </extent>
+    <head>
+      <charseq START="838" END="844">founder</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="847" END="858">Anthony Wood</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="858">Anthony Wood</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="873" END="905">the company's new chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="905">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="847" END="858">Anthony Wood</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="11-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1035" END="1111">partners, including
+cable service providers and makers of cable set-top boxes</charseq>
+    </extent>
+    <head>
+      <charseq START="1035" END="1042">partners</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="12-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1055" END="1077">cable service providers</charseq>
+    </extent>
+    <head>
+      <charseq START="1069" END="1077">providers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="13-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1083" END="1111">makers of cable set-top boxes</charseq>
+    </extent>
+    <head>
+      <charseq START="1083" END="1088">makers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1169" END="1186">the cable
+industry</charseq>
+    </extent>
+    <head>
+      <charseq START="1179" END="1186">industry</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2246" END="2263">the cable industry</charseq>
+    </extent>
+    <head>
+      <charseq START="2256" END="2263">industry</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1196" END="1208">Steve Shannon</charseq>
+    </extent>
+    <head>
+      <charseq START="1196" END="1208">Steve Shannon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1211" END="1246">Replay's vice president of
+marketing</charseq>
+    </extent>
+    <head>
+      <charseq START="1225" END="1233">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1249" END="1250">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1249" END="1250">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1196" END="1208">Steve Shannon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1288" END="1298">Time Warner</charseq>
+    </extent>
+    <head>
+      <charseq START="1288" END="1298">Time Warner</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1288" END="1298">Time Warner</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="18-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1301" END="1307">Comcast</charseq>
+    </extent>
+    <head>
+      <charseq START="1301" END="1307">Comcast</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1301" END="1307">Comcast</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1310" END="1331">Charter Communications</charseq>
+    </extent>
+    <head>
+      <charseq START="1310" END="1331">Charter Communications</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1310" END="1331">Charter Communications</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1342" END="1349">AT&amp;T</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1349">AT&amp;T</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1342" END="1349">AT&amp;T</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1403" END="1419">the Motorola Corp</charseq>
+    </extent>
+    <head>
+      <charseq START="1407" END="1419">Motorola Corp</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1407" END="1419">Motorola Corp</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-30" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1492" END="1499">Analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="1492" END="1499">Analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="23-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1702" END="1709">Phillips</charseq>
+    </extent>
+    <head>
+      <charseq START="1702" END="1709">Phillips</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1702" END="1709">Phillips</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1693" END="1696">Sony</charseq>
+    </extent>
+    <head>
+      <charseq START="1693" END="1696">Sony</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1693" END="1696">Sony</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1756" END="1764">Panasonic</charseq>
+    </extent>
+    <head>
+      <charseq START="1756" END="1764">Panasonic</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1756" END="1764">Panasonic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="26-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="269" END="281">SAN FRANCISCO</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="281">SAN FRANCISCO</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="269" END="281">SAN FRANCISCO</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="27-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1798" END="1817">Mountain View, Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1798" END="1810">Mountain View</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1798" END="1810">Mountain View</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="28-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1813" END="1817">Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1813" END="1817">Calif</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1813" END="1817">Calif</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1920" END="1931">Josh Bernoff</charseq>
+    </extent>
+    <head>
+      <charseq START="1920" END="1931">Josh Bernoff</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1934" END="2024">an industry
+analyst at Forrester Research, a computer industry research and
+consulting firm</charseq>
+    </extent>
+    <head>
+      <charseq START="1946" END="1952">analyst</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2266" END="2267">he</charseq>
+    </extent>
+    <head>
+      <charseq START="2266" END="2267">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1920" END="1931">Josh Bernoff</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1957" END="1974">Forrester Research</charseq>
+    </extent>
+    <head>
+      <charseq START="1957" END="1974">Forrester Research</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1977" END="2024">a computer industry research and
+consulting firm</charseq>
+    </extent>
+    <head>
+      <charseq START="2021" END="2024">firm</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1957" END="1974">Forrester Research</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="33-46" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1979" END="1995">computer industry</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1995">industry</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="34-49" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2324" END="2403">cable companies, who are not
+generally interested in showcasing competing brands</charseq>
+    </extent>
+    <head>
+      <charseq START="2330" END="2338">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-50" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2341" END="2343">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2341" END="2343">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="35-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2426" END="2547">Microsoft, which has also recently entered the
+market for personal video recorders with its own system, called
+Ultimate TV</charseq>
+    </extent>
+    <head>
+      <charseq START="2426" END="2434">Microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-52" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2437" END="2441">which</charseq>
+    </extent>
+    <head>
+      <charseq START="2437" END="2441">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2514" END="2516">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2514" END="2516">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2426" END="2434">Microsoft</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001127.2214.0372-E36" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="36-54" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1625" END="1632">consumer</charseq>
+    </extent>
+    <head>
+      <charseq START="1625" END="1632">consumer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001127.2214.0372-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="37-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2202" END="2209">ReplayTV</charseq>
+    </extent>
+    <head>
+      <charseq START="2202" END="2209">ReplayTV</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="285" END="296">ReplayTV Inc</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="296">ReplayTV Inc</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-57" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="344">a pioneering maker of digital video
+recorders</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="317">maker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="369" END="371">its</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="371">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="411" END="412">it</charseq>
+    </extent>
+    <head>
+      <charseq START="411" END="412">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="442" END="444">its</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="444">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="473" END="474">it</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="474">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="493" END="495">its</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="495">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-63" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="584" END="589">Replay</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="589">Replay</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="806" END="808">its</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="808">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-65" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="829" END="834">Replay</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="834">Replay</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="873" END="883">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="883">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-67" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="932" END="942">The company</charseq>
+    </extent>
+    <head>
+      <charseq START="936" END="942">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-68" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="954" END="955">it</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="955">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-69" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="977" END="979">its</charseq>
+    </extent>
+    <head>
+      <charseq START="977" END="979">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-70" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1211" END="1216">Replay</charseq>
+    </extent>
+    <head>
+      <charseq START="1211" END="1216">Replay</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-71" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1257" END="1267">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="1261" END="1267">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1352" END="1353">It</charseq>
+    </extent>
+    <head>
+      <charseq START="1352" END="1353">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-73" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1431" END="1433">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1431" END="1433">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1597" END="1604">ReplayTV</charseq>
+    </extent>
+    <head>
+      <charseq START="1597" END="1604">ReplayTV</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-75" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1718" END="1725">ReplayTV</charseq>
+    </extent>
+    <head>
+      <charseq START="1718" END="1725">ReplayTV</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-76" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1767" END="1817">The company, which is based in Mountain View, Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1777">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-77" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1780" END="1784">which</charseq>
+    </extent>
+    <head>
+      <charseq START="1780" END="1784">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1831" END="1832">it</charseq>
+    </extent>
+    <head>
+      <charseq START="1831" END="1832">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-79" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2048" END="2053">Replay</charseq>
+    </extent>
+    <head>
+      <charseq START="2048" END="2053">Replay</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="285" END="296">ReplayTV Inc</charseq>
+    </name>
+    <name>
+      <charseq START="584" END="589">Replay</charseq>
+    </name>
+    <name>
+      <charseq START="829" END="834">Replay</charseq>
+    </name>
+    <name>
+      <charseq START="1211" END="1216">Replay</charseq>
+    </name>
+    <name>
+      <charseq START="1597" END="1604">ReplayTV</charseq>
+    </name>
+    <name>
+      <charseq START="2048" END="2053">Replay</charseq>
+    </name>
+    <name>
+      <charseq START="2202" END="2209">ReplayTV</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001127.2214.0372-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="369" END="390">its leader of one year</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="369" END="390">its leader of one year</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-58" ARGNUM="2">
+      <extent>
+        <charseq START="369" END="371">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="428" END="462">up to half of its work force of 260</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="428" END="462">up to half of its work force of 260</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="442" END="462">its work force of 260</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="442" END="462">its work force of 260</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="442" END="462">its work force of 260</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-60" ARGNUM="2">
+      <extent>
+        <charseq START="442" END="444">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E6" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="540" END="581">a competing Silicon Valley startup company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-10" ARGNUM="1">
+      <extent>
+        <charseq START="540" END="581">a competing Silicon Valley startup company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="2">
+      <extent>
+        <charseq START="552" END="565">Silicon Valley</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="829" END="844">Replay's founder</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="829" END="844">Replay's founder</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-65" ARGNUM="2">
+      <extent>
+        <charseq START="829" END="834">Replay</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="873" END="905">the company's new chief executive</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-16" ARGNUM="1">
+      <extent>
+        <charseq START="873" END="905">the company's new chief executive</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-66" ARGNUM="2">
+      <extent>
+        <charseq START="873" END="883">the company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1035" END="1111">partners, including
+cable service providers and makers of cable set-top boxes</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="1">
+      <extent>
+        <charseq START="1055" END="1077">cable service providers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="1035" END="1111">partners, including
+cable service providers and makers of cable set-top boxes</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R8" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E11" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1035" END="1111">partners, including
+cable service providers and makers of cable set-top boxes</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-19" ARGNUM="1">
+      <extent>
+        <charseq START="1083" END="1111">makers of cable set-top boxes</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="1035" END="1111">partners, including
+cable service providers and makers of cable set-top boxes</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1211" END="1246">Replay's vice president of
+marketing</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="1211" END="1246">Replay's vice president of
+marketing</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="37-70" ARGNUM="2">
+      <extent>
+        <charseq START="1211" END="1216">Replay</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E27" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1780" END="1817">which is based in Mountain View, Calif</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-77" ARGNUM="1">
+      <extent>
+        <charseq START="1780" END="1784">which</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-38" ARGNUM="2">
+      <extent>
+        <charseq START="1798" END="1817">Mountain View, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E28" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1798" END="1817">Mountain View, Calif</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-38" ARGNUM="1">
+      <extent>
+        <charseq START="1798" END="1817">Mountain View, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-39" ARGNUM="2">
+      <extent>
+        <charseq START="1813" END="1817">Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E31" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1934" END="2024">an industry
+analyst at Forrester Research, a computer industry research and
+consulting firm</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-42" ARGNUM="1">
+      <extent>
+        <charseq START="1934" END="2024">an industry
+analyst at Forrester Research, a computer industry research and
+consulting firm</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-44" ARGNUM="2">
+      <extent>
+        <charseq START="1957" END="1974">Forrester Research</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R13" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E17" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1257" END="1331">the company was in trials with Time Warner,
+Comcast, Charter Communications</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-71" ARGNUM="1">
+      <extent>
+        <charseq START="1257" END="1267">the company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="2">
+      <extent>
+        <charseq START="1288" END="1298">Time Warner</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R14" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E18" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1257" END="1331">the company was in trials with Time Warner,
+Comcast, Charter Communications</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-71" ARGNUM="1">
+      <extent>
+        <charseq START="1257" END="1267">the company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="2">
+      <extent>
+        <charseq START="1301" END="1307">Comcast</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001127.2214.0372-R15" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001127.2214.0372-E19" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1257" END="1331">the company was in trials with Time Warner,
+Comcast, Charter Communications</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-71" ARGNUM="1">
+      <extent>
+        <charseq START="1257" END="1267">the company</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-27" ARGNUM="2">
+      <extent>
+        <charseq START="1310" END="1331">Charter Communications</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_163.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_163.man">
+<entity ID="chtb_163.man-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="258" END="259">乘客</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="259">乘客</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="261" END="262">货主</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="262">货主</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="247" END="250">港澳地区</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="250">地区</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="247" END="247">港</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="247">港</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="247" END="247">港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="248" END="248">澳</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="248">澳</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="248" END="248">澳</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E7" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="270" END="271">铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="271">铁路</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E8" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="8-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="322" END="327">国际金融组织</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="327">组织</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E9" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="322" END="323">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="323">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="354" END="355">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="355">国际</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="380" END="383">上海贝尔</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="383">贝尔</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="382" END="383">贝尔</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="380" END="381">上海</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="381">上海</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="380" END="381">上海</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E12" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="12-37" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="114" END="115">铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="115">铁路</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E13" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="13-22" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="245" END="257">包括港澳地区在内的中国各地</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="257">各地</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="72">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="72">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="70" END="72">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="432" END="435">合同各方</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="435">方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E16" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="16-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="441" END="448">北京钓鱼台国宾馆</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="448">钓鱼台国宾馆</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="443" END="448">钓鱼台国宾馆</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="441" END="442">北京</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="442">北京</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="73" END="74">北京</charseq>
+    </extent>
+    <head>
+      <charseq START="73" END="74">北京</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="441" END="442">北京</charseq>
+    </name>
+    <name>
+      <charseq START="73" END="74">北京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="84" END="85">钱彤</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="85">钱彤</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="82" END="83">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="83">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="84" END="85">钱彤</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="89" END="93">中国铁道部</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="93">铁道部</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="161" END="163">铁道部</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="163">铁道部</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="198" END="200">铁道部</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="200">铁道部</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="91" END="93">铁道部</charseq>
+    </name>
+    <name>
+      <charseq START="161" END="163">铁道部</charseq>
+    </name>
+    <name>
+      <charseq START="198" END="200">铁道部</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="21-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="254" END="255">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="255">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="308" END="309">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="309">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="402" END="405">中国国内</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="405">国内</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="402" END="403">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="403">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="146" END="147">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="147">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="365" END="366">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="366">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="89" END="90">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="90">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-35" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="111" END="112">全国</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="112">全国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-43" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="213" END="214">全国</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="214">全国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="308" END="309">中国</charseq>
+    </name>
+    <name>
+      <charseq START="402" END="403">中国</charseq>
+    </name>
+    <name>
+      <charseq START="146" END="147">中国</charseq>
+    </name>
+    <name>
+      <charseq START="365" END="366">中国</charseq>
+    </name>
+    <name>
+      <charseq START="89" END="90">中国</charseq>
+    </name>
+    <name>
+      <charseq START="254" END="255">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E22" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="22-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="97" END="100">世界银行</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="100">世界银行</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="97" END="100">世界银行</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E23" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="23-36" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="101" END="102">铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="102">铁路</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E24" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="24-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="213" END="216">全国铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="216">铁路</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_163.man-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="127" END="134">中仪国际招标公司</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="134">中仪国际招标公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="127" END="134">中仪国际招标公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="146" END="156">中国电气进出口联营公司</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="156">电气进出口联营公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="365" END="375">中国电气进出口联营公司</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="375">电气进出口联营公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="148" END="156">电气进出口联营公司</charseq>
+    </name>
+    <name>
+      <charseq START="367" END="375">电气进出口联营公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_163.man-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="198" END="202">铁道部人士</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="202">人士</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_163.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_163.man-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E17" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="70" END="74">新华社北京</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="72">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-28" ARGNUM="2">
+      <extent>
+        <charseq START="73" END="74">北京</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_163.man-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E21" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="89" END="93">中国铁道部</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-32" ARGNUM="1">
+      <extent>
+        <charseq START="89" END="93">中国铁道部</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-33" ARGNUM="2">
+      <extent>
+        <charseq START="89" END="90">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_163.man-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E20" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="198" END="202">铁道部人士</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-40" ARGNUM="1">
+      <extent>
+        <charseq START="198" END="202">铁道部人士</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-41" ARGNUM="2">
+      <extent>
+        <charseq START="198" END="200">铁道部</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_163.man-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E21" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="213" END="216">全国铁路</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-42" ARGNUM="1">
+      <extent>
+        <charseq START="213" END="216">全国铁路</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-43" ARGNUM="2">
+      <extent>
+        <charseq START="213" END="214">全国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_163.man-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E13" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="245" END="262">包括港澳地区在内的中国各地乘客和货主</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="258" END="259">乘客</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="2">
+      <extent>
+        <charseq START="245" END="257">包括港澳地区在内的中国各地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_163.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E9" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="322" END="327">国际金融组织</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="322" END="327">国际金融组织</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="322" END="323">国际</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R7" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_163.man-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="380" END="383">上海贝尔</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-16" ARGNUM="1">
+      <extent>
+        <charseq START="380" END="383">上海贝尔</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="381">上海</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_163.man-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E21" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="146" END="156">中国电气进出口联营公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-20" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="156">中国电气进出口联营公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-21" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="147">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="8-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="365" END="375">中国电气进出口联营公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-23" ARGNUM="1">
+      <extent>
+        <charseq START="365" END="375">中国电气进出口联营公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-24" ARGNUM="2">
+      <extent>
+        <charseq START="365" END="366">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R9" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_163.man-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E13" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="245" END="262">包括港澳地区在内的中国各地乘客和货主</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="261" END="262">货主</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="2">
+      <extent>
+        <charseq START="245" END="257">包括港澳地区在内的中国各地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_163.man-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E21" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="245" END="257">包括港澳地区在内的中国各地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-22" ARGNUM="1">
+      <extent>
+        <charseq START="245" END="257">包括港澳地区在内的中国各地</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-6" ARGNUM="2">
+      <extent>
+        <charseq START="254" END="255">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.man-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_163.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_163.man-E17" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="441" END="448">北京钓鱼台国宾馆</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-26" ARGNUM="1">
+      <extent>
+        <charseq START="441" END="448">北京钓鱼台国宾馆</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-27" ARGNUM="2">
+      <extent>
+        <charseq START="441" END="442">北京</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

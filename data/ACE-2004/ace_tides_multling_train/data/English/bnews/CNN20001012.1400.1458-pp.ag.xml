@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="CNN20001012.1400.1458" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">broadcast news</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">CNN20001012.1400.1458.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="CNN20001012.1400.1458:T1">
+<Signal id="CNN20001012.1400.1458:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="CNN20001012.1400.1458:1" timeline="CNN20001012.1400.1458:T1">
+<Metadata>
+<MetadataElement name="docid">CNN20001012.1400.1458</MetadataElement>
+</Metadata>
+<Anchor id="CNN20001012.1400.1458:1:1" offset="163.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:3" offset="163.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:2" offset="166.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:4" offset="166.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:9" offset="425.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:B" offset="425.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:A" offset="429.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:C" offset="429.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:I" offset="501.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:K" offset="505.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:J" offset="508.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:L" offset="508.000000"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:5"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:6"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:7"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:8"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:D"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:F"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:G"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:H"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:M"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:N"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:O"></Anchor>
+<Anchor id="CNN20001012.1400.1458:1:P"></Anchor>
+<Annotation id="CNN20001012.1400.1458:1:E3" type="entity" start="CNN20001012.1400.1458:1:5" end="CNN20001012.1400.1458:1:6">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">CNN20001012.1400.1458:1:E4</Feature>
+<Feature name="id">CNN20001012.1400.1458-E1</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E4" type="composite_entity" start="CNN20001012.1400.1458:1:7" end="CNN20001012.1400.1458:1:8">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">CNN20001012.1400.1458-CE1</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E7" type="entity" start="CNN20001012.1400.1458:1:D" end="CNN20001012.1400.1458:1:F">
+<Feature name="class">ATR</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">CNN20001012.1400.1458:1:E8</Feature>
+<Feature name="id">CNN20001012.1400.1458-E2</Feature>
+<Feature name="subtype"></Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">PER</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E8" type="composite_entity" start="CNN20001012.1400.1458:1:G" end="CNN20001012.1400.1458:1:H">
+<Feature name="composite_entity_class">GEN</Feature>
+<Feature name="id">CNN20001012.1400.1458-CE2</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:EB" type="entity" start="CNN20001012.1400.1458:1:M" end="CNN20001012.1400.1458:1:N">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">CNN20001012.1400.1458:1:EC</Feature>
+<Feature name="id">CNN20001012.1400.1458-E3</Feature>
+<Feature name="subtype">Nation</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">GPE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:EC" type="composite_entity" start="CNN20001012.1400.1458:1:O" end="CNN20001012.1400.1458:1:P">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">CNN20001012.1400.1458-CE3</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E1" type="entity_mention" start="CNN20001012.1400.1458:1:1" end="CNN20001012.1400.1458:1:2">
+<Feature name="entity">CNN20001012.1400.1458:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">CNN20001012.1400.1458:1:E2</Feature>
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">sony</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E2" type="entity_mention_head" start="CNN20001012.1400.1458:1:3" end="CNN20001012.1400.1458:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">sony</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E5" type="entity_mention" start="CNN20001012.1400.1458:1:9" end="CNN20001012.1400.1458:1:A">
+<Feature name="entity">CNN20001012.1400.1458:1:E7</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">CNN20001012.1400.1458:1:E6</Feature>
+<Feature name="id">2-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">human</Feature>
+<Feature name="type">PRE</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E6" type="entity_mention_head" start="CNN20001012.1400.1458:1:B" end="CNN20001012.1400.1458:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">human</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:E9" type="entity_mention" start="CNN20001012.1400.1458:1:I" end="CNN20001012.1400.1458:1:J">
+<Feature name="entity">CNN20001012.1400.1458:1:EB</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">CNN20001012.1400.1458:1:EA</Feature>
+<Feature name="id">3-3</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role">LOC</Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">the u.s.</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="CNN20001012.1400.1458:1:EA" type="entity_mention_head" start="CNN20001012.1400.1458:1:K" end="CNN20001012.1400.1458:1:L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">u.s.</Feature>
+</Annotation>
+</AG>
+</AGSet>

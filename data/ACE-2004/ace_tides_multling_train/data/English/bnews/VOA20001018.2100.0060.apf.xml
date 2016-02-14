@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001018.2100.0060.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001018.2100.0060">
+<entity ID="VOA20001018.2100.0060-E1" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="504" END="515">Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="515">Palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+  <entity_mention ID="3-6" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC">
+    <extent>
+      <charseq START="545" END="549">towns</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="549">towns</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC">
+    <extent>
+      <charseq START="555" END="562">villages</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="562">villages</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E5" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="535" END="543">West Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="543">West Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="153" END="165">the West Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="165">West Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="157" END="165">West Bank</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001018.2100.0060-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="285">the Palestinian leadership</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="285">leadership</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="324" END="346">The
+Palestinian leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="346">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="65">I</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="65">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="69" END="80">David Coller</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="80">David Coller</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="80">David Coller</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001018.2100.0060-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="83" END="90">VOA News</charseq>
+    </extent>
+    <head>
+      <charseq START="83" END="90">VOA News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="83" END="90">VOA News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001018.2100.0060-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="93" END="114">Dozens of Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="114">Palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E12" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="12-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="171" END="180">Gaza Strip</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="180">Gaza Strip</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="171" END="180">Gaza Strip</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001018.2100.0060-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="312" END="321">the troops</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="321">troops</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="264" END="274">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="274">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-18" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="328" END="338">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="338">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="419" END="429">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="429">Palestinian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-2" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="439" END="444">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="444">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-3" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="452" END="453">it</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="453">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-19" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="365" END="370">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="370">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-20" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="384" END="386">its</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="386">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="365" END="370">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="439" END="444">Israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001018.2100.0060-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="395">its soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="395">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E17" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+  <entity_mention ID="17-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="402" END="436">the outskirts of Palestinian cities</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="414">outskirts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001018.2100.0060-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+  <entity_mention ID="18-23" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="419" END="436">Palestinian cities</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="436">cities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VOA20001018.2100.0060-R11" TYPE="METONYMY">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E14" ARGNUM="2" />
+</relation>
+<relation ID="VOA20001018.2100.0060-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E9" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="69" END="90">David Coller, VOA News</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="69" END="80">David Coller</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-10" ARGNUM="2">
+      <extent>
+        <charseq START="83" END="90">VOA News</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E14" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="260" END="285">the Palestinian leadership</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-14" ARGNUM="1">
+      <extent>
+        <charseq START="260" END="285">the Palestinian leadership</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-17" ARGNUM="2">
+      <extent>
+        <charseq START="264" END="274">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="324" END="346">The
+Palestinian leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-16" ARGNUM="1">
+      <extent>
+        <charseq START="324" END="346">The
+Palestinian leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-18" ARGNUM="2">
+      <extent>
+        <charseq START="328" END="338">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E18" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="402" END="436">the outskirts of Palestinian cities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-22" ARGNUM="1">
+      <extent>
+        <charseq START="402" END="436">the outskirts of Palestinian cities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-23" ARGNUM="2">
+      <extent>
+        <charseq START="419" END="436">Palestinian cities</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E5" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="535" END="549">West Bank towns</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="545" END="549">towns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="535" END="543">West Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="535" END="562">West Bank towns and villages</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="555" END="562">villages</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="535" END="543">West Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E5" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="93" END="165">Dozens of Palestinians were wounded in
+scattered clashes in the West Bank</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-11" ARGNUM="1">
+      <extent>
+        <charseq START="93" END="114">Dozens of Palestinians</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="2">
+      <extent>
+        <charseq START="153" END="165">the West Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E12" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="93" END="180">Dozens of Palestinians were wounded in
+scattered clashes in the West Bank and Gaza Strip</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-11" ARGNUM="1">
+      <extent>
+        <charseq START="93" END="114">Dozens of Palestinians</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-13" ARGNUM="2">
+      <extent>
+        <charseq START="171" END="180">Gaza Strip</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E15" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="384" END="395">its soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-21" ARGNUM="1">
+      <extent>
+        <charseq START="384" END="395">its soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-20" ARGNUM="2">
+      <extent>
+        <charseq START="384" END="386">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001018.2100.0060-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001018.2100.0060-E14" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="419" END="436">Palestinian cities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-23" ARGNUM="1">
+      <extent>
+        <charseq START="419" END="436">Palestinian cities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-24" ARGNUM="2">
+      <extent>
+        <charseq START="419" END="429">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

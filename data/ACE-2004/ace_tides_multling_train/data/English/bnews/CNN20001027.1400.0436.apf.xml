@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001027.1400.0436.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001027.1400.0436">
+<entity ID="CNN20001027.1400.0436-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="73">microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="73">microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="103" END="113">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="113">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="210" END="218">microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="218">microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="328" END="338">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="338">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="363" END="371">microsoft</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="371">microsoft</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="73">microsoft</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001027.1400.0436-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="84" END="90">hackers</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="90">hackers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001027.1400.0436-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="182" END="188">the fbi</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="188">fbi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="186" END="188">fbi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001027.1400.0436-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="208" END="228">a microsoft executive</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="228">executive</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001027.1400.0436-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="406" END="428">the wall street journal</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="428">the wall street journal</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="479" END="489">the journal</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="489">the journal</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="406" END="428">the wall street journal</charseq>
+    </name>
+    <name>
+      <charseq START="479" END="489">the journal</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001027.1400.0436-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="497" END="514">security employees</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="514">employees</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001027.1400.0436-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="595" END="616">st. petersburg, russia</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="608">st. petersburg</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="595" END="608">st. petersburg</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001027.1400.0436-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="611" END="616">russia</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="616">russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="611" END="616">russia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001027.1400.0436-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001027.1400.0436-E1" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="CNN20001027.1400.0436-E4" ARGNUM="1" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="208" END="228">a microsoft executive</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-6" ARGNUM="2">
+      <extent>
+        <charseq START="210" END="218">microsoft</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="228">a microsoft executive</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001027.1400.0436-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="CNN20001027.1400.0436-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001027.1400.0436-E9" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="595" END="616">st. petersburg, russia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-12" ARGNUM="1">
+      <extent>
+        <charseq START="595" END="616">st. petersburg, russia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-13" ARGNUM="2">
+      <extent>
+        <charseq START="611" END="616">russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

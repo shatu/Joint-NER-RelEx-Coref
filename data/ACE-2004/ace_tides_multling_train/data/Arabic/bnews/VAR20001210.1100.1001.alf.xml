@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="VAR20001210.1100.1001.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001210.1100.1001">
+<composite_entity ID="VAR20001210.1100.1001-CE1">
+  <entity ID="VAR20001210.1100.1001-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NOM">
+      <extent>
+        <charseq START="70" END="100">لجنة الانتخابات العامة بالسودان</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="73">لجنة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-3" TYPE="PRO">
+      <extent>
+        <charseq START="68" END="68">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="68">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VAR20001210.1100.1001-CE2">
+  <entity ID="VAR20001210.1100.1001-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-4" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="93" END="100">بالسودان</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="100">بالسودان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="344" END="350">السودان</charseq>
+      </extent>
+      <head>
+        <charseq START="344" END="350">السودان</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="93" END="100">بالسودان</charseq>
+      </name>
+      <name>
+        <charseq START="344" END="350">السودان</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VAR20001210.1100.1001-CE3">
+  <entity ID="VAR20001210.1100.1001-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="3-5" TYPE="NOM">
+      <extent>
+        <charseq START="135" END="142">البرلمان</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="142">البرلمان</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VAR20001210.1100.1001-CE4">
+  <entity ID="VAR20001210.1100.1001-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-2" TYPE="NAM">
+      <extent>
+        <charseq START="306" END="329">الرئيس الأسبق جعفر نميري</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="329">جعفر نميري</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-6" TYPE="WHQ">
+      <extent>
+        <charseq START="331" END="334">الذي</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="334">الذي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-11" TYPE="PRO">
+      <extent>
+        <charseq START="415" END="415">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="415">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-12" TYPE="ARC">
+      <extent>
+        <charseq START="306" END="360">الرئيس الأسبق جعفر نميري الذي عاد إلى
+السودان من المنفى</charseq>
+      </extent>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="320" END="329">جعفر نميري</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="VAR20001210.1100.1001-CE5">
+  <entity ID="VAR20001210.1100.1001-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="5-8" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="355" END="360">المنفى</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="360">المنفى</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="VAR20001210.1100.1001-CE6">
+  <entity ID="VAR20001210.1100.1001-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-9" TYPE="NOM">
+      <extent>
+        <charseq START="391" END="415">الناخبين المؤيدين
+لترشيحه</charseq>
+      </extent>
+      <head>
+        <charseq START="391" END="398">الناخبين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-10" TYPE="PRO">
+      <extent>
+        <charseq START="406" END="407">ين</charseq>
+      </extent>
+      <head>
+        <charseq START="406" END="407">ين</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="VAR20001210.1100.1001-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="70" END="100">لجنة الانتخابات العامة بالسودان</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VAR20001210.1100.1001-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="100">لجنة الانتخابات العامة بالسودان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VAR20001210.1100.1001-E2" ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="93" END="100">بالسودان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001210.1100.1001-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="306" END="360">الرئيس الأسبق جعفر نميري الذي عاد إلى
+السودان من المنفى</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="VAR20001210.1100.1001-E4" ENTITYMENTIONID="4-2" ARGNUM="1">
+      <extent>
+        <charseq START="306" END="329">الرئيس الأسبق جعفر نميري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="VAR20001210.1100.1001-E2" ENTITYMENTIONID="2-7" ARGNUM="2">
+      <extent>
+        <charseq START="344" END="350">السودان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

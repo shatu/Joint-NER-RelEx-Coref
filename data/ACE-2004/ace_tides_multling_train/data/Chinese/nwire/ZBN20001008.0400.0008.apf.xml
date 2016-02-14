@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ZBN20001008.0400.0008.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ZBN20001008.0400.0008">
+<entity ID="ZBN20001008.0400.0008-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="124" END="128">美国投资者</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="128">投资者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="124" END="125">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="124" END="125">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="184" END="185">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="185">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="225" END="226">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="225" END="226">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="330" END="331">美国</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="331">美国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="124" END="125">美国</charseq>
+    </name>
+    <name>
+      <charseq START="184" END="185">美国</charseq>
+    </name>
+    <name>
+      <charseq START="225" END="226">美国</charseq>
+    </name>
+    <name>
+      <charseq START="330" END="331">美国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="131" END="132">企业</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="132">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="487" END="488">欧洲</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="488">欧洲</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="487" END="488">欧洲</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="507" END="508">伦敦</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="508">伦敦</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="507" END="508">伦敦</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="516" END="519">英国电信</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="519">英国电信</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="516" END="519">英国电信</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E7" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="629" END="630">台湾</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="630">台湾</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="691" END="691">台</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="691">台</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="629" END="630">台湾</charseq>
+    </name>
+    <name>
+      <charseq START="691" END="691">台</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E8" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="476" END="478">华尔街</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="478">华尔街</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="476" END="478">华尔街</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="9-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="543" END="546">金融时报</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="546">金融时报</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="543" END="546">金融时报</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ZBN20001008.0400.0008-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="661" END="664">倍立投信</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="664">倍立投信</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="661" END="664">倍立投信</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ZBN20001008.0400.0008-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ZBN20001008.0400.0008-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ZBN20001008.0400.0008-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="124" END="128">美国投资者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="124" END="128">美国投资者</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="124" END="125">美国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

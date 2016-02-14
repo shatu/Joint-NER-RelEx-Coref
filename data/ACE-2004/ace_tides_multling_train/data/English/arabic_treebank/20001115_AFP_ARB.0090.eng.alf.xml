@@ -1,0 +1,1572 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0090.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0090.eng">
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0090.eng-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-4" TYPE="NAM">
+      <extent>
+        <charseq START="547" END="645">French
+Foreign Minister Hubert Vedrun, whose country is the current
+president of the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="571" END="583">Hubert Vedrun</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="WHQ">
+      <extent>
+        <charseq START="586" END="590">whose</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="590">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-8" TYPE="PRO">
+      <extent>
+        <charseq START="657" END="659">him</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="659">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="571" END="583">Hubert Vedrun</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-84" TYPE="PRE">
+      <extent>
+        <charseq START="547" END="569">French
+Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="569">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0090.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-2" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="2607" END="2608">us</charseq>
+      </extent>
+      <head>
+        <charseq START="2607" END="2608">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-12" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="2663" END="2664">us</charseq>
+      </extent>
+      <head>
+        <charseq START="2663" END="2664">us</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0090.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="5-3" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="547" END="552">French</charseq>
+      </extent>
+      <head>
+        <charseq START="547" END="552">French</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="586" END="598">whose country</charseq>
+      </extent>
+      <head>
+        <charseq START="586" END="598">whose country</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-49" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="1918" END="1946">the European Union presidency</charseq>
+      </extent>
+      <head>
+        <charseq START="1937" END="1946">presidency</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-92" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="306" END="311">France</charseq>
+      </extent>
+      <head>
+        <charseq START="306" END="311">France</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="306" END="311">France</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="7-7" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="603" END="645">the current
+president of the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="615" END="623">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="47-50" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="322" END="350">the European Union
+presidency</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="350">presidency</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0090.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="9-11" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="749" END="755">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="755">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-83" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2127" END="2133">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="2127" END="2133">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-94" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="376" END="382">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="376" END="382">Israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0090.eng-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-14" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="863" END="893">the 15 European Union countries</charseq>
+      </extent>
+      <head>
+        <charseq START="885" END="893">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0090.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="12-16" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="910" END="958">12
+Mediterranean basin countries including Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="933" END="941">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0090.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="13-17" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="953" END="958">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="953" END="958">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="953" END="958">Israel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0090.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-19" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="997" END="1003">Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="997" END="1003">Lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-72" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="2505" END="2511">Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="2505" END="2511">Lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2505" END="2511">Lebanon</charseq>
+      </name>
+      <name>
+        <charseq START="997" END="1003">Lebanon</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0090.eng-E15" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="15-22" TYPE="NAM">
+      <extent>
+        <charseq START="1187" END="1209">the Mediterranean basin</charseq>
+      </extent>
+      <head>
+        <charseq START="1191" END="1209">Mediterranean basin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1191" END="1209">Mediterranean basin</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E38" TYPE="LOC" SUBTYPE="Region-International" CLASS="ATR">
+    <entity_mention ID="38-80" TYPE="PRE">
+      <extent>
+        <charseq START="913" END="931">Mediterranean basin</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="931">Mediterranean basin</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E45" TYPE="LOC" SUBTYPE="Region-International" CLASS="ATR">
+    <entity_mention ID="45-21" TYPE="PRE">
+      <extent>
+        <charseq START="1021" END="1033">Mediterranean</charseq>
+      </extent>
+      <head>
+        <charseq START="1021" END="1033">Mediterranean</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="45-36" TYPE="PRE">
+      <extent>
+        <charseq START="1687" END="1699">Mediterranean</charseq>
+      </extent>
+      <head>
+        <charseq START="1687" END="1699">Mediterranean</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="45-67" TYPE="PRE">
+      <extent>
+        <charseq START="2319" END="2331">Mediterranean</charseq>
+      </extent>
+      <head>
+        <charseq START="2319" END="2331">Mediterranean</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="45-90" TYPE="PRE">
+      <extent>
+        <charseq START="256" END="268">Mediterranean</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="268">Mediterranean</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0090.eng-E16" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-25" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1243" END="1260">the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="1247" END="1260">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-56" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="2007" END="2024">the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="2011" END="2024">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-75" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="2740" END="2757">the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="2744" END="2757">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-79" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="628" END="645">the European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="632" END="645">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2011" END="2024">European Union</charseq>
+      </name>
+      <name>
+        <charseq START="2744" END="2757">European Union</charseq>
+      </name>
+      <name>
+        <charseq START="632" END="645">European Union</charseq>
+      </name>
+      <name>
+        <charseq START="1247" END="1260">European Union</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E44" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="44-9" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="693" END="700">European</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="700">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="44-20" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1012" END="1019">European</charseq>
+      </extent>
+      <head>
+        <charseq START="1012" END="1019">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="44-35" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1678" END="1685">European</charseq>
+      </extent>
+      <head>
+        <charseq START="1678" END="1685">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="44-66" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2310" END="2317">European</charseq>
+      </extent>
+      <head>
+        <charseq START="2310" END="2317">European</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="44-89" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="247" END="254">European</charseq>
+      </extent>
+      <head>
+        <charseq START="247" END="254">European</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E48" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="48-15" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="870" END="883">European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="870" END="883">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="48-51" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="326" END="339">European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="326" END="339">European Union</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="48-52" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1922" END="1935">European Union</charseq>
+      </extent>
+      <head>
+        <charseq START="1922" END="1935">European Union</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0090.eng-E8" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="8-10" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="761" END="771">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="761" END="771">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E17" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-43" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1805" END="1813">Palestine</charseq>
+      </extent>
+      <head>
+        <charseq START="1805" END="1813">Palestine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-61" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2203" END="2211">Palestine</charseq>
+      </extent>
+      <head>
+        <charseq START="2203" END="2211">Palestine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-81" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1294" END="1365">Occupied Palestine where hundreds have been killed and
+thousands wounded</charseq>
+      </extent>
+      <head>
+        <charseq START="1294" END="1311">Occupied Palestine</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-82" TYPE="WHQ" ROLE="LOC">
+      <extent>
+        <charseq START="1313" END="1317">where</charseq>
+      </extent>
+      <head>
+        <charseq START="1313" END="1317">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1805" END="1813">Palestine</charseq>
+      </name>
+      <name>
+        <charseq START="2203" END="2211">Palestine</charseq>
+      </name>
+      <name>
+        <charseq START="1294" END="1311">Occupied Palestine</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0090.eng-E18" TYPE="PER" CLASS="USP">
+    <entity_mention ID="18-27" TYPE="HLS">
+      <extent>
+        <charseq START="1319" END="1326">hundreds</charseq>
+      </extent>
+      <head>
+        <charseq START="1319" END="1326">hundreds</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0090.eng-E19" TYPE="PER" CLASS="USP">
+    <entity_mention ID="19-28" TYPE="HLS">
+      <extent>
+        <charseq START="1349" END="1357">thousands</charseq>
+      </extent>
+      <head>
+        <charseq START="1349" END="1357">thousands</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0090.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-29" TYPE="PRE">
+      <extent>
+        <charseq START="1407" END="1410">Arab</charseq>
+      </extent>
+      <head>
+        <charseq START="1407" END="1410">Arab</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-34" TYPE="PRE">
+      <extent>
+        <charseq START="1649" END="1652">Arab</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1652">Arab</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-70" TYPE="PRE">
+      <extent>
+        <charseq START="2454" END="2457">Arab</charseq>
+      </extent>
+      <head>
+        <charseq START="2454" END="2457">Arab</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0090.eng-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+    <entity_mention ID="21-30" TYPE="BAR" ROLE="ORG">
+      <extent>
+        <charseq START="1407" END="1420">Arab
+countries</charseq>
+      </extent>
+      <head>
+        <charseq START="1412" END="1420">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0090.eng-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="22-33" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1521" END="1524">Doha</charseq>
+      </extent>
+      <head>
+        <charseq START="1521" END="1524">Doha</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0090.eng-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="24-38" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1763" END="1767">Egypt</charseq>
+      </extent>
+      <head>
+        <charseq START="1763" END="1767">Egypt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1763" END="1767">Egypt</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0090.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-39" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1770" END="1775">Jordan</charseq>
+      </extent>
+      <head>
+        <charseq START="1770" END="1775">Jordan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1770" END="1775">Jordan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0090.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="26-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1778" END="1784">Morocco</charseq>
+      </extent>
+      <head>
+        <charseq START="1778" END="1784">Morocco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1778" END="1784">Morocco</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0090.eng-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="27-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1787" END="1793">Tunisia</charseq>
+      </extent>
+      <head>
+        <charseq START="1787" END="1793">Tunisia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1787" END="1793">Tunisia</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE21">
+  <entity ID="20001115_AFP_ARB.0090.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="28-42" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1796" END="1802">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="1796" END="1802">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1796" END="1802">Algeria</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE22">
+  <entity ID="20001115_AFP_ARB.0090.eng-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="29-44" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1819" END="1823">Libya</charseq>
+      </extent>
+      <head>
+        <charseq START="1819" END="1823">Libya</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1819" END="1823">Libya</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE23">
+  <entity ID="20001115_AFP_ARB.0090.eng-E30" TYPE="PER" CLASS="USP">
+    <entity_mention ID="30-46" TYPE="BAR">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+      <head>
+        <charseq START="1748" END="1756">ministers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE24">
+  <entity ID="20001115_AFP_ARB.0090.eng-E31" TYPE="PER" CLASS="USP">
+    <entity_mention ID="31-47" TYPE="PRO">
+      <extent>
+        <charseq START="1839" END="1840">We</charseq>
+      </extent>
+      <head>
+        <charseq START="1839" END="1840">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-48" TYPE="PRO">
+      <extent>
+        <charseq START="1894" END="1895">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1894" END="1895">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-55" TYPE="PRO">
+      <extent>
+        <charseq START="1998" END="1999">We</charseq>
+      </extent>
+      <head>
+        <charseq START="1998" END="1999">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-69" TYPE="PRO">
+      <extent>
+        <charseq START="2377" END="2378">us</charseq>
+      </extent>
+      <head>
+        <charseq START="2377" END="2378">us</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE25">
+  <entity ID="20001115_AFP_ARB.0090.eng-E32" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="32-26" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="2860" END="2876">a free trade zone</charseq>
+      </extent>
+      <head>
+        <charseq START="2873" END="2876">zone</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE26">
+  <entity ID="20001115_AFP_ARB.0090.eng-E33" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="33-57" TYPE="APP">
+      <extent>
+        <charseq START="2123" END="2167">the Israeli foreign minister (Shlomo Ben-Ami)</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="33-58" TYPE="NOM">
+      <extent>
+        <charseq START="2123" END="2150">the Israeli foreign minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2143" END="2150">minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E34" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="34-59" TYPE="NAM">
+      <extent>
+        <charseq START="2153" END="2166">Shlomo Ben-Ami</charseq>
+      </extent>
+      <head>
+        <charseq START="2153" END="2166">Shlomo Ben-Ami</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2153" END="2166">Shlomo Ben-Ami</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE27">
+  <entity ID="20001115_AFP_ARB.0090.eng-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="23-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="125">Damascus</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="125">Damascus</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-87" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="212" END="219">Damascus</charseq>
+      </extent>
+      <head>
+        <charseq START="212" END="219">Damascus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="212" END="219">Damascus</charseq>
+      </name>
+      <name>
+        <charseq START="118" END="125">Damascus</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE28">
+  <entity ID="20001115_AFP_ARB.0090.eng-E35" TYPE="PER" CLASS="USP">
+    <entity_mention ID="35-60" TYPE="BAR">
+      <extent>
+        <charseq START="2184" END="2211">innocent people in Palestine</charseq>
+      </extent>
+      <head>
+        <charseq START="2193" END="2198">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE29">
+  <entity ID="20001115_AFP_ARB.0090.eng-E37" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="37-76" TYPE="NOM">
+      <extent>
+        <charseq START="488" END="529">the Arab group in the Marseille conference</charseq>
+      </extent>
+      <head>
+        <charseq START="497" END="501">group</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE30">
+  <entity ID="20001115_AFP_ARB.0090.eng-E39" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="39-93" TYPE="PRE">
+      <extent>
+        <charseq START="1559" END="1592">Organization of Islamic Conference</charseq>
+      </extent>
+      <head>
+        <charseq START="1559" END="1592">Organization of Islamic Conference</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE31">
+  <entity ID="20001115_AFP_ARB.0090.eng-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="40-77" TYPE="NAM">
+      <extent>
+        <charseq START="134" END="136">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="136">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="134" END="136">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE32">
+  <entity ID="20001115_AFP_ARB.0090.eng-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="43-18" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="987" END="991">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="987" END="991">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-24" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="1231" END="1232">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1231" END="1232">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-37" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1738" END="1742">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="1738" END="1742">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-54" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1966" END="1970">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="1966" END="1970">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-73" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="2517" END="2521">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="2517" END="2521">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-74" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="2730" END="2734">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="2730" END="2734">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-86" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="142" END="146">Syria</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="146">Syria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1738" END="1742">Syria</charseq>
+      </name>
+      <name>
+        <charseq START="1966" END="1970">Syria</charseq>
+      </name>
+      <name>
+        <charseq START="2517" END="2521">Syria</charseq>
+      </name>
+      <name>
+        <charseq START="2730" END="2734">Syria</charseq>
+      </name>
+      <name>
+        <charseq START="142" END="146">Syria</charseq>
+      </name>
+      <name>
+        <charseq START="987" END="991">Syria</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE33">
+  <entity ID="20001115_AFP_ARB.0090.eng-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="10-13" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="787" END="795">Marseille</charseq>
+      </extent>
+      <head>
+        <charseq START="787" END="795">Marseille</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-78" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="510" END="518">Marseille</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="518">Marseille</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="46-68" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2347" END="2355">Marseille</charseq>
+      </extent>
+      <head>
+        <charseq START="2347" END="2355">Marseille</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-91" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="295" END="312">Marseille (France)</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="303">Marseille</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2347" END="2355">Marseille</charseq>
+      </name>
+      <name>
+        <charseq START="295" END="303">Marseille</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE34">
+  <entity ID="20001115_AFP_ARB.0090.eng-E49" TYPE="PER" CLASS="USP">
+    <entity_mention ID="49-95" TYPE="NAM">
+      <extent>
+        <charseq START="401" END="412">Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="412">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="401" END="412">Palestinians</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0090.eng-CE35">
+  <entity ID="20001115_AFP_ARB.0090.eng-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-98" TYPE="BAR">
+      <extent>
+        <charseq START="472" END="529">coordinator
+for the Arab group in the Marseille conference</charseq>
+      </extent>
+      <head>
+        <charseq START="472" END="482">coordinator</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E36" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="36-64" TYPE="NAM">
+      <extent>
+        <charseq START="167" END="181">Farouk al-Shar'</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="181">Farouk al-Shar'</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="167" END="181">Farouk al-Shar'</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E41" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="41-23" TYPE="NAM">
+      <extent>
+        <charseq START="1214" END="1221">Al-Shar'</charseq>
+      </extent>
+      <head>
+        <charseq START="1214" END="1221">Al-Shar'</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="41-31" TYPE="NAM">
+      <extent>
+        <charseq START="1471" END="1478">Al-Shar'</charseq>
+      </extent>
+      <head>
+        <charseq START="1471" END="1478">Al-Shar'</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="41-32" TYPE="PRO">
+      <extent>
+        <charseq START="1492" END="1492">I</charseq>
+      </extent>
+      <head>
+        <charseq START="1492" END="1492">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="41-45" TYPE="PRO">
+      <extent>
+        <charseq START="1828" END="1829">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1828" END="1829">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="41-53" TYPE="NOM">
+      <extent>
+        <charseq START="1966" END="1989">Syria's Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1982" END="1989">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1471" END="1478">Al-Shar'</charseq>
+      </name>
+      <name>
+        <charseq START="1214" END="1221">Al-Shar'</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E42" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="42-63" TYPE="PRE">
+      <extent>
+        <charseq START="2259" END="2266">Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="2259" END="2266">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0090.eng-E50" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="50-62" TYPE="NOM">
+      <extent>
+        <charseq START="2259" END="2275">Minister al-Shar'</charseq>
+      </extent>
+      <head>
+        <charseq START="2268" END="2275">al-Shar'</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="50-65" TYPE="APP">
+      <extent>
+        <charseq START="142" END="181">Syria's Foreign Minister Farouk al-Shar'</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="50-71" TYPE="PRO">
+      <extent>
+        <charseq START="2491" END="2492">He</charseq>
+      </extent>
+      <head>
+        <charseq START="2491" END="2492">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="50-85" TYPE="NOM">
+      <extent>
+        <charseq START="142" END="165">Syria's Foreign Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="165">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="50-88" TYPE="PRO">
+      <extent>
+        <charseq START="226" END="227">he</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="227">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="50-96" TYPE="NAM">
+      <extent>
+        <charseq START="444" END="529">al-Shar', who was appointed coordinator
+for the Arab group in the Marseille conference</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="450">al-Shar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="50-97" TYPE="WHQ">
+      <extent>
+        <charseq START="454" END="456">who</charseq>
+      </extent>
+      <head>
+        <charseq START="454" END="456">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="444" END="450">al-Shar</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0090.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="142" END="165">Syria's Foreign Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E50" ENTITYMENTIONID="50-85" ARGNUM="1">
+      <extent>
+        <charseq START="142" END="165">Syria's Foreign Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E43" ENTITYMENTIONID="43-86" ARGNUM="2">
+      <extent>
+        <charseq START="142" END="146">Syria</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="142" END="219">Syria's Foreign Minister Farouk al-Shar' confirmed today Wednesday in
+Damascus</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E50" ENTITYMENTIONID="50-85" ARGNUM="1">
+      <extent>
+        <charseq START="142" END="165">Syria's Foreign Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E23" ENTITYMENTIONID="23-87" ARGNUM="2">
+      <extent>
+        <charseq START="212" END="219">Damascus</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="295" END="312">Marseille (France)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E46" ENTITYMENTIONID="46-91" ARGNUM="1">
+      <extent>
+        <charseq START="295" END="312">Marseille (France)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E6" ENTITYMENTIONID="6-92" ARGNUM="2">
+      <extent>
+        <charseq START="306" END="311">France</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="322" END="350">the European Union
+presidency</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E47" ENTITYMENTIONID="47-50" ARGNUM="1">
+      <extent>
+        <charseq START="322" END="350">the European Union
+presidency</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E48" ENTITYMENTIONID="48-51" ARGNUM="2">
+      <extent>
+        <charseq START="326" END="339">European Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="472" END="529">coordinator
+for the Arab group in the Marseille conference</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E1" ENTITYMENTIONID="1-98" ARGNUM="1">
+      <extent>
+        <charseq START="472" END="529">coordinator
+for the Arab group in the Marseille conference</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E37" ENTITYMENTIONID="37-76" ARGNUM="2">
+      <extent>
+        <charseq START="488" END="529">the Arab group in the Marseille conference</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="547" END="569">French
+Foreign Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E4" ENTITYMENTIONID="4-84" ARGNUM="1">
+      <extent>
+        <charseq START="547" END="569">French
+Foreign Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E5" ENTITYMENTIONID="5-3" ARGNUM="2">
+      <extent>
+        <charseq START="547" END="552">French</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="586" END="598">whose country</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E2" ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="586" END="590">whose</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="586" END="598">whose country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R8" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="603" END="645">the current
+president of the European Union</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E7" ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="603" END="645">the current
+president of the European Union</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E16" ENTITYMENTIONID="16-79" ARGNUM="2">
+      <extent>
+        <charseq START="628" END="645">the European Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R9" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="863" END="893">the 15 European Union countries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E11" ENTITYMENTIONID="11-14" ARGNUM="1">
+      <extent>
+        <charseq START="863" END="893">the 15 European Union countries</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E48" ENTITYMENTIONID="48-15" ARGNUM="2">
+      <extent>
+        <charseq START="870" END="883">European Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="910" END="958">12
+Mediterranean basin countries including Israel</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E12" ENTITYMENTIONID="12-16" ARGNUM="1">
+      <extent>
+        <charseq START="910" END="958">12
+Mediterranean basin countries including Israel</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E38" ENTITYMENTIONID="38-80" ARGNUM="2">
+      <extent>
+        <charseq START="913" END="931">Mediterranean basin</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="910" END="958">12
+Mediterranean basin countries including Israel</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E13" ENTITYMENTIONID="13-17" ARGNUM="1">
+      <extent>
+        <charseq START="953" END="958">Israel</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E38" ENTITYMENTIONID="38-80" ARGNUM="2">
+      <extent>
+        <charseq START="913" END="931">Mediterranean basin</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1313" END="1365">where hundreds have been killed and
+thousands wounded</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E18" ENTITYMENTIONID="18-27" ARGNUM="1">
+      <extent>
+        <charseq START="1319" END="1326">hundreds</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E17" ENTITYMENTIONID="17-82" ARGNUM="2">
+      <extent>
+        <charseq START="1313" END="1317">where</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="13-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1313" END="1365">where hundreds have been killed and
+thousands wounded</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E19" ENTITYMENTIONID="19-28" ARGNUM="1">
+      <extent>
+        <charseq START="1349" END="1357">thousands</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E17" ENTITYMENTIONID="17-82" ARGNUM="2">
+      <extent>
+        <charseq START="1313" END="1317">where</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R14" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <relation_mention ID="14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1407" END="1420">Arab
+countries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E21" ENTITYMENTIONID="21-30" ARGNUM="1">
+      <extent>
+        <charseq START="1407" END="1420">Arab
+countries</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E20" ENTITYMENTIONID="20-29" ARGNUM="2">
+      <extent>
+        <charseq START="1407" END="1410">Arab</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E24" ENTITYMENTIONID="24-38" ARGNUM="2">
+      <extent>
+        <charseq START="1763" END="1767">Egypt</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R16" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E25" ENTITYMENTIONID="25-39" ARGNUM="2">
+      <extent>
+        <charseq START="1770" END="1775">Jordan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E26" ENTITYMENTIONID="26-40" ARGNUM="2">
+      <extent>
+        <charseq START="1778" END="1784">Morocco</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R18" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="18-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E27" ENTITYMENTIONID="27-41" ARGNUM="2">
+      <extent>
+        <charseq START="1787" END="1793">Tunisia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R19" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="19-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E28" ENTITYMENTIONID="28-42" ARGNUM="2">
+      <extent>
+        <charseq START="1796" END="1802">Algeria</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R20" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="20-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E17" ENTITYMENTIONID="17-43" ARGNUM="2">
+      <extent>
+        <charseq START="1805" END="1813">Palestine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R21" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="21-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E30" ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="1748" END="1823">ministers from Egypt, Jordan, Morocco, Tunisia, Algeria,
+Palestine and Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E29" ENTITYMENTIONID="29-44" ARGNUM="2">
+      <extent>
+        <charseq START="1819" END="1823">Libya</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R22" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="22-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1918" END="1946">the European Union presidency</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E6" ENTITYMENTIONID="6-49" ARGNUM="1">
+      <extent>
+        <charseq START="1918" END="1946">the European Union presidency</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E48" ENTITYMENTIONID="48-52" ARGNUM="2">
+      <extent>
+        <charseq START="1922" END="1935">European Union</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R23" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="23-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1966" END="1989">Syria's Foreign Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E41" ENTITYMENTIONID="41-53" ARGNUM="1">
+      <extent>
+        <charseq START="1966" END="1989">Syria's Foreign Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E43" ENTITYMENTIONID="43-54" ARGNUM="2">
+      <extent>
+        <charseq START="1966" END="1970">Syria</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R24" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="24-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2123" END="2150">the Israeli foreign minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E33" ENTITYMENTIONID="33-58" ARGNUM="1">
+      <extent>
+        <charseq START="2123" END="2150">the Israeli foreign minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E9" ENTITYMENTIONID="9-83" ARGNUM="2">
+      <extent>
+        <charseq START="2127" END="2133">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0090.eng-R25" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="25-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2184" END="2211">innocent people in Palestine</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E35" ENTITYMENTIONID="35-60" ARGNUM="1">
+      <extent>
+        <charseq START="2184" END="2211">innocent people in Palestine</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0090.eng-E17" ENTITYMENTIONID="17-61" ARGNUM="2">
+      <extent>
+        <charseq START="2203" END="2211">Palestine</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

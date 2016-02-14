@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001003.2000.0296.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001003.2000.0296">
+<composite_entity ID="CNN20001003.2000.0296-CE1">
+  <entity ID="CNN20001003.2000.0296-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-1" TYPE="BAR">
+      <extent>
+        <charseq START="65" END="74">researches</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="74">researches</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE2">
+  <entity ID="CNN20001003.2000.0296-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-2" TYPE="BAR">
+      <extent>
+        <charseq START="84" END="108">children under a age of 5</charseq>
+      </extent>
+      <head>
+        <charseq START="84" END="91">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-4" TYPE="PRO">
+      <extent>
+        <charseq START="119" END="122">them</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="122">them</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE3">
+  <entity ID="CNN20001003.2000.0296-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-3" TYPE="PTV">
+      <extent>
+        <charseq START="111" END="122">half of them</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="114">half</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE4">
+  <entity ID="CNN20001003.2000.0296-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="4-5" TYPE="BAR">
+      <extent>
+        <charseq START="143" END="159">unvaccinated kids</charseq>
+      </extent>
+      <head>
+        <charseq START="156" END="159">kids</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE5">
+  <entity ID="CNN20001003.2000.0296-E5" TYPE="FAC" SUBTYPE="Building" CLASS="GEN">
+    <entity_mention ID="5-6" TYPE="BAR">
+      <extent>
+        <charseq START="170" END="173">home</charseq>
+      </extent>
+      <head>
+        <charseq START="170" END="173">home</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE6">
+  <entity ID="CNN20001003.2000.0296-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-7" TYPE="BAR">
+      <extent>
+        <charseq START="186" END="193">brothers</charseq>
+      </extent>
+      <head>
+        <charseq START="186" END="193">brothers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE7">
+  <entity ID="CNN20001003.2000.0296-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="7-8" TYPE="BAR">
+      <extent>
+        <charseq START="199" END="205">sisters</charseq>
+      </extent>
+      <head>
+        <charseq START="199" END="205">sisters</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001003.2000.0296-CE8">
+  <entity ID="CNN20001003.2000.0296-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="8-9" TYPE="NOM">
+      <extent>
+        <charseq START="208" END="225">a vaccinated child</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="225">child</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001003.2000.0296-R1" TYPE="DISC">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="111" END="122">half of them</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001003.2000.0296-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="111" END="122">half of them</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001003.2000.0296-E2" ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="119" END="122">them</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

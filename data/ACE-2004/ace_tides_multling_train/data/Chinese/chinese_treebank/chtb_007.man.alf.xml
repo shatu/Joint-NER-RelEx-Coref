@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_007.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_007.man">
+<composite_entity ID="chtb_007.man-CE1">
+  <entity ID="chtb_007.man-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="PMM" ROLE="LOC">
+      <extent>
+        <charseq START="145" END="162">奉贤、莘庄、嘉
+定、松江、青浦、金山</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="162">奉贤、莘庄、嘉
+定、松江、青浦、金山</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE2">
+  <entity ID="chtb_007.man-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="145" END="146">奉贤</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="146">奉贤</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="145" END="146">奉贤</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE3">
+  <entity ID="chtb_007.man-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-4" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="148" END="149">莘庄</charseq>
+      </extent>
+      <head>
+        <charseq START="148" END="149">莘庄</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="148" END="149">莘庄</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE4">
+  <entity ID="chtb_007.man-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="151" END="153">嘉
+定</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="153">嘉
+定</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="151" END="153">嘉
+定</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE5">
+  <entity ID="chtb_007.man-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-6" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="155" END="156">松江</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="156">松江</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="155" END="156">松江</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE6">
+  <entity ID="chtb_007.man-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="158" END="159">青浦</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="159">青浦</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="158" END="159">青浦</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE7">
+  <entity ID="chtb_007.man-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="161" END="162">金山</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">金山</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="161" END="162">金山</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE8">
+  <entity ID="chtb_007.man-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="8-10" TYPE="NAM">
+      <extent>
+        <charseq START="179" END="180">崇明</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="180">崇明</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="179" END="180">崇明</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_007.man-E9" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="ATR">
+    <entity_mention ID="9-11" TYPE="NOM">
+      <extent>
+        <charseq START="182" END="187">中国第三大岛</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="187">岛</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE9">
+  <entity ID="chtb_007.man-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="10-12" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="182" END="183">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="183">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-18" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="254" END="255">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="255">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="182" END="183">中国</charseq>
+      </name>
+      <name>
+        <charseq START="254" END="255">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE10">
+  <entity ID="chtb_007.man-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="282" END="284">崇明县</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="284">崇明县</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="313" END="315">崇明县</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="315">崇明县</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="343" END="344">崇明</charseq>
+      </extent>
+      <head>
+        <charseq START="343" END="344">崇明</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="213" END="215">崇明县</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="215">崇明县</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="282" END="284">崇明县</charseq>
+      </name>
+      <name>
+        <charseq START="313" END="315">崇明县</charseq>
+      </name>
+      <name>
+        <charseq START="343" END="344">崇明</charseq>
+      </name>
+      <name>
+        <charseq START="213" END="215">崇明县</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_007.man-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="14-9" TYPE="HLS" ROLE="GPE">
+      <extent>
+        <charseq START="254" END="264">中国综合实力百强县之一</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="264">中国综合实力百强县之一</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_007.man-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="20-25" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="348" END="360">对外高度开放的大型贸易港口</charseq>
+      </extent>
+      <head>
+        <charseq START="359" END="360">港口</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE11">
+  <entity ID="chtb_007.man-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="12-14" TYPE="NOM">
+      <extent>
+        <charseq START="231" END="236">外商投资企业</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="236">企业</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE12">
+  <entity ID="chtb_007.man-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="13-15" TYPE="NOM">
+      <extent>
+        <charseq START="231" END="232">外商</charseq>
+      </extent>
+      <head>
+        <charseq START="231" END="232">外商</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE13">
+  <entity ID="chtb_007.man-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="15-17" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="254" END="262">中国综合实力百强县</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="262">县</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE14">
+  <entity ID="chtb_007.man-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-20" TYPE="NOM">
+      <extent>
+        <charseq START="282" END="288">崇明县内的单位</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="288">单位</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE15">
+  <entity ID="chtb_007.man-E17" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="17-21" TYPE="PCN">
+      <extent>
+        <charseq START="171" END="172">海关</charseq>
+      </extent>
+      <head>
+        <charseq START="171" END="172">海关</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE16">
+  <entity ID="chtb_007.man-E18" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="18-22" TYPE="PCN">
+      <extent>
+        <charseq START="301" END="302">海关</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="302">海关</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE17">
+  <entity ID="chtb_007.man-E19" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="19-23" TYPE="PCN">
+      <extent>
+        <charseq START="337" END="338">海关</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="338">海关</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE18">
+  <entity ID="chtb_007.man-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-31" TYPE="APP">
+      <extent>
+        <charseq START="72" END="76">记者夏儒阁</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="26-32" TYPE="NAM">
+      <extent>
+        <charseq START="74" END="76">夏儒阁</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="76">夏儒阁</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="76">夏儒阁</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_007.man-E27" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="27-33" TYPE="NOM">
+      <extent>
+        <charseq START="72" END="73">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="72" END="73">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE19">
+  <entity ID="chtb_007.man-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="21-1" TYPE="NAM">
+      <extent>
+        <charseq START="54" END="56">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="54" END="56">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="54" END="56">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE20">
+  <entity ID="chtb_007.man-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="57" END="58">上海</charseq>
+      </extent>
+      <head>
+        <charseq START="57" END="58">上海</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="57" END="58">上海</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE21">
+  <entity ID="chtb_007.man-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-27" TYPE="PMM">
+      <extent>
+        <charseq START="66" END="76">通讯员孔良、记者夏儒阁</charseq>
+      </extent>
+      <head>
+        <charseq START="66" END="76">通讯员孔良、记者夏儒阁</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE22">
+  <entity ID="chtb_007.man-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-28" TYPE="APP">
+      <extent>
+        <charseq START="66" END="70">通讯员孔良</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="24-29" TYPE="NAM">
+      <extent>
+        <charseq START="69" END="70">孔良</charseq>
+      </extent>
+      <head>
+        <charseq START="69" END="70">孔良</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="69" END="70">孔良</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_007.man-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-30" TYPE="NOM">
+      <extent>
+        <charseq START="66" END="68">通讯员</charseq>
+      </extent>
+      <head>
+        <charseq START="66" END="68">通讯员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE23">
+  <entity ID="chtb_007.man-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="28-19" TYPE="NAM">
+      <extent>
+        <charseq START="271" END="277">崇明海关办事处</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="277">崇明海关办事处</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-34" TYPE="NAM">
+      <extent>
+        <charseq START="80" END="101">经中国海关总署批准设立的上海海关驻崇明办事处</charseq>
+      </extent>
+      <head>
+        <charseq START="96" END="101">驻崇明办事处</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="28-37" TYPE="PRO">
+      <extent>
+        <charseq START="122" END="122">这</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="122">这</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="271" END="277">崇明海关办事处</charseq>
+      </name>
+      <name>
+        <charseq START="96" END="101">驻崇明办事处</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_007.man-E30" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="30-39" TYPE="NOM">
+      <extent>
+        <charseq START="124" END="174">上海海关为进一步推进市郊外向经济的发展，继奉贤、莘庄、嘉
+定、松江、青浦、金山之后设立的第七个海关机构</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="174">机构</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE24">
+  <entity ID="chtb_007.man-E29" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="29-35" TYPE="NAM">
+      <extent>
+        <charseq START="81" END="86">中国海关总署</charseq>
+      </extent>
+      <head>
+        <charseq START="81" END="86">中国海关总署</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="81" END="86">中国海关总署</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE25">
+  <entity ID="chtb_007.man-E31" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="31-36" TYPE="NAM">
+      <extent>
+        <charseq START="92" END="95">上海海关</charseq>
+      </extent>
+      <head>
+        <charseq START="92" END="95">上海海关</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-40" TYPE="NAM">
+      <extent>
+        <charseq START="124" END="127">上海海关</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="127">上海海关</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="92" END="95">上海海关</charseq>
+      </name>
+      <name>
+        <charseq START="124" END="127">上海海关</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_007.man-CE26">
+  <entity ID="chtb_007.man-E32" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="32-38" TYPE="NOM">
+      <extent>
+        <charseq START="134" END="135">市郊</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="135">市郊</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_007.man-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="80" END="101">经中国海关总署批准设立的上海海关驻崇明办事处</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E28" ENTITYMENTIONID="28-34" ARGNUM="1">
+      <extent>
+        <charseq START="80" END="101">经中国海关总署批准设立的上海海关驻崇明办事处</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E31" ENTITYMENTIONID="31-36" ARGNUM="2">
+      <extent>
+        <charseq START="92" END="95">上海海关</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.man-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="182" END="187">中国第三大岛</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E9" ENTITYMENTIONID="9-11" ARGNUM="1">
+      <extent>
+        <charseq START="182" END="187">中国第三大岛</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E10" ENTITYMENTIONID="10-12" ARGNUM="2">
+      <extent>
+        <charseq START="182" END="183">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.man-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="54" END="58">新华社上海</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E22" ENTITYMENTIONID="22-26" ARGNUM="1">
+      <extent>
+        <charseq START="57" END="58">上海</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E21" ENTITYMENTIONID="21-1" ARGNUM="2">
+      <extent>
+        <charseq START="54" END="56">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.man-R4" TYPE="DISC">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="254" END="264">中国综合实力百强县之一</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E14" ENTITYMENTIONID="14-9" ARGNUM="1">
+      <extent>
+        <charseq START="254" END="264">中国综合实力百强县之一</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E15" ENTITYMENTIONID="15-17" ARGNUM="2">
+      <extent>
+        <charseq START="254" END="262">中国综合实力百强县</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.man-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="254" END="262">中国综合实力百强县</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E15" ENTITYMENTIONID="15-17" ARGNUM="1">
+      <extent>
+        <charseq START="254" END="262">中国综合实力百强县</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E10" ENTITYMENTIONID="10-18" ARGNUM="2">
+      <extent>
+        <charseq START="254" END="255">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.man-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="282" END="288">崇明县内的单位</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_007.man-E16" ENTITYMENTIONID="16-20" ARGNUM="1">
+      <extent>
+        <charseq START="282" END="288">崇明县内的单位</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_007.man-E11" ENTITYMENTIONID="11-13" ARGNUM="2">
+      <extent>
+        <charseq START="282" END="284">崇明县</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

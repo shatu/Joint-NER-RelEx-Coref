@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001005.1400.1459.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001005.1400.1459">
+<entity ID="CNN20001005.1400.1459-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="80">the dixie chicks</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="80">dixie chicks</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="86" END="141">the big winners at the country music awards in
+nashville</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="100">winners</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="144" END="152">the group</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="152">group</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="80">dixie chicks</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001005.1400.1459-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="133" END="141">nashville</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="141">nashville</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="133" END="141">nashville</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001005.1400.1459-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="287" END="296">faith hill</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="296">faith hill</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="287" END="296">faith hill</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001005.1400.1459-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="334" END="351">husband tim m graw</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="351">tim m graw</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="334" END="340">husband</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="340">husband</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="342" END="351">tim m graw</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001005.1400.1459-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="382" END="385">they</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="385">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="391" END="450">the first
+married couple to win both honors in the same year</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="414">couple</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001005.1400.1459-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="476" END="489">lee ann womack</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="489">lee ann womack</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="476" END="489">lee ann womack</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001005.1400.1459-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001005.1400.1459-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001005.1400.1459-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="86" END="141">the big winners at the country music awards in
+nashville</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="86" END="141">the big winners at the country music awards in
+nashville</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="133" END="141">nashville</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

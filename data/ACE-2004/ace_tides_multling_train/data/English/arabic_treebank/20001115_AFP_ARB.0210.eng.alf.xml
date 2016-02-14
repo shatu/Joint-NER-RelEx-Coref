@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0210.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0210.eng">
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0210.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="118" END="128">Tallahassee</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="128">Tallahassee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="118" END="128">Tallahassee</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0210.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="131" END="143">United States</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="143">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="131" END="143">United States</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0210.eng-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM">
+      <extent>
+        <charseq START="153" END="155">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="153" END="155">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="153" END="155">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0210.eng-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="161" END="188">The Supreme Court in Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="177">Supreme Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="165" END="177">Supreme Court</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0210.eng-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="182" END="188">Florida</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="188">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-7" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="233" END="241">the state</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="241">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="182" END="188">Florida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0210.eng-E6" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="BAR">
+      <extent>
+        <charseq START="233" END="255">the state's authorities</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="255">authorities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0210.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0210.eng-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="USP">
+    <entity_mention ID="7-8" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="296" END="308">some counties</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="308">counties</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0210.eng-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="161" END="188">The Supreme Court in Florida</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0210.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="161" END="188">The Supreme Court in Florida</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0210.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="182" END="188">Florida</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0210.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="233" END="255">the state's authorities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0210.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="233" END="255">the state's authorities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0210.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="241">the state</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

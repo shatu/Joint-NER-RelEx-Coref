@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_176.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_176.man">
+<composite_entity ID="chtb_176.man-CE1">
+  <entity ID="chtb_176.man-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="26-39" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="161" END="167">美国和英国等国</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="167">国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE2">
+  <entity ID="chtb_176.man-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="PMM" ROLE="ORG">
+      <extent>
+        <charseq START="161" END="165">美国和英国</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="165">美国和英国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE3">
+  <entity ID="chtb_176.man-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-4" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="164" END="165">英国</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="165">英国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-5" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="191" END="192">英国</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="192">英国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-9" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="235" END="235">英</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="235">英</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-17" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="254" END="255">英国</charseq>
+      </extent>
+      <head>
+        <charseq START="254" END="255">英国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="164" END="165">英国</charseq>
+      </name>
+      <name>
+        <charseq START="191" END="192">英国</charseq>
+      </name>
+      <name>
+        <charseq START="235" END="235">英</charseq>
+      </name>
+      <name>
+        <charseq START="254" END="255">英国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE4">
+  <entity ID="chtb_176.man-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-6" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="199" END="207">１５个安理会成员国</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="207">成员国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE5">
+  <entity ID="chtb_176.man-E4" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="4-24" TYPE="NAM">
+      <extent>
+        <charseq START="46" END="48">联合国</charseq>
+      </extent>
+      <head>
+        <charseq START="46" END="48">联合国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="46" END="48">联合国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE6">
+  <entity ID="chtb_176.man-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="PMM" ROLE="ORG">
+      <extent>
+        <charseq START="233" END="239">美、英、法、苏</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="239">美、英、法、苏</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE7">
+  <entity ID="chtb_176.man-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-10" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="237" END="237">法</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="237">法</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="237" END="237">法</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE8">
+  <entity ID="chtb_176.man-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-11" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="239" END="239">苏</charseq>
+      </extent>
+      <head>
+        <charseq START="239" END="239">苏</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="239" END="239">苏</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE9">
+  <entity ID="chtb_176.man-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-12" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="246" END="247">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="247">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="246" END="247">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE10">
+  <entity ID="chtb_176.man-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-13" TYPE="APP">
+      <extent>
+        <charseq START="254" END="263">英国驻联合国大使汉内</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="9-14" TYPE="NAM">
+      <extent>
+        <charseq START="262" END="263">汉内</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="263">汉内</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="262" END="263">汉内</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_176.man-E10" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="10-15" TYPE="NOM">
+      <extent>
+        <charseq START="254" END="261">英国驻联合国大使</charseq>
+      </extent>
+      <head>
+        <charseq START="260" END="261">大使</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE11">
+  <entity ID="chtb_176.man-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="11-20" TYPE="PMM">
+      <extent>
+        <charseq START="304" END="310">记者和其他公众</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="310">记者和其他公众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE12">
+  <entity ID="chtb_176.man-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="12-21" TYPE="NOM">
+      <extent>
+        <charseq START="304" END="305">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="305">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE13">
+  <entity ID="chtb_176.man-E13" TYPE="PER" CLASS="USP">
+    <entity_mention ID="13-22" TYPE="NOM">
+      <extent>
+        <charseq START="307" END="310">其他公众</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="310">公众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE14">
+  <entity ID="chtb_176.man-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="14-1" TYPE="NAM">
+      <extent>
+        <charseq START="43" END="45">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="43" END="45">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="43" END="45">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE15">
+  <entity ID="chtb_176.man-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="15-16" TYPE="NAM">
+      <extent>
+        <charseq START="257" END="259">联合国</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="259">联合国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-26" TYPE="NAM">
+      <extent>
+        <charseq START="57" END="59">联合国</charseq>
+      </extent>
+      <head>
+        <charseq START="57" END="59">联合国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="257" END="259">联合国</charseq>
+      </name>
+      <name>
+        <charseq START="57" END="59">联合国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE16">
+  <entity ID="chtb_176.man-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="16-18" TYPE="NAM">
+      <extent>
+        <charseq START="286" END="288">安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="286" END="288">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-19" TYPE="NAM">
+      <extent>
+        <charseq START="296" END="298">安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="296" END="298">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-23" TYPE="NAM">
+      <extent>
+        <charseq START="202" END="204">安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="204">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-25" TYPE="NAM">
+      <extent>
+        <charseq START="57" END="62">联合国安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="60" END="62">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-32" TYPE="NAM">
+      <extent>
+        <charseq START="111" END="113">安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="111" END="113">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-38" TYPE="NAM">
+      <extent>
+        <charseq START="147" END="149">安理会</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="149">安理会</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="286" END="288">安理会</charseq>
+      </name>
+      <name>
+        <charseq START="296" END="298">安理会</charseq>
+      </name>
+      <name>
+        <charseq START="202" END="204">安理会</charseq>
+      </name>
+      <name>
+        <charseq START="60" END="62">安理会</charseq>
+      </name>
+      <name>
+        <charseq START="111" END="113">安理会</charseq>
+      </name>
+      <name>
+        <charseq START="147" END="149">安理会</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE17">
+  <entity ID="chtb_176.man-E17" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="17-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="82" END="83">海湾</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="83">海湾</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="82" END="83">海湾</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE18">
+  <entity ID="chtb_176.man-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="18-28" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="108">古巴和也门等国</charseq>
+      </extent>
+      <head>
+        <charseq START="108" END="108">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-33" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="123" END="124">它们</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="124">它们</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE19">
+  <entity ID="chtb_176.man-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="19-29" TYPE="PMM" ROLE="ORG">
+      <extent>
+        <charseq START="102" END="106">古巴和也门</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="106">古巴和也门</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE20">
+  <entity ID="chtb_176.man-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="20-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="103">古巴</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="103">古巴</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="102" END="103">古巴</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE21">
+  <entity ID="chtb_176.man-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="21-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="105" END="106">也门</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="106">也门</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="105" END="106">也门</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE22">
+  <entity ID="chtb_176.man-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="22-34" TYPE="NOM">
+      <extent>
+        <charseq START="128" END="136">美国为首的多国部队</charseq>
+      </extent>
+      <head>
+        <charseq START="135" END="136">部队</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE23">
+  <entity ID="chtb_176.man-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="23-35" TYPE="PCN" ROLE="ORG">
+      <extent>
+        <charseq START="133" END="134">多国</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="134">多国</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE24">
+  <entity ID="chtb_176.man-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="24-3" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="161" END="162">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="161" END="162">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-8" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="233" END="233">美</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="233">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="128" END="129">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="128" END="129">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="161" END="162">美国</charseq>
+      </name>
+      <name>
+        <charseq START="233" END="233">美</charseq>
+      </name>
+      <name>
+        <charseq START="128" END="129">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_176.man-CE25">
+  <entity ID="chtb_176.man-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="25-37" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="138" END="140">伊拉克</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="140">伊拉克</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="138" END="140">伊拉克</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_176.man-R1" TYPE="DISC">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="102" END="108">古巴和也门等国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E20" ENTITYMENTIONID="20-30" ARGNUM="1">
+      <extent>
+        <charseq START="102" END="103">古巴</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E18" ENTITYMENTIONID="18-28" ARGNUM="2">
+      <extent>
+        <charseq START="102" END="108">古巴和也门等国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="43" END="48">新华社联合国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E14" ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="43" END="45">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E4" ENTITYMENTIONID="4-24" ARGNUM="2">
+      <extent>
+        <charseq START="46" END="48">联合国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="57" END="62">联合国安理会</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E16" ENTITYMENTIONID="16-25" ARGNUM="1">
+      <extent>
+        <charseq START="57" END="62">联合国安理会</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E15" ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="57" END="59">联合国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R4" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="199" END="207">１５个安理会成员国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E3" ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="199" END="207">１５个安理会成员国</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E16" ENTITYMENTIONID="16-23" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="204">安理会</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="254" END="261">英国驻联合国大使</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E10" ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="254" END="261">英国驻联合国大使</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E15" ENTITYMENTIONID="15-16" ARGNUM="2">
+      <extent>
+        <charseq START="257" END="259">联合国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="254" END="261">英国驻联合国大使</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E10" ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="254" END="261">英国驻联合国大使</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E2" ENTITYMENTIONID="2-17" ARGNUM="2">
+      <extent>
+        <charseq START="254" END="255">英国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R7" TYPE="DISC">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="102" END="108">古巴和也门等国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E21" ENTITYMENTIONID="21-31" ARGNUM="1">
+      <extent>
+        <charseq START="105" END="106">也门</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E18" ENTITYMENTIONID="18-28" ARGNUM="2">
+      <extent>
+        <charseq START="102" END="108">古巴和也门等国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="161" END="167">美国和英国等国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E24" ENTITYMENTIONID="24-3" ARGNUM="1">
+      <extent>
+        <charseq START="161" END="162">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E26" ENTITYMENTIONID="26-39" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="167">美国和英国等国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_176.man-R9" TYPE="DISC">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="161" END="167">美国和英国等国</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_176.man-E2" ENTITYMENTIONID="2-4" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="165">英国</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_176.man-E26" ENTITYMENTIONID="26-39" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="167">美国和英国等国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

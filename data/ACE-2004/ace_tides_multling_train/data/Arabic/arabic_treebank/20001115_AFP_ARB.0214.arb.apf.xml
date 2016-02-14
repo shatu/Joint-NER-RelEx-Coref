@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0214.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0214.arb">
+<entity ID="20001115_AFP_ARB.0214.arb-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="445" END="451">العاصمة</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="451">العاصمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="915" END="925">ثمانية جرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="925">جرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E3" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="931" END="946">مستشفيات باريسية</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="938">مستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="105" END="109">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="105" END="109">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="940" END="946">باريسية</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="946">باريسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="238" END="242">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="242">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-41" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="272" END="276">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="276">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="105" END="109">باريس</charseq>
+    </name>
+    <name>
+      <charseq START="238" END="242">باريس</charseq>
+    </name>
+    <name>
+      <charseq START="272" END="276">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="957" END="962">التاسع</charseq>
+    </extent>
+    <head>
+      <charseq START="957" END="962">التاسع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-7" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="964" END="967">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="964" END="967">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="969" END="969">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="969">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1001" END="1019">مدينة ليل في الشمال</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1009">ليل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1007" END="1009">ليل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E7" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1014" END="1019">الشمال</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1019">الشمال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="461" END="489">مدير الشركة الباريسية للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="464">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="491" END="502">فرانسوا دوبو</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="502">فرانسوا دوبو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="781" END="784">دوبو</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="784">دوبو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-28" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="786" END="789">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="789">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="836" END="836">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="836" END="836">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="491" END="502">فرانسوا دوبو</charseq>
+    </name>
+    <name>
+      <charseq START="781" END="784">دوبو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="608" END="624">المسؤول عن الشبكة</charseq>
+    </extent>
+    <head>
+      <charseq START="608" END="614">المسؤول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="121">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="121">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="118" END="121">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="589" END="599">اربعة اشخاص</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="599">اشخاص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="605" END="606">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="606">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="631" END="632">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="632">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="641" END="661">هؤلاء الاشخاص الاربعة</charseq>
+    </extent>
+    <head>
+      <charseq START="641" END="645">هؤلاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="647" END="653">الاشخاص</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="653">الاشخاص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="131" END="141">اربعة اشخاص</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="141">اشخاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="680" END="685">الجرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="685">الجرحى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="691" END="692">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="692">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="698" END="699">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="699">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="727" END="728">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="728">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="798" END="798">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="798">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-34" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="149" END="158">تسعة آخرون</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="152">تسعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="157" END="158">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="158">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="179" END="180">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="180">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E15" TYPE="PER" CLASS="USP">
+  <entity_mention ID="15-37" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="173" END="180">عدد منهم</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="175">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E16" TYPE="FAC" SUBTYPE="Plant" CLASS="USP">
+  <entity_mention ID="16-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="619" END="624">الشبكة</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="624">الشبكة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="198" END="209">شبكة للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="209">شبكة للتدفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-47" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="368" END="379">شبكة للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="379">شبكة للتدفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="381" END="381">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="381">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="255" END="276">لرجال
+الاطفاء في باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="259">لرجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="524" END="530">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="530">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-42" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="282" END="328">جميع الضحايا موظفون في الشركة الباريسية للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="285">جميع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="287" END="293">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="293">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="295" END="300">موظفون</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="300">موظفون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-14" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="466" END="489">الشركة الباريسية للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="489">الشركة الباريسية للتدفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="870" END="893">الشركة
+الباريسية للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="893">الشركة
+الباريسية للتدفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="305" END="328">الشركة الباريسية للتدفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="328">الشركة الباريسية للتدفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="870" END="893">الشركة
+الباريسية للتدفئة</charseq>
+    </name>
+    <name>
+      <charseq START="305" END="328">الشركة الباريسية للتدفئة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E20" TYPE="PER" CLASS="USP">
+  <entity_mention ID="20-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="339" END="347">مصدر امني</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="342">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0214.arb-E21" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="21-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="423" END="451">بوابة كليغنانتور شمال العاصمة</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="438">بوابة كليغنانتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="423" END="438">بوابة كليغنانتور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001115_AFP_ARB.0214.arb-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="255" END="276">لرجال
+الاطفاء في باريس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-40" ARGNUM="1">
+      <extent>
+        <charseq START="255" END="276">لرجال
+الاطفاء في باريس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-41" ARGNUM="2">
+      <extent>
+        <charseq START="272" END="276">باريس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R2" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E19" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="282" END="328">جميع الضحايا موظفون في الشركة الباريسية للتدفئة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-43" ARGNUM="1">
+      <extent>
+        <charseq START="287" END="293">الضحايا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-45" ARGNUM="2">
+      <extent>
+        <charseq START="305" END="328">الشركة الباريسية للتدفئة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E18" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="282" END="328">جميع الضحايا موظفون في الشركة الباريسية للتدفئة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-42" ARGNUM="1">
+      <extent>
+        <charseq START="282" END="328">جميع الضحايا موظفون في الشركة الباريسية للتدفئة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-43" ARGNUM="2">
+      <extent>
+        <charseq START="287" END="293">الضحايا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="423" END="451">بوابة كليغنانتور شمال العاصمة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-49" ARGNUM="1">
+      <extent>
+        <charseq START="423" END="451">بوابة كليغنانتور شمال العاصمة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="445" END="451">العاصمة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E19" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="461" END="489">مدير الشركة الباريسية للتدفئة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="461" END="489">مدير الشركة الباريسية للتدفئة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-14" ARGNUM="2">
+      <extent>
+        <charseq START="466" END="489">الشركة الباريسية للتدفئة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E16" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="608" END="624">المسؤول عن الشبكة</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-19" ARGNUM="1">
+      <extent>
+        <charseq START="608" END="624">المسؤول عن الشبكة</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-21" ARGNUM="2">
+      <extent>
+        <charseq START="619" END="624">الشبكة</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0214.arb-R7" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0214.arb-E4" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="931" END="946">مستشفيات باريسية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="931" END="946">مستشفيات باريسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="940" END="946">باريسية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

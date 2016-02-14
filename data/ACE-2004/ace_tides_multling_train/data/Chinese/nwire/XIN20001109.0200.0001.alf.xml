@@ -1,0 +1,900 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="XIN20001109.0200.0001.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="XIN20001109.0200.0001">
+<composite_entity ID="XIN20001109.0200.0001-CE1">
+  <entity ID="XIN20001109.0200.0001-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-51" TYPE="NOM">
+      <extent>
+        <charseq START="221" END="228">４・
+８５万观众</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="228">观众</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE2">
+  <entity ID="XIN20001109.0200.0001-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="234" END="242">汉堡人民公园体育场</charseq>
+      </extent>
+      <head>
+        <charseq START="236" END="242">人民公园体育场</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="236" END="242">人民公园体育场</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE3">
+  <entity ID="XIN20001109.0200.0001-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="234" END="235">汉堡</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="235">汉堡</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="234" END="235">汉堡</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE4">
+  <entity ID="XIN20001109.0200.0001-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="APP">
+      <extent>
+        <charseq START="268" END="278">伊朗籍球员马达
+维基亚</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="4-6" TYPE="NAM">
+      <extent>
+        <charseq START="273" END="278">马达
+维基亚</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="278">马达
+维基亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="273" END="278">马达
+维基亚</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001109.0200.0001-E5" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="5-7" TYPE="NOM">
+      <extent>
+        <charseq START="268" END="272">伊朗籍球员</charseq>
+      </extent>
+      <head>
+        <charseq START="271" END="272">球员</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE5">
+  <entity ID="XIN20001109.0200.0001-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="268" END="269">伊朗</charseq>
+      </extent>
+      <head>
+        <charseq START="268" END="269">伊朗</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="268" END="269">伊朗</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE6">
+  <entity ID="XIN20001109.0200.0001-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-13" TYPE="NAM">
+      <extent>
+        <charseq START="324" END="329">罗伊・
+马凯</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="329">罗伊・
+马凯</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="324" END="329">罗伊・
+马凯</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE7">
+  <entity ID="XIN20001109.0200.0001-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="9-14" TYPE="NAM">
+      <extent>
+        <charseq START="357" END="372">今晚同组的希腊雅典佩纳蒂内科斯队</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="372">佩纳蒂内科斯队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="366" END="372">佩纳蒂内科斯队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE8">
+  <entity ID="XIN20001109.0200.0001-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="362" END="365">希腊雅典</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="365">雅典</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="364" END="365">雅典</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE9">
+  <entity ID="XIN20001109.0200.0001-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="11-16" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="362" END="363">希腊</charseq>
+      </extent>
+      <head>
+        <charseq START="362" END="363">希腊</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="362" END="363">希腊</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE10">
+  <entity ID="XIN20001109.0200.0001-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-17" TYPE="NAM">
+      <extent>
+        <charseq START="381" END="385">尤文图斯队</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="385">尤文图斯队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="381" END="385">尤文图斯队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE11">
+  <entity ID="XIN20001109.0200.0001-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="13-20" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="434" END="439">挪威特隆赫姆</charseq>
+      </extent>
+      <head>
+        <charseq START="436" END="439">特隆赫姆</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="436" END="439">特隆赫姆</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE12">
+  <entity ID="XIN20001109.0200.0001-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="434" END="435">挪威</charseq>
+      </extent>
+      <head>
+        <charseq START="434" END="435">挪威</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="434" END="435">挪威</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE13">
+  <entity ID="XIN20001109.0200.0001-E15" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="15-22" TYPE="APP">
+      <extent>
+        <charseq START="455" END="462">主教练希茨费尔德</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="15-23" TYPE="NAM">
+      <extent>
+        <charseq START="458" END="462">希茨费尔德</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="462">希茨费尔德</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="458" END="462">希茨费尔德</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001109.0200.0001-E16" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="16-25" TYPE="NOM">
+      <extent>
+        <charseq START="455" END="457">主教练</charseq>
+      </extent>
+      <head>
+        <charseq START="455" END="457">主教练</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE14">
+  <entity ID="XIN20001109.0200.0001-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-26" TYPE="NOM">
+      <extent>
+        <charseq START="467" END="469">主
+力</charseq>
+      </extent>
+      <head>
+        <charseq START="467" END="469">主
+力</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE15">
+  <entity ID="XIN20001109.0200.0001-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-27" TYPE="NAM">
+      <extent>
+        <charseq START="473" END="480">施特凡・埃芬贝格</charseq>
+      </extent>
+      <head>
+        <charseq START="473" END="480">施特凡・埃芬贝格</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="473" END="480">施特凡・埃芬贝格</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE16">
+  <entity ID="XIN20001109.0200.0001-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-28" TYPE="NOM">
+      <extent>
+        <charseq START="496" END="497">对手</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="497">对手</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE17">
+  <entity ID="XIN20001109.0200.0001-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-30" TYPE="NAM">
+      <extent>
+        <charseq START="531" END="537">延斯・捷里米斯</charseq>
+      </extent>
+      <head>
+        <charseq START="531" END="537">延斯・捷里米斯</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="531" END="537">延斯・捷里米斯</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE18">
+  <entity ID="XIN20001109.0200.0001-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="21-31" TYPE="NOM">
+      <extent>
+        <charseq START="565" END="577">参加欧洲杯赛的３支德国球队</charseq>
+      </extent>
+      <head>
+        <charseq START="576" END="577">球队</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE19">
+  <entity ID="XIN20001109.0200.0001-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="22-34" TYPE="NAM">
+      <extent>
+        <charseq START="595" END="599">勒沃库森队</charseq>
+      </extent>
+      <head>
+        <charseq START="595" END="599">勒沃库森队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="595" END="599">勒沃库森队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE20">
+  <entity ID="XIN20001109.0200.0001-E24" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="24-24" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="91" END="92">欧洲</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="92">欧洲</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="91" END="92">欧洲</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE21">
+  <entity ID="XIN20001109.0200.0001-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="23-1" TYPE="NAM">
+      <extent>
+        <charseq START="74" END="76">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="74" END="76">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="74" END="76">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE22">
+  <entity ID="XIN20001109.0200.0001-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="26-36" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="77" END="78">柏林</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="78">柏林</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="77" END="78">柏林</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE23">
+  <entity ID="XIN20001109.0200.0001-E27" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="27-37" TYPE="APP">
+      <extent>
+        <charseq START="86" END="89">记者王东</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="27-38" TYPE="NAM">
+      <extent>
+        <charseq START="88" END="89">王东</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="89">王东</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="88" END="89">王东</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001109.0200.0001-E28" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="28-39" TYPE="NOM">
+      <extent>
+        <charseq START="86" END="87">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="86" END="87">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE24">
+  <entity ID="XIN20001109.0200.0001-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="29-40" TYPE="NOM">
+      <extent>
+        <charseq START="114" END="119">两支德国球队</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="119">球队</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE25">
+  <entity ID="XIN20001109.0200.0001-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="30-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="574" END="575">德国</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="575">德国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="116" END="117">德国</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="117">德国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="574" END="575">德国</charseq>
+      </name>
+      <name>
+        <charseq START="116" END="117">德国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE26">
+  <entity ID="XIN20001109.0200.0001-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="31-42" TYPE="NOM">
+      <extent>
+        <charseq START="122" END="124">对
+手</charseq>
+      </extent>
+      <head>
+        <charseq START="122" END="124">对
+手</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE27">
+  <entity ID="XIN20001109.0200.0001-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="32-19" TYPE="NAM">
+      <extent>
+        <charseq START="419" END="429">已经出线的拜仁慕尼黑队</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="429">拜仁慕尼黑队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-29" TYPE="NAM">
+      <extent>
+        <charseq START="505" END="508">慕尼黑队</charseq>
+      </extent>
+      <head>
+        <charseq START="505" END="508">慕尼黑队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-33" TYPE="NAM">
+      <extent>
+        <charseq START="580" END="586">拜仁慕尼黑
+队</charseq>
+      </extent>
+      <head>
+        <charseq START="580" END="586">拜仁慕尼黑
+队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-43" TYPE="NAM">
+      <extent>
+        <charseq START="130" END="135">拜仁慕尼黑队</charseq>
+      </extent>
+      <head>
+        <charseq START="130" END="135">拜仁慕尼黑队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="424" END="429">拜仁慕尼黑队</charseq>
+      </name>
+      <name>
+        <charseq START="505" END="508">慕尼黑队</charseq>
+      </name>
+      <name>
+        <charseq START="580" END="586">拜仁慕尼黑
+队</charseq>
+      </name>
+      <name>
+        <charseq START="130" END="135">拜仁慕尼黑队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE28">
+  <entity ID="XIN20001109.0200.0001-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="33-4" TYPE="NAM">
+      <extent>
+        <charseq START="246" END="248">汉堡队</charseq>
+      </extent>
+      <head>
+        <charseq START="246" END="248">汉堡队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-9" TYPE="NAM">
+      <extent>
+        <charseq START="287" END="289">汉堡队</charseq>
+      </extent>
+      <head>
+        <charseq START="287" END="289">汉堡队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-18" TYPE="NAM">
+      <extent>
+        <charseq START="402" END="405">汉堡
+队</charseq>
+      </extent>
+      <head>
+        <charseq START="402" END="405">汉堡
+队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-35" TYPE="NAM">
+      <extent>
+        <charseq START="610" END="613">汉
+堡队</charseq>
+      </extent>
+      <head>
+        <charseq START="610" END="613">汉
+堡队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-44" TYPE="NAM">
+      <extent>
+        <charseq START="146" END="148">汉堡队</charseq>
+      </extent>
+      <head>
+        <charseq START="146" END="148">汉堡队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-45" TYPE="NAM">
+      <extent>
+        <charseq START="173" END="175">汉堡队</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="175">汉堡队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="287" END="289">汉堡队</charseq>
+      </name>
+      <name>
+        <charseq START="402" END="405">汉堡
+队</charseq>
+      </name>
+      <name>
+        <charseq START="610" END="613">汉
+堡队</charseq>
+      </name>
+      <name>
+        <charseq START="146" END="148">汉堡队</charseq>
+      </name>
+      <name>
+        <charseq START="173" END="175">汉堡队</charseq>
+      </name>
+      <name>
+        <charseq START="246" END="248">汉堡队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE29">
+  <entity ID="XIN20001109.0200.0001-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="7-12" TYPE="NOM">
+      <extent>
+        <charseq START="308" END="309">对手</charseq>
+      </extent>
+      <head>
+        <charseq START="308" END="309">对手</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="XIN20001109.0200.0001-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="25-47" TYPE="NAM">
+      <extent>
+        <charseq START="185" END="199">成绩最佳的西班牙拉科鲁
+尼亚队</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="199">拉科鲁
+尼亚队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="193" END="199">拉科鲁
+尼亚队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="XIN20001109.0200.0001-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="34-10" TYPE="APP">
+      <extent>
+        <charseq START="308" END="315">对手拉科鲁尼亚队</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="34-11" TYPE="NAM">
+      <extent>
+        <charseq START="310" END="315">拉科鲁尼亚队</charseq>
+      </extent>
+      <head>
+        <charseq START="310" END="315">拉科鲁尼亚队</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-46" TYPE="NOM">
+      <extent>
+        <charseq START="173" END="183">汉堡队今晚在Ｅ组的对手</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="183">对手</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-49" TYPE="NOM">
+      <extent>
+        <charseq START="201" END="206">这支西班牙队</charseq>
+      </extent>
+      <head>
+        <charseq START="206" END="206">队</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="310" END="315">拉科鲁尼亚队</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="XIN20001109.0200.0001-CE30">
+  <entity ID="XIN20001109.0200.0001-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="35-48" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="190" END="192">西班牙</charseq>
+      </extent>
+      <head>
+        <charseq START="190" END="192">西班牙</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-50" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="203" END="205">西班牙</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="205">西班牙</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="190" END="192">西班牙</charseq>
+      </name>
+      <name>
+        <charseq START="203" END="205">西班牙</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="XIN20001109.0200.0001-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="74" END="78">新华社柏林</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E23" ENTITYMENTIONID="23-1" ARGNUM="1">
+      <extent>
+        <charseq START="74" END="76">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E26" ENTITYMENTIONID="26-36" ARGNUM="2">
+      <extent>
+        <charseq START="77" END="78">柏林</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="114" END="119">两支德国球队</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E29" ENTITYMENTIONID="29-40" ARGNUM="1">
+      <extent>
+        <charseq START="114" END="119">两支德国球队</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E30" ENTITYMENTIONID="30-41" ARGNUM="2">
+      <extent>
+        <charseq START="116" END="117">德国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="185" END="199">成绩最佳的西班牙拉科鲁
+尼亚队</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E25" ENTITYMENTIONID="25-47" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="199">成绩最佳的西班牙拉科鲁
+尼亚队</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E35" ENTITYMENTIONID="35-48" ARGNUM="2">
+      <extent>
+        <charseq START="190" END="192">西班牙</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="201" END="206">这支西班牙队</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E34" ENTITYMENTIONID="34-49" ARGNUM="1">
+      <extent>
+        <charseq START="201" END="206">这支西班牙队</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E35" ENTITYMENTIONID="35-50" ARGNUM="2">
+      <extent>
+        <charseq START="203" END="205">西班牙</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="234" END="242">汉堡人民公园体育场</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="234" END="242">汉堡人民公园体育场</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="234" END="235">汉堡</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="268" END="272">伊朗籍球员</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E5" ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="268" END="272">伊朗籍球员</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E6" ENTITYMENTIONID="6-8" ARGNUM="2">
+      <extent>
+        <charseq START="268" END="269">伊朗</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R7" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="357" END="372">今晚同组的希腊雅典佩纳蒂内科斯队</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E9" ENTITYMENTIONID="9-14" ARGNUM="1">
+      <extent>
+        <charseq START="357" END="372">今晚同组的希腊雅典佩纳蒂内科斯队</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E10" ENTITYMENTIONID="10-15" ARGNUM="2">
+      <extent>
+        <charseq START="362" END="365">希腊雅典</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R8" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="362" END="365">希腊雅典</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E10" ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="362" END="365">希腊雅典</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E11" ENTITYMENTIONID="11-16" ARGNUM="2">
+      <extent>
+        <charseq START="362" END="363">希腊</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="434" END="439">挪威特隆赫姆</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E13" ENTITYMENTIONID="13-20" ARGNUM="1">
+      <extent>
+        <charseq START="434" END="439">挪威特隆赫姆</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E14" ENTITYMENTIONID="14-21" ARGNUM="2">
+      <extent>
+        <charseq START="434" END="435">挪威</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="565" END="577">参加欧洲杯赛的３支德国球队</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E21" ENTITYMENTIONID="21-31" ARGNUM="1">
+      <extent>
+        <charseq START="565" END="577">参加欧洲杯赛的３支德国球队</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E30" ENTITYMENTIONID="30-32" ARGNUM="2">
+      <extent>
+        <charseq START="574" END="575">德国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="XIN20001109.0200.0001-R11" TYPE="EMP-ORG" SUBTYPE="Other">
+  <relation_mention ID="11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="173" END="183">汉堡队今晚在Ｅ组的对手</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E34" ENTITYMENTIONID="34-46" ARGNUM="1">
+      <extent>
+        <charseq START="173" END="183">汉堡队今晚在Ｅ组的对手</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="XIN20001109.0200.0001-E33" ENTITYMENTIONID="33-45" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="175">汉堡队</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

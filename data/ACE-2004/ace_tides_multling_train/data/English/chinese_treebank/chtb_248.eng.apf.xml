@@ -1,0 +1,982 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_248.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_248.eng">
+<entity ID="chtb_248.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-8" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="532" END="552">second Prime Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="552">Minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1000" END="1029">Hun Sen, second prime
+minister</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1006">Hun Sen</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-30" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1009" END="1029">second prime
+minister</charseq>
+    </extent>
+    <head>
+      <charseq START="1022" END="1029">minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="523" END="552">Hun Sen,
+second Prime Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="529">Hun Sen</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1000" END="1006">Hun Sen</charseq>
+    </name>
+    <name>
+      <charseq START="523" END="529">Hun Sen</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="498" END="517">first Prime Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="517">Minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="887" END="997">Ranaridh,
+chairman of the Funcinpec Party and first prime minister of the
+government of the Kingdom of Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="894">Ranaridh</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="480" END="517">Norodom Ranaridh, first Prime Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="495">Norodom Ranaridh</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="480" END="495">Norodom Ranaridh</charseq>
+    </name>
+    <name>
+      <charseq START="887" END="894">Ranaridh</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E4" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+  <entity_mention ID="4-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="589" END="607">the Ministry
+Office</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="607">Ministry
+Office</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="593" END="607">Ministry
+Office</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="614" END="628">Beny Weidiaunuo</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="628">Beny Weidiaunuo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-6" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="631" END="693">recently posted UN Secretary General
+representative to Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="681">representative</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="721" END="730">Weidiaunuo</charseq>
+    </extent>
+    <head>
+      <charseq START="721" END="730">Weidiaunuo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1487" END="1504">his representative</charseq>
+    </extent>
+    <head>
+      <charseq START="1491" END="1504">representative</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1542" END="1551">Weidiaunuo</charseq>
+    </extent>
+    <head>
+      <charseq START="1542" END="1551">Weidiaunuo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1568" END="1569">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1568" END="1569">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1542" END="1551">Weidiaunuo</charseq>
+    </name>
+    <name>
+      <charseq START="614" END="628">Beny Weidiaunuo</charseq>
+    </name>
+    <name>
+      <charseq START="721" END="730">Weidiaunuo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="647" END="666">UN Secretary General</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="658">Secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1443" END="1466">the UN Secretary
+General</charseq>
+    </extent>
+    <head>
+      <charseq START="1450" END="1458">Secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1487" END="1489">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1487" END="1489">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1602" END="1625">the UN
+Secretary General</charseq>
+    </extent>
+    <head>
+      <charseq START="1609" END="1617">Secretary</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E8" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="647" END="648">UN</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="648">UN</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-41" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1447" END="1448">UN</charseq>
+    </extent>
+    <head>
+      <charseq START="1447" END="1448">UN</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-48" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1606" END="1607">UN</charseq>
+    </extent>
+    <head>
+      <charseq START="1606" END="1607">UN</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="736" END="779">the spokesman to the Prime
+Minister's Office</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="748">spokesman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="753" END="779">the Prime
+Minister's Office</charseq>
+    </extent>
+    <head>
+      <charseq START="774" END="779">Office</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="753" END="770">the Prime
+Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="763" END="770">Minister</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="789" END="797">reporters</charseq>
+    </extent>
+    <head>
+      <charseq START="789" END="797">reporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="804" END="884">Xiesong, chairman of the
+Cambodian People's Party and National Assembly president</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="810">Xiesong</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="804" END="810">Xiesong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="813" END="852">chairman of the
+Cambodian People's Party</charseq>
+    </extent>
+    <head>
+      <charseq START="813" END="820">chairman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-20" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="858" END="884">National Assembly president</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="884">president</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="825" END="852">the
+Cambodian People's Party</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="852">Cambodian People's Party</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="829" END="852">Cambodian People's Party</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="18-22" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="858" END="874">National Assembly</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="874">National Assembly</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="897" END="927">chairman of the Funcinpec Party</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="904">chairman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="933" END="997">first prime minister of the
+government of the Kingdom of Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="952">minister</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="23-27" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="957" END="997">the
+government of the Kingdom of Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="961" END="970">government</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1036" END="1092">Khieu Samphon, chairman of the Cambodian Democratic
+Party</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1048">Khieu Samphon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-32" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1051" END="1092">chairman of the Cambodian Democratic
+Party</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1058">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1036" END="1048">Khieu Samphon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="153" END="170">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="170">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="153" END="170">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E27" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="27-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1063" END="1092">the Cambodian Democratic
+Party</charseq>
+    </extent>
+    <head>
+      <charseq START="1067" END="1092">Cambodian Democratic
+Party</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1067" END="1092">Cambodian Democratic
+Party</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E28" TYPE="PER" CLASS="USP">
+  <entity_mention ID="28-36" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1312" END="1321">both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="1317" END="1321">sides</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="30-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="909" END="927">the Funcinpec Party</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="927">Funcinpec Party</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="913" END="927">Funcinpec Party</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="31-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1188" END="1197">Phnom Penh</charseq>
+    </extent>
+    <head>
+      <charseq START="1188" END="1197">Phnom Penh</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="173" END="182">Phnom Penh</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="182">Phnom Penh</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-54" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="250" END="253">here</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="253">here</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1188" END="1197">Phnom Penh</charseq>
+    </name>
+    <name>
+      <charseq START="173" END="182">Phnom Penh</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E32" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="32-49" TYPE="NOM" LDCTYPE="MWH" LDCATR="FALSE">
+    <extent>
+      <charseq START="210" END="234">Heping Xing
+and Ximei Cai</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="234">Heping Xing
+and Ximei Cai</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-52" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="200" END="208">reporters</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="208">reporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="244" END="248">staff</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="248">staff</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E35" TYPE="PER" CLASS="USP">
+  <entity_mention ID="35-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="269" END="303">various Cambodian parties concerned</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="293">parties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.eng-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="36-2" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="557" END="579">the Kingdom of Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="579">Kingdom of Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-11" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="686" END="693">Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="693">Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="975" END="997">the Kingdom of Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="997">Kingdom of Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1348" END="1355">Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="1348" END="1355">Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-39" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1402" END="1410">Cambodian</charseq>
+    </extent>
+    <head>
+      <charseq START="1402" END="1410">Cambodian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1509" END="1516">Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="1509" END="1516">Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-56" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="277" END="285">Cambodian</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="285">Cambodian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-57" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="414" END="421">Cambodia</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="421">Cambodia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="979" END="997">Kingdom of Cambodia</charseq>
+    </name>
+    <name>
+      <charseq START="1348" END="1355">Cambodia</charseq>
+    </name>
+    <name>
+      <charseq START="1509" END="1516">Cambodia</charseq>
+    </name>
+    <name>
+      <charseq START="414" END="421">Cambodia</charseq>
+    </name>
+    <name>
+      <charseq START="561" END="579">Kingdom of Cambodia</charseq>
+    </name>
+    <name>
+      <charseq START="686" END="693">Cambodia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1201" END="1208">Sihanouk</charseq>
+    </extent>
+    <head>
+      <charseq START="1201" END="1208">Sihanouk</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="441">King
+Sihanouk</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="441">Sihanouk</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-59" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="429" END="432">King</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="432">King</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1201" END="1208">Sihanouk</charseq>
+    </name>
+    <name>
+      <charseq START="434" END="441">Sihanouk</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.eng-E40" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="40-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1394" END="1426">The two Cambodian prime ministers</charseq>
+    </extent>
+    <head>
+      <charseq START="1418" END="1426">ministers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_248.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E36" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="523" END="579">Hun Sen,
+second Prime Minister of the Kingdom of Cambodia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-62" ARGNUM="1">
+      <extent>
+        <charseq START="523" END="552">Hun Sen,
+second Prime Minister</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-2" ARGNUM="2">
+      <extent>
+        <charseq START="557" END="579">the Kingdom of Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E26" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="153" END="234">Xinhua News Agency, Phnom Penh, April 23rd, by reporters Heping Xing
+and Ximei Cai</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-49" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="234">Heping Xing
+and Ximei Cai</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-1" ARGNUM="2">
+      <extent>
+        <charseq START="153" END="170">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E31" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="173" END="234">Phnom Penh, April 23rd, by reporters Heping Xing
+and Ximei Cai</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-49" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="234">Heping Xing
+and Ximei Cai</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-51" ARGNUM="2">
+      <extent>
+        <charseq START="173" END="182">Phnom Penh</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E31" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="244" END="253">staff here</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-53" ARGNUM="1">
+      <extent>
+        <charseq START="244" END="248">staff</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-54" ARGNUM="2">
+      <extent>
+        <charseq START="250" END="253">here</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E36" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="414" END="441">Cambodia which King
+Sihanouk</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-58" ARGNUM="1">
+      <extent>
+        <charseq START="429" END="441">King
+Sihanouk</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-57" ARGNUM="2">
+      <extent>
+        <charseq START="414" END="421">Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E17" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="813" END="852">chairman of the
+Cambodian People's Party</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-19" ARGNUM="1">
+      <extent>
+        <charseq START="813" END="852">chairman of the
+Cambodian People's Party</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-21" ARGNUM="2">
+      <extent>
+        <charseq START="825" END="852">the
+Cambodian People's Party</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E18" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="858" END="884">National Assembly president</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-20" ARGNUM="1">
+      <extent>
+        <charseq START="858" END="884">National Assembly president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-22" ARGNUM="2">
+      <extent>
+        <charseq START="858" END="874">National Assembly</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E8" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="614" END="693">Beny Weidiaunuo, recently posted UN Secretary General
+representative to Cambodia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="614" END="628">Beny Weidiaunuo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-10" ARGNUM="2">
+      <extent>
+        <charseq START="647" END="648">UN</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R9" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E36" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="614" END="693">Beny Weidiaunuo, recently posted UN Secretary General
+representative to Cambodia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="614" END="628">Beny Weidiaunuo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-11" ARGNUM="2">
+      <extent>
+        <charseq START="686" END="693">Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E10" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="736" END="779">the spokesman to the Prime
+Minister's Office</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-13" ARGNUM="1">
+      <extent>
+        <charseq START="736" END="779">the spokesman to the Prime
+Minister's Office</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-14" ARGNUM="2">
+      <extent>
+        <charseq START="753" END="779">the Prime
+Minister's Office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E30" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="897" END="927">chairman of the Funcinpec Party</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-25" ARGNUM="1">
+      <extent>
+        <charseq START="897" END="927">chairman of the Funcinpec Party</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-50" ARGNUM="2">
+      <extent>
+        <charseq START="909" END="927">the Funcinpec Party</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E23" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="933" END="997">first prime minister of the
+government of the Kingdom of Cambodia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-26" ARGNUM="1">
+      <extent>
+        <charseq START="933" END="997">first prime minister of the
+government of the Kingdom of Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-27" ARGNUM="2">
+      <extent>
+        <charseq START="957" END="997">the
+government of the Kingdom of Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E27" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1051" END="1092">chairman of the Cambodian Democratic
+Party</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-32" ARGNUM="1">
+      <extent>
+        <charseq START="1051" END="1092">chairman of the Cambodian Democratic
+Party</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-33" ARGNUM="2">
+      <extent>
+        <charseq START="1063" END="1092">the Cambodian Democratic
+Party</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R14" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E5" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1487" END="1504">his representative</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-43" ARGNUM="1">
+      <extent>
+        <charseq START="1487" END="1489">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-42" ARGNUM="2">
+      <extent>
+        <charseq START="1487" END="1504">his representative</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R15" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E36" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="269" END="303">various Cambodian parties concerned</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-55" ARGNUM="1">
+      <extent>
+        <charseq START="269" END="303">various Cambodian parties concerned</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-56" ARGNUM="2">
+      <extent>
+        <charseq START="277" END="285">Cambodian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.eng-R16" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_248.eng-E36" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="chtb_248.eng-E2" ARGNUM="1" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="480" END="579">Norodom Ranaridh, first Prime Minister and Hun Sen,
+second Prime Minister of the Kingdom of Cambodia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-2" ARGNUM="2">
+      <extent>
+        <charseq START="557" END="579">the Kingdom of Cambodia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-61" ARGNUM="1">
+      <extent>
+        <charseq START="480" END="517">Norodom Ranaridh, first Prime Minister</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

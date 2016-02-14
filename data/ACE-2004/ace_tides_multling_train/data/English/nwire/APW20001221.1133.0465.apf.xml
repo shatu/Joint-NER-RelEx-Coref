@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="APW20001221.1133.0465.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="APW20001221.1133.0465">
+<entity ID="APW20001221.1133.0465-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="110" END="119">WASHINGTON</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="119">WASHINGTON</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="110" END="119">WASHINGTON</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001221.1133.0465-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="122" END="123">AP</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="123">AP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="122" END="123">AP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001221.1133.0465-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="132" END="135">U.S.</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="135">U.S.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="259" END="272">the government</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="272">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="331" END="337">America</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="337">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="982" END="988">America</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="988">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="331" END="337">America</charseq>
+    </name>
+    <name>
+      <charseq START="982" END="988">America</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="APW20001221.1133.0465-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="375" END="397">The Commerce Department</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="397">Commerce Department</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="379" END="397">Commerce Department</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+</document>
+</source_file>

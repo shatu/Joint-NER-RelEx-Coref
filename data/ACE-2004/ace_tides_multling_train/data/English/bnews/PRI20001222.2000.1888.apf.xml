@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001222.2000.1888.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001222.2000.1888">
+<entity ID="PRI20001222.2000.1888-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="419" END="438">a Palestinian worker</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="438">worker</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="494" END="512">another Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="502" END="512">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="515" END="524">a teenager</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="524">teenager</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="539" END="554">Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="554">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E5" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="USP">
+  <entity_mention ID="5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="603" END="623">the
+Palestinian areas</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="623">areas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-12" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="664" END="669">Muslim</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="669">Muslim</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="539" END="545">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="539" END="545">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="684" END="695">the Israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="695">Israelis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-31" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="328" END="334">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="334">Israeli</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E8" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="708" END="755">Muslims under the age of 45 and
+in some cases 35</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="714">Muslims</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E9" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="773" END="794">Jerusalem's holy sites</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="794">sites</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="10-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="815" END="822">BBC News</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="822">BBC News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="815" END="822">BBC News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001222.2000.1888-E11" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="11-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="93" END="105">the West Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="97" END="105">West Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="479" END="491">the West Bank</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="491">West Bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="483" END="491">West Bank</charseq>
+    </name>
+    <name>
+      <charseq START="97" END="105">West Bank</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001222.2000.1888-E12" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="12-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="457" END="470">the Gaza Strip</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="470">Gaza Strip</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="111" END="120">Gaza Strip</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="120">Gaza Strip</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="461" END="470">Gaza Strip</charseq>
+    </name>
+    <name>
+      <charseq START="111" END="120">Gaza Strip</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001222.2000.1888-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="797" END="812">Hillary
+Anderson</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="812">Hillary
+Anderson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="180">Hillary Anderson</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="180">Hillary Anderson</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="797" END="812">Hillary
+Anderson</charseq>
+    </name>
+    <name>
+      <charseq START="165" END="180">Hillary Anderson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001222.2000.1888-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="773" END="781">Jerusalem</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="781">Jerusalem</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="825" END="833">Jerusalem</charseq>
+    </extent>
+    <head>
+      <charseq START="825" END="833">Jerusalem</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="195" END="203">Jerusalem</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="203">Jerusalem</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="773" END="781">Jerusalem</charseq>
+    </name>
+    <name>
+      <charseq START="825" END="833">Jerusalem</charseq>
+    </name>
+    <name>
+      <charseq START="195" END="203">Jerusalem</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001222.2000.1888-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="208" END="237">The Palestinian suicide bomber</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="237">bomber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="266" END="268">his</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="268">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="276" END="277">He</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="277">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="284" END="290">himself</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="290">himself</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E16" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="16-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="421" END="431">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="431">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="607" END="617">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="607" END="617">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-24" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="212" END="222">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="222">Palestinian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E17" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="17-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="243" END="252">explosives</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="252">explosives</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E18" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="18-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="298" END="368">an outdoor cafe frequented by Israeli soldiers
+near a Jewish settlement</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="312">cafe</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E19" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="19-30" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="328" END="343">Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="343">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-32" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="350" END="368">a Jewish settlement</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="368">settlement</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-33" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="352" END="357">Jewish</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="357">Jewish</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001222.2000.1888-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="371" END="384">Three Israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="384">Israelis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="PRI20001222.2000.1888-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E14" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="165" END="203">Hillary Anderson reports from
+Jerusalem</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-21" ARGNUM="1">
+      <extent>
+        <charseq START="165" END="180">Hillary Anderson</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-22" ARGNUM="2">
+      <extent>
+        <charseq START="195" END="203">Jerusalem</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="797" END="833">Hillary
+Anderson, BBC News, Jerusalem</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-17" ARGNUM="1">
+      <extent>
+        <charseq START="797" END="812">Hillary
+Anderson</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="825" END="833">Jerusalem</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E16" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="208" END="237">The Palestinian suicide bomber</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="237">The Palestinian suicide bomber</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-24" ARGNUM="2">
+      <extent>
+        <charseq START="212" END="222">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E18" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="284" END="368">himself up at an outdoor cafe frequented by Israeli soldiers
+near a Jewish settlement</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-28" ARGNUM="1">
+      <extent>
+        <charseq START="284" END="290">himself</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-29" ARGNUM="2">
+      <extent>
+        <charseq START="298" END="368">an outdoor cafe frequented by Israeli soldiers
+near a Jewish settlement</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R4" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E22" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="350" END="368">a Jewish settlement</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-32" ARGNUM="1">
+      <extent>
+        <charseq START="350" END="368">a Jewish settlement</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-33" ARGNUM="2">
+      <extent>
+        <charseq START="352" END="357">Jewish</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E16" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="419" END="438">a Palestinian worker</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-35" ARGNUM="1">
+      <extent>
+        <charseq START="419" END="438">a Palestinian worker</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-2" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="431">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E12" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="419" END="470">a Palestinian worker was shot dead in the Gaza Strip</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-35" ARGNUM="1">
+      <extent>
+        <charseq START="419" END="438">a Palestinian worker</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-3" ARGNUM="2">
+      <extent>
+        <charseq START="457" END="470">the Gaza Strip</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="479" END="512">the West Bank, another Palestinian</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="494" END="512">another Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-4" ARGNUM="2">
+      <extent>
+        <charseq START="479" END="491">the West Bank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E7" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="539" END="554">Israeli soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="539" END="554">Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="2">
+      <extent>
+        <charseq START="539" END="545">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E14" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="773" END="794">Jerusalem's holy sites</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="773" END="794">Jerusalem's holy sites</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-16" ARGNUM="2">
+      <extent>
+        <charseq START="773" END="781">Jerusalem</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E10" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="797" END="822">Hillary
+Anderson, BBC News</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-17" ARGNUM="1">
+      <extent>
+        <charseq START="797" END="812">Hillary
+Anderson</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="2">
+      <extent>
+        <charseq START="815" END="822">BBC News</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R12" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E16" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="603" END="623">the
+Palestinian areas</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-10" ARGNUM="1">
+      <extent>
+        <charseq START="603" END="623">the
+Palestinian areas</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-11" ARGNUM="2">
+      <extent>
+        <charseq START="607" END="617">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001222.2000.1888-R13" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001222.2000.1888-E17" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="208" END="273">The Palestinian suicide bomber had explosives strapped to his body</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="208" END="237">The Palestinian suicide bomber</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="2">
+      <extent>
+        <charseq START="243" END="252">explosives</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

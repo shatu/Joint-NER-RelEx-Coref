@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ANN20001212.0900.0047.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001212.0900.0047">
+<entity ID="ANN20001212.0900.0047-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="238" END="281">الجمعية اللبنانية للنقل
+البحري ادارة الجمارك</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="267">الجمعية اللبنانية للنقل
+البحري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="359" END="365">للجمعية</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="365">للجمعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="421" END="421">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="421">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="498" END="498">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="498">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="500" END="568">الجمعية كتابا الى ادارة الجمارك
+طالبت فيه بالغاء الغرامات موضوع
+البحث</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="506">الجمعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="536" END="536">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="536" END="536">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="238" END="267">الجمعية اللبنانية للنقل
+البحري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001212.0900.0047-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="2-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="518" END="530">ادارة الجمارك</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="530">ادارة الجمارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="269" END="281">ادارة الجمارك</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="281">ادارة الجمارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="518" END="530">ادارة الجمارك</charseq>
+    </name>
+    <name>
+      <charseq START="269" END="281">ادارة الجمارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001212.0900.0047-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="341" END="341">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="341">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="343" END="414">الهيئة الادارية
+للجمعية اجتماعها الاسبوعي الدوري امس
+برئاسة ادوار قرداحي</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="348">الهيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="373" END="374">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="374">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001212.0900.0047-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="403" END="414">ادوار قرداحي</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="414">ادوار قرداحي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="403" END="414">ادوار قرداحي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ANN20001212.0900.0047-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="ANN20001212.0900.0047-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001212.0900.0047-E1" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="238" END="281">الجمعية اللبنانية للنقل
+البحري ادارة الجمارك</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-12" ARGNUM="1">
+      <extent>
+        <charseq START="269" END="281">ادارة الجمارك</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="2">
+      <extent>
+        <charseq START="238" END="281">الجمعية اللبنانية للنقل
+البحري ادارة الجمارك</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

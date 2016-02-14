@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_171.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_171.eng">
+<entity ID="chtb_171.eng-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="86" END="101">Andes parliament</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="101">Andes parliament</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-14" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="547" END="562">Andes parliament</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="562">Andes parliament</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_171.eng-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="127" END="130">Lima</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="130">Lima</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="127" END="130">Lima</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_171.eng-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="146" END="161">Alberto Fujimori</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="161">Alberto Fujimori</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="164" END="180">president of Peru</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="172">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="220" END="237">President Fujimori</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="237">Fujimori</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="220" END="228">President</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="228">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="408" END="409">He</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="409">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="146" END="161">Alberto Fujimori</charseq>
+    </name>
+    <name>
+      <charseq START="230" END="237">Fujimori</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_171.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="177" END="180">Peru</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="180">Peru</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="177" END="180">Peru</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_171.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="276" END="301">the countries
+of the Andes</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="288">countries</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="429" END="441">all countries</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="441">countries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_171.eng-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="293" END="301">the Andes</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="301">Andes</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="297" END="301">Andes</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_171.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="9-13" TYPE="PRO" LDCTYPE="HLS" ROLE="ORG">
+    <extent>
+      <charseq START="455" END="457">one</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="457">one</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_171.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_171.eng-E5" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="chtb_171.eng-E3" ARGNUM="1" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="164" END="180">president of Peru</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="164" END="180">president of Peru</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="177" END="180">Peru</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_171.eng-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_171.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_171.eng-E8" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="276" END="301">the countries
+of the Andes</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="276" END="301">the countries
+of the Andes</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-10" ARGNUM="2">
+      <extent>
+        <charseq START="293" END="301">the Andes</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

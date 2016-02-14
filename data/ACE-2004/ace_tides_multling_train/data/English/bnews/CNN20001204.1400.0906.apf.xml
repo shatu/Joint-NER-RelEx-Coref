@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001204.1400.0906.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001204.1400.0906">
+<entity ID="CNN20001204.1400.0906-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="69">pepsi</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="69">pepsi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="171" END="175">pepsi</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="175">pepsi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="182" END="183">it</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="183">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="266" END="269">they</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="269">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="407" END="411">pepsi</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="411">pepsi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="446" END="450">pepsi</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="450">pepsi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="694" END="698">pepsi</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="698">pepsi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="171" END="175">pepsi</charseq>
+    </name>
+    <name>
+      <charseq START="407" END="411">pepsi</charseq>
+    </name>
+    <name>
+      <charseq START="446" END="450">pepsi</charseq>
+    </name>
+    <name>
+      <charseq START="694" END="698">pepsi</charseq>
+    </name>
+    <name>
+      <charseq START="65" END="69">pepsi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001204.1400.0906-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="119" END="119">i</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="119">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="123" END="134">myron
+kandel</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="134">myron
+kandel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="123" END="134">myron
+kandel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001204.1400.0906-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="143" END="147">cnnfn</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="147">cnnfn</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001204.1400.0906-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="161" END="168">new york</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="168">new york</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="161" END="168">new york</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001204.1400.0906-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="203" END="208">quaker</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="208">quaker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="285" END="295">quaker oats</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="295">quaker oats</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="85" END="95">quaker oats</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="95">quaker oats</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="462" END="472">quaker oats</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="472">quaker oats</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="507" END="512">quaker</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="512">quaker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="572" END="574">its</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="574">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="606">they</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="606">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="203" END="208">quaker</charseq>
+    </name>
+    <name>
+      <charseq START="285" END="295">quaker oats</charseq>
+    </name>
+    <name>
+      <charseq START="85" END="95">quaker oats</charseq>
+    </name>
+    <name>
+      <charseq START="462" END="472">quaker oats</charseq>
+    </name>
+    <name>
+      <charseq START="507" END="512">quaker</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001204.1400.0906-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="710" END="725">tropicana
+juices</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="725">tropicana
+juices</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="710" END="725">tropicana
+juices</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001204.1400.0906-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="731" END="748">frito lay products</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="748">frito lay products</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="731" END="748">frito lay products</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001204.1400.0906-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E5" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="123" END="168">myron
+kandel at the cnnfn newsdesk in new york</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="123" END="134">myron
+kandel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="168">new york</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001204.1400.0906-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="694" END="748">pepsi also owns tropicana
+juices and frito lay products</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-19" ARGNUM="1">
+      <extent>
+        <charseq START="710" END="725">tropicana
+juices</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-18" ARGNUM="2">
+      <extent>
+        <charseq START="694" END="698">pepsi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001204.1400.0906-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E1" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="694" END="748">pepsi also owns tropicana
+juices and frito lay products</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-20" ARGNUM="1">
+      <extent>
+        <charseq START="731" END="748">frito lay products</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-18" ARGNUM="2">
+      <extent>
+        <charseq START="694" END="698">pepsi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001204.1400.0906-R4" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001204.1400.0906-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="266" END="325">they agreed to buy quaker oats for $13.4 billion there
+stock</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="1">
+      <extent>
+        <charseq START="285" END="295">quaker oats</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-9" ARGNUM="2">
+      <extent>
+        <charseq START="266" END="269">they</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

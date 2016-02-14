@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0166.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0166.eng">
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE1">
+  <entity ID="20001015_AFP_ARB.0166.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="132" END="136">Dubai</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="136">Dubai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="132" END="136">Dubai</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE2">
+  <entity ID="20001015_AFP_ARB.0166.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="145" END="147">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="147">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="145" END="147">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE3">
+  <entity ID="20001015_AFP_ARB.0166.eng-E3" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="PRE">
+      <extent>
+        <charseq START="155" END="158">Gulf</charseq>
+      </extent>
+      <head>
+        <charseq START="155" END="158">Gulf</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE4">
+  <entity ID="20001015_AFP_ARB.0166.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NOM">
+      <extent>
+        <charseq START="153" END="165">A Gulf source</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="165">source</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE5">
+  <entity ID="20001015_AFP_ARB.0166.eng-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="188" END="260">the hijackers of a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="200">hijackers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0166.eng-E9" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="9-10" TYPE="BAR">
+      <extent>
+        <charseq START="267" END="355">Saudi officers, one
+in the Intelligence Service and the second in the Passport
+Department</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="280">officers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE6">
+  <entity ID="20001015_AFP_ARB.0166.eng-E6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="6-6" TYPE="NOM">
+      <extent>
+        <charseq START="205" END="260">a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="217">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-7" TYPE="WHQ">
+      <extent>
+        <charseq START="219" END="223">which</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="223">which</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE7">
+  <entity ID="20001015_AFP_ARB.0166.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="7-8" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="207" END="211">Saudi</charseq>
+      </extent>
+      <head>
+        <charseq START="207" END="211">Saudi</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-11" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="267" END="271">Saudi</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="271">Saudi</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE8">
+  <entity ID="20001015_AFP_ARB.0166.eng-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="235" END="241">Baghdad</charseq>
+      </extent>
+      <head>
+        <charseq START="235" END="241">Baghdad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="235" END="241">Baghdad</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE9">
+  <entity ID="20001015_AFP_ARB.0166.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-12" TYPE="HLS">
+      <extent>
+        <charseq START="283" END="313">one
+in the Intelligence Service</charseq>
+      </extent>
+      <head>
+        <charseq START="283" END="285">one</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE10">
+  <entity ID="20001015_AFP_ARB.0166.eng-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NAM">
+      <extent>
+        <charseq START="290" END="313">the Intelligence Service</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="313">Intelligence Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="294" END="313">Intelligence Service</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE11">
+  <entity ID="20001015_AFP_ARB.0166.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-14" TYPE="HLS">
+      <extent>
+        <charseq START="319" END="355">the second in the Passport
+Department</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="328">second</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0166.eng-CE12">
+  <entity ID="20001015_AFP_ARB.0166.eng-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="13-15" TYPE="NAM">
+      <extent>
+        <charseq START="333" END="355">the Passport
+Department</charseq>
+      </extent>
+      <head>
+        <charseq START="337" END="355">Passport
+Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="337" END="355">Passport
+Department</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0166.eng-R1" TYPE="ART" SUBTYPE="Other">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="188" END="260">the hijackers of a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="188" END="260">the hijackers of a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="205" END="260">a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R2" TYPE="ART" SUBTYPE="Other">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="205" END="260">a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E6" ENTITYMENTIONID="6-6" ARGNUM="1">
+      <extent>
+        <charseq START="205" END="260">a Saudi plane
+which landed in Baghdad yesterday Saturday</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E7" ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="211">Saudi</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="219" END="241">which landed in Baghdad</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E6" ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="219" END="223">which</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E8" ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="235" END="241">Baghdad</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="267" END="355">Saudi officers, one
+in the Intelligence Service and the second in the Passport
+Department</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E9" ENTITYMENTIONID="9-10" ARGNUM="1">
+      <extent>
+        <charseq START="267" END="355">Saudi officers, one
+in the Intelligence Service and the second in the Passport
+Department</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E7" ENTITYMENTIONID="7-11" ARGNUM="2">
+      <extent>
+        <charseq START="267" END="271">Saudi</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="283" END="313">one
+in the Intelligence Service</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E10" ENTITYMENTIONID="10-12" ARGNUM="1">
+      <extent>
+        <charseq START="283" END="313">one
+in the Intelligence Service</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E11" ENTITYMENTIONID="11-13" ARGNUM="2">
+      <extent>
+        <charseq START="290" END="313">the Intelligence Service</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="319" END="355">the second in the Passport
+Department</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E12" ENTITYMENTIONID="12-14" ARGNUM="1">
+      <extent>
+        <charseq START="319" END="355">the second in the Passport
+Department</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E13" ENTITYMENTIONID="13-15" ARGNUM="2">
+      <extent>
+        <charseq START="333" END="355">the Passport
+Department</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0166.eng-R7" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="153" END="165">A Gulf source</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E3" ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="155" END="158">Gulf</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0166.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="153" END="165">A Gulf source</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

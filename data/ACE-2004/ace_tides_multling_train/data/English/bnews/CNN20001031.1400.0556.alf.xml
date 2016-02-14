@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001031.1400.0556.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001031.1400.0556">
+<composite_entity ID="CNN20001031.1400.0556-CE1">
+  <entity ID="CNN20001031.1400.0556-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="68" END="73">moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="73">moscow</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="68" END="73">moscow</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE2">
+  <entity ID="CNN20001031.1400.0556-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NAM">
+      <extent>
+        <charseq START="99" END="126">u.s. businessman edmond pope</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="126">edmond pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-6" TYPE="PRO">
+      <extent>
+        <charseq START="179" END="181">his</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="181">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-7" TYPE="NAM">
+      <extent>
+        <charseq START="191" END="194">pope</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="194">pope</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-10" TYPE="HLS">
+      <extent>
+        <charseq START="297" END="311">the 54-year-old</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="311">54-year-old</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-11" TYPE="PRO">
+      <extent>
+        <charseq START="357" END="359">his</charseq>
+      </extent>
+      <head>
+        <charseq START="357" END="359">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-13" TYPE="NOM">
+      <extent>
+        <charseq START="396" END="424">the retired u.s. navy officer</charseq>
+      </extent>
+      <head>
+        <charseq START="418" END="424">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="116" END="126">edmond pope</charseq>
+      </name>
+      <name>
+        <charseq START="191" END="194">pope</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001031.1400.0556-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-4" TYPE="PRE">
+      <extent>
+        <charseq START="99" END="114">u.s. businessman</charseq>
+      </extent>
+      <head>
+        <charseq START="104" END="114">businessman</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE3">
+  <entity ID="CNN20001031.1400.0556-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="4-2" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="408" END="411">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="408" END="411">u.s.</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-5" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="99" END="102">u.s.</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="102">u.s.</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE4">
+  <entity ID="CNN20001031.1400.0556-E5" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+    <entity_mention ID="5-8" TYPE="NOM">
+      <extent>
+        <charseq START="280" END="294">a prison clinic</charseq>
+      </extent>
+      <head>
+        <charseq START="289" END="294">clinic</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE5">
+  <entity ID="CNN20001031.1400.0556-E6" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="ATR">
+    <entity_mention ID="6-9" TYPE="PRE">
+      <extent>
+        <charseq START="282" END="287">prison</charseq>
+      </extent>
+      <head>
+        <charseq START="282" END="287">prison</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE6">
+  <entity ID="CNN20001031.1400.0556-E7" TYPE="PER" CLASS="USP">
+    <entity_mention ID="7-12" TYPE="NOM">
+      <extent>
+        <charseq START="357" END="369">his relatives</charseq>
+      </extent>
+      <head>
+        <charseq START="361" END="369">relatives</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE7">
+  <entity ID="CNN20001031.1400.0556-E8" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="8-14" TYPE="PRE">
+      <extent>
+        <charseq START="408" END="416">u.s. navy</charseq>
+      </extent>
+      <head>
+        <charseq START="413" END="416">navy</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE8">
+  <entity ID="CNN20001031.1400.0556-E9" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+    <entity_mention ID="9-15" TYPE="NOM">
+      <extent>
+        <charseq START="475" END="502">a high-speed russian torpedo</charseq>
+      </extent>
+      <head>
+        <charseq START="496" END="502">torpedo</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001031.1400.0556-CE9">
+  <entity ID="CNN20001031.1400.0556-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="10-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="488" END="494">russian</charseq>
+      </extent>
+      <head>
+        <charseq START="488" END="494">russian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001031.1400.0556-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="280" END="294">a prison clinic</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E5" ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="280" END="294">a prison clinic</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E6" ENTITYMENTIONID="6-9" ARGNUM="2">
+      <extent>
+        <charseq START="282" END="287">prison</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R2" TYPE="PER-SOC" SUBTYPE="Family">
+  <relation_mention ID="2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="357" END="369">his relatives</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E2" ENTITYMENTIONID="2-11" ARGNUM="1">
+      <extent>
+        <charseq START="357" END="359">his</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E7" ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="357" END="369">his relatives</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="396" END="424">the retired u.s. navy officer</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E2" ENTITYMENTIONID="2-13" ARGNUM="1">
+      <extent>
+        <charseq START="396" END="424">the retired u.s. navy officer</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E8" ENTITYMENTIONID="8-14" ARGNUM="2">
+      <extent>
+        <charseq START="408" END="416">u.s. navy</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R4" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="475" END="502">a high-speed russian torpedo</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E10" ENTITYMENTIONID="10-16" ARGNUM="1">
+      <extent>
+        <charseq START="488" END="494">russian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E9" ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="475" END="502">a high-speed russian torpedo</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="408" END="416">u.s. navy</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E8" ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="408" END="416">u.s. navy</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E4" ENTITYMENTIONID="4-2" ARGNUM="2">
+      <extent>
+        <charseq START="408" END="411">u.s.</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="99" END="114">u.s. businessman</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="99" END="114">u.s. businessman</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E4" ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="99" END="102">u.s.</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001031.1400.0556-R7" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="191" END="294">pope
+doubled over with back and joint pain during a lunch break today,
+and was rushed to a prison clinic</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E2" ENTITYMENTIONID="2-7" ARGNUM="1">
+      <extent>
+        <charseq START="191" END="194">pope</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001031.1400.0556-E5" ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="280" END="294">a prison clinic</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

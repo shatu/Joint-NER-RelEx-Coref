@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001028.1400.1597.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001028.1400.1597">
+<composite_entity ID="CNN20001028.1400.1597-CE1">
+  <entity ID="CNN20001028.1400.1597-E1" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="GEN">
+    <entity_mention ID="1-1" TYPE="BAR">
+      <extent>
+        <charseq START="91" END="105">rooftop gardens</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="105">gardens</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-11" TYPE="BAR">
+      <extent>
+        <charseq START="393" END="407">rooftop
+gardens</charseq>
+      </extent>
+      <head>
+        <charseq START="401" END="407">gardens</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE2">
+  <entity ID="CNN20001028.1400.1597-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="110" END="116">chicago</charseq>
+      </extent>
+      <head>
+        <charseq START="110" END="116">chicago</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="110" END="116">chicago</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE3">
+  <entity ID="CNN20001028.1400.1597-E3" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="170" END="190">the roof of city hall</charseq>
+      </extent>
+      <head>
+        <charseq START="174" END="177">roof</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001028.1400.1597-E5" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="ATR">
+    <entity_mention ID="5-6" TYPE="NOM">
+      <extent>
+        <charseq START="218" END="231">an urban oasis</charseq>
+      </extent>
+      <head>
+        <charseq START="227" END="231">oasis</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE4">
+  <entity ID="CNN20001028.1400.1597-E4" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="4-5" TYPE="NAM">
+      <extent>
+        <charseq START="182" END="190">city hall</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="190">city hall</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="182" END="190">city hall</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE5">
+  <entity ID="CNN20001028.1400.1597-E6" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="GEN">
+    <entity_mention ID="6-7" TYPE="BAR">
+      <extent>
+        <charseq START="234" END="241">rooftops</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="241">rooftops</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001028.1400.1597-E10" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="ATR">
+    <entity_mention ID="10-4" TYPE="PRE">
+      <extent>
+        <charseq START="91" END="97">rooftop</charseq>
+      </extent>
+      <head>
+        <charseq START="91" END="97">rooftop</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-12" TYPE="PRE">
+      <extent>
+        <charseq START="393" END="399">rooftop</charseq>
+      </extent>
+      <head>
+        <charseq START="393" END="399">rooftop</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE6">
+  <entity ID="CNN20001028.1400.1597-E7" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NAM">
+      <extent>
+        <charseq START="259" END="269">the hot
+sun</charseq>
+      </extent>
+      <head>
+        <charseq START="267" END="269">sun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="267" END="269">sun</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE7">
+  <entity ID="CNN20001028.1400.1597-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+    <entity_mention ID="8-9" TYPE="BAR" ROLE="LOC">
+      <extent>
+        <charseq START="294" END="299">cities</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="299">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001028.1400.1597-CE8">
+  <entity ID="CNN20001028.1400.1597-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="9-10" TYPE="PRE" ROLE="ORG">
+      <extent>
+        <charseq START="358" END="375">federal government</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="375">government</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001028.1400.1597-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="91" END="116">rooftop gardens in chicago</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="91" END="105">rooftop gardens</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="110" END="116">chicago</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001028.1400.1597-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="170" END="190">the roof of city hall</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="170" END="190">the roof of city hall</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E4" ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="182" END="190">city hall</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001028.1400.1597-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="91" END="105">rooftop gardens</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="91" END="105">rooftop gardens</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001028.1400.1597-E10" ENTITYMENTIONID="10-4" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="97">rooftop</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

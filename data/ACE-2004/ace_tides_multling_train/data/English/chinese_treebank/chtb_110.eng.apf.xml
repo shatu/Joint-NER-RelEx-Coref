@@ -1,0 +1,651 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_110.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_110.eng">
+<entity ID="chtb_110.eng-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="443" END="450">Malaysia</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="450">Malaysia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="443" END="450">Malaysia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="2-3" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="452" END="454">etc</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="454">etc</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_110.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="527" END="528">US</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="528">US</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_110.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-11" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="775" END="808">mechanical
+and electronic industry</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="808">industry</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-21" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1159" END="1175">electromechanical</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1175">electromechanical</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_110.eng-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="102" END="119">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="119">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="102" END="119">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="122" END="129">Helsinki</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="129">Helsinki</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="122" END="129">Helsinki</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="149" END="171">reporter Huanqing
+Zheng</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="171">Huanqing
+Zheng</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-24" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="149" END="156">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="156">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="158" END="171">Huanqing
+Zheng</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="9-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1014" END="1028">Finland Customs</charseq>
+    </extent>
+    <head>
+      <charseq START="1022" END="1028">Customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-26" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="227" END="241">Finland Customs</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="241">Customs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_110.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="479" END="485">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="485">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="496" END="502">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="502">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="623" END="629">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="629">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-9" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="659" END="661">its</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="661">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="740" END="746">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="746">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="876" END="882">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="882">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="946" END="952">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="946" END="952">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1014" END="1020">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1020">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1096" END="1102">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1102">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-27" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="227" END="233">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="233">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="253" END="259">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="259">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="334" END="340">Finland</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="340">Finland</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="623" END="629">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="740" END="746">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="876" END="882">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="946" END="952">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="1096" END="1102">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="253" END="259">Finland</charseq>
+    </name>
+    <name>
+      <charseq START="334" END="340">Finland</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E12" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="12-8" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="644" END="654">this region</charseq>
+    </extent>
+    <head>
+      <charseq START="649" END="654">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="899" END="912">Southeast Asia</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="912">Southeast Asia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-15" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="999" END="1009">this region</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1009">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1070" END="1083">Southeast
+Asia</charseq>
+    </extent>
+    <head>
+      <charseq START="1070" END="1083">Southeast
+Asia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-20" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1117" END="1127">this region</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1127">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-25" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="759" END="769">this region</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="769">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="274" END="287">Southeast Asia</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="287">Southeast Asia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="899" END="912">Southeast Asia</charseq>
+    </name>
+    <name>
+      <charseq START="1070" END="1083">Southeast
+Asia</charseq>
+    </name>
+    <name>
+      <charseq START="274" END="287">Southeast Asia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="13-31" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC">
+    <extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="382">partners</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_110.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="393" END="401">Hong Kong</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="401">Hong Kong</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="393" END="401">Hong Kong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="404" END="408">China</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="408">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="404" END="408">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="411" END="419">Indonesia</charseq>
+    </extent>
+    <head>
+      <charseq START="411" END="419">Indonesia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="411" END="419">Indonesia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="17-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="422" END="429">Thailand</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="429">Thailand</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="422" END="429">Thailand</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_110.eng-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="18-36" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="432" END="440">Singapore</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="440">Singapore</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="432" END="440">Singapore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_110.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E5" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="102" END="171">Xinhua News Agency, Helsinki, January 13th, by reporter Huanqing
+Zheng</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-23" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="171">reporter Huanqing
+Zheng</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-1" ARGNUM="2">
+      <extent>
+        <charseq START="102" END="119">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E10" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="227" END="241">Finland Customs</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-26" ARGNUM="1">
+      <extent>
+        <charseq START="227" END="241">Finland Customs</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-27" ARGNUM="2">
+      <extent>
+        <charseq START="227" END="233">Finland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1014" END="1028">Finland Customs</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-16" ARGNUM="1">
+      <extent>
+        <charseq START="1014" END="1028">Finland Customs</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-17" ARGNUM="2">
+      <extent>
+        <charseq START="1014" END="1020">Finland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="1">
+      <extent>
+        <charseq START="393" END="401">Hong Kong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-33" ARGNUM="1">
+      <extent>
+        <charseq START="404" END="408">China</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-34" ARGNUM="1">
+      <extent>
+        <charseq START="411" END="419">Indonesia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-35" ARGNUM="1">
+      <extent>
+        <charseq START="422" END="429">Thailand</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-36" ARGNUM="1">
+      <extent>
+        <charseq START="432" END="440">Singapore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R8" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="443" END="450">Malaysia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R9" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E13" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="452" END="454">etc</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-31" ARGNUM="2">
+      <extent>
+        <charseq START="361" END="454">major
+trading partners, such as Hong Kong, China, Indonesia, Thailand,
+Singapore, Malaysia etc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_110.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_110.eng-E6" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="102" END="171">Xinhua News Agency, Helsinki, January 13th, by reporter Huanqing
+Zheng</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-23" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="171">reporter Huanqing
+Zheng</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-22" ARGNUM="2">
+      <extent>
+        <charseq START="122" END="129">Helsinki</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

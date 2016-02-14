@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001101.2100.1279.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001101.2100.1279">
+<entity ID="VOA20001101.2100.1279-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="79" END="90">Philadelphia</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="90">Philadelphia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="79" END="90">Philadelphia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.1279-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="92" END="103">the Phillies</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="103">Phillies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="134">their</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="134">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="196" END="207">the Phillies</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="207">Phillies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="212" END="224">the franchise</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="224">franchise</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-11" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="332" END="335">club</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="335">club</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="96" END="103">Phillies</charseq>
+    </name>
+    <name>
+      <charseq START="200" END="207">Phillies</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.1279-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="116" END="125">Larry Bowa</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="125">Larry Bowa</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="166">their new manager for the 2001 season</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="146">manager</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="169" END="182">The fiery Bowa</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="182">Bowa</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="271" END="278">a player</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="278">player</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="281" END="300">The 54-year-old Bowa</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="300">Bowa</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="365" END="366">He</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="366">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="116" END="125">Larry Bowa</charseq>
+    </name>
+    <name>
+      <charseq START="179" END="182">Bowa</charseq>
+    </name>
+    <name>
+      <charseq START="297" END="300">Bowa</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001101.2100.1279-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="377" END="423">Terry Francona who
+was fired on October the 1st</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="390">Terry Francona</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="392" END="394">who</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="394">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="377" END="390">Terry Francona</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VOA20001101.2100.1279-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.1279-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.1279-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="130" END="166">their new manager for the 2001 season</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-5" ARGNUM="1">
+      <extent>
+        <charseq START="130" END="166">their new manager for the 2001 season</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="130" END="134">their</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001101.2100.1279-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VOA20001101.2100.1279-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001101.2100.1279-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="76" END="166">in Philadelphia the Phillies have hired Larry Bowa as
+their new manager for the 2001 season</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="2">
+      <extent>
+        <charseq START="79" END="90">Philadelphia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="92" END="103">the Phillies</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

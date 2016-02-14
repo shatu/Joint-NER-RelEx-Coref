@@ -1,0 +1,57 @@
+Notes on APF Format 2004
+
+(Lance Ramshaw, BBN Technologies, summarizing the results of an
+ACE planning meeting held at LDC on 2004-02-23.)
+
+ACE's "APF" format has been modified somewhat from that of previous
+years to better represent the distinctions made in this year's
+annotation.  The major changes are summarized briefly here; for more
+detail, refer to the LDC website.
+
+Some changes could be predicted given that the target types have
+expanded.  There are two new entity types, entities now have subtypes,
+and the entire set of relation types and subtypes has been reworked.
+
+In addition to the expansion of the official ACE task, the LDC has
+also chosen this year as a matter of annotation strategy to mark
+additional distinctions that they believe promote annotator
+consistency, as described in their guidelines documents.  For example,
+the LDC is using a more detailed catalogue of mention types, and is
+marking a distinction between referential and attributive mentions.
+These additional, non-target distinctions are recorded in the APF
+using optional attributes and elements whose names begin with "LDC".
+For example, the ACE mention type of "cats" in "cats make nice pets"
+would be NOM, but the APF also records the LDCTYPE, which is BAR (for
+bare nominal).  These "LDC" attributes are left in the APF for
+informational purposes, but the scorer ignores them, and ACE systems
+are not expected to output them.
+
+The set of ACE mention types in this release is {NAM, NOM, PRO, PRE},
+and they map to the more detailed LDC types as follows:
+  NAM - NAM
+  NOM - NOM, BAR, MWH, 
+  PRO - PRO, WHQ, HLS, PTV
+  PRE - PRE
+
+The PRE type covers prenominal mentions without distinguishing
+between names and nominals.  Note that the sponsors are still
+exploring this issue, and the PRE type may go away in future releases.
+
+Where we used to have a boolean GENERIC attribute on entities, we now
+have a three-way entity class distinction, with possible values SPC
+(specific), GEN (generic), and USP (underspecified), as described in
+the LDC guidelines.
+
+For metonymy, base and intended types are no longer being marked.  If
+the same entity (Macdonalds, say) is used in a document both as a FAC
+and as an ORG, the connection between the two is shown using a
+"METONYMY" pseudo-relation.  When a mention (say, of the city Beijing)
+is used to refer to a different entity (China), the mention is marked
+with the atttribute METONYMY_MENTION="TRUE".  ("Beijing" then would not
+be listed as a name attribute of China.)
+
+There have also been some strictly formatting changes to make the APF
+more readable.  Entity types, for example, are now attributes, rather
+than elements.  The encoding of charseq elements has also changed, so
+that the START and END offset values are now attributes, and the text
+of the mention is no longer in an XML comment.

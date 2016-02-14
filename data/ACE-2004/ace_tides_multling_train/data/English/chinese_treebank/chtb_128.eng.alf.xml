@@ -1,0 +1,1764 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_128.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_128.eng">
+<composite_entity ID="chtb_128.eng-CE1">
+  <entity ID="chtb_128.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-53" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="2495" END="2548">Zhangzhou, whose agriculture is usually well developed</charseq>
+      </extent>
+      <head>
+        <charseq START="2495" END="2503">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-54" TYPE="WHQ" ROLE="GPE">
+      <extent>
+        <charseq START="2506" END="2510">whose</charseq>
+      </extent>
+      <head>
+        <charseq START="2506" END="2510">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-55" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="2719" END="2727">this city</charseq>
+      </extent>
+      <head>
+        <charseq START="2724" END="2727">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-59" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="3147" END="3155">Zhangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3147" END="3155">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-65" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="3267" END="3275">Zhangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3267" END="3275">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-68" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="3380" END="3388">Zhangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3380" END="3388">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-69" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="3392" END="3400">This city</charseq>
+      </extent>
+      <head>
+        <charseq START="3397" END="3400">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-105" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="527" END="535">Zhangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="527" END="535">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2495" END="2503">Zhangzhou</charseq>
+      </name>
+      <name>
+        <charseq START="3147" END="3155">Zhangzhou</charseq>
+      </name>
+      <name>
+        <charseq START="3267" END="3275">Zhangzhou</charseq>
+      </name>
+      <name>
+        <charseq START="3380" END="3388">Zhangzhou</charseq>
+      </name>
+      <name>
+        <charseq START="527" END="535">Zhangzhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_128.eng-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="44-82" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="3828" END="3836">Zhangzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3828" END="3836">Zhangzhou</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE2">
+  <entity ID="chtb_128.eng-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-4" TYPE="HLS">
+      <extent>
+        <charseq START="574" END="589">overseas Chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="583" END="589">Chinese</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-38" TYPE="HLS">
+      <extent>
+        <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+      </extent>
+      <head>
+        <charseq START="1731" END="1737">Chinese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE3">
+  <entity ID="chtb_128.eng-E5" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="BAR">
+      <extent>
+        <charseq START="656" END="670">southern Fujian</charseq>
+      </extent>
+      <head>
+        <charseq START="665" END="670">Fujian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E53" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="ATR">
+    <entity_mention ID="53-73" TYPE="PRE">
+      <extent>
+        <charseq START="3586" END="3600">southern Fujian</charseq>
+      </extent>
+      <head>
+        <charseq START="3595" END="3600">Fujian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="53-92" TYPE="PRE">
+      <extent>
+        <charseq START="210" END="224">southern Fujian</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="224">Fujian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="53-93" TYPE="PRE">
+      <extent>
+        <charseq START="440" END="454">southern Fujian</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="454">Fujian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE4">
+  <entity ID="chtb_128.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-9" TYPE="HLS" ROLE="GPE">
+      <extent>
+        <charseq START="750" END="813">the ten
+strongest of the country's large and medium-sized cities</charseq>
+      </extent>
+      <head>
+        <charseq START="758" END="766">strongest</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE5">
+  <entity ID="chtb_128.eng-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="7-10" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="771" END="813">the country's large and medium-sized cities</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="813">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE6">
+  <entity ID="chtb_128.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-11" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="771" END="781">the country</charseq>
+      </extent>
+      <head>
+        <charseq START="775" END="781">country</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE7">
+  <entity ID="chtb_128.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+    <entity_mention ID="9-12" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="892" END="926">the world's middle-income countries</charseq>
+      </extent>
+      <head>
+        <charseq START="918" END="926">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE8">
+  <entity ID="chtb_128.eng-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="10-13" TYPE="NOM">
+      <extent>
+        <charseq START="892" END="900">the world</charseq>
+      </extent>
+      <head>
+        <charseq START="896" END="900">world</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE9">
+  <entity ID="chtb_128.eng-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="11-15" TYPE="NOM">
+      <extent>
+        <charseq START="950" END="1038">over 60 industrial corporations with an annual
+production values of over 100 million yuan</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="980">corporations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE10">
+  <entity ID="chtb_128.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-16" TYPE="NOM">
+      <extent>
+        <charseq START="1041" END="1074">36 limited share-holding
+companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1066" END="1074">companies</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE11">
+  <entity ID="chtb_128.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-17" TYPE="NOM">
+      <extent>
+        <charseq START="1080" END="1098">13 listed companies</charseq>
+      </extent>
+      <head>
+        <charseq START="1090" END="1098">companies</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE12">
+  <entity ID="chtb_128.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="14-19" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1164" END="1165">US</charseq>
+      </extent>
+      <head>
+        <charseq START="1164" END="1165">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-45" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2103" END="2104">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2103" END="2104">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-56" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2795" END="2796">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2795" END="2796">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-57" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2842" END="2843">US</charseq>
+      </extent>
+      <head>
+        <charseq START="2842" END="2843">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-71" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="3518" END="3519">US</charseq>
+      </extent>
+      <head>
+        <charseq START="3518" END="3519">US</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE13">
+  <entity ID="chtb_128.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+    <entity_mention ID="15-20" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1257" END="1270">China's cities</charseq>
+      </extent>
+      <head>
+        <charseq START="1265" END="1270">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE14">
+  <entity ID="chtb_128.eng-E16" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="16-22" TYPE="BAR">
+      <extent>
+        <charseq START="1326" END="1333">overseas</charseq>
+      </extent>
+      <head>
+        <charseq START="1326" END="1333">overseas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-29" TYPE="PRE">
+      <extent>
+        <charseq START="574" END="581">overseas</charseq>
+      </extent>
+      <head>
+        <charseq START="574" END="581">overseas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-60" TYPE="PRE">
+      <extent>
+        <charseq START="1722" END="1729">overseas</charseq>
+      </extent>
+      <head>
+        <charseq START="1722" END="1729">overseas</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE15">
+  <entity ID="chtb_128.eng-E17" TYPE="PER" CLASS="USP">
+    <entity_mention ID="17-23" TYPE="PRE">
+      <extent>
+        <charseq START="1367" END="1382">foreign merchant</charseq>
+      </extent>
+      <head>
+        <charseq START="1375" END="1382">merchant</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE16">
+  <entity ID="chtb_128.eng-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="18-25" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1425" END="1451">The delta region's Quanzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="1444" END="1451">Quanzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-35" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1684" END="1691">Quanzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="1684" END="1691">Quanzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-36" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="1705" END="1707">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1705" END="1707">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-37" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="1541" END="1543">its</charseq>
+      </extent>
+      <head>
+        <charseq START="1541" END="1543">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-43" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="1948" END="1961">the whole city</charseq>
+      </extent>
+      <head>
+        <charseq START="1958" END="1961">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-46" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="2135" END="2142">The city</charseq>
+      </extent>
+      <head>
+        <charseq START="2139" END="2142">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-51" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="2389" END="2402">the
+whole city</charseq>
+      </extent>
+      <head>
+        <charseq START="2399" END="2402">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-104" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="513" END="520">Quanzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="513" END="520">Quanzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1444" END="1451">Quanzhou</charseq>
+      </name>
+      <name>
+        <charseq START="1684" END="1691">Quanzhou</charseq>
+      </name>
+      <name>
+        <charseq START="513" END="520">Quanzhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_128.eng-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="42-78" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="3801" END="3808">Quanzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="3801" END="3808">Quanzhou</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE17">
+  <entity ID="chtb_128.eng-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="19-28" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+      </extent>
+      <head>
+        <charseq START="1528" END="1533">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE18">
+  <entity ID="chtb_128.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="20-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1568" END="1575">Jinjiang</charseq>
+      </extent>
+      <head>
+        <charseq START="1568" END="1575">Jinjiang</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1568" END="1575">Jinjiang</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE19">
+  <entity ID="chtb_128.eng-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="21-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1578" END="1583">Shishi</charseq>
+      </extent>
+      <head>
+        <charseq START="1578" END="1583">Shishi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1578" END="1583">Shishi</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE20">
+  <entity ID="chtb_128.eng-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="22-32" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1589" END="1594">Nan'an</charseq>
+      </extent>
+      <head>
+        <charseq START="1589" END="1594">Nan'an</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1589" END="1594">Nan'an</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE21">
+  <entity ID="chtb_128.eng-E23" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="23-33" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1614" END="1663">the 100
+strongest counties in the nation's economy</charseq>
+      </extent>
+      <head>
+        <charseq START="1632" END="1639">counties</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE22">
+  <entity ID="chtb_128.eng-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="25-39" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1744" END="1752">Hong Kong</charseq>
+      </extent>
+      <head>
+        <charseq START="1744" END="1752">Hong Kong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1744" END="1752">Hong Kong</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE23">
+  <entity ID="chtb_128.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="26-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1758" END="1763">Taiwan</charseq>
+      </extent>
+      <head>
+        <charseq START="1758" END="1763">Taiwan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1758" END="1763">Taiwan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE24">
+  <entity ID="chtb_128.eng-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="27-41" TYPE="BAR">
+      <extent>
+        <charseq START="1850" END="1874">Three-capital
+enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1864" END="1874">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE25">
+  <entity ID="chtb_128.eng-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="28-42" TYPE="BAR">
+      <extent>
+        <charseq START="1880" END="1909">foreign-investment enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="1899" END="1909">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE26">
+  <entity ID="chtb_128.eng-E29" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="29-44" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="1972" END="2018">21 large-scale industrial
+development districts</charseq>
+      </extent>
+      <head>
+        <charseq START="2010" END="2018">districts</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE27">
+  <entity ID="chtb_128.eng-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="30-47" TYPE="BAR">
+      <extent>
+        <charseq START="2174" END="2193">township enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="2183" END="2193">enterprises</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="30-50" TYPE="BAR">
+      <extent>
+        <charseq START="2365" END="2402">township enterprises of the
+whole city</charseq>
+      </extent>
+      <head>
+        <charseq START="2374" END="2384">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE28">
+  <entity ID="chtb_128.eng-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="31-48" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2174" END="2181">township</charseq>
+      </extent>
+      <head>
+        <charseq START="2174" END="2181">township</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-87" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2365" END="2372">township</charseq>
+      </extent>
+      <head>
+        <charseq START="2365" END="2372">township</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE29">
+  <entity ID="chtb_128.eng-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="32-49" TYPE="BAR">
+      <extent>
+        <charseq START="2207" END="2324">domestically famous advantageous industries such as
+clothing, shoemaking, ceramics, stone carving, slate material, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="2240" END="2249">industries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE30">
+  <entity ID="chtb_128.eng-E33" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="33-52" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="2472" END="2490">the entire province</charseq>
+      </extent>
+      <head>
+        <charseq START="2483" END="2490">province</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-58" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="3013" END="3031">the entire province</charseq>
+      </extent>
+      <head>
+        <charseq START="3024" END="3031">province</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE31">
+  <entity ID="chtb_128.eng-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="24-1" TYPE="NAM">
+      <extent>
+        <charseq START="119" END="136">Xinhua News Agency</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="136">Xinhua News Agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="119" END="136">Xinhua News Agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE32">
+  <entity ID="chtb_128.eng-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="34-61" TYPE="APP">
+      <extent>
+        <charseq START="3159" END="3231">A number of big consortia, large enterprises with international
+influence</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="34-62" TYPE="NOM">
+      <extent>
+        <charseq START="3159" END="3183">A number of big consortia</charseq>
+      </extent>
+      <head>
+        <charseq START="3161" END="3166">number</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE33">
+  <entity ID="chtb_128.eng-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="35-63" TYPE="BAR">
+      <extent>
+        <charseq START="3171" END="3183">big consortia</charseq>
+      </extent>
+      <head>
+        <charseq START="3175" END="3183">consortia</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="36-64" TYPE="BAR">
+      <extent>
+        <charseq START="3186" END="3231">large enterprises with international
+influence</charseq>
+      </extent>
+      <head>
+        <charseq START="3192" END="3202">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE34">
+  <entity ID="chtb_128.eng-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="37-66" TYPE="NOM">
+      <extent>
+        <charseq START="3314" END="3365">a large number of medium and small-sized
+enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="3322" END="3327">number</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE35">
+  <entity ID="chtb_128.eng-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="38-67" TYPE="BAR">
+      <extent>
+        <charseq START="3332" END="3365">medium and small-sized
+enterprises</charseq>
+      </extent>
+      <head>
+        <charseq START="3355" END="3365">enterprises</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE36">
+  <entity ID="chtb_128.eng-E39" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="39-70" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="3410" END="3434">ten development districts</charseq>
+      </extent>
+      <head>
+        <charseq START="3426" END="3434">districts</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE37">
+  <entity ID="chtb_128.eng-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="40-75" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="3697" END="3712">The three cities</charseq>
+      </extent>
+      <head>
+        <charseq START="3707" END="3712">cities</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="40-83" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="3858" END="3873">the three cities</charseq>
+      </extent>
+      <head>
+        <charseq START="3868" END="3873">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE38">
+  <entity ID="chtb_128.eng-E41" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="41-77" TYPE="NOM">
+      <extent>
+        <charseq START="3797" END="3873">the Quanzhou-Xiamen and Xiamen-Zhangzhou expressways
+linking the three cities</charseq>
+      </extent>
+      <head>
+        <charseq START="3838" END="3848">expressways</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE39">
+  <entity ID="chtb_128.eng-E45" TYPE="FAC" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="45-84" TYPE="NOM">
+      <extent>
+        <charseq START="3915" END="4011">A
+large number of key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="3923" END="3928">number</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE40">
+  <entity ID="chtb_128.eng-E46" TYPE="FAC" SUBTYPE="Other" CLASS="USP">
+    <entity_mention ID="46-85" TYPE="BAR">
+      <extent>
+        <charseq START="3933" END="4011">key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="3937" END="3951">infrastructures</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE41">
+  <entity ID="chtb_128.eng-E47" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="47-86" TYPE="MWH">
+      <extent>
+        <charseq START="3961" END="4011">the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+      <head>
+        <charseq START="3961" END="4006">the port, airport,
+railway, telecommunications</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE42">
+  <entity ID="chtb_128.eng-E49" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="49-79" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="139" END="144">Fuzhou</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="144">Fuzhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="139" END="144">Fuzhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE43">
+  <entity ID="chtb_128.eng-E50" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="50-89" TYPE="NAM">
+      <extent>
+        <charseq START="168" END="183">reporter Ting Xu</charseq>
+      </extent>
+      <head>
+        <charseq START="177" END="183">Ting Xu</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="177" END="183">Ting Xu</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_128.eng-E51" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="51-90" TYPE="PRE">
+      <extent>
+        <charseq START="168" END="175">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="168" END="175">reporter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE44">
+  <entity ID="chtb_128.eng-E2" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="NOM">
+      <extent>
+        <charseq START="553" END="589">a famous hometown of overseas Chinese</charseq>
+      </extent>
+      <head>
+        <charseq START="562" END="569">hometown</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E48" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="ATR">
+    <entity_mention ID="48-88" TYPE="CMC" ROLE="GPE">
+      <extent>
+        <charseq START="479" END="535">the Xiamen Special
+Economic Zone, Quanzhou, and Zhangzhou</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E52" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="52-2" TYPE="NOM">
+      <extent>
+        <charseq START="539" END="548">The region</charseq>
+      </extent>
+      <head>
+        <charseq START="543" END="548">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-26" TYPE="NOM">
+      <extent>
+        <charseq START="1425" END="1440">The delta region</charseq>
+      </extent>
+      <head>
+        <charseq START="1435" END="1440">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-72" TYPE="NOM">
+      <extent>
+        <charseq START="3582" END="3613">the southern Fujian delta region</charseq>
+      </extent>
+      <head>
+        <charseq START="3608" END="3613">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-76" TYPE="NOM">
+      <extent>
+        <charseq START="3748" END="3757">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="3752" END="3757">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-91" TYPE="NOM">
+      <extent>
+        <charseq START="202" END="237">China's southern Fujian delta region</charseq>
+      </extent>
+      <head>
+        <charseq START="232" END="237">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-96" TYPE="NOM">
+      <extent>
+        <charseq START="304" END="346">one of China's most
+active economic regions</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="306">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-99" TYPE="NOM">
+      <extent>
+        <charseq START="361" END="371">this region</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="371">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-100" TYPE="NOM">
+      <extent>
+        <charseq START="436" END="467">The southern Fujian delta region</charseq>
+      </extent>
+      <head>
+        <charseq START="462" END="467">region</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="52-102" TYPE="CMC">
+      <extent>
+        <charseq START="479" END="535">the Xiamen Special
+Economic Zone, Quanzhou, and Zhangzhou</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE45">
+  <entity ID="chtb_128.eng-E54" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="ATR">
+    <entity_mention ID="54-27" TYPE="PRE">
+      <extent>
+        <charseq START="1429" END="1433">delta</charseq>
+      </extent>
+      <head>
+        <charseq START="1429" END="1433">delta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="54-74" TYPE="PRE">
+      <extent>
+        <charseq START="3586" END="3606">southern Fujian delta</charseq>
+      </extent>
+      <head>
+        <charseq START="3602" END="3606">delta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="54-94" TYPE="PRE">
+      <extent>
+        <charseq START="210" END="230">southern Fujian delta</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="230">delta</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="54-101" TYPE="PRE">
+      <extent>
+        <charseq START="440" END="460">southern Fujian delta</charseq>
+      </extent>
+      <head>
+        <charseq START="456" END="460">delta</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE46">
+  <entity ID="chtb_128.eng-E55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="55-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1257" END="1261">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1257" END="1261">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="55-24" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1411" END="1420">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1415" END="1420">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="55-34" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1644" END="1653">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1648" END="1653">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="55-95" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="202" END="206">China</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="206">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="55-97" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="311" END="315">China</charseq>
+      </extent>
+      <head>
+        <charseq START="311" END="315">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="202" END="206">China</charseq>
+      </name>
+      <name>
+        <charseq START="311" END="315">China</charseq>
+      </name>
+      <name>
+        <charseq START="1257" END="1261">China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE47">
+  <entity ID="chtb_128.eng-E56" TYPE="LOC" SUBTYPE="Region-National" CLASS="USP">
+    <entity_mention ID="56-98" TYPE="NOM">
+      <extent>
+        <charseq START="311" END="346">China's most
+active economic regions</charseq>
+      </extent>
+      <head>
+        <charseq START="340" END="346">regions</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_128.eng-CE48">
+  <entity ID="chtb_128.eng-E4" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="4-6" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="630" END="693">the dragon's head area in
+southern Fujian's economic development</charseq>
+      </extent>
+      <head>
+        <charseq START="648" END="651">area</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="43-80" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="3810" END="3815">Xiamen</charseq>
+      </extent>
+      <head>
+        <charseq START="3810" END="3815">Xiamen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-81" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="3821" END="3826">Xiamen</charseq>
+      </extent>
+      <head>
+        <charseq START="3821" END="3826">Xiamen</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_128.eng-E57" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="57-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="594" END="625">The Xiamen Special Economic Zone</charseq>
+      </extent>
+      <head>
+        <charseq START="598" END="625">Xiamen Special Economic Zone</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="57-8" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="708" END="716">this city</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="716">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="57-14" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="930" END="937">The city</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="937">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="57-18" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1123" END="1128">Xiamen</charseq>
+      </extent>
+      <head>
+        <charseq START="1123" END="1128">Xiamen</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="57-103" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="479" END="510">the Xiamen Special
+Economic Zone</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="510">Xiamen Special
+Economic Zone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="483" END="510">Xiamen Special
+Economic Zone</charseq>
+      </name>
+      <name>
+        <charseq START="598" END="625">Xiamen Special Economic Zone</charseq>
+      </name>
+      <name>
+        <charseq START="1123" END="1128">Xiamen</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_128.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="183">Xinhua News Agency, Fuzhou, January 18, by wire (reporter Ting Xu</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E50" ENTITYMENTIONID="50-89" ARGNUM="1">
+      <extent>
+        <charseq START="168" END="183">reporter Ting Xu</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E49" ENTITYMENTIONID="49-79" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="144">Fuzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="183">Xinhua News Agency, Fuzhou, January 18, by wire (reporter Ting Xu</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E50" ENTITYMENTIONID="50-89" ARGNUM="1">
+      <extent>
+        <charseq START="168" END="183">reporter Ting Xu</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E24" ENTITYMENTIONID="24-1" ARGNUM="2">
+      <extent>
+        <charseq START="119" END="136">Xinhua News Agency</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="202" END="237">China's southern Fujian delta region</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-91" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="237">China's southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E55" ENTITYMENTIONID="55-95" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="206">China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R4" TYPE="DISC">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="304" END="346">one of China's most
+active economic regions</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-96" ARGNUM="1">
+      <extent>
+        <charseq START="304" END="346">one of China's most
+active economic regions</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E56" ENTITYMENTIONID="56-98" ARGNUM="2">
+      <extent>
+        <charseq START="311" END="346">China's most
+active economic regions</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R5" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="311" END="346">China's most
+active economic regions</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E56" ENTITYMENTIONID="56-98" ARGNUM="1">
+      <extent>
+        <charseq START="311" END="346">China's most
+active economic regions</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E55" ENTITYMENTIONID="55-97" ARGNUM="2">
+      <extent>
+        <charseq START="311" END="315">China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="553" END="589">a famous hometown of overseas Chinese</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="574" END="589">overseas Chinese</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E2" ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="553" END="589">a famous hometown of overseas Chinese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="892" END="926">the world's middle-income countries</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E9" ENTITYMENTIONID="9-12" ARGNUM="1">
+      <extent>
+        <charseq START="892" END="926">the world's middle-income countries</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E10" ENTITYMENTIONID="10-13" ARGNUM="2">
+      <extent>
+        <charseq START="892" END="900">the world</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R8" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="771" END="813">the country's large and medium-sized cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E7" ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="771" END="813">the country's large and medium-sized cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E8" ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="771" END="781">the country</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R9" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1257" END="1270">China's cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E15" ENTITYMENTIONID="15-20" ARGNUM="1">
+      <extent>
+        <charseq START="1257" END="1270">China's cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E55" ENTITYMENTIONID="55-21" ARGNUM="2">
+      <extent>
+        <charseq START="1257" END="1261">China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1425" END="1451">The delta region's Quanzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E18" ENTITYMENTIONID="18-25" ARGNUM="1">
+      <extent>
+        <charseq START="1425" END="1451">The delta region's Quanzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-26" ARGNUM="2">
+      <extent>
+        <charseq START="1425" END="1440">The delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="10-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="436" END="535">The southern Fujian delta region refers to the Xiamen Special
+Economic Zone, Quanzhou, and Zhangzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E18" ENTITYMENTIONID="18-104" ARGNUM="1">
+      <extent>
+        <charseq START="513" END="520">Quanzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-100" ARGNUM="2">
+      <extent>
+        <charseq START="436" END="467">The southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1614" END="1663">the 100
+strongest counties in the nation's economy</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E23" ENTITYMENTIONID="23-33" ARGNUM="1">
+      <extent>
+        <charseq START="1614" END="1663">the 100
+strongest counties in the nation's economy</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E55" ENTITYMENTIONID="55-34" ARGNUM="2">
+      <extent>
+        <charseq START="1644" END="1653">the nation</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R12" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E3" ENTITYMENTIONID="3-38" ARGNUM="1">
+      <extent>
+        <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E25" ENTITYMENTIONID="25-39" ARGNUM="2">
+      <extent>
+        <charseq START="1744" END="1752">Hong Kong</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R13" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E3" ENTITYMENTIONID="3-38" ARGNUM="1">
+      <extent>
+        <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E26" ENTITYMENTIONID="26-40" ARGNUM="2">
+      <extent>
+        <charseq START="1758" END="1763">Taiwan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R14" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="14-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="3392" END="3434">This city now has ten development districts</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E39" ENTITYMENTIONID="39-70" ARGNUM="1">
+      <extent>
+        <charseq START="3410" END="3434">ten development districts</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E1" ENTITYMENTIONID="1-69" ARGNUM="2">
+      <extent>
+        <charseq START="3392" END="3400">This city</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R15" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="15-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="3797" END="3873">the Quanzhou-Xiamen and Xiamen-Zhangzhou expressways
+linking the three cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E41" ENTITYMENTIONID="41-77" ARGNUM="1">
+      <extent>
+        <charseq START="3797" END="3873">the Quanzhou-Xiamen and Xiamen-Zhangzhou expressways
+linking the three cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E40" ENTITYMENTIONID="40-83" ARGNUM="2">
+      <extent>
+        <charseq START="3858" END="3873">the three cities</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R16" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="202" END="237">China's southern Fujian delta region</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E54" ENTITYMENTIONID="54-94" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="230">southern Fujian delta</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-91" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="237">China's southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="16-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="436" END="467">The southern Fujian delta region</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E54" ENTITYMENTIONID="54-101" ARGNUM="1">
+      <extent>
+        <charseq START="440" END="460">southern Fujian delta</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-100" ARGNUM="2">
+      <extent>
+        <charseq START="436" END="467">The southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="16-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="3582" END="3613">the southern Fujian delta region</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E54" ENTITYMENTIONID="54-74" ARGNUM="1">
+      <extent>
+        <charseq START="3586" END="3606">southern Fujian delta</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-72" ARGNUM="2">
+      <extent>
+        <charseq START="3582" END="3613">the southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R18" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="18-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="436" END="535">The southern Fujian delta region refers to the Xiamen Special
+Economic Zone, Quanzhou, and Zhangzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E57" ENTITYMENTIONID="57-103" ARGNUM="1">
+      <extent>
+        <charseq START="479" END="510">the Xiamen Special
+Economic Zone</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-100" ARGNUM="2">
+      <extent>
+        <charseq START="436" END="467">The southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R20" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="20-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="436" END="535">The southern Fujian delta region refers to the Xiamen Special
+Economic Zone, Quanzhou, and Zhangzhou</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E1" ENTITYMENTIONID="1-105" ARGNUM="1">
+      <extent>
+        <charseq START="527" END="535">Zhangzhou</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E52" ENTITYMENTIONID="52-100" ARGNUM="2">
+      <extent>
+        <charseq START="436" END="467">The southern Fujian delta region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R21" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="21-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="574" END="589">overseas Chinese</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="574" END="589">overseas Chinese</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E16" ENTITYMENTIONID="16-29" ARGNUM="2">
+      <extent>
+        <charseq START="574" END="581">overseas</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="21-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E3" ENTITYMENTIONID="3-38" ARGNUM="1">
+      <extent>
+        <charseq START="1722" END="1778">overseas
+Chinese from Hong Kong and Taiwan into full play</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E16" ENTITYMENTIONID="16-60" ARGNUM="2">
+      <extent>
+        <charseq START="1722" END="1729">overseas</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R22" TYPE="DISC">
+  <relation_mention ID="22-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="750" END="813">the ten
+strongest of the country's large and medium-sized cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E6" ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="750" END="813">the ten
+strongest of the country's large and medium-sized cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E7" ENTITYMENTIONID="7-10" ARGNUM="2">
+      <extent>
+        <charseq START="771" END="813">the country's large and medium-sized cities</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R23" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <relation_mention ID="23-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="708" END="813">this city has already entered the list of the ten
+strongest of the country's large and medium-sized cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E57" ENTITYMENTIONID="57-8" ARGNUM="1">
+      <extent>
+        <charseq START="708" END="716">this city</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E6" ENTITYMENTIONID="6-9" ARGNUM="2">
+      <extent>
+        <charseq START="750" END="813">the ten
+strongest of the country's large and medium-sized cities</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R24" TYPE="DISC">
+  <relation_mention ID="24-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E20" ENTITYMENTIONID="20-30" ARGNUM="1">
+      <extent>
+        <charseq START="1568" END="1575">Jinjiang</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E19" ENTITYMENTIONID="19-28" ARGNUM="2">
+      <extent>
+        <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R25" TYPE="DISC">
+  <relation_mention ID="25-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E21" ENTITYMENTIONID="21-31" ARGNUM="1">
+      <extent>
+        <charseq START="1578" END="1583">Shishi</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E19" ENTITYMENTIONID="19-28" ARGNUM="2">
+      <extent>
+        <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R26" TYPE="DISC">
+  <relation_mention ID="26-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E22" ENTITYMENTIONID="22-32" ARGNUM="1">
+      <extent>
+        <charseq START="1589" END="1594">Nan'an</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E19" ENTITYMENTIONID="19-28" ARGNUM="2">
+      <extent>
+        <charseq START="1526" END="1594">3 cities under its administration,
+namely Jinjiang, Shishi and Nan'an</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R28" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="28-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2365" END="2402">township enterprises of the
+whole city</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E30" ENTITYMENTIONID="30-50" ARGNUM="1">
+      <extent>
+        <charseq START="2365" END="2402">township enterprises of the
+whole city</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E18" ENTITYMENTIONID="18-51" ARGNUM="2">
+      <extent>
+        <charseq START="2389" END="2402">the
+whole city</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R29" TYPE="DISC">
+  <relation_mention ID="29-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3159" END="3183">A number of big consortia</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E34" ENTITYMENTIONID="34-62" ARGNUM="1">
+      <extent>
+        <charseq START="3159" END="3183">A number of big consortia</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E35" ENTITYMENTIONID="35-63" ARGNUM="2">
+      <extent>
+        <charseq START="3171" END="3183">big consortia</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R30" TYPE="DISC">
+  <relation_mention ID="30-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3314" END="3365">a large number of medium and small-sized
+enterprises</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E37" ENTITYMENTIONID="37-66" ARGNUM="1">
+      <extent>
+        <charseq START="3314" END="3365">a large number of medium and small-sized
+enterprises</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E38" ENTITYMENTIONID="38-67" ARGNUM="2">
+      <extent>
+        <charseq START="3332" END="3365">medium and small-sized
+enterprises</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R32" TYPE="DISC">
+  <relation_mention ID="32-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3915" END="4011">A
+large number of key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E46" ENTITYMENTIONID="46-85" ARGNUM="1">
+      <extent>
+        <charseq START="3933" END="4011">key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E45" ENTITYMENTIONID="45-84" ARGNUM="2">
+      <extent>
+        <charseq START="3915" END="4011">A
+large number of key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_128.eng-R33" TYPE="DISC">
+  <relation_mention ID="33-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3915" END="4011">A
+large number of key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E47" ENTITYMENTIONID="47-86" ARGNUM="1">
+      <extent>
+        <charseq START="3961" END="4011">the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_128.eng-E45" ENTITYMENTIONID="45-84" ARGNUM="2">
+      <extent>
+        <charseq START="3915" END="4011">A
+large number of key infrastructures such as the port, airport,
+railway, telecommunications, etc</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

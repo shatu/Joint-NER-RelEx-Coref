@@ -1,0 +1,1663 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001218.2144.0401.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001218.2144.0401">
+<entity ID="NYT20001218.2144.0401-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-105" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2358" END="2362">Paris</charseq>
+    </extent>
+    <head>
+      <charseq START="2358" END="2362">Paris</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E2" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="2-20" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="742" END="749">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="742" END="749">overseas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="3-21" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1099" END="1139">European luxury fashion houses like Fendi</charseq>
+    </extent>
+    <head>
+      <charseq START="1123" END="1128">houses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="4-22" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1099" END="1106">European</charseq>
+    </extent>
+    <head>
+      <charseq START="1099" END="1106">European</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-112" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2392" END="2399">European</charseq>
+    </extent>
+    <head>
+      <charseq START="2392" END="2399">European</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1135" END="1139">Fendi</charseq>
+    </extent>
+    <head>
+      <charseq START="1135" END="1139">Fendi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1135" END="1139">Fendi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1287" END="1302">Gabrielle Studio</charseq>
+    </extent>
+    <head>
+      <charseq START="1287" END="1302">Gabrielle Studio</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1305" END="1413">the company held by the designer and her husband, Stephan Weiss,
+that holds all of the Donna Karan trademarks</charseq>
+    </extent>
+    <head>
+      <charseq START="1309" END="1315">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-32" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1370" END="1373">that</charseq>
+    </extent>
+    <head>
+      <charseq START="1370" END="1373">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1605" END="1613">Gabrielle</charseq>
+    </extent>
+    <head>
+      <charseq START="1605" END="1613">Gabrielle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1928" END="1936">Gabrielle</charseq>
+    </extent>
+    <head>
+      <charseq START="1928" END="1936">Gabrielle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3951" END="3959">Gabrielle</charseq>
+    </extent>
+    <head>
+      <charseq START="3951" END="3959">Gabrielle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-81" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4105" END="4120">Gabrielle studio</charseq>
+    </extent>
+    <head>
+      <charseq START="4105" END="4120">Gabrielle studio</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-82" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4172" END="4182">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="4176" END="4182">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-83" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4209" END="4256">That company, privately owned
+by Karan and Weiss</charseq>
+    </extent>
+    <head>
+      <charseq START="4214" END="4220">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-90" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4612" END="4620">Gabrielle</charseq>
+    </extent>
+    <head>
+      <charseq START="4612" END="4620">Gabrielle</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1287" END="1302">Gabrielle Studio</charseq>
+    </name>
+    <name>
+      <charseq START="1605" END="1613">Gabrielle</charseq>
+    </name>
+    <name>
+      <charseq START="1928" END="1936">Gabrielle</charseq>
+    </name>
+    <name>
+      <charseq START="3951" END="3959">Gabrielle</charseq>
+    </name>
+    <name>
+      <charseq START="4105" END="4120">Gabrielle studio</charseq>
+    </name>
+    <name>
+      <charseq START="4612" END="4620">Gabrielle</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1325" END="1336">the designer</charseq>
+    </extent>
+    <head>
+      <charseq START="1329" END="1336">designer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1342" END="1344">her</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1344">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1671" END="1675">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="1671" END="1675">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1681" END="1683">her</charseq>
+    </extent>
+    <head>
+      <charseq START="1681" END="1683">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1815" END="1897">Karan, who will stay on as chief designer and creative leader for
+the design studio</charseq>
+    </extent>
+    <head>
+      <charseq START="1815" END="1819">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-38" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1822" END="1824">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1822" END="1824">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-39" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1842" END="1855">chief designer</charseq>
+    </extent>
+    <head>
+      <charseq START="1848" END="1855">designer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-40" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1861" END="1875">creative leader</charseq>
+    </extent>
+    <head>
+      <charseq START="1870" END="1875">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1988" END="1990">she</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1990">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2051" END="2053">She</charseq>
+    </extent>
+    <head>
+      <charseq START="2051" END="2053">She</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2069" END="2069">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2069" END="2069">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2132" END="2132">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2132" END="2132">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2151" END="2152">my</charseq>
+    </extent>
+    <head>
+      <charseq START="2151" END="2152">my</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2315" END="2319">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="2315" END="2319">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-51" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2508" END="2511">hers</charseq>
+    </extent>
+    <head>
+      <charseq START="2508" END="2511">hers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2587" END="2589">she</charseq>
+    </extent>
+    <head>
+      <charseq START="2587" END="2589">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3184" END="3244">Karan, who
+acted as chief designer as well as chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="3184" END="3188">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-69" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="3191" END="3193">who</charseq>
+    </extent>
+    <head>
+      <charseq START="3191" END="3193">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-70" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="3204" END="3217">chief designer</charseq>
+    </extent>
+    <head>
+      <charseq START="3210" END="3217">designer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-71" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="3230" END="3244">chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="3236" END="3244">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3379" END="3381">her</charseq>
+    </extent>
+    <head>
+      <charseq START="3379" END="3381">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-80" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4078" END="4082">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="4078" END="4082">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-85" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4242" END="4246">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="4242" END="4246">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-86" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4440" END="4444">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="4440" END="4444">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-92" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4744" END="4748">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="4744" END="4748">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="5009" END="5013">Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="5009" END="5013">Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-117" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1951" END="1953">her</charseq>
+    </extent>
+    <head>
+      <charseq START="1951" END="1953">her</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1671" END="1675">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="1815" END="1819">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="2315" END="2319">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="3184" END="3188">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="4078" END="4082">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="4242" END="4246">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="4440" END="4444">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="4744" END="4748">Karan</charseq>
+    </name>
+    <name>
+      <charseq START="5009" END="5013">Karan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1342" END="1352">her husband</charseq>
+    </extent>
+    <head>
+      <charseq START="1346" END="1352">husband</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1355" END="1367">Stephan Weiss</charseq>
+    </extent>
+    <head>
+      <charseq START="1355" END="1367">Stephan Weiss</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1681" END="1691">her
+husband</charseq>
+    </extent>
+    <head>
+      <charseq START="1685" END="1691">husband</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1996" END="2000">Weiss</charseq>
+    </extent>
+    <head>
+      <charseq START="1996" END="2000">Weiss</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-84" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4252" END="4256">Weiss</charseq>
+    </extent>
+    <head>
+      <charseq START="4252" END="4256">Weiss</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-87" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4450" END="4454">Weiss</charseq>
+    </extent>
+    <head>
+      <charseq START="4450" END="4454">Weiss</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1355" END="1367">Stephan Weiss</charseq>
+    </name>
+    <name>
+      <charseq START="1996" END="2000">Weiss</charseq>
+    </name>
+    <name>
+      <charseq START="4252" END="4256">Weiss</charseq>
+    </name>
+    <name>
+      <charseq START="4450" END="4454">Weiss</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="334" END="424">The fashion house of Donna Karan, which has long struggled to
+achieve financial equilibrium</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="365">Donna Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="691" END="701">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="701">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-42" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1982" END="1986">which</charseq>
+    </extent>
+    <head>
+      <charseq START="1982" END="1986">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-49" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2300" END="2302">our</charseq>
+    </extent>
+    <head>
+      <charseq START="2300" END="2302">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2690" END="2693">them</charseq>
+    </extent>
+    <head>
+      <charseq START="2690" END="2693">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-79" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4047" END="4057">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="4051" END="4057">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-88" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4483" END="4498">the design house</charseq>
+    </extent>
+    <head>
+      <charseq START="4494" END="4498">house</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-89" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4604" END="4605">it</charseq>
+    </extent>
+    <head>
+      <charseq START="4604" END="4605">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-98" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="368" END="372">which</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="372">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-102" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="5169" END="5171">its</charseq>
+    </extent>
+    <head>
+      <charseq START="5169" END="5171">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-120" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="334" END="350">The fashion house</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="350">house</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-121" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="598" END="622">Donna Karan International</charseq>
+    </extent>
+    <head>
+      <charseq START="598" END="622">Donna Karan International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-122" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="935" END="945">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="945">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-123" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1015" END="1025">the
+company</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1025">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-124" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1392" END="1402">Donna Karan</charseq>
+    </extent>
+    <head>
+      <charseq START="1392" END="1402">Donna Karan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-125" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1532" END="1534">DKI</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1534">DKI</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-126" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1619" END="1643">Donna Karan International</charseq>
+    </extent>
+    <head>
+      <charseq START="1619" END="1643">Donna Karan International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-127" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1740" END="1742">DKI</charseq>
+    </extent>
+    <head>
+      <charseq START="1740" END="1742">DKI</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-128" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1881" END="1897">the design studio</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1897">studio</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-129" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1951" END="1976">her namesake design studio</charseq>
+    </extent>
+    <head>
+      <charseq START="1971" END="1976">studio</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-130" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2998" END="3022">Donna Karan International</charseq>
+    </extent>
+    <head>
+      <charseq START="2998" END="3022">Donna Karan International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-131" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3045" END="3047">its</charseq>
+    </extent>
+    <head>
+      <charseq START="3045" END="3047">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-132" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3446" END="3470">Donna Karan
+International</charseq>
+    </extent>
+    <head>
+      <charseq START="3446" END="3470">Donna Karan
+International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-133" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3553" END="3563">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="3557" END="3563">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-134" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3718" END="3728">The company</charseq>
+    </extent>
+    <head>
+      <charseq START="3722" END="3728">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-135" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3921" END="3945">Donna Karan
+International</charseq>
+    </extent>
+    <head>
+      <charseq START="3921" END="3945">Donna Karan
+International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-136" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4409" END="4433">Donna Karan International</charseq>
+    </extent>
+    <head>
+      <charseq START="4409" END="4433">Donna Karan International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-137" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4565" END="4589">Donna Karan International</charseq>
+    </extent>
+    <head>
+      <charseq START="4565" END="4589">Donna Karan International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-138" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="5124" END="5148">Donna Karan
+International</charseq>
+    </extent>
+    <head>
+      <charseq START="5124" END="5148">Donna Karan
+International</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-139" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="5239" END="5249">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="5243" END="5249">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="598" END="622">Donna Karan International</charseq>
+    </name>
+    <name>
+      <charseq START="1532" END="1534">DKI</charseq>
+    </name>
+    <name>
+      <charseq START="1619" END="1643">Donna Karan International</charseq>
+    </name>
+    <name>
+      <charseq START="2998" END="3022">Donna Karan International</charseq>
+    </name>
+    <name>
+      <charseq START="3921" END="3945">Donna Karan
+International</charseq>
+    </name>
+    <name>
+      <charseq START="4409" END="4433">Donna Karan International</charseq>
+    </name>
+    <name>
+      <charseq START="4565" END="4589">Donna Karan International</charseq>
+    </name>
+    <name>
+      <charseq START="5124" END="5148">Donna Karan
+International</charseq>
+    </name>
+    <name>
+      <charseq START="355" END="365">Donna Karan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E13" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="13-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2599" END="2607">Investors</charseq>
+    </extent>
+    <head>
+      <charseq START="2599" END="2607">Investors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-67" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3104" END="3112">Investors</charseq>
+    </extent>
+    <head>
+      <charseq START="3104" END="3112">Investors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-78" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4014" END="4022">investors</charseq>
+    </extent>
+    <head>
+      <charseq START="4014" END="4022">investors</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3133" END="3136">they</charseq>
+    </extent>
+    <head>
+      <charseq START="3133" END="3136">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2740" END="2754">Harvey Robinson</charseq>
+    </extent>
+    <head>
+      <charseq START="2740" END="2754">Harvey Robinson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-57" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2757" END="2849">an apparel analyst with the Chapman Co.,
+a Baltimore-based investment bank and brokerage firm</charseq>
+    </extent>
+    <head>
+      <charseq START="2768" END="2774">analyst</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2740" END="2754">Harvey Robinson</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-59" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2781" END="2794">the Chapman Co</charseq>
+    </extent>
+    <head>
+      <charseq START="2785" END="2794">Chapman Co</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-61" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="2816" END="2830">investment bank</charseq>
+    </extent>
+    <head>
+      <charseq START="2827" END="2830">bank</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-62" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="2836" END="2849">brokerage firm</charseq>
+    </extent>
+    <head>
+      <charseq START="2846" END="2849">firm</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2854" END="2855">We</charseq>
+    </extent>
+    <head>
+      <charseq START="2854" END="2855">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-65" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2927" END="2928">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2927" END="2928">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2785" END="2794">Chapman Co</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="18-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2800" END="2808">Baltimore</charseq>
+    </extent>
+    <head>
+      <charseq START="2800" END="2808">Baltimore</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-66" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="3091" END="3101">Wall Street</charseq>
+    </extent>
+    <head>
+      <charseq START="3091" END="3101">Wall Street</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-73" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3571" END="3582">John D. Idol</charseq>
+    </extent>
+    <head>
+      <charseq START="3571" END="3582">John D. Idol</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3617" END="3620">Idol</charseq>
+    </extent>
+    <head>
+      <charseq START="3617" END="3620">Idol</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3862" END="3863">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3862" END="3863">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3913" END="3916">Idol</charseq>
+    </extent>
+    <head>
+      <charseq START="3913" END="3916">Idol</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-104" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="5197" END="5200">Idol</charseq>
+    </extent>
+    <head>
+      <charseq START="5197" END="5200">Idol</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-116" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="3600" END="3614">chief
+executive</charseq>
+    </extent>
+    <head>
+      <charseq START="3606" END="3614">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3571" END="3582">John D. Idol</charseq>
+    </name>
+    <name>
+      <charseq START="3617" END="3620">Idol</charseq>
+    </name>
+    <name>
+      <charseq START="3913" END="3916">Idol</charseq>
+    </name>
+    <name>
+      <charseq START="5197" END="5200">Idol</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4666" END="4690">several industry insiders</charseq>
+    </extent>
+    <head>
+      <charseq START="4683" END="4690">insiders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4923" END="4933">Marc
+Jacobs</charseq>
+    </extent>
+    <head>
+      <charseq START="4923" END="4933">Marc
+Jacobs</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4923" END="4933">Marc
+Jacobs</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-94" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4939" END="4950">Michael Kors</charseq>
+    </extent>
+    <head>
+      <charseq START="4939" END="4950">Michael Kors</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4939" END="4950">Michael Kors</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-96" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4955" END="4966">Myron Ullman</charseq>
+    </extent>
+    <head>
+      <charseq START="4955" END="4966">Myron Ullman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-97" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4969" END="4992">LVMH's managing director</charseq>
+    </extent>
+    <head>
+      <charseq START="4985" END="4992">director</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4955" END="4966">Myron Ullman</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="26-100" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="5113" END="5120">the U.S.</charseq>
+    </extent>
+    <head>
+      <charseq START="5117" END="5120">U.S.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-107" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2455" END="2462">American</charseq>
+    </extent>
+    <head>
+      <charseq START="2455" END="2462">American</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="5117" END="5120">U.S.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001218.2144.0401-E27" TYPE="LOC" SUBTYPE="Region-International" CLASS="USP">
+  <entity_mention ID="27-101" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="5105" END="5119">outside the U.S</charseq>
+    </extent>
+    <head>
+      <charseq START="5105" END="5111">outside</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E28" TYPE="LOC" SUBTYPE="Region-International" CLASS="USP">
+  <entity_mention ID="28-103" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="5187" END="5194">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="5187" END="5194">overseas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="29-106" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2443" END="2476">established American design houses</charseq>
+    </extent>
+    <head>
+      <charseq START="2471" END="2476">houses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-108" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1198" END="1202">board</charseq>
+    </extent>
+    <head>
+      <charseq START="1198" END="1202">board</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1790" END="1808">the combined entity</charseq>
+    </extent>
+    <head>
+      <charseq START="1803" END="1808">entity</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E33" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="33-111" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2200" END="2205">global</charseq>
+    </extent>
+    <head>
+      <charseq START="2200" END="2205">global</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-119" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="5044" END="5049">global</charseq>
+    </extent>
+    <head>
+      <charseq START="5044" END="5049">global</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="34-113" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2387" END="2409">many European acquirers</charseq>
+    </extent>
+    <head>
+      <charseq START="2401" END="2409">acquirers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E35" TYPE="PER" CLASS="USP">
+  <entity_mention ID="35-115" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3283" END="3297">a large retinue</charseq>
+    </extent>
+    <head>
+      <charseq START="3291" END="3297">retinue</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E37" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="37-118" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="4851" END="4876">midprice
+department stores</charseq>
+    </extent>
+    <head>
+      <charseq START="4871" END="4876">stores</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001218.2144.0401-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="38-2" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="528" END="532">which</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="532">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="675" END="676">it</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="676">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-5" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="782" END="785">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="782" END="785">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1272" END="1275">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="1272" END="1275">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1491" END="1494">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="1491" END="1494">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1575" END="1578">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="1575" END="1578">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1585" END="1586">it</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1586">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2165" END="2168">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="2165" END="2168">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2358" END="2476">Paris-based LVMH, which
+like many European acquirers has been largely indifferent to
+established American design houses</charseq>
+    </extent>
+    <head>
+      <charseq START="2370" END="2373">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-13" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="2376" END="2380">which</charseq>
+    </extent>
+    <head>
+      <charseq START="2376" END="2380">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2543" END="2546">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2543" END="2546">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2863" END="2866">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="2863" END="2866">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2938" END="2941">they</charseq>
+    </extent>
+    <head>
+      <charseq START="2938" END="2941">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4538" END="4541">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="4538" END="4541">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4709" END="4712">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="4709" END="4712">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4969" END="4972">LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="4969" END="4972">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-63" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="445" END="461">a potential buyer</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="461">buyer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-109" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1654" END="1655">it</charseq>
+    </extent>
+    <head>
+      <charseq START="1654" END="1655">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-141" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="464" END="497">The giant luxury conglomerate LVMH</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="497">LVMH</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-142" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="499" END="572">Moet Hennessy Louis Vuitton,
+which has been on a sustained acquisition bid</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="525">Moet Hennessy Louis Vuitton</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1272" END="1275">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="1491" END="1494">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="1575" END="1578">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="2165" END="2168">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="2370" END="2373">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="2863" END="2866">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="4538" END="4541">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="4709" END="4712">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="4969" END="4972">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="494" END="497">LVMH</charseq>
+    </name>
+    <name>
+      <charseq START="499" END="525">Moet Hennessy Louis Vuitton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001218.2144.0401-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1099" END="1139">European luxury fashion houses like Fendi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-21" ARGNUM="1">
+      <extent>
+        <charseq START="1099" END="1139">European luxury fashion houses like Fendi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-22" ARGNUM="2">
+      <extent>
+        <charseq START="1099" END="1106">European</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E3" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1099" END="1139">European luxury fashion houses like Fendi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-23" ARGNUM="1">
+      <extent>
+        <charseq START="1135" END="1139">Fendi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-21" ARGNUM="2">
+      <extent>
+        <charseq START="1099" END="1139">European luxury fashion houses like Fendi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E6" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1305" END="1413">the company held by the designer and her husband, Stephan Weiss,
+that holds all of the Donna Karan trademarks</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-27" ARGNUM="1">
+      <extent>
+        <charseq START="1325" END="1336">the designer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-26" ARGNUM="2">
+      <extent>
+        <charseq START="1305" END="1413">the company held by the designer and her husband, Stephan Weiss,
+that holds all of the Donna Karan trademarks</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="4209" END="4256">That company, privately owned
+by Karan and Weiss</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-85" ARGNUM="1">
+      <extent>
+        <charseq START="4242" END="4246">Karan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-83" ARGNUM="2">
+      <extent>
+        <charseq START="4209" END="4256">That company, privately owned
+by Karan and Weiss</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E6" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1305" END="1413">the company held by the designer and her husband, Stephan Weiss,
+that holds all of the Donna Karan trademarks</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-30" ARGNUM="1">
+      <extent>
+        <charseq START="1342" END="1352">her husband</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-26" ARGNUM="2">
+      <extent>
+        <charseq START="1305" END="1413">the company held by the designer and her husband, Stephan Weiss,
+that holds all of the Donna Karan trademarks</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="4209" END="4256">That company, privately owned
+by Karan and Weiss</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-84" ARGNUM="1">
+      <extent>
+        <charseq START="4252" END="4256">Weiss</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-83" ARGNUM="2">
+      <extent>
+        <charseq START="4209" END="4256">That company, privately owned
+by Karan and Weiss</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R5" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1342" END="1352">her husband</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-30" ARGNUM="1">
+      <extent>
+        <charseq START="1342" END="1352">her husband</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-28" ARGNUM="2">
+      <extent>
+        <charseq START="1342" END="1344">her</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="5-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1681" END="1691">her
+husband</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-35" ARGNUM="1">
+      <extent>
+        <charseq START="1681" END="1691">her
+husband</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-36" ARGNUM="2">
+      <extent>
+        <charseq START="1681" END="1683">her</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E12" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1842" END="1897">chief designer and creative leader for
+the design studio</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-39" ARGNUM="1">
+      <extent>
+        <charseq START="1842" END="1855">chief designer</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-128" ARGNUM="2">
+      <extent>
+        <charseq START="1881" END="1897">the design studio</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="7-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1842" END="1897">chief designer and creative leader for
+the design studio</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-40" ARGNUM="1">
+      <extent>
+        <charseq START="1861" END="1875">creative leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-128" ARGNUM="2">
+      <extent>
+        <charseq START="1881" END="1897">the design studio</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="7-3" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1951" END="1976">her namesake design studio</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-117" ARGNUM="1">
+      <extent>
+        <charseq START="1951" END="1953">her</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-129" ARGNUM="2">
+      <extent>
+        <charseq START="1951" END="1976">her namesake design studio</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E1" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2358" END="2476">Paris-based LVMH, which
+like many European acquirers has been largely indifferent to
+established American design houses</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-12" ARGNUM="1">
+      <extent>
+        <charseq START="2358" END="2476">Paris-based LVMH, which
+like many European acquirers has been largely indifferent to
+established American design houses</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-105" ARGNUM="2">
+      <extent>
+        <charseq START="2358" END="2362">Paris</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E26" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2443" END="2476">established American design houses</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-106" ARGNUM="1">
+      <extent>
+        <charseq START="2443" END="2476">established American design houses</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-107" ARGNUM="2">
+      <extent>
+        <charseq START="2455" END="2462">American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E16" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2757" END="2849">an apparel analyst with the Chapman Co.,
+a Baltimore-based investment bank and brokerage firm</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-57" ARGNUM="1">
+      <extent>
+        <charseq START="2757" END="2849">an apparel analyst with the Chapman Co.,
+a Baltimore-based investment bank and brokerage firm</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-59" ARGNUM="2">
+      <extent>
+        <charseq START="2781" END="2794">the Chapman Co</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R13" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E18" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2800" END="2849">Baltimore-based investment bank and brokerage firm</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-61" ARGNUM="1">
+      <extent>
+        <charseq START="2816" END="2830">investment bank</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-11" ARGNUM="2">
+      <extent>
+        <charseq START="2800" END="2808">Baltimore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="13-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2800" END="2849">Baltimore-based investment bank and brokerage firm</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-62" ARGNUM="1">
+      <extent>
+        <charseq START="2836" END="2849">brokerage firm</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-11" ARGNUM="2">
+      <extent>
+        <charseq START="2800" END="2808">Baltimore</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001218.2144.0401-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001218.2144.0401-E38" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="4969" END="4992">LVMH's managing director</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-97" ARGNUM="1">
+      <extent>
+        <charseq START="4969" END="4992">LVMH's managing director</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-19" ARGNUM="2">
+      <extent>
+        <charseq START="4969" END="4972">LVMH</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

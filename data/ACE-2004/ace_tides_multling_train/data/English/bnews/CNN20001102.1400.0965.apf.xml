@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001102.1400.0965.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001102.1400.0965">
+<entity ID="CNN20001102.1400.0965-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="65" END="88">martha stewart's company</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="88">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="110" END="140">martha stewart living
+omnimedia</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="140">martha stewart living
+omnimedia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="194" END="196">its</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="196">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="222" END="232">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="232">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="239" END="240">it</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="240">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="110" END="140">martha stewart living
+omnimedia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001102.1400.0965-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="78">martha stewart</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="78">martha stewart</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="325" END="338">martha
+stewart</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="338">martha
+stewart</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="78">martha stewart</charseq>
+    </name>
+    <name>
+      <charseq START="325" END="338">martha
+stewart</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001102.1400.0965-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="394" END="398">kmart</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="398">kmart</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="394" END="398">kmart</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001102.1400.0965-E4" TYPE="FAC" SUBTYPE="Building" CLASS="GEN">
+  <entity_mention ID="4-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="374" END="378">house</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="378">house</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001102.1400.0965-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNN20001102.1400.0965-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001102.1400.0965-E1" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="65" END="88">martha stewart's company</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="78">martha stewart</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="88">martha stewart's company</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

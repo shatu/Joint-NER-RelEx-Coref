@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001020.2100.1853.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001020.2100.1853">
+<entity ID="VOA20001020.2100.1853-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="75">The US navy</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="75">navy</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="240" END="243">navy</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="243">navy</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="72" END="75">navy</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001020.2100.1853-E2" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="86" END="97">the USS Cole</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="97">USS Cole</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="151" END="152">it</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="152">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="354" END="361">the ship</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">ship</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="90" END="97">USS Cole</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001020.2100.1853-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="157" END="161">Yemen</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="161">Yemen</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="157" END="161">Yemen</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001020.2100.1853-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="182" END="183">17</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="183">17</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001020.2100.1853-E6" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="294" END="331">the small boat carrying the
+explosives</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="307">boat</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001020.2100.1853-E7" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="318" END="331">the
+explosives</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="331">explosives</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001020.2100.1853-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="69" END="70">US</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="70">US</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VOA20001020.2100.1853-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="151" END="161">it in Yemen</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="1">
+      <extent>
+        <charseq START="151" END="152">it</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="157" END="161">Yemen</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001020.2100.1853-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="294" END="331">the small boat carrying the
+explosives</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="1">
+      <extent>
+        <charseq START="318" END="331">the
+explosives</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="2">
+      <extent>
+        <charseq START="294" END="331">the small boat carrying the
+explosives</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001020.2100.1853-R3" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001020.2100.1853-E2" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="294" END="361">the small boat carrying the
+explosives was able to get near the ship</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-9" ARGNUM="2">
+      <extent>
+        <charseq START="354" END="361">the ship</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="294" END="331">the small boat carrying the
+explosives</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

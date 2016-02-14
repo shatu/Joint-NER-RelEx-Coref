@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag-1.1.dtd">
+<AGSet id="ALH20001102.1300.0116" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="author">LDC</MetadataElement>
+<MetadataElement name="encoding">UTF-8</MetadataElement>
+<MetadataElement name="source">newswire</MetadataElement>
+<MetadataElement name="type">text</MetadataElement>
+<MetadataElement name="uri">ALH20001102.1300.0116.sgm</MetadataElement>
+<MetadataElement name="version">4.0</MetadataElement>
+</Metadata>
+<Timeline id="ALH20001102.1300.0116:T1">
+<Signal id="ALH20001102.1300.0116:T1:1" mimeClass="text" mimeType="NULL" encoding="unknown" unit="char" xlink:type="simple" xlink:href="URI" track="NULL"></Signal>
+</Timeline>
+<AG id="ALH20001102.1300.0116:1" timeline="ALH20001102.1300.0116:T1">
+<Metadata>
+<MetadataElement name="docid">ALH20001102.1300.0116</MetadataElement>
+</Metadata>
+<Anchor id="ALH20001102.1300.0116:1:9" offset="310.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:A" offset="310.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:B" offset="310.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:C" offset="310.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:1" offset="312.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:3" offset="318.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:2" offset="341.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:4" offset="341.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:D" offset="356.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:G" offset="356.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:F" offset="357.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:H" offset="357.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:I" offset="371.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:K" offset="371.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:J" offset="372.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:L" offset="372.000000"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:5"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:6"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:7"></Anchor>
+<Anchor id="ALH20001102.1300.0116:1:8"></Anchor>
+<Annotation id="ALH20001102.1300.0116:1:E3" type="entity" start="ALH20001102.1300.0116:1:5" end="ALH20001102.1300.0116:1:6">
+<Feature name="class">SPC</Feature>
+<Feature name="class_difficultDecision">FALSE</Feature>
+<Feature name="composite_entity">ALH20001102.1300.0116:1:E4</Feature>
+<Feature name="id">ALH20001102.1300.0116-E1</Feature>
+<Feature name="subtype">Commercial</Feature>
+<Feature name="subtype_difficultDecision">FALSE</Feature>
+<Feature name="type">ORG</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E4" type="composite_entity" start="ALH20001102.1300.0116:1:7" end="ALH20001102.1300.0116:1:8">
+<Feature name="composite_entity_class">SPC</Feature>
+<Feature name="id">ALH20001102.1300.0116-CE1</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E5" type="entity_mention" start="ALH20001102.1300.0116:1:9" end="ALH20001102.1300.0116:1:A">
+<Feature name="entity">ALH20001102.1300.0116:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ALH20001102.1300.0116:1:E6</Feature>
+<Feature name="id">1-2</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">ت</Feature>
+<Feature name="type">PRO</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E6" type="entity_mention_head" start="ALH20001102.1300.0116:1:B" end="ALH20001102.1300.0116:1:C">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">ت</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E1" type="entity_mention" start="ALH20001102.1300.0116:1:1" end="ALH20001102.1300.0116:1:2">
+<Feature name="entity">ALH20001102.1300.0116:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ALH20001102.1300.0116:1:E2</Feature>
+<Feature name="id">1-1</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">شركة »الخطوط الجوية
+البريطانية</Feature>
+<Feature name="type">NAM</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E2" type="entity_mention_head" start="ALH20001102.1300.0116:1:3" end="ALH20001102.1300.0116:1:4">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">الخطوط الجوية
+البريطانية</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E7" type="entity_mention" start="ALH20001102.1300.0116:1:D" end="ALH20001102.1300.0116:1:F">
+<Feature name="entity">ALH20001102.1300.0116:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ALH20001102.1300.0116:1:E8</Feature>
+<Feature name="id">1-3</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">ها</Feature>
+<Feature name="type">PRO</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E8" type="entity_mention_head" start="ALH20001102.1300.0116:1:G" end="ALH20001102.1300.0116:1:H">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">ها</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:E9" type="entity_mention" start="ALH20001102.1300.0116:1:I" end="ALH20001102.1300.0116:1:J">
+<Feature name="entity">ALH20001102.1300.0116:1:E3</Feature>
+<Feature name="entity_difficultDecision">FALSE</Feature>
+<Feature name="head">ALH20001102.1300.0116:1:EA</Feature>
+<Feature name="id">1-4</Feature>
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="role"></Feature>
+<Feature name="role_difficultDecision">FALSE</Feature>
+<Feature name="text">ها</Feature>
+<Feature name="type">PRO</Feature>
+<Feature name="type_difficultDecision">FALSE</Feature>
+</Annotation>
+<Annotation id="ALH20001102.1300.0116:1:EA" type="entity_mention_head" start="ALH20001102.1300.0116:1:K" end="ALH20001102.1300.0116:1:L">
+<Feature name="indexing_type">charseq</Feature>
+<Feature name="text">ها</Feature>
+</Annotation>
+</AG>
+</AGSet>

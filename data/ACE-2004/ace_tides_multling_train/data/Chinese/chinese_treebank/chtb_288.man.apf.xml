@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_288.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_288.man">
+<entity ID="chtb_288.man-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="64" END="66">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="64" END="66">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="64" END="66">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="67" END="68">北京</charseq>
+    </extent>
+    <head>
+      <charseq START="67" END="68">北京</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="67" END="68">北京</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="78" END="83">外交部发言人</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="83">发言人</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="137" END="139">发言人</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="139">发言人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_288.man-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="78" END="80">外交部</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="80">外交部</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="78" END="80">外交部</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E5" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="89" END="94">中国红十字会</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="94">红十字会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="91" END="94">红十字会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="89" END="90">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="90">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="131" END="132">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="132">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="89" END="90">中国</charseq>
+    </name>
+    <name>
+      <charseq START="131" END="132">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="98" END="114">红十字国际委员会处长
+格丁纳格一行</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="114">一行</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-8" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="115" END="116">四人</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="116">四人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_288.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="109" END="112">格丁纳格</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="112">格丁纳格</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="98" END="107">红十字国际委员会处长</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="107">处长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="109" END="112">格丁纳格</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E10" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="10-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="98" END="105">红十字国际委员会</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="105">红十字国际委员会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="98" END="105">红十字国际委员会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_288.man-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="142" END="143">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="143">双方</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="210" END="211">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="211">双方</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="227" END="228">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="228">双方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_288.man-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_288.man-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_288.man-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="78" END="83">外交部发言人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="78" END="83">外交部发言人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="78" END="80">外交部</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_288.man-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_288.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_288.man-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="89" END="94">中国红十字会</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="89" END="94">中国红十字会</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="89" END="90">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_288.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_288.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_288.man-E10" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="98" END="107">红十字国际委员会处长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="1">
+      <extent>
+        <charseq START="98" END="107">红十字国际委员会处长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-12" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="105">红十字国际委员会</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_288.man-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_288.man-E2" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="chtb_288.man-E1" ARGNUM="1" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="64" END="68">新华社北京</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="67" END="68">北京</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="66">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

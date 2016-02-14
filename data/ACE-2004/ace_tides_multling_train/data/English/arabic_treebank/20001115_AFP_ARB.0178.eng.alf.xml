@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0178.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0178.eng">
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0178.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="102" END="106">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="106">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-6" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="265" END="269">Paris</charseq>
+      </extent>
+      <head>
+        <charseq START="265" END="269">Paris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="102" END="106">Paris</charseq>
+      </name>
+      <name>
+        <charseq START="265" END="269">Paris</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0178.eng-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="117">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="117">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="115" END="117">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0178.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NOM">
+      <extent>
+        <charseq START="123" END="139">A security source</charseq>
+      </extent>
+      <head>
+        <charseq START="134" END="139">source</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0178.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-4" TYPE="NOM">
+      <extent>
+        <charseq START="146" END="156">four people</charseq>
+      </extent>
+      <head>
+        <charseq START="151" END="156">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0178.eng-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NOM">
+      <extent>
+        <charseq START="174" END="184">many others</charseq>
+      </extent>
+      <head>
+        <charseq START="179" END="184">others</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0178.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="331" END="341">the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="335" END="341">capital</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0178.eng-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-8" TYPE="NOM">
+      <extent>
+        <charseq START="351" END="368">a number of people</charseq>
+      </extent>
+      <head>
+        <charseq START="363" END="368">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0178.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0178.eng-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NOM">
+      <extent>
+        <charseq START="307" END="341">an outdoor pit north of the capital</charseq>
+      </extent>
+      <head>
+        <charseq START="318" END="320">pit</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0178.eng-R1" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="307" END="341">an outdoor pit north of the capital</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E8" ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="307" END="341">an outdoor pit north of the capital</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E6" ENTITYMENTIONID="6-7" ARGNUM="2">
+      <extent>
+        <charseq START="331" END="341">the capital</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0178.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="146" END="269">four people were killed and many others were
+seriously injured in a heating system explosion this evening
+Wednesday in Paris</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E4" ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="156">four people</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E1" ENTITYMENTIONID="1-6" ARGNUM="2">
+      <extent>
+        <charseq START="265" END="269">Paris</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0178.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="146" END="269">four people were killed and many others were
+seriously injured in a heating system explosion this evening
+Wednesday in Paris</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E5" ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="174" END="184">many others</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0178.eng-E1" ENTITYMENTIONID="1-6" ARGNUM="2">
+      <extent>
+        <charseq START="265" END="269">Paris</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

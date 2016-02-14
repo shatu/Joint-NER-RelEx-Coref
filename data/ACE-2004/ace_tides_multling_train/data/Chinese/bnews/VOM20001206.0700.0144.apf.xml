@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOM20001206.0700.0144.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOM20001206.0700.0144">
+<entity ID="VOM20001206.0700.0144-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="189" END="189">他</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="189">他</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="196" END="196">他</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="196">他</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="94" END="96">王文江</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="96">王文江</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="163" END="165">王文江</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="165">王文江</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="167" END="170">一名律师</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="170">律师</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="94" END="96">王文江</charseq>
+    </name>
+    <name>
+      <charseq START="163" END="165">王文江</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E2" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="173" END="178">持不重政见者</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="178">持不重政见者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001206.0700.0144-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="184">警方</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="184">警方</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="228" END="229">警方</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="229">警方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001206.0700.0144-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="205" END="207">王友财</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="207">王友财</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="198" END="204">中国民主党领袖</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="204">领袖</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="205" END="207">王友财</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="237" END="247">25
+名中国民主党人士</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="247">人士</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001206.0700.0144-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="7-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="117" END="120">中国当局</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="120">当局</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001206.0700.0144-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="64" END="70">中国辽宁省法院</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="70">法院</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOM20001206.0700.0144-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="9-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="64" END="68">中国辽宁省</charseq>
+    </extent>
+    <head>
+      <charseq START="66" END="68">辽宁省</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="66" END="68">辽宁省</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="198" END="199">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="199">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-11" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="211" END="214">中国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="214">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="211" END="212">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="212">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="217" END="218">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="218">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="241" END="242">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="242">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="64" END="65">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="64" END="65">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="106" END="108">中
+国</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="108">中
+国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="117" END="118">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="118">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-32" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="127" END="128">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="128">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="198" END="199">中国</charseq>
+    </name>
+    <name>
+      <charseq START="211" END="212">中国</charseq>
+    </name>
+    <name>
+      <charseq START="217" END="218">中国</charseq>
+    </name>
+    <name>
+      <charseq START="241" END="242">中国</charseq>
+    </name>
+    <name>
+      <charseq START="64" END="65">中国</charseq>
+    </name>
+    <name>
+      <charseq START="106" END="108">中
+国</charseq>
+    </name>
+    <name>
+      <charseq START="117" END="118">中国</charseq>
+    </name>
+    <name>
+      <charseq START="127" END="128">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="86" END="88">王哲晨</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="88">王哲晨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="80" END="85">民主活动人士</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="85">人士</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="102" END="104">王哲晨</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="104">王哲晨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="106" END="115">中
+国民主党重要成员</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="115">成员</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="150" END="153">王
+哲晨</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="153">王
+哲晨</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="86" END="88">王哲晨</charseq>
+    </name>
+    <name>
+      <charseq START="102" END="104">王哲晨</charseq>
+    </name>
+    <name>
+      <charseq START="150" END="153">王
+哲晨</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="198" END="202">中国民主党</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="202">民主党</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="217" END="221">中国民主党</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="221">民主党</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="241" END="245">中国民主党</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="245">民主党</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="106" END="111">中
+国民主党</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="111">民主党</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="127" END="131">中国民主党</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="131">民主党</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="219" END="221">民主党</charseq>
+    </name>
+    <name>
+      <charseq START="243" END="245">民主党</charseq>
+    </name>
+    <name>
+      <charseq START="109" END="111">民主党</charseq>
+    </name>
+    <name>
+      <charseq START="129" END="131">民主党</charseq>
+    </name>
+    <name>
+      <charseq START="200" END="202">民主党</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="16-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="134" END="146">香港的中国人权民运信息中心</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="146">中国人权民运信息中心</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="137" END="146">中国人权民运信息中心</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOM20001206.0700.0144-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="17-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="134" END="135">香港</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="135">香港</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="134" END="135">香港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VOM20001206.0700.0144-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E9" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="64" END="70">中国辽宁省法院</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-1" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="70">中国辽宁省法院</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="2">
+      <extent>
+        <charseq START="64" END="68">中国辽宁省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E10" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="64" END="68">中国辽宁省</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="1">
+      <extent>
+        <charseq START="64" END="68">中国辽宁省</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-20" ARGNUM="2">
+      <extent>
+        <charseq START="64" END="65">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R3" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E15" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="106" END="115">中
+国民主党重要成员</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-26" ARGNUM="1">
+      <extent>
+        <charseq START="106" END="115">中
+国民主党重要成员</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-27" ARGNUM="2">
+      <extent>
+        <charseq START="106" END="111">中
+国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E10" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="106" END="111">中
+国民主党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-27" ARGNUM="1">
+      <extent>
+        <charseq START="106" END="111">中
+国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-28" ARGNUM="2">
+      <extent>
+        <charseq START="106" END="108">中
+国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="127" END="131">中国民主党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-31" ARGNUM="1">
+      <extent>
+        <charseq START="127" END="131">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-32" ARGNUM="2">
+      <extent>
+        <charseq START="127" END="128">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="198" END="202">中国民主党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-9" ARGNUM="1">
+      <extent>
+        <charseq START="198" END="202">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-10" ARGNUM="2">
+      <extent>
+        <charseq START="198" END="199">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="217" END="221">中国民主党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-14" ARGNUM="1">
+      <extent>
+        <charseq START="217" END="221">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-13" ARGNUM="2">
+      <extent>
+        <charseq START="217" END="218">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-5" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="241" END="245">中国民主党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-17" ARGNUM="1">
+      <extent>
+        <charseq START="241" END="245">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="2">
+      <extent>
+        <charseq START="241" END="242">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E17" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="134" END="146">香港的中国人权民运信息中心</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-33" ARGNUM="1">
+      <extent>
+        <charseq START="134" END="146">香港的中国人权民运信息中心</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-34" ARGNUM="2">
+      <extent>
+        <charseq START="134" END="135">香港</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E15" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="198" END="204">中国民主党领袖</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="198" END="204">中国民主党领袖</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-9" ARGNUM="2">
+      <extent>
+        <charseq START="198" END="202">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R10" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E15" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="237" END="247">25
+名中国民主党人士</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-16" ARGNUM="1">
+      <extent>
+        <charseq START="237" END="247">25
+名中国民主党人士</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-17" ARGNUM="2">
+      <extent>
+        <charseq START="241" END="245">中国民主党</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOM20001206.0700.0144-R12" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOM20001206.0700.0144-E10" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="117" END="120">中国当局</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-29" ARGNUM="1">
+      <extent>
+        <charseq START="117" END="120">中国当局</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-30" ARGNUM="2">
+      <extent>
+        <charseq START="117" END="118">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

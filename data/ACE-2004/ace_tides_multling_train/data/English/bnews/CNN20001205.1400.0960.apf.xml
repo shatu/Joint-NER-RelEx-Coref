@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001205.1400.0960.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001205.1400.0960">
+<entity ID="CNN20001205.1400.0960-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="82">the united nations</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="82">united nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="69" END="82">united nations</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001205.1400.0960-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="113" END="119">the two</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="119">two</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001205.1400.0960-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="95" END="99">iraqi</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="99">iraqi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="162" END="165">iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="165">iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="201" END="207">baghdad</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="207">baghdad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-6" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="227" END="229">its</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="229">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="289" END="290">it</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="290">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="351" END="352">it</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="352">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-11" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="372" END="373">it</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="373">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="454" END="457">iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="457">iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="462" END="512">the
+sixth largest supplier of crude oil to the u.s.</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="487">supplier</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="162" END="165">iraq</charseq>
+    </name>
+    <name>
+      <charseq START="454" END="457">iraq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001205.1400.0960-E4" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="227" END="239">its customers</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="239">customers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001205.1400.0960-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="5-9" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="341" END="369">countries it views as hostile</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="349">countries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001205.1400.0960-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="414" END="430">the united states</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="430">united states</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="435" END="451">an obvious target</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="451">target</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="505" END="512">the u.s.</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="512">u.s.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="418" END="430">united states</charseq>
+    </name>
+    <name>
+      <charseq START="509" END="512">u.s.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="CNN20001205.1400.0960-R1" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001205.1400.0960-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001205.1400.0960-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="227" END="239">its customers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="227" END="239">its customers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="227" END="229">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

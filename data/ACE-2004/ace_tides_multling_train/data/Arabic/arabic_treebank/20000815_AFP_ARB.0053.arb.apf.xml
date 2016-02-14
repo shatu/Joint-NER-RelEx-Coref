@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0053.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0053.arb">
+<entity ID="20000815_AFP_ARB.0053.arb-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="312" END="352">نائبا الرئيس عبد الحليم خدام وزهير
+مشارقة</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="352">عبد الحليم خدام وزهير
+مشارقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="325" END="352">عبد الحليم خدام وزهير
+مشارقة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="355" END="382">رئيس الوزراء محمد مصطفى ميرو</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="382">محمد مصطفى ميرو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="368" END="382">محمد مصطفى ميرو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="385" END="409">وزير الخارجية فاروق الشرع</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="409">فاروق الشرع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="399" END="409">فاروق الشرع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="453" END="453">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="453">ا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E5" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="472" END="480">قصر الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="480">قصر الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="472" END="480">قصر الشعب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-12" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="490" END="502">الجانب السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="495">الجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="504" END="531">اعضاء الوفدين السوري والقطري</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="508">اعضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="510" END="531">الوفدين السوري والقطري</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="516">الوفدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="9-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="518" END="531">السوري والقطري</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="525">السوري و</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-8" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="441" END="448">دولة قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="448">دولة قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="146" END="153">دولة قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="153">دولة قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-18" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="526" END="531">القطري</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="531">القطري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-21" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="548" END="553">القطري</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="553">القطري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="814" END="821">دولة قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="814" END="821">دولة قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-44" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="931" END="933">قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="933">قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="814" END="821">دولة قطر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="537" END="537">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="537">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-20" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="541" END="553">الجانب القطري</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="546">الجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="588" END="600">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="591">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="555" END="600">الشيخ حمد بن جاسم بن جبر ال ثاني وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="586">حمد بن جاسم بن جبر ال ثاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="561" END="586">حمد بن جاسم بن جبر ال ثاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="603" END="631">عبد بن حمد العطية وزير الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="619">عبد بن حمد العطية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="621" END="631">وزير الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="624">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="603" END="619">عبد بن حمد العطية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="634" END="676">عبد الله بن حمد العطية وزير الطاقة
+والصناعة</charseq>
+    </extent>
+    <head>
+      <charseq START="634" END="655">عبد الله بن حمد العطية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="657" END="676">وزير الطاقة
+والصناعة</charseq>
+    </extent>
+    <head>
+      <charseq START="657" END="660">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="634" END="655">عبد الله بن حمد العطية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="679" END="727">يوسف بن حسين كمال وزير المالية والاقتصاد والتجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="695">يوسف بن حسين كمال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="697" END="727">وزير المالية والاقتصاد والتجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="697" END="700">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="679" END="695">يوسف بن حسين كمال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="20-13" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="497" END="502">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="502">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="518" END="523">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="523">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-33" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="767" END="772">لسوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="772">لسوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-36" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="835" END="836">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="835" END="836">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-37" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="823" END="869">لسوريا في حقها في استعادة الجولان السوري
+المحتل</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="828">لسوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-39" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="857" END="862">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="857" END="862">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-64" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="118" END="121">سوري</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="121">سوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-70" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="234" END="239">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="239">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-74" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="263" END="268">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="268">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="767" END="772">لسوريا</charseq>
+    </name>
+    <name>
+      <charseq START="823" END="828">لسوريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E21" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="21-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="849" END="869">الجولان السوري
+المحتل</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="855">الجولان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="849" END="855">الجولان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="22-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="81" END="84">مدشق</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="84">مدشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="887" END="933">دمشق هي المحطة الاولى في جولة يقوم بها امير قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="890">دمشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-41" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="892" END="933">هي المحطة الاولى في جولة يقوم بها امير قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="893">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="887" END="890">دمشق</charseq>
+    </name>
+    <name>
+      <charseq START="81" END="84">مدشق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="23-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="951" END="955">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="955">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="951" END="955">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="24-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="958" END="960">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="958" END="960">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="958" END="960">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E25" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="25-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="969" END="969">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="969">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="971" END="991">وكالة الانباء القطرية</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="991">وكالة الانباء القطرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="971" END="991">وكالة الانباء القطرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1015" END="1028">قادة هذه الدول</charseq>
+    </extent>
+    <head>
+      <charseq START="1015" END="1018">قادة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="27-53" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1020" END="1028">هذه الدول</charseq>
+    </extent>
+    <head>
+      <charseq START="1024" END="1028">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="28-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1081" END="1092">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1092">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1081" END="1092">الشرق الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="29-56" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1116" END="1120">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="1116" END="1120">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1116" END="1120">اليمن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="30-57" TYPE="NOM" LDCTYPE="MWH" ROLE="GPE">
+    <extent>
+      <charseq START="1140" END="1202">السودان واريتريا اللذين
+يسعى للتقريب بينهما اثر تدهور علاقاتهما</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1155">السودان واريتريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-58" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="1157" END="1162">اللذين</charseq>
+    </extent>
+    <head>
+      <charseq START="1157" END="1162">اللذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-59" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1180" END="1182">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1180" END="1182">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-60" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1200" END="1202">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1202">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="93" END="97">(اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="93" END="97">(اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="93" END="97">(اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E32" TYPE="PER" CLASS="USP">
+  <entity_mention ID="32-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="108" END="121">مصدر رسمي سوري</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="111">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="436" END="448">امير دولة قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="439">امير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="737" END="745">الشيخ حمد</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="745">حمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="755" END="755">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="755" END="755">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="765" END="765">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="765">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="917" END="917">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="917">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="926" END="933">امير قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="926" END="929">امير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="940" END="940">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="940">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="996" END="1004">الشيخ حمد</charseq>
+    </extent>
+    <head>
+      <charseq START="996" END="1004">الشيخ حمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-51" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1007" END="1007">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1007">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1102" END="1110">الشيخ حمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1102" END="1110">الشيخ حمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1164" END="1164">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1164">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="141" END="153">امير دولة قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="144">امير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="155" END="180">الشيخ حمد بن
+خليفة ال ثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="180">حمد بن
+خليفة ال ثاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-76" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="300">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="300">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="743" END="745">حمد</charseq>
+    </name>
+    <name>
+      <charseq START="996" END="1004">الشيخ حمد</charseq>
+    </name>
+    <name>
+      <charseq START="1102" END="1110">الشيخ حمد</charseq>
+    </name>
+    <name>
+      <charseq START="161" END="180">حمد بن
+خليفة ال ثاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E37" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="37-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="420" END="424">كورية</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="424">كورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-69" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="219" END="239">الناطق الرئاسي السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="224">الناطق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="241" END="251">جبران كورية</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="251">جبران كورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="241" END="251">جبران كورية</charseq>
+    </name>
+    <name>
+      <charseq START="420" END="424">كورية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="433">الاسد</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="433">الاسد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="785" END="801">الرئيس بشار
+الاسد</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="801">بشار
+الاسد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-73" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="256" END="268">الرئيس السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="261">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="270" END="279">بشار الاسد</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="279">بشار الاسد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="429" END="433">الاسد</charseq>
+    </name>
+    <name>
+      <charseq START="792" END="801">بشار
+الاسد</charseq>
+    </name>
+    <name>
+      <charseq START="270" END="279">بشار الاسد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0053.arb-E41" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="41-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="293" END="300">مستقبليه</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="299">مستقبلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="309" END="310">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="310">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20000815_AFP_ARB.0053.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E20" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="108" END="121">مصدر رسمي سوري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-63" ARGNUM="1">
+      <extent>
+        <charseq START="108" END="121">مصدر رسمي سوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-64" ARGNUM="2">
+      <extent>
+        <charseq START="118" END="121">سوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E10" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="141" END="153">امير دولة قطر</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-66" ARGNUM="1">
+      <extent>
+        <charseq START="141" END="153">امير دولة قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-9" ARGNUM="2">
+      <extent>
+        <charseq START="146" END="153">دولة قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="436" END="448">امير دولة قطر</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-7" ARGNUM="1">
+      <extent>
+        <charseq START="436" END="448">امير دولة قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-8" ARGNUM="2">
+      <extent>
+        <charseq START="441" END="448">دولة قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="924" END="933">ا امير قطر</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-43" ARGNUM="1">
+      <extent>
+        <charseq START="926" END="933">امير قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-44" ARGNUM="2">
+      <extent>
+        <charseq START="931" END="933">قطر</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E20" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="219" END="239">الناطق الرئاسي السوري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-69" ARGNUM="1">
+      <extent>
+        <charseq START="219" END="239">الناطق الرئاسي السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-70" ARGNUM="2">
+      <extent>
+        <charseq START="234" END="239">السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E20" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="256" END="268">الرئيس السوري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-73" ARGNUM="1">
+      <extent>
+        <charseq START="256" END="268">الرئيس السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-74" ARGNUM="2">
+      <extent>
+        <charseq START="263" END="268">السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E20" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="490" END="502">الجانب السوري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-12" ARGNUM="1">
+      <extent>
+        <charseq START="490" END="502">الجانب السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-13" ARGNUM="2">
+      <extent>
+        <charseq START="497" END="502">السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R7" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E8" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="504" END="531">اعضاء الوفدين السوري والقطري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-14" ARGNUM="1">
+      <extent>
+        <charseq START="504" END="531">اعضاء الوفدين السوري والقطري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="2">
+      <extent>
+        <charseq START="510" END="531">الوفدين السوري والقطري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E9" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="510" END="531">الوفدين السوري والقطري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="510" END="531">الوفدين السوري والقطري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-16" ARGNUM="2">
+      <extent>
+        <charseq START="518" END="531">السوري والقطري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E10" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="541" END="553">الجانب القطري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-20" ARGNUM="1">
+      <extent>
+        <charseq START="541" END="553">الجانب القطري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-21" ARGNUM="2">
+      <extent>
+        <charseq START="548" END="553">القطري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E20" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="849" END="869">الجولان السوري
+المحتل</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-38" ARGNUM="1">
+      <extent>
+        <charseq START="849" END="869">الجولان السوري
+المحتل</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-39" ARGNUM="2">
+      <extent>
+        <charseq START="857" END="862">السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0053.arb-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0053.arb-E27" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1015" END="1028">قادة هذه الدول</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-52" ARGNUM="1">
+      <extent>
+        <charseq START="1015" END="1028">قادة هذه الدول</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-53" ARGNUM="2">
+      <extent>
+        <charseq START="1020" END="1028">هذه الدول</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

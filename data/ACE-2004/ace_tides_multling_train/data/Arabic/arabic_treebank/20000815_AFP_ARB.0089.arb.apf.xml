@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0089.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0089.arb">
+<entity ID="20000815_AFP_ARB.0089.arb-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="674" END="693">هيئات الملاحة
+الجوية</charseq>
+    </extent>
+    <head>
+      <charseq START="674" END="678">هيئات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="132" END="136">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="136">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="488" END="492">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="492">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="132" END="136">باريس</charseq>
+    </name>
+    <name>
+      <charseq START="488" END="492">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="144" END="147">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="147">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="144" END="147">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E4" TYPE="PER" CLASS="USP">
+  <entity_mention ID="4-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="157" END="160">مصدر</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="160">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="165" END="184">مكتب تحقيقات الحوادث</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="168">مكتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="392" END="412">المكتب المكلف التحقيق</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="397">المكتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="557" END="557">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="557">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="559" END="576">شركة بريتيش ايرويز</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="576">بريتيش ايرويز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="586" END="587">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="587">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="590" END="590">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="590">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="615" END="616">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="616">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="220" END="220">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="220">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="223" END="267">شركة الخطوط الجوية البريطاينة "بريتيش ايرويز"</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="251">شركة الخطوط الجوية البريطاينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="254" END="266">بريتيش ايرويز</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="266">بريتيش ايرويز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="288" END="289">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="288" END="289">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="564" END="576">بريتيش ايرويز</charseq>
+    </name>
+    <name>
+      <charseq START="223" END="251">شركة الخطوط الجوية البريطاينة</charseq>
+    </name>
+    <name>
+      <charseq START="254" END="266">بريتيش ايرويز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="609" END="657">طائراتها
+الكونكورد التي تزيد سرعتها عن سرعة الصوت</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="614">طائرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="618" END="626">الكونكورد</charseq>
+    </extent>
+    <head>
+      <charseq START="618" END="626">الكونكورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-10" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="628" END="631">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="631">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="642" END="643">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="643">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="282" END="299">طائراتها الكونكورد</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="289">طائراتها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="291" END="299">الكونكورد</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="299">الكونكورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="422" END="492">الطائرة الكونكورد الفرنسية التي تحطمت في 25 تموز/يوليو الماضي
+قرب باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="428">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="430" END="438">الكونكورد</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="438">الكونكورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-30" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="449" END="452">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="452">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="458" END="458">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="458">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="618" END="626">الكونكورد</charseq>
+    </name>
+    <name>
+      <charseq START="291" END="299">الكونكورد</charseq>
+    </name>
+    <name>
+      <charseq START="430" END="438">الكونكورد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="352" END="352">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="352">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="354" END="412">هيلين بستيانيللي رئيسة قسم الاعلام في المكتب المكلف التحقيق</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="369">هيلين بستيانيللي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="371" END="412">رئيسة قسم الاعلام في المكتب المكلف التحقيق</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="375">رئيسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="354" END="369">هيلين بستيانيللي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0089.arb-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="11-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="440" END="447">الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="440" END="447">الفرنسية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20000815_AFP_ARB.0089.arb-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E7" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="282" END="299">طائراتها الكونكورد</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-19" ARGNUM="1">
+      <extent>
+        <charseq START="288" END="289">ها</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-20" ARGNUM="2">
+      <extent>
+        <charseq START="282" END="299">طائراتها الكونكورد</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="609" END="657">طائراتها
+الكونكورد التي تزيد سرعتها عن سرعة الصوت</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="615" END="616">ها</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="609" END="657">طائراتها
+الكونكورد التي تزيد سرعتها عن سرعة الصوت</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0089.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E5" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="371" END="412">رئيسة قسم الاعلام في المكتب المكلف التحقيق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-25" ARGNUM="1">
+      <extent>
+        <charseq START="371" END="412">رئيسة قسم الاعلام في المكتب المكلف التحقيق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-26" ARGNUM="2">
+      <extent>
+        <charseq START="392" END="412">المكتب المكلف التحقيق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0089.arb-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0089.arb-E7" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="422" END="492">الطائرة الكونكورد الفرنسية التي تحطمت في 25 تموز/يوليو الماضي
+قرب باريس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-29" ARGNUM="1">
+      <extent>
+        <charseq START="440" END="447">الفرنسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-27" ARGNUM="2">
+      <extent>
+        <charseq START="422" END="492">الطائرة الكونكورد الفرنسية التي تحطمت في 25 تموز/يوليو الماضي
+قرب باريس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,843 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0229.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0229.eng">
+<entity ID="20001015_AFP_ARB.0229.eng-E1" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="1-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="478" END="505">Riyadh International Airport</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="505">Riyadh International Airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="478" END="505">Riyadh International Airport</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="554" END="562">Jordanian</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="562">Jordanian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E3" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="554" END="572">Jordanian air space</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="572">space</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="579" END="628">104 passengers
+on board, including 14 crew members</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="592">passengers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="614" END="628">14 crew members</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="628">members</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="632" END="644">Saudi Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="644">Saudi Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-16" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="134" END="146">Saudi Airways</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="146">Saudi Airways</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-21" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="201" END="205">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="205">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="632" END="644">Saudi Airways</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="665" END="674">40 British</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="674">British</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="677" END="685">14 Saudis</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="685">Saudis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="688" END="700">15
+Pakistanis</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="700">Pakistanis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="703" END="711">4 Yemenis</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="711">Yemenis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="717" END="732">4 South Africans</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="732">South Africans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="735" END="743">2 Kenyans</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="743">Kenyans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-13" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="749" END="845">an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="845">American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="110" END="115">London</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="115">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="161" END="166">London</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="166">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="332" END="337">London</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="337">London</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="161" END="166">London</charseq>
+    </name>
+    <name>
+      <charseq START="332" END="337">London</charseq>
+    </name>
+    <name>
+      <charseq START="110" END="115">London</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="124" END="126">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="124" END="126">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="124" END="126">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="132" END="166">A Saudi Airways spokesman in London</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="156">spokesman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="183" END="302">passengers on the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="192">passengers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E19" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="19-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="216">Boeing</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-22" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="255" END="259">which</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="259">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="861" END="869">the plane</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="869">plane</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="456" END="465">The Boeing</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="465">Boeing</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="231" END="237">Baghdad</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="237">Baghdad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="538" END="544">Baghdad</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="544">Baghdad</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="231" END="237">Baghdad</charseq>
+    </name>
+    <name>
+      <charseq START="538" END="544">Baghdad</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-27" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="310" END="326">the Saudi capital</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="326">capital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="272" END="277">Riyadh</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="277">Riyadh</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="272" END="277">Riyadh</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="314" END="318">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="318">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-31" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="431" END="435">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="435">Saudi</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0229.eng-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="427" END="445">two Saudi hijackers</charseq>
+    </extent>
+    <head>
+      <charseq START="437" END="445">hijackers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001015_AFP_ARB.0229.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="749" END="869">an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-13" ARGNUM="1">
+      <extent>
+        <charseq START="749" END="845">an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-13" ARGNUM="1">
+      <extent>
+        <charseq START="749" END="845">an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E14" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="132" END="166">A Saudi Airways spokesman in London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-15" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="166">A Saudi Airways spokesman in London</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-17" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="166">London</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E6" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="166">A Saudi Airways spokesman in London</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-15" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="166">A Saudi Airways spokesman in London</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-16" ARGNUM="2">
+      <extent>
+        <charseq START="134" END="146">Saudi Airways</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="183" END="302">passengers on the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-19" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="302">passengers on the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-20" ARGNUM="2">
+      <extent>
+        <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E21" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="183" END="451">passengers on the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday, left the Saudi capital for London
+at 2h43 local time (GMT 22h43), approximately 30 hours after the
+hijacking operation by two Saudi hijackers began</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-19" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="302">passengers on the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-27" ARGNUM="2">
+      <extent>
+        <charseq START="310" END="326">the Saudi capital</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R7" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E6" ARGNUM="1" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-20" ARGNUM="2">
+      <extent>
+        <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-21" ARGNUM="1">
+      <extent>
+        <charseq START="201" END="205">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E20" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-20" ARGNUM="1">
+      <extent>
+        <charseq START="197" END="302">the
+Saudi 777 Boeing, hijacked to Baghdad on Saturday and which arrived
+in Riyadh yesterday evening Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-23" ARGNUM="2">
+      <extent>
+        <charseq START="231" END="237">Baghdad</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="8-2" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="456" END="628">The Boeing arrived at Riyadh International Airport at 21h30 yesterday
+Sunday from Baghdad through Jordanian air space with 104 passengers
+on board, including 14 crew members</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="1">
+      <extent>
+        <charseq START="456" END="465">The Boeing</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-24" ARGNUM="2">
+      <extent>
+        <charseq START="538" END="544">Baghdad</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E21" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="255" END="302">which arrived
+in Riyadh yesterday evening Sunday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-22" ARGNUM="1">
+      <extent>
+        <charseq START="255" END="259">which</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-28" ARGNUM="2">
+      <extent>
+        <charseq START="272" END="277">Riyadh</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R10" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E22" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="310" END="326">the Saudi capital</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-27" ARGNUM="1">
+      <extent>
+        <charseq START="310" END="326">the Saudi capital</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-29" ARGNUM="2">
+      <extent>
+        <charseq START="314" END="318">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R11" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E22" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="427" END="445">two Saudi hijackers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-30" ARGNUM="1">
+      <extent>
+        <charseq START="427" END="445">two Saudi hijackers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-31" ARGNUM="2">
+      <extent>
+        <charseq START="431" END="435">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E1" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="456" END="628">The Boeing arrived at Riyadh International Airport at 21h30 yesterday
+Sunday from Baghdad through Jordanian air space with 104 passengers
+on board, including 14 crew members</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="1">
+      <extent>
+        <charseq START="456" END="465">The Boeing</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-32" ARGNUM="2">
+      <extent>
+        <charseq START="478" END="505">Riyadh International Airport</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R14" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E3" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="456" END="628">The Boeing arrived at Riyadh International Airport at 21h30 yesterday
+Sunday from Baghdad through Jordanian air space with 104 passengers
+on board, including 14 crew members</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="1">
+      <extent>
+        <charseq START="456" END="465">The Boeing</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="554" END="572">Jordanian air space</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R15" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="456" END="628">The Boeing arrived at Riyadh International Airport at 21h30 yesterday
+Sunday from Baghdad through Jordanian air space with 104 passengers
+on board, including 14 crew members</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="579" END="628">104 passengers
+on board, including 14 crew members</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="2">
+      <extent>
+        <charseq START="456" END="465">The Boeing</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R16" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E4" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="579" END="628">104 passengers
+on board, including 14 crew members</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="614" END="628">14 crew members</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="2">
+      <extent>
+        <charseq START="579" END="628">104 passengers
+on board, including 14 crew members</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R17" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E2" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="554" END="572">Jordanian air space</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="554" END="572">Jordanian air space</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="554" END="562">Jordanian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R18" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="665" END="674">40 British</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R19" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-8" ARGNUM="1">
+      <extent>
+        <charseq START="677" END="685">14 Saudis</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R20" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-9" ARGNUM="1">
+      <extent>
+        <charseq START="688" END="700">15
+Pakistanis</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R21" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-10" ARGNUM="1">
+      <extent>
+        <charseq START="703" END="711">4 Yemenis</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R22" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-11" ARGNUM="1">
+      <extent>
+        <charseq START="717" END="732">4 South Africans</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0229.eng-R23" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0229.eng-E19" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="665" END="869">40 British, 14 Saudis, 15
+Pakistanis, 4 Yemenis and 4 South Africans, 2 Kenyans and an
+American, Frenchman, Spaniard, Swiss, Swede, Nigerian, Indian, Omani,
+Palestinian and Lebanese were on board the plane</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-12" ARGNUM="1">
+      <extent>
+        <charseq START="735" END="743">2 Kenyans</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-25" ARGNUM="2">
+      <extent>
+        <charseq START="861" END="869">the plane</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

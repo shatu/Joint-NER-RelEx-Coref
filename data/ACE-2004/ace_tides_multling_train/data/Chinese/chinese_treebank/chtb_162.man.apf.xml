@@ -1,0 +1,792 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_162.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_162.man">
+<entity ID="chtb_162.man-E1" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-56" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="245" END="246">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="246">国际</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="307">一些合资企业</charseq>
+    </extent>
+    <head>
+      <charseq START="306" END="307">企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="325" END="336">世界贸易组织上海研究中心</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="336">上海研究中心</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="331" END="336">上海研究中心</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="338" END="349">上海市对外
+服务有限公司</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="349">对外
+服务有限公司</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="341" END="349">对外
+服务有限公司</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="382" END="384">龙永图</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="384">龙永图</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="373" END="381">中国外经贸部副部长</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="381">副部长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="382" END="384">龙永图</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="412" END="414">沈觉人</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="414">沈觉人</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="386" END="402">中
+国前参加关贸总协定首席谈判代表</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="402">代表</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="404" END="411">原外经贸部副部长</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="411">副部长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="412" END="414">沈觉人</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="373" END="378">中国外经贸部</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="378">外经贸部</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="405" END="408">外经贸部</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="408">外经贸部</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="375" END="378">外经贸部</charseq>
+    </name>
+    <name>
+      <charseq START="405" END="408">外经贸部</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="445" END="449">约二百
+人</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="449">人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E15" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-26" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="421" END="425">中国各省市</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="425">省市</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="426" END="429">外经贸委</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="429">外经贸委</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="431" END="433">大企业</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="433">大企业</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="438" END="439">专家</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="439">专家</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="441" END="442">学者</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="442">学者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="74" END="76">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="74" END="76">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="74" END="76">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="426" END="436">外经贸委、大企业负责人</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="436">负责人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_162.man-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="23-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="289" END="290">上海</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="290">上海</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="338" END="340">上海市</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="340">上海市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="371" END="371">沪</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="371">沪</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="77" END="78">上海</charseq>
+    </extent>
+    <head>
+      <charseq START="77" END="78">上海</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="126" END="127">上海</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="127">上海</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="338" END="340">上海市</charseq>
+    </name>
+    <name>
+      <charseq START="371" END="371">沪</charseq>
+    </name>
+    <name>
+      <charseq START="77" END="78">上海</charseq>
+    </name>
+    <name>
+      <charseq START="126" END="127">上海</charseq>
+    </name>
+    <name>
+      <charseq START="289" END="290">上海</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E25" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="25-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="88" END="90">夏儒阁</charseq>
+    </extent>
+    <head>
+      <charseq START="88" END="90">夏儒阁</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="86" END="87">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="87">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="88" END="90">夏儒阁</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="94" END="96">张建松</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="96">张建松</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="91" END="93">实习生</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="93">实习生</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="94" END="96">张建松</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E29" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="29-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="325" END="330">世界贸易组织</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="330">世界贸易组织</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="101" END="106">世界贸易组织</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="106">世界贸易组织</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="137">世界贸易组织</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="137">世界贸易组织</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="172" END="175">世贸组织</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="175">世贸组织</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="325" END="330">世界贸易组织</charseq>
+    </name>
+    <name>
+      <charseq START="101" END="106">世界贸易组织</charseq>
+    </name>
+    <name>
+      <charseq START="132" END="137">世界贸易组织</charseq>
+    </name>
+    <name>
+      <charseq START="172" END="175">世贸组织</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="30-2" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="254" END="257">中国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="257">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="254" END="255">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="255">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-16" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="373" END="374">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="374">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="386" END="388">中
+国</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="388">中
+国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="421" END="422">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="422">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="108" END="109">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="109">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-53" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="167" END="168">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="168">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-55" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="229" END="230">国内</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="230">国内</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="373" END="374">中国</charseq>
+    </name>
+    <name>
+      <charseq START="386" END="388">中
+国</charseq>
+    </name>
+    <name>
+      <charseq START="421" END="422">中国</charseq>
+    </name>
+    <name>
+      <charseq START="108" END="109">中国</charseq>
+    </name>
+    <name>
+      <charseq START="167" END="168">中国</charseq>
+    </name>
+    <name>
+      <charseq START="254" END="255">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_162.man-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="367" END="369">鲁杰罗</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="369">鲁杰罗</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="141" END="143">鲁杰罗</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="143">鲁杰罗</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-51" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="132" END="140">世界贸易组织总干事</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="140">总干事</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="367" END="369">鲁杰罗</charseq>
+    </name>
+    <name>
+      <charseq START="141" END="143">鲁杰罗</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_162.man-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_162.man-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E29" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="325" END="336">世界贸易组织上海研究中心</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="325" END="336">世界贸易组织上海研究中心</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-33" ARGNUM="2">
+      <extent>
+        <charseq START="325" END="330">世界贸易组织</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_162.man-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E23" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="74" END="78">新华社上海</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-1" ARGNUM="1">
+      <extent>
+        <charseq START="74" END="76">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-38" ARGNUM="2">
+      <extent>
+        <charseq START="77" END="78">上海</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_162.man-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E29" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="132" END="140">世界贸易组织总干事</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-51" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="140">世界贸易组织总干事</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-52" ARGNUM="2">
+      <extent>
+        <charseq START="132" END="137">世界贸易组织</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R4" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_162.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E23" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="338" END="349">上海市对外
+服务有限公司</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="338" END="349">上海市对外
+服务有限公司</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-9" ARGNUM="2">
+      <extent>
+        <charseq START="338" END="340">上海市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_162.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E30" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="386" END="402">中
+国前参加关贸总协定首席谈判代表</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-20" ARGNUM="1">
+      <extent>
+        <charseq START="386" END="402">中
+国前参加关贸总协定首席谈判代表</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-21" ARGNUM="2">
+      <extent>
+        <charseq START="386" END="388">中
+国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_162.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E10" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="404" END="411">原外经贸部副部长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-22" ARGNUM="1">
+      <extent>
+        <charseq START="404" END="411">原外经贸部副部长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-23" ARGNUM="2">
+      <extent>
+        <charseq START="405" END="408">外经贸部</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_162.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E10" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="373" END="381">中国外经贸部副部长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-35" ARGNUM="1">
+      <extent>
+        <charseq START="373" END="381">中国外经贸部副部长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-15" ARGNUM="2">
+      <extent>
+        <charseq START="373" END="378">中国外经贸部</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_162.man-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E30" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="373" END="378">中国外经贸部</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="373" END="378">中国外经贸部</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-16" ARGNUM="2">
+      <extent>
+        <charseq START="373" END="374">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_162.man-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E16" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="426" END="436">外经贸委、大企业负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-36" ARGNUM="1">
+      <extent>
+        <charseq START="426" END="436">外经贸委、大企业负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-28" ARGNUM="2">
+      <extent>
+        <charseq START="426" END="429">外经贸委</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_162.man-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E17" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="426" END="436">外经贸委、大企业负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-36" ARGNUM="1">
+      <extent>
+        <charseq START="426" END="436">外经贸委、大企业负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-29" ARGNUM="2">
+      <extent>
+        <charseq START="431" END="433">大企业</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R11" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_162.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E15" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="421" END="442">中国各省市外经贸委、大企业负责人和专家、学者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-28" ARGNUM="1">
+      <extent>
+        <charseq START="426" END="429">外经贸委</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="425">中国各省市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_162.man-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E15" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="421" END="442">中国各省市外经贸委、大企业负责人和专家、学者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-29" ARGNUM="1">
+      <extent>
+        <charseq START="431" END="433">大企业</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="425">中国各省市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R13" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_162.man-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E15" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="421" END="442">中国各省市外经贸委、大企业负责人和专家、学者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-30" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="439">专家</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="425">中国各省市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R14" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_162.man-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E15" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="421" END="442">中国各省市外经贸委、大企业负责人和专家、学者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-31" ARGNUM="1">
+      <extent>
+        <charseq START="441" END="442">学者</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="425">中国各省市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_162.man-R15" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_162.man-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_162.man-E30" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="421" END="425">中国各省市</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="1">
+      <extent>
+        <charseq START="421" END="425">中国各省市</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-27" ARGNUM="2">
+      <extent>
+        <charseq START="421" END="422">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,1659 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0089.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0089.eng">
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE1">
+  <entity ID="20001115_AFP_ARB.0089.eng-E1" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="1-1" TYPE="PRE">
+      <extent>
+        <charseq START="541" END="548">military</charseq>
+      </extent>
+      <head>
+        <charseq START="541" END="548">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE2">
+  <entity ID="20001115_AFP_ARB.0089.eng-E2" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="APP">
+      <extent>
+        <charseq START="598" END="726">Mohamed
+al-Dura, the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="2-3" TYPE="NAM">
+      <extent>
+        <charseq START="598" END="612">Mohamed
+al-Dura</charseq>
+      </extent>
+      <head>
+        <charseq START="598" END="612">Mohamed
+al-Dura</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="598" END="612">Mohamed
+al-Dura</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-4" TYPE="NOM">
+      <extent>
+        <charseq START="615" END="726">the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+      </extent>
+      <head>
+        <charseq START="643" END="647">child</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE3">
+  <entity ID="20001115_AFP_ARB.0089.eng-E4" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="4-6" TYPE="BAR">
+      <extent>
+        <charseq START="659" END="678">Israeli army
+bullets</charseq>
+      </extent>
+      <head>
+        <charseq START="672" END="678">bullets</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE4">
+  <entity ID="20001115_AFP_ARB.0089.eng-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="6-8" TYPE="PRE">
+      <extent>
+        <charseq START="667" END="670">army</charseq>
+      </extent>
+      <head>
+        <charseq START="667" END="670">army</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE5">
+  <entity ID="20001115_AFP_ARB.0089.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-58" TYPE="BAR" ROLE="PER">
+      <extent>
+        <charseq START="1767" END="1778">Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="1767" END="1778">Palestinians</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-74" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="1362" END="1388">the Palestinian
+Territories</charseq>
+      </extent>
+      <head>
+        <charseq START="1378" END="1388">Territories</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-76" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="683" END="709">the Palestinian Territories</charseq>
+      </extent>
+      <head>
+        <charseq START="699" END="709">Territories</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="46-5" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="631" END="641">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="641">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-25" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="957" END="967">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="967">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-26" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1006" END="1016">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1006" END="1016">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-41" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1440" END="1450">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1440" END="1450">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-62" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1931" END="1941">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1931" END="1941">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-63" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2033" END="2043">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2033" END="2043">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-64" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2061" END="2071">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2061" END="2071">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-65" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2126" END="2136">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2126" END="2136">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-66" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2191" END="2201">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="2191" END="2201">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-77" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="687" END="697">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="687" END="697">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-78" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1366" END="1376">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1366" END="1376">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="46-83" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="196" END="206">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="196" END="206">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE6">
+  <entity ID="20001115_AFP_ARB.0089.eng-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NOM">
+      <extent>
+        <charseq START="731" END="759">A France Presse correspondent</charseq>
+      </extent>
+      <head>
+        <charseq START="747" END="759">correspondent</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE7">
+  <entity ID="20001115_AFP_ARB.0089.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-11" TYPE="NOM">
+      <extent>
+        <charseq START="775" END="797">around 200 Palestinians</charseq>
+      </extent>
+      <head>
+        <charseq START="786" END="797">Palestinians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE8">
+  <entity ID="20001115_AFP_ARB.0089.eng-E11" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="11-12" TYPE="NOM">
+      <extent>
+        <charseq START="813" END="1021">the streets of Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities, toward the headquarters of the
+Fatah movement led by Palestinian President Yasser Arafat carrying
+the Palestinian flag</charseq>
+      </extent>
+      <head>
+        <charseq START="817" END="823">streets</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE9">
+  <entity ID="20001115_AFP_ARB.0089.eng-E12" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="12-13" TYPE="NOM">
+      <extent>
+        <charseq START="828" END="901">Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities</charseq>
+      </extent>
+      <head>
+        <charseq START="848" END="851">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-47" TYPE="NOM">
+      <extent>
+        <charseq START="1550" END="1584">the nearby Ayn Alhilwa refugee camp</charseq>
+      </extent>
+      <head>
+        <charseq START="1581" END="1584">camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-50" TYPE="NOM">
+      <extent>
+        <charseq START="1645" END="1652">the camp</charseq>
+      </extent>
+      <head>
+        <charseq START="1649" END="1652">camp</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E13" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="ATR">
+    <entity_mention ID="13-14" TYPE="PRE">
+      <extent>
+        <charseq START="828" END="838">Ayn Alhilwa</charseq>
+      </extent>
+      <head>
+        <charseq START="828" END="838">Ayn Alhilwa</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-48" TYPE="PRE">
+      <extent>
+        <charseq START="1561" END="1571">Ayn Alhilwa</charseq>
+      </extent>
+      <head>
+        <charseq START="1561" END="1571">Ayn Alhilwa</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE10">
+  <entity ID="20001115_AFP_ARB.0089.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="14-15" TYPE="APP" ROLE="LOC">
+      <extent>
+        <charseq START="858" END="901">Saida, one
+of southern Lebanon's main cities</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="14-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="858" END="862">Saida</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="862">Saida</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-35" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1168" END="1172">Saida</charseq>
+      </extent>
+      <head>
+        <charseq START="1168" END="1172">Saida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="858" END="862">Saida</charseq>
+      </name>
+      <name>
+        <charseq START="1168" END="1172">Saida</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="15-17" TYPE="HLS" ROLE="GPE">
+      <extent>
+        <charseq START="865" END="901">one
+of southern Lebanon's main cities</charseq>
+      </extent>
+      <head>
+        <charseq START="865" END="867">one</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE11">
+  <entity ID="20001115_AFP_ARB.0089.eng-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-18" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="872" END="901">southern Lebanon's main cities</charseq>
+      </extent>
+      <head>
+        <charseq START="896" END="901">cities</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE12">
+  <entity ID="20001115_AFP_ARB.0089.eng-E17" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="17-19" TYPE="NAM">
+      <extent>
+        <charseq START="872" END="887">southern Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="881" END="887">Lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="881" END="887">Lebanon</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE13">
+  <entity ID="20001115_AFP_ARB.0089.eng-E18" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="18-20" TYPE="NOM">
+      <extent>
+        <charseq START="911" END="948">the headquarters of the
+Fatah movement</charseq>
+      </extent>
+      <head>
+        <charseq START="915" END="926">headquarters</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-29" TYPE="NOM">
+      <extent>
+        <charseq START="1096" END="1111">the headquarters</charseq>
+      </extent>
+      <head>
+        <charseq START="1100" END="1111">headquarters</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE14">
+  <entity ID="20001115_AFP_ARB.0089.eng-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-23" TYPE="NAM">
+      <extent>
+        <charseq START="957" END="991">Palestinian President Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="979" END="991">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-67" TYPE="NAM">
+      <extent>
+        <charseq START="2061" END="2095">Palestinian President Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="2083" END="2095">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="979" END="991">Yasser Arafat</charseq>
+      </name>
+      <name>
+        <charseq START="2083" END="2095">Yasser Arafat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E21" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="21-24" TYPE="PRE">
+      <extent>
+        <charseq START="957" END="977">Palestinian President</charseq>
+      </extent>
+      <head>
+        <charseq START="969" END="977">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-68" TYPE="PRE">
+      <extent>
+        <charseq START="2061" END="2081">Palestinian President</charseq>
+      </extent>
+      <head>
+        <charseq START="2073" END="2081">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE15">
+  <entity ID="20001115_AFP_ARB.0089.eng-E22" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="22-72" TYPE="NOM">
+      <extent>
+        <charseq START="1026" END="1048">A group of young people</charseq>
+      </extent>
+      <head>
+        <charseq START="1028" END="1032">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="22-73" TYPE="BAR">
+      <extent>
+        <charseq START="1037" END="1048">young people</charseq>
+      </extent>
+      <head>
+        <charseq START="1043" END="1048">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE16">
+  <entity ID="20001115_AFP_ARB.0089.eng-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="23-28" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1073" END="1080">American</charseq>
+      </extent>
+      <head>
+        <charseq START="1073" END="1080">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-54" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1724" END="1731">American</charseq>
+      </extent>
+      <head>
+        <charseq START="1724" END="1731">American</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE17">
+  <entity ID="20001115_AFP_ARB.0089.eng-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-30" TYPE="APP">
+      <extent>
+        <charseq START="1116" END="1172">Khalid Arif, am official with the Fatah movement in Saida</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="24-31" TYPE="NAM">
+      <extent>
+        <charseq START="1116" END="1126">Khalid Arif</charseq>
+      </extent>
+      <head>
+        <charseq START="1116" END="1126">Khalid Arif</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-39" TYPE="PRO">
+      <extent>
+        <charseq START="1394" END="1395">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1394" END="1395">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1116" END="1126">Khalid Arif</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-32" TYPE="NOM">
+      <extent>
+        <charseq START="1129" END="1172">am official with the Fatah movement in Saida</charseq>
+      </extent>
+      <head>
+        <charseq START="1132" END="1139">official</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE18">
+  <entity ID="20001115_AFP_ARB.0089.eng-E19" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="19-22" TYPE="PRE">
+      <extent>
+        <charseq START="935" END="939">Fatah</charseq>
+      </extent>
+      <head>
+        <charseq START="935" END="939">Fatah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-34" TYPE="PRE">
+      <extent>
+        <charseq START="1150" END="1154">Fatah</charseq>
+      </extent>
+      <head>
+        <charseq START="1150" END="1154">Fatah</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="19-57" TYPE="PRE">
+      <extent>
+        <charseq START="1742" END="1746">Fatah</charseq>
+      </extent>
+      <head>
+        <charseq START="1742" END="1746">Fatah</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E27" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="27-21" TYPE="NOM">
+      <extent>
+        <charseq START="931" END="948">the
+Fatah movement</charseq>
+      </extent>
+      <head>
+        <charseq START="941" END="948">movement</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-56" TYPE="BAR">
+      <extent>
+        <charseq START="1742" END="1755">Fatah movement</charseq>
+      </extent>
+      <head>
+        <charseq START="1748" END="1755">movement</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-71" TYPE="NOM">
+      <extent>
+        <charseq START="1146" END="1163">the Fatah movement</charseq>
+      </extent>
+      <head>
+        <charseq START="1156" END="1163">movement</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE19">
+  <entity ID="20001115_AFP_ARB.0089.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="5-7" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="659" END="665">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="659" END="665">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-27" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1061" END="1067">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1061" END="1067">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-38" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1312" END="1318">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1312" END="1318">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-53" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1712" END="1718">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1712" END="1718">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-59" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1863" END="1869">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="1863" END="1869">Israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="28-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1201" END="1206">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1201" END="1206">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1201" END="1206">Israel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE20">
+  <entity ID="20001115_AFP_ARB.0089.eng-E29" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="29-37" TYPE="MWH">
+      <extent>
+        <charseq START="1308" END="1341">the Israeli
+occupiers and settlers</charseq>
+      </extent>
+      <head>
+        <charseq START="1320" END="1341">occupiers and settlers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE21">
+  <entity ID="20001115_AFP_ARB.0089.eng-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="30-40" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1438" END="1491">a Palestinian state with
+holy Jerusalem as its capital</charseq>
+      </extent>
+      <head>
+        <charseq START="1452" END="1456">state</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE22">
+  <entity ID="20001115_AFP_ARB.0089.eng-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="31-42" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1463" END="1476">holy Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="1468" END="1476">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-52" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1677" END="1685">Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="1677" END="1685">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1468" END="1476">Jerusalem</charseq>
+      </name>
+      <name>
+        <charseq START="1677" END="1685">Jerusalem</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE23">
+  <entity ID="20001115_AFP_ARB.0089.eng-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+    <entity_mention ID="32-43" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1481" END="1491">its capital</charseq>
+      </extent>
+      <head>
+        <charseq START="1485" END="1491">capital</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE24">
+  <entity ID="20001115_AFP_ARB.0089.eng-E33" TYPE="PER" CLASS="USP">
+    <entity_mention ID="33-44" TYPE="NOM">
+      <extent>
+        <charseq START="1508" END="1519">the refugees</charseq>
+      </extent>
+      <head>
+        <charseq START="1512" END="1519">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-45" TYPE="PRO">
+      <extent>
+        <charseq START="1531" END="1535">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1531" END="1535">their</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE25">
+  <entity ID="20001115_AFP_ARB.0089.eng-E34" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+    <entity_mention ID="34-46" TYPE="NOM">
+      <extent>
+        <charseq START="1531" END="1541">their homes</charseq>
+      </extent>
+      <head>
+        <charseq START="1537" END="1541">homes</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE26">
+  <entity ID="20001115_AFP_ARB.0089.eng-E35" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="35-49" TYPE="BAR">
+      <extent>
+        <charseq START="1587" END="1627">students between ages fifteen
+and sixteen</charseq>
+      </extent>
+      <head>
+        <charseq START="1587" END="1594">students</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE27">
+  <entity ID="20001115_AFP_ARB.0089.eng-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="26-75" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="152" END="166">Albus (Lebanon)</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="156">Albus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="152" END="156">Albus</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE28">
+  <entity ID="20001115_AFP_ARB.0089.eng-E36" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="36-51" TYPE="NOM">
+      <extent>
+        <charseq START="1645" END="1664">the camp's alleyways</charseq>
+      </extent>
+      <head>
+        <charseq START="1656" END="1664">alleyways</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE29">
+  <entity ID="20001115_AFP_ARB.0089.eng-E37" TYPE="PER" CLASS="USP">
+    <entity_mention ID="37-55" TYPE="PRO">
+      <extent>
+        <charseq START="1690" END="1693">ours</charseq>
+      </extent>
+      <head>
+        <charseq START="1690" END="1693">ours</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE30">
+  <entity ID="20001115_AFP_ARB.0089.eng-E38" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="38-60" TYPE="CMC">
+      <extent>
+        <charseq START="1863" END="1906">Israeli occupying
+forces and settler bandits</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE31">
+  <entity ID="20001115_AFP_ARB.0089.eng-E39" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="39-61" TYPE="NOM">
+      <extent>
+        <charseq START="1922" END="1951">occupied Palestinian
+territory</charseq>
+      </extent>
+      <head>
+        <charseq START="1943" END="1951">territory</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE32">
+  <entity ID="20001115_AFP_ARB.0089.eng-E40" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="40-70" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2276" END="2279">Oslo</charseq>
+      </extent>
+      <head>
+        <charseq START="2276" END="2279">Oslo</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE33">
+  <entity ID="20001115_AFP_ARB.0089.eng-E41" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="41-33" TYPE="PRE">
+      <extent>
+        <charseq START="840" END="846">refugee</charseq>
+      </extent>
+      <head>
+        <charseq START="840" END="846">refugee</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE34">
+  <entity ID="20001115_AFP_ARB.0089.eng-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="42-79" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="2124" END="2142">a
+Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="2138" END="2142">state</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE35">
+  <entity ID="20001115_AFP_ARB.0089.eng-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="43-80" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="159" END="165">Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="159" END="165">Lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="43-84" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="220" END="226">Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="226">Lebanon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="159" END="165">Lebanon</charseq>
+      </name>
+      <name>
+        <charseq START="220" END="226">Lebanon</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE36">
+  <entity ID="20001115_AFP_ARB.0089.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="9-10" TYPE="PRE">
+      <extent>
+        <charseq START="733" END="745">France Presse</charseq>
+      </extent>
+      <head>
+        <charseq START="733" END="745">France Presse</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0089.eng-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="44-81" TYPE="NAM">
+      <extent>
+        <charseq START="175" END="177">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="175" END="177">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="175" END="177">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE37">
+  <entity ID="20001115_AFP_ARB.0089.eng-E45" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="45-82" TYPE="NOM">
+      <extent>
+        <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+      </extent>
+      <head>
+        <charseq START="208" END="215">refugees</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="45-85" TYPE="PRO">
+      <extent>
+        <charseq START="244" END="248">their</charseq>
+      </extent>
+      <head>
+        <charseq START="244" END="248">their</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE38">
+  <entity ID="20001115_AFP_ARB.0089.eng-E47" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="47-86" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="244" END="254">their
+camps</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="254">camps</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE39">
+  <entity ID="20001115_AFP_ARB.0089.eng-E48" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="48-87" TYPE="NAM">
+      <extent>
+        <charseq START="344" END="375">the Palestinian National Council</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="375">Palestinian National Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="348" END="375">Palestinian National Council</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE40">
+  <entity ID="20001115_AFP_ARB.0089.eng-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="49-69" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2168" END="2174">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="2168" END="2174">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="49-88" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="380" END="386">Algeria</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="386">Algeria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2168" END="2174">Algeria</charseq>
+      </name>
+      <name>
+        <charseq START="380" END="386">Algeria</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE41">
+  <entity ID="20001115_AFP_ARB.0089.eng-E50" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="50-89" TYPE="NOM">
+      <extent>
+        <charseq START="399" END="486">Around five thousand Palestinians form the Albus Camp near Souer (83
+km south of Beirut)</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="431">Palestinians</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE42">
+  <entity ID="20001115_AFP_ARB.0089.eng-E51" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="51-90" TYPE="NAM">
+      <extent>
+        <charseq START="438" END="486">the Albus Camp near Souer (83
+km south of Beirut)</charseq>
+      </extent>
+      <head>
+        <charseq START="442" END="451">Albus Camp</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="442" END="451">Albus Camp</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE43">
+  <entity ID="20001115_AFP_ARB.0089.eng-E52" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="52-91" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="458" END="486">Souer (83
+km south of Beirut)</charseq>
+      </extent>
+      <head>
+        <charseq START="458" END="462">Souer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="458" END="462">Souer</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE44">
+  <entity ID="20001115_AFP_ARB.0089.eng-E53" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="53-92" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="480" END="485">Beirut</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="485">Beirut</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="480" END="485">Beirut</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0089.eng-CE45">
+  <entity ID="20001115_AFP_ARB.0089.eng-E54" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="54-93" TYPE="BAR">
+      <extent>
+        <charseq START="521" END="726">children dressed
+in military clothing who held stones and raised pictures of Mohamed
+al-Dura, the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+      </extent>
+      <head>
+        <charseq START="521" END="528">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="54-94" TYPE="WHQ">
+      <extent>
+        <charseq START="559" END="561">who</charseq>
+      </extent>
+      <head>
+        <charseq START="559" END="561">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0089.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="152" END="166">Albus (Lebanon)</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E26" ENTITYMENTIONID="26-75" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="166">Albus (Lebanon)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E43" ENTITYMENTIONID="43-80" ARGNUM="2">
+      <extent>
+        <charseq START="159" END="165">Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E45" ENTITYMENTIONID="45-82" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-83" ARGNUM="2">
+      <extent>
+        <charseq START="196" END="206">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E45" ENTITYMENTIONID="45-82" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E43" ENTITYMENTIONID="43-84" ARGNUM="2">
+      <extent>
+        <charseq START="220" END="226">Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="244" END="254">their
+camps</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E45" ENTITYMENTIONID="45-85" ARGNUM="1">
+      <extent>
+        <charseq START="244" END="248">their</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E47" ENTITYMENTIONID="47-86" ARGNUM="2">
+      <extent>
+        <charseq START="244" END="254">their
+camps</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="183" END="394">Thousands of Palestinian refugees in Lebanon commemorated in their
+camps today Wednesday the twelfth anniversary of the symbolic
+announcement of independence by the Palestinian National Council in
+Algeria in 1988</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E45" ENTITYMENTIONID="45-82" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="226">Thousands of Palestinian refugees in Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E47" ENTITYMENTIONID="47-86" ARGNUM="2">
+      <extent>
+        <charseq START="244" END="254">their
+camps</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="344" END="386">the Palestinian National Council in
+Algeria</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E48" ENTITYMENTIONID="48-87" ARGNUM="1">
+      <extent>
+        <charseq START="344" END="375">the Palestinian National Council</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E49" ENTITYMENTIONID="49-88" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="386">Algeria</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R7" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="399" END="485">Around five thousand Palestinians form the Albus Camp near Souer (83
+km south of Beirut</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E50" ENTITYMENTIONID="50-89" ARGNUM="1">
+      <extent>
+        <charseq START="399" END="486">Around five thousand Palestinians form the Albus Camp near Souer (83
+km south of Beirut)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E51" ENTITYMENTIONID="51-90" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="486">the Albus Camp near Souer (83
+km south of Beirut)</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R8" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="438" END="485">the Albus Camp near Souer (83
+km south of Beirut</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E51" ENTITYMENTIONID="51-90" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="486">the Albus Camp near Souer (83
+km south of Beirut)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E52" ENTITYMENTIONID="52-91" ARGNUM="2">
+      <extent>
+        <charseq START="458" END="486">Souer (83
+km south of Beirut)</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R9" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="9-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="458" END="485">Souer (83
+km south of Beirut</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E52" ENTITYMENTIONID="52-91" ARGNUM="1">
+      <extent>
+        <charseq START="458" END="486">Souer (83
+km south of Beirut)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E53" ENTITYMENTIONID="53-92" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="485">Beirut</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R10" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="615" END="726">the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="615" END="726">the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-5" ARGNUM="2">
+      <extent>
+        <charseq START="631" END="641">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="11-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="615" END="726">the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E3" ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="615" END="726">the 12-year-old Palestinian child killed by Israeli army
+bullets in the Palestinian Territories in early October</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E7" ENTITYMENTIONID="7-76" ARGNUM="2">
+      <extent>
+        <charseq START="683" END="709">the Palestinian Territories</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R12" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="659" END="678">Israeli army
+bullets</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E6" ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="667" END="670">army</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E4" ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="659" END="678">Israeli army
+bullets</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R13" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="659" END="670">Israeli army</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E6" ENTITYMENTIONID="6-8" ARGNUM="1">
+      <extent>
+        <charseq START="667" END="670">army</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="659" END="665">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="731" END="759">A France Presse correspondent</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E8" ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="731" END="759">A France Presse correspondent</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E9" ENTITYMENTIONID="9-10" ARGNUM="2">
+      <extent>
+        <charseq START="733" END="745">France Presse</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R15" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="15-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="775" END="1021">around 200 Palestinians
+marched along the streets of Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities, toward the headquarters of the
+Fatah movement led by Palestinian President Yasser Arafat carrying
+the Palestinian flag</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E10" ENTITYMENTIONID="10-11" ARGNUM="1">
+      <extent>
+        <charseq START="775" END="797">around 200 Palestinians</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E11" ENTITYMENTIONID="11-12" ARGNUM="2">
+      <extent>
+        <charseq START="813" END="1021">the streets of Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities, toward the headquarters of the
+Fatah movement led by Palestinian President Yasser Arafat carrying
+the Palestinian flag</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R16" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="813" END="1021">the streets of Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities, toward the headquarters of the
+Fatah movement led by Palestinian President Yasser Arafat carrying
+the Palestinian flag</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E11" ENTITYMENTIONID="11-12" ARGNUM="1">
+      <extent>
+        <charseq START="813" END="1021">the streets of Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities, toward the headquarters of the
+Fatah movement led by Palestinian President Yasser Arafat carrying
+the Palestinian flag</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E12" ENTITYMENTIONID="12-13" ARGNUM="2">
+      <extent>
+        <charseq START="828" END="901">Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R17" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="828" END="901">Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E12" ENTITYMENTIONID="12-13" ARGNUM="1">
+      <extent>
+        <charseq START="828" END="901">Ayn Alhilwa refugee camp near Saida, one
+of southern Lebanon's main cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E14" ENTITYMENTIONID="14-16" ARGNUM="2">
+      <extent>
+        <charseq START="858" END="862">Saida</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R18" TYPE="DISC">
+  <relation_mention ID="18-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="865" END="901">one
+of southern Lebanon's main cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E15" ENTITYMENTIONID="15-17" ARGNUM="1">
+      <extent>
+        <charseq START="865" END="901">one
+of southern Lebanon's main cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E16" ENTITYMENTIONID="16-18" ARGNUM="2">
+      <extent>
+        <charseq START="872" END="901">southern Lebanon's main cities</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R19" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="19-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="872" END="901">southern Lebanon's main cities</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E16" ENTITYMENTIONID="16-18" ARGNUM="1">
+      <extent>
+        <charseq START="872" END="901">southern Lebanon's main cities</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E17" ENTITYMENTIONID="17-19" ARGNUM="2">
+      <extent>
+        <charseq START="872" END="887">southern Lebanon</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R20" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="20-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="911" END="948">the headquarters of the
+Fatah movement</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E27" ENTITYMENTIONID="27-21" ARGNUM="1">
+      <extent>
+        <charseq START="931" END="948">the
+Fatah movement</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E18" ENTITYMENTIONID="18-20" ARGNUM="2">
+      <extent>
+        <charseq START="911" END="948">the headquarters of the
+Fatah movement</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R21" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="21-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="957" END="977">Palestinian President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E21" ENTITYMENTIONID="21-24" ARGNUM="1">
+      <extent>
+        <charseq START="957" END="977">Palestinian President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-25" ARGNUM="2">
+      <extent>
+        <charseq START="957" END="967">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="21-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2061" END="2081">Palestinian President</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E21" ENTITYMENTIONID="21-68" ARGNUM="1">
+      <extent>
+        <charseq START="2061" END="2081">Palestinian President</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-64" ARGNUM="2">
+      <extent>
+        <charseq START="2061" END="2071">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R22" TYPE="PHYS" SUBTYPE="Near">
+  <relation_mention ID="22-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1026" END="1111">A group of young people burned the Israeli and American flags outside
+the headquarters</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E22" ENTITYMENTIONID="22-72" ARGNUM="1">
+      <extent>
+        <charseq START="1026" END="1048">A group of young people</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E18" ENTITYMENTIONID="18-29" ARGNUM="2">
+      <extent>
+        <charseq START="1096" END="1111">the headquarters</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R23" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="23-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1129" END="1172">am official with the Fatah movement in Saida</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E25" ENTITYMENTIONID="25-32" ARGNUM="1">
+      <extent>
+        <charseq START="1129" END="1172">am official with the Fatah movement in Saida</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E14" ENTITYMENTIONID="14-35" ARGNUM="2">
+      <extent>
+        <charseq START="1168" END="1172">Saida</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R24" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="24-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1129" END="1172">am official with the Fatah movement in Saida</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E25" ENTITYMENTIONID="25-32" ARGNUM="1">
+      <extent>
+        <charseq START="1129" END="1172">am official with the Fatah movement in Saida</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E27" ENTITYMENTIONID="27-71" ARGNUM="2">
+      <extent>
+        <charseq START="1146" END="1163">the Fatah movement</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R25" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="25-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1308" END="1341">the Israeli
+occupiers and settlers</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E29" ENTITYMENTIONID="29-37" ARGNUM="1">
+      <extent>
+        <charseq START="1308" END="1341">the Israeli
+occupiers and settlers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E5" ENTITYMENTIONID="5-38" ARGNUM="2">
+      <extent>
+        <charseq START="1312" END="1318">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R26" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="26-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1438" END="1491">a Palestinian state with
+holy Jerusalem as its capital</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-41" ARGNUM="1">
+      <extent>
+        <charseq START="1440" END="1450">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E30" ENTITYMENTIONID="30-40" ARGNUM="2">
+      <extent>
+        <charseq START="1438" END="1491">a Palestinian state with
+holy Jerusalem as its capital</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R27" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="27-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1531" END="1541">their homes</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E33" ENTITYMENTIONID="33-45" ARGNUM="1">
+      <extent>
+        <charseq START="1531" END="1535">their</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E34" ENTITYMENTIONID="34-46" ARGNUM="2">
+      <extent>
+        <charseq START="1531" END="1541">their homes</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R28" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="28-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1645" END="1664">the camp's alleyways</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E36" ENTITYMENTIONID="36-51" ARGNUM="1">
+      <extent>
+        <charseq START="1645" END="1664">the camp's alleyways</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E12" ENTITYMENTIONID="12-50" ARGNUM="2">
+      <extent>
+        <charseq START="1645" END="1652">the camp</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R29" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="29-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1547" END="1664">In the nearby Ayn Alhilwa refugee camp, students between ages fifteen
+and sixteen marched through the camp's alleyways</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E35" ENTITYMENTIONID="35-49" ARGNUM="1">
+      <extent>
+        <charseq START="1587" END="1627">students between ages fifteen
+and sixteen</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E12" ENTITYMENTIONID="12-50" ARGNUM="2">
+      <extent>
+        <charseq START="1645" END="1652">the camp</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R30" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="30-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1922" END="1951">occupied Palestinian
+territory</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E39" ENTITYMENTIONID="39-61" ARGNUM="1">
+      <extent>
+        <charseq START="1922" END="1951">occupied Palestinian
+territory</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E46" ENTITYMENTIONID="46-62" ARGNUM="2">
+      <extent>
+        <charseq START="1931" END="1941">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0089.eng-R32" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="32-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="2061" END="2313">Palestinian President Yasser Arafat had symbolically announced a
+Palestinian state on November 15, 1988 in Algeria when the first
+Palestinian Intifada was at its height and which continued for seven
+years until the Oslo peace accords were signed in 1993</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E20" ENTITYMENTIONID="20-67" ARGNUM="1">
+      <extent>
+        <charseq START="2061" END="2095">Palestinian President Yasser Arafat</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0089.eng-E49" ENTITYMENTIONID="49-69" ARGNUM="2">
+      <extent>
+        <charseq START="2168" END="2174">Algeria</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

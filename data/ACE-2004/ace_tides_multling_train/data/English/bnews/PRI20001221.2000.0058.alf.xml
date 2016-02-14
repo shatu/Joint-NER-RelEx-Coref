@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="PRI20001221.2000.0058.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001221.2000.0058">
+<composite_entity ID="PRI20001221.2000.0058-CE1">
+  <entity ID="PRI20001221.2000.0058-E1" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+    <entity_mention ID="1-1" TYPE="NAM">
+      <extent>
+        <charseq START="70" END="91">NPR News in Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="70" END="77">NPR News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="70" END="77">NPR News</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="PRI20001221.2000.0058-CE2">
+  <entity ID="PRI20001221.2000.0058-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="82" END="91">Washington</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="91">Washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="82" END="91">Washington</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="PRI20001221.2000.0058-CE3">
+  <entity ID="PRI20001221.2000.0058-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="PRO">
+      <extent>
+        <charseq START="94" END="94">I</charseq>
+      </extent>
+      <head>
+        <charseq START="94" END="94">I</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="PRI20001221.2000.0058-E4" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="4-4" TYPE="NAM">
+      <extent>
+        <charseq START="99" END="112">Corey Flintoff</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="112">Corey Flintoff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="99" END="112">Corey Flintoff</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="PRI20001221.2000.0058-CE4">
+  <entity ID="PRI20001221.2000.0058-E5" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="5-5" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="144">President-elect
+George W. Bush</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="144">George W. Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-9" TYPE="PRO">
+      <extent>
+        <charseq START="192" END="193">He</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="193">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-10" TYPE="PRO">
+      <extent>
+        <charseq START="205" END="207">his</charseq>
+      </extent>
+      <head>
+        <charseq START="205" END="207">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-11" TYPE="PRO">
+      <extent>
+        <charseq START="293" END="294">He</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="294">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="131" END="144">George W. Bush</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="PRI20001221.2000.0058-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-6" TYPE="PRE">
+      <extent>
+        <charseq START="115" END="129">President-elect</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="123">President</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="PRI20001221.2000.0058-E7" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="7-7" TYPE="BAR">
+      <extent>
+        <charseq START="173" END="189">governor of Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="180">governor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="PRI20001221.2000.0058-CE5">
+  <entity ID="PRI20001221.2000.0058-E8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+    <entity_mention ID="8-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="185" END="189">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="185" END="189">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="301" END="305">Texas</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="305">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="185" END="189">Texas</charseq>
+      </name>
+      <name>
+        <charseq START="301" END="305">Texas</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="PRI20001221.2000.0058-CE6">
+  <entity ID="PRI20001221.2000.0058-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="9-12" TYPE="NOM">
+      <extent>
+        <charseq START="276" END="290">the legislature</charseq>
+      </extent>
+      <head>
+        <charseq START="280" END="290">legislature</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="PRI20001221.2000.0058-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="65" END="112">From NPR News in Washington, I am Corey Flintoff</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="94" END="94">I</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E1" ENTITYMENTIONID="1-1" ARGNUM="2">
+      <extent>
+        <charseq START="70" END="91">NPR News in Washington</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001221.2000.0058-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="70" END="91">NPR News in Washington</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E1" ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="70" END="91">NPR News in Washington</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="91">Washington</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001221.2000.0058-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="65" END="112">From NPR News in Washington, I am Corey Flintoff</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="94" END="94">I</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E2" ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="91">Washington</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001221.2000.0058-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="173" END="189">governor of Texas</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E8" ENTITYMENTIONID="8-8" ARGNUM="2">
+      <extent>
+        <charseq START="185" END="189">Texas</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="PRI20001221.2000.0058-E7" ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="173" END="189">governor of Texas</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

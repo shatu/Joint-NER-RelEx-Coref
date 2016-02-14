@@ -1,0 +1,1219 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20000715_AFP_ARB.0072.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000715_AFP_ARB.0072.eng">
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE1">
+  <entity ID="20000715_AFP_ARB.0072.eng-E1" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+    <entity_mention ID="1-7" TYPE="NOM">
+      <extent>
+        <charseq START="832" END="865">the
+Shahab 3 ground-ground missile</charseq>
+      </extent>
+      <head>
+        <charseq START="859" END="865">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-29" TYPE="NOM">
+      <extent>
+        <charseq START="1075" END="1108">the Shahab 3 ground-ground missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1102" END="1108">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-30" TYPE="PRO">
+      <extent>
+        <charseq START="1147" END="1151">their</charseq>
+      </extent>
+      <head>
+        <charseq START="1147" END="1151">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-31" TYPE="PRO">
+      <extent>
+        <charseq START="1199" END="1202">them</charseq>
+      </extent>
+      <head>
+        <charseq START="1199" END="1202">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-33" TYPE="NOM">
+      <extent>
+        <charseq START="1282" END="1299">the Shahab missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1293" END="1299">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-35" TYPE="NOM">
+      <extent>
+        <charseq START="1675" END="1692">the Shahab missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1686" END="1692">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-37" TYPE="NOM">
+      <extent>
+        <charseq START="1956" END="2025">the
+Iranian Shahab 3 ground-ground missile with a 1300 kilometer range</charseq>
+      </extent>
+      <head>
+        <charseq START="1991" END="1997">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-42" TYPE="NOM">
+      <extent>
+        <charseq START="2368" END="2396">the "Shahab 3 defense missile</charseq>
+      </extent>
+      <head>
+        <charseq START="2390" END="2396">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-44" TYPE="PRO">
+      <extent>
+        <charseq START="2433" END="2434">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2433" END="2434">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-45" TYPE="NOM">
+      <extent>
+        <charseq START="2508" END="2519">this missile</charseq>
+      </extent>
+      <head>
+        <charseq START="2513" END="2519">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-46" TYPE="PRO">
+      <extent>
+        <charseq START="2536" END="2537">It</charseq>
+      </extent>
+      <head>
+        <charseq START="2536" END="2537">It</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E2" TYPE="WEA" SUBTYPE="Projectile" CLASS="ATR">
+    <entity_mention ID="2-8" TYPE="PRE">
+      <extent>
+        <charseq START="836" END="843">Shahab 3</charseq>
+      </extent>
+      <head>
+        <charseq START="836" END="843">Shahab 3</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-32" TYPE="PRE">
+      <extent>
+        <charseq START="1079" END="1086">Shahab 3</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1086">Shahab 3</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-34" TYPE="PRE">
+      <extent>
+        <charseq START="1286" END="1291">Shahab</charseq>
+      </extent>
+      <head>
+        <charseq START="1286" END="1291">Shahab</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-36" TYPE="PRE">
+      <extent>
+        <charseq START="1679" END="1684">Shahab</charseq>
+      </extent>
+      <head>
+        <charseq START="1679" END="1684">Shahab</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-39" TYPE="PRE">
+      <extent>
+        <charseq START="1968" END="1975">Shahab 3</charseq>
+      </extent>
+      <head>
+        <charseq START="1968" END="1975">Shahab 3</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-41" TYPE="PRE">
+      <extent>
+        <charseq START="2263" END="2270">Shahab 3</charseq>
+      </extent>
+      <head>
+        <charseq START="2263" END="2270">Shahab 3</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-43" TYPE="PRE">
+      <extent>
+        <charseq START="2373" END="2380">Shahab 3</charseq>
+      </extent>
+      <head>
+        <charseq START="2373" END="2380">Shahab 3</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE2">
+  <entity ID="20000715_AFP_ARB.0072.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-26" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="990" END="995">Moscow</charseq>
+      </extent>
+      <head>
+        <charseq START="990" END="995">Moscow</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE3">
+  <entity ID="20000715_AFP_ARB.0072.eng-E4" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="4-27" TYPE="BAR">
+      <extent>
+        <charseq START="467" END="477">journalists</charseq>
+      </extent>
+      <head>
+        <charseq START="467" END="477">journalists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE4">
+  <entity ID="20000715_AFP_ARB.0072.eng-E6" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="6-40" TYPE="BAR">
+      <extent>
+        <charseq START="2263" END="2293">Shahab 3 ground-ground missiles</charseq>
+      </extent>
+      <head>
+        <charseq START="2286" END="2293">missiles</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE5">
+  <entity ID="20000715_AFP_ARB.0072.eng-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-47" TYPE="PTV" ROLE="LOC">
+      <extent>
+        <charseq START="2562" END="2618">the majority of countries in the region,
+including Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2566" END="2573">majority</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE6">
+  <entity ID="20000715_AFP_ARB.0072.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-48" TYPE="BAR" ROLE="LOC">
+      <extent>
+        <charseq START="2578" END="2600">countries in the region</charseq>
+      </extent>
+      <head>
+        <charseq START="2578" END="2586">countries</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE7">
+  <entity ID="20000715_AFP_ARB.0072.eng-E9" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+    <entity_mention ID="9-49" TYPE="NOM">
+      <extent>
+        <charseq START="2591" END="2600">the region</charseq>
+      </extent>
+      <head>
+        <charseq START="2595" END="2600">region</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE8">
+  <entity ID="20000715_AFP_ARB.0072.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-50" TYPE="NOM">
+      <extent>
+        <charseq START="2298" END="2343">An official at the Iranian Ministry of Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="2301" END="2308">official</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE9">
+  <entity ID="20000715_AFP_ARB.0072.eng-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="12-74" TYPE="NAM">
+      <extent>
+        <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+      </extent>
+      <head>
+        <charseq START="2325" END="2343">Ministry of Defense</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2325" END="2343">Ministry of Defense</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE10">
+  <entity ID="20000715_AFP_ARB.0072.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="13-52" TYPE="NAM">
+      <extent>
+        <charseq START="2350" END="2361">Tehran Radio</charseq>
+      </extent>
+      <head>
+        <charseq START="2350" END="2361">Tehran Radio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2350" END="2361">Tehran Radio</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE11">
+  <entity ID="20000715_AFP_ARB.0072.eng-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="14-54" TYPE="NOM">
+      <extent>
+        <charseq START="2170" END="2185">The Iranian army</charseq>
+      </extent>
+      <head>
+        <charseq START="2182" END="2185">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-55" TYPE="PRO">
+      <extent>
+        <charseq START="2217" END="2218">it</charseq>
+      </extent>
+      <head>
+        <charseq START="2217" END="2218">it</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE12">
+  <entity ID="20000715_AFP_ARB.0072.eng-E15" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="15-56" TYPE="NOM">
+      <extent>
+        <charseq START="1313" END="1348">a
+North Korean missile called Nodong</charseq>
+      </extent>
+      <head>
+        <charseq START="1328" END="1334">missile</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-59" TYPE="PRO">
+      <extent>
+        <charseq START="1351" END="1356">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="1351" END="1356">itself</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E27" TYPE="WEA" SUBTYPE="Projectile" CLASS="ATR">
+    <entity_mention ID="27-57" TYPE="NAM">
+      <extent>
+        <charseq START="1343" END="1348">Nodong</charseq>
+      </extent>
+      <head>
+        <charseq START="1343" END="1348">Nodong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1343" END="1348">Nodong</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE13">
+  <entity ID="20000715_AFP_ARB.0072.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="16-58" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1315" END="1326">North Korean</charseq>
+      </extent>
+      <head>
+        <charseq START="1315" END="1326">North Korean</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE14">
+  <entity ID="20000715_AFP_ARB.0072.eng-E17" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+    <entity_mention ID="17-60" TYPE="NOM">
+      <extent>
+        <charseq START="1373" END="1395">the Soviet
+Scud missile</charseq>
+      </extent>
+      <head>
+        <charseq START="1389" END="1395">missile</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E19" TYPE="WEA" SUBTYPE="Projectile" CLASS="ATR">
+    <entity_mention ID="19-62" TYPE="PRE">
+      <extent>
+        <charseq START="1384" END="1387">Scud</charseq>
+      </extent>
+      <head>
+        <charseq START="1384" END="1387">Scud</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE15">
+  <entity ID="20000715_AFP_ARB.0072.eng-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="18-61" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1377" END="1382">Soviet</charseq>
+      </extent>
+      <head>
+        <charseq START="1377" END="1382">Soviet</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE16">
+  <entity ID="20000715_AFP_ARB.0072.eng-E20" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="20-63" TYPE="PRE">
+      <extent>
+        <charseq START="1534" END="1542">terrorist</charseq>
+      </extent>
+      <head>
+        <charseq START="1534" END="1542">terrorist</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE17">
+  <entity ID="20000715_AFP_ARB.0072.eng-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="21-64" TYPE="BAR">
+      <extent>
+        <charseq START="1594" END="1631">Palestinian and Lebanese organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="1619" END="1631">organizations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE18">
+  <entity ID="20000715_AFP_ARB.0072.eng-E22" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="22-65" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1594" END="1604">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1594" END="1604">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE19">
+  <entity ID="20000715_AFP_ARB.0072.eng-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="11-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="115" END="123">Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="123">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="115" END="123">Jerusalem</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE20">
+  <entity ID="20000715_AFP_ARB.0072.eng-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="23-66" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1610" END="1617">Lebanese</charseq>
+      </extent>
+      <head>
+        <charseq START="1610" END="1617">Lebanese</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE21">
+  <entity ID="20000715_AFP_ARB.0072.eng-E24" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="24-67" TYPE="APP">
+      <extent>
+        <charseq START="1828" END="1873">Israel's Deputy Defense Minister, Ephraim Sneh</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="24-68" TYPE="NOM">
+      <extent>
+        <charseq START="1828" END="1859">Israel's Deputy Defense Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="1852" END="1859">Minister</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-70" TYPE="NAM">
+      <extent>
+        <charseq START="2030" END="2033">Sneh</charseq>
+      </extent>
+      <head>
+        <charseq START="2030" END="2033">Sneh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="2030" END="2033">Sneh</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E25" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="25-69" TYPE="NAM">
+      <extent>
+        <charseq START="1862" END="1873">Ephraim Sneh</charseq>
+      </extent>
+      <head>
+        <charseq START="1862" END="1873">Ephraim Sneh</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1862" END="1873">Ephraim Sneh</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE22">
+  <entity ID="20000715_AFP_ARB.0072.eng-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="26-72" TYPE="BAR">
+      <extent>
+        <charseq START="2043" END="2052">army radio</charseq>
+      </extent>
+      <head>
+        <charseq START="2048" END="2052">radio</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE23">
+  <entity ID="20000715_AFP_ARB.0072.eng-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="28-73" TYPE="NAM">
+      <extent>
+        <charseq START="131" END="133">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="131" END="133">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="131" END="133">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE24">
+  <entity ID="20000715_AFP_ARB.0072.eng-E29" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="29-4" TYPE="NOM">
+      <extent>
+        <charseq START="708" END="719">The official</charseq>
+      </extent>
+      <head>
+        <charseq START="712" END="719">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-9" TYPE="NOM">
+      <extent>
+        <charseq START="902" END="913">The official</charseq>
+      </extent>
+      <head>
+        <charseq START="906" END="913">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-10" TYPE="PRO">
+      <extent>
+        <charseq START="1008" END="1009">He</charseq>
+      </extent>
+      <head>
+        <charseq START="1008" END="1009">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-11" TYPE="NOM">
+      <extent>
+        <charseq START="1245" END="1256">The official</charseq>
+      </extent>
+      <head>
+        <charseq START="1249" END="1256">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-12" TYPE="NOM">
+      <extent>
+        <charseq START="1400" END="1411">The official</charseq>
+      </extent>
+      <head>
+        <charseq START="1404" END="1411">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-13" TYPE="NOM">
+      <extent>
+        <charseq START="1637" END="1648">The official</charseq>
+      </extent>
+      <head>
+        <charseq START="1641" END="1648">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-75" TYPE="NOM">
+      <extent>
+        <charseq START="139" END="172">A high level Israeli army official</charseq>
+      </extent>
+      <head>
+        <charseq START="165" END="172">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-85" TYPE="NOM">
+      <extent>
+        <charseq START="416" END="459">The official, who wished to remain anonymous</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="427">official</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-86" TYPE="WHQ">
+      <extent>
+        <charseq START="430" END="432">who</charseq>
+      </extent>
+      <head>
+        <charseq START="430" END="432">who</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE25">
+  <entity ID="20000715_AFP_ARB.0072.eng-E31" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="31-71" TYPE="PRE">
+      <extent>
+        <charseq START="2043" END="2046">army</charseq>
+      </extent>
+      <head>
+        <charseq START="2043" END="2046">army</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="31-77" TYPE="PRE">
+      <extent>
+        <charseq START="152" END="163">Israeli army</charseq>
+      </extent>
+      <head>
+        <charseq START="160" END="163">army</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE26">
+  <entity ID="20000715_AFP_ARB.0072.eng-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="30-76" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="152" END="158">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="152" END="158">Israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="32-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="697" END="702">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="697" END="702">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="2613" END="2618">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2613" END="2618">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="2060" END="2065">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="2060" END="2065">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-16" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="2080" END="2085">itself</charseq>
+      </extent>
+      <head>
+        <charseq START="2080" END="2085">itself</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-17" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1901" END="1906">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1901" END="1906">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-18" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1828" END="1833">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1828" END="1833">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-20" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1565" END="1570">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1565" END="1570">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-22" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1465" END="1470">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1465" END="1470">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-23" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1234" END="1239">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1234" END="1239">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-24" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1058" END="1063">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="1058" END="1063">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-78" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="203" END="208">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="203" END="208">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="32-84" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="388" END="393">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="388" END="393">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="697" END="702">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="2613" END="2618">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="2060" END="2065">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1901" END="1906">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1828" END="1833">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1565" END="1570">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1465" END="1470">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1234" END="1239">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="1058" END="1063">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="203" END="208">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="388" END="393">Israel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE27">
+  <entity ID="20000715_AFP_ARB.0072.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="5-38" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1960" END="1966">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="1960" END="1966">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-51" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2317" END="2323">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="2317" END="2323">Iranian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-53" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="2174" END="2180">Iranian</charseq>
+      </extent>
+      <head>
+        <charseq START="2174" END="2180">Iranian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20000715_AFP_ARB.0072.eng-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="33-5" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="749" END="754">Tehran</charseq>
+      </extent>
+      <head>
+        <charseq START="749" END="754">Tehran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-6" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="786" END="787">it</charseq>
+      </extent>
+      <head>
+        <charseq START="786" END="787">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-19" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="1501" END="1506">Tehran</charseq>
+      </extent>
+      <head>
+        <charseq START="1501" END="1506">Tehran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1432" END="1435">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="1432" END="1435">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-25" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="930" END="933">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="930" END="933">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-79" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="219" END="222">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="219" END="222">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="33-87" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="481" END="484">Iran</charseq>
+      </extent>
+      <head>
+        <charseq START="481" END="484">Iran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1432" END="1435">Iran</charseq>
+      </name>
+      <name>
+        <charseq START="930" END="933">Iran</charseq>
+      </name>
+      <name>
+        <charseq START="219" END="222">Iran</charseq>
+      </name>
+      <name>
+        <charseq START="481" END="484">Iran</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE28">
+  <entity ID="20000715_AFP_ARB.0072.eng-E34" TYPE="WEA" SUBTYPE="Nuclear" CLASS="ATR">
+    <entity_mention ID="34-28" TYPE="PRE">
+      <extent>
+        <charseq START="966" END="972">nuclear</charseq>
+      </extent>
+      <head>
+        <charseq START="966" END="972">nuclear</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-80" TYPE="PRE">
+      <extent>
+        <charseq START="250" END="256">nuclear</charseq>
+      </extent>
+      <head>
+        <charseq START="250" END="256">nuclear</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="34-88" TYPE="PRE">
+      <extent>
+        <charseq START="510" END="516">nuclear</charseq>
+      </extent>
+      <head>
+        <charseq START="510" END="516">nuclear</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE29">
+  <entity ID="20000715_AFP_ARB.0072.eng-E35" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="35-81" TYPE="PRE">
+      <extent>
+        <charseq START="273" END="280">military</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="280">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="35-89" TYPE="PRE">
+      <extent>
+        <charseq START="533" END="540">military</charseq>
+      </extent>
+      <head>
+        <charseq START="533" END="540">military</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE30">
+  <entity ID="20000715_AFP_ARB.0072.eng-E36" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+    <entity_mention ID="36-2" TYPE="BAR">
+      <extent>
+        <charseq START="668" END="702">missiles capable of
+striking Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="668" END="675">missiles</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="36-82" TYPE="BAR">
+      <extent>
+        <charseq START="336" END="343">missiles</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="343">missiles</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20000715_AFP_ARB.0072.eng-CE31">
+  <entity ID="20000715_AFP_ARB.0072.eng-E37" TYPE="WEA" SUBTYPE="Nuclear" CLASS="GEN">
+    <entity_mention ID="37-83" TYPE="BAR">
+      <extent>
+        <charseq START="350" END="393">nuclear warheads, capable of reaching Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="358" END="365">warheads</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="37-90" TYPE="BAR">
+      <extent>
+        <charseq START="629" END="702">nuclear warheads that can be fitted to missiles capable of
+striking Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="637" END="644">warheads</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="37-91" TYPE="WHQ">
+      <extent>
+        <charseq START="646" END="649">that</charseq>
+      </extent>
+      <head>
+        <charseq START="646" END="649">that</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20000715_AFP_ARB.0072.eng-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="152" END="163">Israeli army</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E31" ENTITYMENTIONID="31-77" ARGNUM="1">
+      <extent>
+        <charseq START="152" END="163">Israeli army</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E30" ENTITYMENTIONID="30-76" ARGNUM="2">
+      <extent>
+        <charseq START="152" END="158">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="172">A high level Israeli army official</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E29" ENTITYMENTIONID="29-75" ARGNUM="1">
+      <extent>
+        <charseq START="139" END="172">A high level Israeli army official</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E31" ENTITYMENTIONID="31-77" ARGNUM="2">
+      <extent>
+        <charseq START="152" END="163">Israeli army</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R3" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1313" END="1348">a
+North Korean missile called Nodong</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E16" ENTITYMENTIONID="16-58" ARGNUM="1">
+      <extent>
+        <charseq START="1315" END="1326">North Korean</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E15" ENTITYMENTIONID="15-56" ARGNUM="2">
+      <extent>
+        <charseq START="1313" END="1348">a
+North Korean missile called Nodong</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R4" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1373" END="1395">the Soviet
+Scud missile</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E18" ENTITYMENTIONID="18-61" ARGNUM="1">
+      <extent>
+        <charseq START="1377" END="1382">Soviet</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E17" ENTITYMENTIONID="17-60" ARGNUM="2">
+      <extent>
+        <charseq START="1373" END="1395">the Soviet
+Scud missile</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1594" END="1631">Palestinian and Lebanese organizations</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E21" ENTITYMENTIONID="21-64" ARGNUM="1">
+      <extent>
+        <charseq START="1594" END="1631">Palestinian and Lebanese organizations</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E22" ENTITYMENTIONID="22-65" ARGNUM="2">
+      <extent>
+        <charseq START="1594" END="1604">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R6" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1594" END="1631">Palestinian and Lebanese organizations</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E21" ENTITYMENTIONID="21-64" ARGNUM="1">
+      <extent>
+        <charseq START="1594" END="1631">Palestinian and Lebanese organizations</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E23" ENTITYMENTIONID="23-66" ARGNUM="2">
+      <extent>
+        <charseq START="1610" END="1617">Lebanese</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1828" END="1859">Israel's Deputy Defense Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E24" ENTITYMENTIONID="24-68" ARGNUM="1">
+      <extent>
+        <charseq START="1828" END="1859">Israel's Deputy Defense Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E32" ENTITYMENTIONID="32-18" ARGNUM="2">
+      <extent>
+        <charseq START="1828" END="1833">Israel</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R8" TYPE="ART" SUBTYPE="Inventor-or-Manufacturer">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1956" END="2025">the
+Iranian Shahab 3 ground-ground missile with a 1300 kilometer range</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E5" ENTITYMENTIONID="5-38" ARGNUM="1">
+      <extent>
+        <charseq START="1960" END="1966">Iranian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E1" ENTITYMENTIONID="1-37" ARGNUM="2">
+      <extent>
+        <charseq START="1956" END="2025">the
+Iranian Shahab 3 ground-ground missile with a 1300 kilometer range</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2043" END="2052">army radio</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E26" ENTITYMENTIONID="26-72" ARGNUM="1">
+      <extent>
+        <charseq START="2043" END="2052">army radio</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E31" ENTITYMENTIONID="31-71" ARGNUM="2">
+      <extent>
+        <charseq START="2043" END="2046">army</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2170" END="2185">The Iranian army</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E14" ENTITYMENTIONID="14-54" ARGNUM="1">
+      <extent>
+        <charseq START="2170" END="2185">The Iranian army</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E5" ENTITYMENTIONID="5-53" ARGNUM="2">
+      <extent>
+        <charseq START="2174" END="2180">Iranian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2298" END="2343">An official at the Iranian Ministry of Defense</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E10" ENTITYMENTIONID="10-50" ARGNUM="1">
+      <extent>
+        <charseq START="2298" END="2343">An official at the Iranian Ministry of Defense</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E12" ENTITYMENTIONID="12-74" ARGNUM="2">
+      <extent>
+        <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R12" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E12" ENTITYMENTIONID="12-74" ARGNUM="1">
+      <extent>
+        <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E5" ENTITYMENTIONID="5-51" ARGNUM="2">
+      <extent>
+        <charseq START="2317" END="2323">Iranian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="12-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E12" ENTITYMENTIONID="12-74" ARGNUM="1">
+      <extent>
+        <charseq START="2313" END="2343">the Iranian Ministry of Defense</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E5" ENTITYMENTIONID="5-51" ARGNUM="2">
+      <extent>
+        <charseq START="2317" END="2323">Iranian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R13" TYPE="DISC">
+  <relation_mention ID="13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2562" END="2618">the majority of countries in the region,
+including Israel</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E7" ENTITYMENTIONID="7-47" ARGNUM="1">
+      <extent>
+        <charseq START="2562" END="2618">the majority of countries in the region,
+including Israel</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E8" ENTITYMENTIONID="8-48" ARGNUM="2">
+      <extent>
+        <charseq START="2578" END="2600">countries in the region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20000715_AFP_ARB.0072.eng-R14" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2578" END="2600">countries in the region</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E8" ENTITYMENTIONID="8-48" ARGNUM="1">
+      <extent>
+        <charseq START="2578" END="2600">countries in the region</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20000715_AFP_ARB.0072.eng-E9" ENTITYMENTIONID="9-49" ARGNUM="2">
+      <extent>
+        <charseq START="2591" END="2600">the region</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,953 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001024.2203.0349.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001024.2203.0349">
+<entity ID="NYT20001024.2203.0349-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="827" END="834">analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="834">analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="897" END="903">Houston</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="903">Houston</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="897" END="903">Houston</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E3" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1143" END="1150">overseas</charseq>
+    </extent>
+    <head>
+      <charseq START="1143" END="1150">overseas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1271" END="1286">Michael Capellas</charseq>
+    </extent>
+    <head>
+      <charseq START="1271" END="1286">Michael Capellas</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1289" END="1296">chairman</charseq>
+    </extent>
+    <head>
+      <charseq START="1289" END="1296">chairman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-8" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="1302" END="1316">chief executive</charseq>
+    </extent>
+    <head>
+      <charseq START="1308" END="1316">executive</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1351" END="1358">Capellas</charseq>
+    </extent>
+    <head>
+      <charseq START="1351" END="1358">Capellas</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1430" END="1431">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1430" END="1431">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2731" END="2738">Capellas</charseq>
+    </extent>
+    <head>
+      <charseq START="2731" END="2738">Capellas</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1271" END="1286">Michael Capellas</charseq>
+    </name>
+    <name>
+      <charseq START="1351" END="1358">Capellas</charseq>
+    </name>
+    <name>
+      <charseq START="2731" END="2738">Capellas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E7" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1403" END="1427">every region of
+the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1414">region</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E8" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1419" END="1427">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1423" END="1427">world</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2021" END="2029">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="2025" END="2029">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E9" TYPE="PER" CLASS="USP">
+  <entity_mention ID="9-14" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1601" END="1608">Analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="1601" END="1608">Analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1724" END="1742">its server
+business</charseq>
+    </extent>
+    <head>
+      <charseq START="1735" END="1742">business</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1798" END="1820">the
+Unix server segment</charseq>
+    </extent>
+    <head>
+      <charseq START="1814" END="1820">segment</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-17" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1841" END="1848">industry</charseq>
+    </extent>
+    <head>
+      <charseq START="1841" END="1848">industry</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1894" END="1918">the data storage business</charseq>
+    </extent>
+    <head>
+      <charseq START="1911" END="1918">business</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="14-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1986" END="2006">competitors, like
+EMC</charseq>
+    </extent>
+    <head>
+      <charseq START="1986" END="1996">competitors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="15-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2004" END="2006">EMC</charseq>
+    </extent>
+    <head>
+      <charseq START="2004" END="2006">EMC</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2004" END="2006">EMC</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="16-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="288" END="302">Compaq Computer</charseq>
+    </extent>
+    <head>
+      <charseq START="288" END="302">Compaq Computer</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1482" END="1484">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1482" END="1484">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2021" END="2067">the world's leading maker of personal computers</charseq>
+    </extent>
+    <head>
+      <charseq START="2041" END="2045">maker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="404" END="414">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="414">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="458" END="460">its</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="460">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="496" END="501">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="501">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="794" END="799">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="794" END="799">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="871" END="903">Compaq, which is based in Houston</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="876">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-50" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="879" END="883">which</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="883">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1026" END="1031">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1031">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1188" END="1190">Our</charseq>
+    </extent>
+    <head>
+      <charseq START="1188" END="1190">Our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1220" END="1222">our</charseq>
+    </extent>
+    <head>
+      <charseq START="1220" END="1222">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1321" END="1322">We</charseq>
+    </extent>
+    <head>
+      <charseq START="1321" END="1322">We</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1464" END="1469">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="1464" END="1469">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1683" END="1688">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="1683" END="1688">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-57" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1724" END="1726">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1724" END="1726">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2011" END="2016">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="2011" END="2016">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2074" END="2076">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2074" END="2076">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-60" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2561" END="2566">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="2561" END="2566">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2612" END="2617">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="2612" END="2617">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2826" END="2831">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="2826" END="2831">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-63" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2917" END="2927">the company</charseq>
+    </extent>
+    <head>
+      <charseq START="2921" END="2927">company</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-64" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2929" END="2942">a ``strong
+buy</charseq>
+    </extent>
+    <head>
+      <charseq START="2940" END="2942">buy</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-65" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2974" END="2978">their</charseq>
+    </extent>
+    <head>
+      <charseq START="2974" END="2978">their</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3131" END="3134">They</charseq>
+    </extent>
+    <head>
+      <charseq START="3131" END="3134">They</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3288" END="3293">Compaq</charseq>
+    </extent>
+    <head>
+      <charseq START="3288" END="3293">Compaq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-69" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="508" END="509">it</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="509">it</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="496" END="501">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="794" END="799">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="871" END="876">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="1026" END="1031">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="1464" END="1469">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="1683" END="1688">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="2011" END="2016">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="2561" END="2566">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="2612" END="2617">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="3288" END="3293">Compaq</charseq>
+    </name>
+    <name>
+      <charseq START="288" END="302">Compaq Computer</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="17-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2074" END="2088">its
+PC business</charseq>
+    </extent>
+    <head>
+      <charseq START="2081" END="2088">business</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E18" TYPE="PER" CLASS="USP">
+  <entity_mention ID="18-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2108" END="2120">many analysts</charseq>
+    </extent>
+    <head>
+      <charseq START="2113" END="2120">analysts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2137" END="2158">The
+commercial PC unit</charseq>
+    </extent>
+    <head>
+      <charseq START="2155" END="2158">unit</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2225" END="2227">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2225" END="2227">its</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="20-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2313" END="2332">The consumer PC unit</charseq>
+    </extent>
+    <head>
+      <charseq START="2329" END="2332">unit</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="21-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2561" END="2586">Compaq's services
+business</charseq>
+    </extent>
+    <head>
+      <charseq START="2579" END="2586">business</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2760" END="2769">that group</charseq>
+    </extent>
+    <head>
+      <charseq START="2765" END="2769">group</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E22" TYPE="PER" CLASS="USP">
+  <entity_mention ID="22-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2612" END="2638">Compaq's 40,000 consultants</charseq>
+    </extent>
+    <head>
+      <charseq START="2628" END="2638">consultants</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-32" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2826" END="2942">Compaq enthusiasts like Kurtis R. King, an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+    </extent>
+    <head>
+      <charseq START="2833" END="2843">enthusiasts</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2850" END="2863">Kurtis R. King</charseq>
+    </extent>
+    <head>
+      <charseq START="2850" END="2863">Kurtis R. King</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2866" END="2942">an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+    </extent>
+    <head>
+      <charseq START="2869" END="2875">analyst</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-37" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="2907" END="2909">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2907" END="2909">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2850" END="2863">Kurtis R. King</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2880" END="2905">Banc of America Securities</charseq>
+    </extent>
+    <head>
+      <charseq START="2880" END="2905">Banc of America Securities</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2880" END="2905">Banc of America Securities</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E28" TYPE="PER" CLASS="USP">
+  <entity_mention ID="28-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3002" END="3093">skeptics who were not advising clients to buy the stock, like
+Charles R. Wolf at UBS Warburg</charseq>
+    </extent>
+    <head>
+      <charseq START="3002" END="3009">skeptics</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-39" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="3011" END="3013">who</charseq>
+    </extent>
+    <head>
+      <charseq START="3011" END="3013">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-40" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3033" END="3039">clients</charseq>
+    </extent>
+    <head>
+      <charseq START="3033" END="3039">clients</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001024.2203.0349-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3064" END="3093">Charles R. Wolf at UBS Warburg</charseq>
+    </extent>
+    <head>
+      <charseq START="3064" END="3078">Charles R. Wolf</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3184" END="3187">Wolf</charseq>
+    </extent>
+    <head>
+      <charseq START="3184" END="3187">Wolf</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3064" END="3078">Charles R. Wolf</charseq>
+    </name>
+    <name>
+      <charseq START="3184" END="3187">Wolf</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="31-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3083" END="3093">UBS Warburg</charseq>
+    </extent>
+    <head>
+      <charseq START="3083" END="3093">UBS Warburg</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3083" END="3093">UBS Warburg</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3251" END="3277">the New York
+Stock Exchange</charseq>
+    </extent>
+    <head>
+      <charseq START="3255" END="3277">New York
+Stock Exchange</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3255" END="3277">New York
+Stock Exchange</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001024.2203.0349-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="35-68" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="342" END="352">Wall Street</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="352">Wall Street</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="342" END="352">Wall Street</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001024.2203.0349-R1" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="879" END="903">which is based in Houston</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-50" ARGNUM="1">
+      <extent>
+        <charseq START="879" END="883">which</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="897" END="903">Houston</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E8" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1403" END="1427">every region of
+the world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="1403" END="1427">every region of
+the world</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="1419" END="1427">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1724" END="1742">its server
+business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="1724" END="1742">its server
+business</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-57" ARGNUM="2">
+      <extent>
+        <charseq START="1724" END="1726">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E14" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1986" END="2006">competitors, like
+EMC</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-20" ARGNUM="1">
+      <extent>
+        <charseq START="2004" END="2006">EMC</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-19" ARGNUM="2">
+      <extent>
+        <charseq START="1986" END="2006">competitors, like
+EMC</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2021" END="2067">the world's leading maker of personal computers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-21" ARGNUM="1">
+      <extent>
+        <charseq START="2021" END="2067">the world's leading maker of personal computers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-22" ARGNUM="2">
+      <extent>
+        <charseq START="2021" END="2029">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2074" END="2088">its
+PC business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-23" ARGNUM="1">
+      <extent>
+        <charseq START="2074" END="2088">its
+PC business</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-59" ARGNUM="2">
+      <extent>
+        <charseq START="2074" END="2076">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R7" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2561" END="2586">Compaq's services
+business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-28" ARGNUM="1">
+      <extent>
+        <charseq START="2561" END="2586">Compaq's services
+business</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-60" ARGNUM="2">
+      <extent>
+        <charseq START="2561" END="2566">Compaq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E16" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2612" END="2638">Compaq's 40,000 consultants</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-29" ARGNUM="1">
+      <extent>
+        <charseq START="2612" END="2638">Compaq's 40,000 consultants</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-61" ARGNUM="2">
+      <extent>
+        <charseq START="2612" END="2617">Compaq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R9" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E23" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2826" END="2942">Compaq enthusiasts like Kurtis R. King, an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-34" ARGNUM="1">
+      <extent>
+        <charseq START="2850" END="2863">Kurtis R. King</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-32" ARGNUM="2">
+      <extent>
+        <charseq START="2826" END="2942">Compaq enthusiasts like Kurtis R. King, an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E26" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2866" END="2942">an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-35" ARGNUM="1">
+      <extent>
+        <charseq START="2866" END="2942">an analyst
+at Banc of America Securities who rates the company a ``strong
+buy</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-36" ARGNUM="2">
+      <extent>
+        <charseq START="2880" END="2905">Banc of America Securities</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E31" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3064" END="3093">Charles R. Wolf at UBS Warburg</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-41" ARGNUM="1">
+      <extent>
+        <charseq START="3064" END="3093">Charles R. Wolf at UBS Warburg</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-42" ARGNUM="2">
+      <extent>
+        <charseq START="3083" END="3093">UBS Warburg</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001024.2203.0349-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001024.2203.0349-E28" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="3002" END="3093">skeptics who were not advising clients to buy the stock, like
+Charles R. Wolf at UBS Warburg</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-41" ARGNUM="1">
+      <extent>
+        <charseq START="3064" END="3093">Charles R. Wolf at UBS Warburg</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-38" ARGNUM="2">
+      <extent>
+        <charseq START="3002" END="3093">skeptics who were not advising clients to buy the stock, like
+Charles R. Wolf at UBS Warburg</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

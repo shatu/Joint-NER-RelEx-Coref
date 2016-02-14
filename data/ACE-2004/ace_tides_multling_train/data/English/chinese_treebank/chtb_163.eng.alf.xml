@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_163.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_163.eng">
+<composite_entity ID="chtb_163.eng-CE1">
+  <entity ID="chtb_163.eng-E28" TYPE="PER" CLASS="USP">
+    <entity_mention ID="28-38" TYPE="BAR">
+      <extent>
+        <charseq START="671" END="696">Railway Ministry personnel</charseq>
+      </extent>
+      <head>
+        <charseq START="688" END="696">personnel</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE2">
+  <entity ID="chtb_163.eng-E1" TYPE="FAC" SUBTYPE="Conduit" CLASS="ATR">
+    <entity_mention ID="1-2" TYPE="PRE">
+      <extent>
+        <charseq START="719" END="725">network</charseq>
+      </extent>
+      <head>
+        <charseq START="719" END="725">network</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE3">
+  <entity ID="chtb_163.eng-E2" TYPE="PER" CLASS="USP">
+    <entity_mention ID="2-5" TYPE="BAR">
+      <extent>
+        <charseq START="874" END="883">passengers</charseq>
+      </extent>
+      <head>
+        <charseq START="874" END="883">passengers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE4">
+  <entity ID="chtb_163.eng-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-6" TYPE="BAR">
+      <extent>
+        <charseq START="889" END="900">goods owners</charseq>
+      </extent>
+      <head>
+        <charseq START="895" END="900">owners</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE5">
+  <entity ID="chtb_163.eng-E4" TYPE="PER" CLASS="USP">
+    <entity_mention ID="4-7" TYPE="CMC">
+      <extent>
+        <charseq START="874" END="963">passengers
+and goods owners from all over China, including the Hong Kong and
+Macao regions</charseq>
+      </extent>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE6">
+  <entity ID="chtb_163.eng-E5" TYPE="FAC" SUBTYPE="Path" CLASS="ATR">
+    <entity_mention ID="5-10" TYPE="PRE">
+      <extent>
+        <charseq START="992" END="998">railway</charseq>
+      </extent>
+      <head>
+        <charseq START="992" END="998">railway</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-21" TYPE="PRE">
+      <extent>
+        <charseq START="221" END="227">railway</charseq>
+      </extent>
+      <head>
+        <charseq START="221" END="227">railway</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="5-32" TYPE="PRE">
+      <extent>
+        <charseq START="766" END="772">railway</charseq>
+      </extent>
+      <head>
+        <charseq START="766" END="772">railway</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_163.eng-E22" TYPE="FAC" SUBTYPE="Path" CLASS="ATR">
+    <entity_mention ID="22-30" TYPE="PRE">
+      <extent>
+        <charseq START="264" END="270">railway</charseq>
+      </extent>
+      <head>
+        <charseq START="264" END="270">railway</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE7">
+  <entity ID="chtb_163.eng-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="6-11" TYPE="PRE">
+      <extent>
+        <charseq START="1036" END="1044">passenger</charseq>
+      </extent>
+      <head>
+        <charseq START="1036" END="1044">passenger</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE8">
+  <entity ID="chtb_163.eng-E7" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+    <entity_mention ID="7-12" TYPE="BAR" ROLE="LOC">
+      <extent>
+        <charseq START="1099" END="1138">departure and arrival locations of goods</charseq>
+      </extent>
+      <head>
+        <charseq START="1121" END="1129">locations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE9">
+  <entity ID="chtb_163.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="907" END="963">all over China, including the Hong Kong and
+Macao regions</charseq>
+      </extent>
+      <head>
+        <charseq START="916" END="920">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1204" END="1208">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1204" END="1208">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1640" END="1644">China</charseq>
+      </extent>
+      <head>
+        <charseq START="1640" END="1644">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="183" END="187">China</charseq>
+      </extent>
+      <head>
+        <charseq START="183" END="187">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1640" END="1644">China</charseq>
+      </name>
+      <name>
+        <charseq START="183" END="187">China</charseq>
+      </name>
+      <name>
+        <charseq START="916" END="920">China</charseq>
+      </name>
+      <name>
+        <charseq START="1204" END="1208">China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE10">
+  <entity ID="chtb_163.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+    <entity_mention ID="9-14" TYPE="BAR">
+      <extent>
+        <charseq START="1242" END="1278">international financial organizations</charseq>
+      </extent>
+      <head>
+        <charseq START="1266" END="1278">organizations</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE11">
+  <entity ID="chtb_163.eng-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-15" TYPE="NAM">
+      <extent>
+        <charseq START="1478" END="1565">Shanghai Bell, represented by the China Electrical Import and Export
+Affiliation Company</charseq>
+      </extent>
+      <head>
+        <charseq START="1478" END="1490">Shanghai Bell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1478" END="1490">Shanghai Bell</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE12">
+  <entity ID="chtb_163.eng-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-18" TYPE="NOM">
+      <extent>
+        <charseq START="1735" END="1754">the contract parties</charseq>
+      </extent>
+      <head>
+        <charseq START="1748" END="1754">parties</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE13">
+  <entity ID="chtb_163.eng-E12" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+    <entity_mention ID="12-19" TYPE="NAM">
+      <extent>
+        <charseq START="1805" END="1835">Beijing's Diaoyutai State Hotel</charseq>
+      </extent>
+      <head>
+        <charseq START="1815" END="1835">Diaoyutai State Hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1815" END="1835">Diaoyutai State Hotel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE14">
+  <entity ID="chtb_163.eng-E13" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+    <entity_mention ID="13-9" TYPE="NOM">
+      <extent>
+        <charseq START="933" END="963">the Hong Kong and
+Macao regions</charseq>
+      </extent>
+      <head>
+        <charseq START="957" END="963">regions</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE15">
+  <entity ID="chtb_163.eng-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="14-22" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="937" END="945">Hong Kong</charseq>
+      </extent>
+      <head>
+        <charseq START="937" END="945">Hong Kong</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE16">
+  <entity ID="chtb_163.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="15-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="951" END="955">Macao</charseq>
+      </extent>
+      <head>
+        <charseq START="951" END="955">Macao</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE17">
+  <entity ID="chtb_163.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="16-1" TYPE="NAM">
+      <extent>
+        <charseq START="119" END="136">Xinhua News agency</charseq>
+      </extent>
+      <head>
+        <charseq START="119" END="136">Xinhua News agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="119" END="136">Xinhua News agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE18">
+  <entity ID="chtb_163.eng-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-20" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1805" END="1811">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="1805" END="1811">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="139" END="145">Beijing</charseq>
+      </extent>
+      <head>
+        <charseq START="139" END="145">Beijing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1805" END="1811">Beijing</charseq>
+      </name>
+      <name>
+        <charseq START="139" END="145">Beijing</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE19">
+  <entity ID="chtb_163.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-25" TYPE="NAM">
+      <extent>
+        <charseq START="163" END="180">reporter Tong Qian</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="180">Tong Qian</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="172" END="180">Tong Qian</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_163.eng-E19" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="19-26" TYPE="PRE">
+      <extent>
+        <charseq START="163" END="170">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="170">reporter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE20">
+  <entity ID="chtb_163.eng-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="20-27" TYPE="NAM">
+      <extent>
+        <charseq START="183" END="206">China's Railway Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="191" END="206">Railway Ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="20-35" TYPE="NAM">
+      <extent>
+        <charseq START="508" END="527">the Railway Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="527">Railway Ministry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="191" END="206">Railway Ministry</charseq>
+      </name>
+      <name>
+        <charseq START="512" END="527">Railway Ministry</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_163.eng-E27" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="27-37" TYPE="PRE">
+      <extent>
+        <charseq START="671" END="686">Railway Ministry</charseq>
+      </extent>
+      <head>
+        <charseq START="671" END="686">Railway Ministry</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE21">
+  <entity ID="chtb_163.eng-E21" TYPE="ORG" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="21-29" TYPE="PRE">
+      <extent>
+        <charseq START="237" END="246">World Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="237" END="246">World Bank</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE22">
+  <entity ID="chtb_163.eng-E23" TYPE="FAC" SUBTYPE="Conduit" CLASS="SPC">
+    <entity_mention ID="23-3" TYPE="PRO">
+      <extent>
+        <charseq START="824" END="825">it</charseq>
+      </extent>
+      <head>
+        <charseq START="824" END="825">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-4" TYPE="PRO">
+      <extent>
+        <charseq START="858" END="859">it</charseq>
+      </extent>
+      <head>
+        <charseq START="858" END="859">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-31" TYPE="NOM">
+      <extent>
+        <charseq START="262" END="301">a railway specific communication network</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="301">network</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE23">
+  <entity ID="chtb_163.eng-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="24-33" TYPE="NAM">
+      <extent>
+        <charseq START="362" END="402">the Zhongyi International Bidding
+Company</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="402">Zhongyi International Bidding
+Company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="366" END="402">Zhongyi International Bidding
+Company</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE24">
+  <entity ID="chtb_163.eng-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="25-16" TYPE="NAM">
+      <extent>
+        <charseq START="1508" END="1565">the China Electrical Import and Export
+Affiliation Company</charseq>
+      </extent>
+      <head>
+        <charseq START="1512" END="1565">China Electrical Import and Export
+Affiliation Company</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-34" TYPE="NAM">
+      <extent>
+        <charseq START="440" END="497">the China Electrical
+Import and Export Affiliation Company</charseq>
+      </extent>
+      <head>
+        <charseq START="444" END="497">China Electrical
+Import and Export Affiliation Company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="444" END="497">China Electrical
+Import and Export Affiliation Company</charseq>
+      </name>
+      <name>
+        <charseq START="1512" END="1565">China Electrical Import and Export
+Affiliation Company</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_163.eng-CE25">
+  <entity ID="chtb_163.eng-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="26-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="657" END="658">US</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="658">US</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_163.eng-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="183" END="206">China's Railway Ministry</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E20" ENTITYMENTIONID="20-27" ARGNUM="1">
+      <extent>
+        <charseq START="183" END="206">China's Railway Ministry</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E8" ENTITYMENTIONID="8-28" ARGNUM="2">
+      <extent>
+        <charseq START="183" END="187">China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="671" END="696">Railway Ministry personnel</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E28" ENTITYMENTIONID="28-38" ARGNUM="1">
+      <extent>
+        <charseq START="671" END="696">Railway Ministry personnel</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E27" ENTITYMENTIONID="27-37" ARGNUM="2">
+      <extent>
+        <charseq START="671" END="686">Railway Ministry</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R3" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1478" END="1565">Shanghai Bell, represented by the China Electrical Import and Export
+Affiliation Company</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E10" ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="1478" END="1565">Shanghai Bell, represented by the China Electrical Import and Export
+Affiliation Company</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E25" ENTITYMENTIONID="25-16" ARGNUM="2">
+      <extent>
+        <charseq START="1508" END="1565">the China Electrical Import and Export
+Affiliation Company</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1805" END="1835">Beijing's Diaoyutai State Hotel</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E12" ENTITYMENTIONID="12-19" ARGNUM="1">
+      <extent>
+        <charseq START="1805" END="1835">Beijing's Diaoyutai State Hotel</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E17" ENTITYMENTIONID="17-20" ARGNUM="2">
+      <extent>
+        <charseq START="1805" END="1811">Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="180">Xinhua News agency, Beijing, April 17th, by reporter Tong Qian</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E18" ENTITYMENTIONID="18-25" ARGNUM="1">
+      <extent>
+        <charseq START="163" END="180">reporter Tong Qian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E16" ENTITYMENTIONID="16-1" ARGNUM="2">
+      <extent>
+        <charseq START="119" END="136">Xinhua News agency</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="180">Xinhua News agency, Beijing, April 17th, by reporter Tong Qian</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E18" ENTITYMENTIONID="18-25" ARGNUM="1">
+      <extent>
+        <charseq START="163" END="180">reporter Tong Qian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E17" ENTITYMENTIONID="17-24" ARGNUM="2">
+      <extent>
+        <charseq START="139" END="145">Beijing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R7" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="874" END="963">passengers
+and goods owners from all over China, including the Hong Kong and
+Macao regions</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E2" ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="874" END="883">passengers</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E8" ENTITYMENTIONID="8-8" ARGNUM="2">
+      <extent>
+        <charseq START="907" END="963">all over China, including the Hong Kong and
+Macao regions</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_163.eng-R8" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="874" END="963">passengers
+and goods owners from all over China, including the Hong Kong and
+Macao regions</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E3" ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="889" END="900">goods owners</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_163.eng-E8" ENTITYMENTIONID="8-8" ARGNUM="2">
+      <extent>
+        <charseq START="907" END="963">all over China, including the Hong Kong and
+Macao regions</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

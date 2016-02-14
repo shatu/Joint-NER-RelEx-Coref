@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0012.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0012.eng">
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE1">
+  <entity ID="20001015_AFP_ARB.0012.eng-E2" TYPE="LOC" SUBTYPE="Region-Local" CLASS="USP">
+    <entity_mention ID="2-24" TYPE="BAR">
+      <extent>
+        <charseq START="898" END="968">sectors of the
+West Bank, where the majority of Israeli settlements are</charseq>
+      </extent>
+      <head>
+        <charseq START="898" END="904">sectors</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE2">
+  <entity ID="20001015_AFP_ARB.0012.eng-E3" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+    <entity_mention ID="3-15" TYPE="WHQ">
+      <extent>
+        <charseq START="924" END="928">where</charseq>
+      </extent>
+      <head>
+        <charseq START="924" END="928">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-17" TYPE="NAM">
+      <extent>
+        <charseq START="909" END="921">the
+West Bank</charseq>
+      </extent>
+      <head>
+        <charseq START="913" END="921">West Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="913" END="921">West Bank</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE3">
+  <entity ID="20001015_AFP_ARB.0012.eng-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="4-18" TYPE="PTV" ROLE="GPE">
+      <extent>
+        <charseq START="930" END="964">the majority of Israeli settlements</charseq>
+      </extent>
+      <head>
+        <charseq START="934" END="941">majority</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE4">
+  <entity ID="20001015_AFP_ARB.0012.eng-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-19" TYPE="BAR" ROLE="ORG">
+      <extent>
+        <charseq START="946" END="964">Israeli settlements</charseq>
+      </extent>
+      <head>
+        <charseq START="954" END="964">settlements</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE5">
+  <entity ID="20001015_AFP_ARB.0012.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="120" END="128">Jerusalem</charseq>
+      </extent>
+      <head>
+        <charseq START="120" END="128">Jerusalem</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="120" END="128">Jerusalem</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE6">
+  <entity ID="20001015_AFP_ARB.0012.eng-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-25" TYPE="NAM">
+      <extent>
+        <charseq START="137" END="139">AFP</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="139">AFP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="137" END="139">AFP</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE7">
+  <entity ID="20001015_AFP_ARB.0012.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="8-5" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="550" END="555">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="550" END="555">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-6" TYPE="PRO" ROLE="ORG">
+      <extent>
+        <charseq START="571" END="572">it</charseq>
+      </extent>
+      <head>
+        <charseq START="571" END="572">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="744" END="749">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="744" END="749">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-10" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="771" END="772">it</charseq>
+      </extent>
+      <head>
+        <charseq START="771" END="772">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-11" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="793" END="795">its</charseq>
+      </extent>
+      <head>
+        <charseq START="793" END="795">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-12" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="820" END="822">its</charseq>
+      </extent>
+      <head>
+        <charseq START="820" END="822">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-14" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="879" END="884">Israel</charseq>
+      </extent>
+      <head>
+        <charseq START="879" END="884">Israel</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-26" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="145" END="151">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="145" END="151">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-29" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="262" END="263">it</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="263">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="744" END="749">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="879" END="884">Israel</charseq>
+      </name>
+      <name>
+        <charseq START="145" END="151">Israeli</charseq>
+      </name>
+      <name>
+        <charseq START="550" END="555">Israel</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="16-20" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="946" END="952">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="946" END="952">Israeli</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-36" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="380" END="386">Israeli</charseq>
+      </extent>
+      <head>
+        <charseq START="380" END="386">Israeli</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE8">
+  <entity ID="20001015_AFP_ARB.0012.eng-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+    <entity_mention ID="9-3" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="510" END="528">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="524" END="528">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-23" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1065" END="1083">a Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="1079" END="1083">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-27" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="211" END="229">a
+Palestinian state</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="229">state</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE9">
+  <entity ID="20001015_AFP_ARB.0012.eng-E10" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="10-2" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="464" END="474">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="464" END="474">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-4" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="512" END="522">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="512" END="522">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1067" END="1077">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="1067" END="1077">Palestinian</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-28" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="213" END="223">Palestinian</charseq>
+      </extent>
+      <head>
+        <charseq START="213" END="223">Palestinian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE10">
+  <entity ID="20001015_AFP_ARB.0012.eng-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="ATR">
+    <entity_mention ID="11-7" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="664" END="678">Sharm
+el-Sheikh</charseq>
+      </extent>
+      <head>
+        <charseq START="664" END="678">Sharm
+el-Sheikh</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-30" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="323" END="337">Sharm el-Sheikh</charseq>
+      </extent>
+      <head>
+        <charseq START="323" END="337">Sharm el-Sheikh</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE11">
+  <entity ID="20001015_AFP_ARB.0012.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-8" TYPE="NAM">
+      <extent>
+        <charseq START="691" END="696">Yatoum</charseq>
+      </extent>
+      <head>
+        <charseq START="691" END="696">Yatoum</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-31" TYPE="APP">
+      <extent>
+        <charseq START="349" END="412">Danny Yatoum, chief advisor to Israeli Prime Minister Ehud Barak</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="12-32" TYPE="NAM">
+      <extent>
+        <charseq START="349" END="360">Danny Yatoum</charseq>
+      </extent>
+      <head>
+        <charseq START="349" END="360">Danny Yatoum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="349" END="360">Danny Yatoum</charseq>
+      </name>
+      <name>
+        <charseq START="691" END="696">Yatoum</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.eng-E13" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="13-33" TYPE="BAR">
+      <extent>
+        <charseq START="363" END="412">chief advisor to Israeli Prime Minister Ehud Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="375">advisor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE12">
+  <entity ID="20001015_AFP_ARB.0012.eng-E14" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="14-13" TYPE="NAM">
+      <extent>
+        <charseq START="857" END="861">Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="857" END="861">Barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-34" TYPE="NAM">
+      <extent>
+        <charseq START="380" END="412">Israeli Prime Minister Ehud Barak</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="412">Ehud Barak</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="857" END="861">Barak</charseq>
+      </name>
+      <name>
+        <charseq START="403" END="412">Ehud Barak</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.eng-E15" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="15-35" TYPE="PRE">
+      <extent>
+        <charseq START="388" END="401">Prime Minister</charseq>
+      </extent>
+      <head>
+        <charseq START="394" END="401">Minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE13">
+  <entity ID="20001015_AFP_ARB.0012.eng-E17" TYPE="ORG" SUBTYPE="Government" CLASS="ATR">
+    <entity_mention ID="17-37" TYPE="PRE">
+      <extent>
+        <charseq START="420" END="423">army</charseq>
+      </extent>
+      <head>
+        <charseq START="420" END="423">army</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0012.eng-CE14">
+  <entity ID="20001015_AFP_ARB.0012.eng-E1" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="1-40" TYPE="BAR">
+      <extent>
+        <charseq START="464" END="484">Palestinian
+president</charseq>
+      </extent>
+      <head>
+        <charseq START="476" END="484">president</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0012.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-21" TYPE="NAM">
+      <extent>
+        <charseq START="987" END="992">Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="987" END="992">Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-22" TYPE="NAM">
+      <extent>
+        <charseq START="1033" END="1038">Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="1033" END="1038">Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="18-38" TYPE="APP">
+      <extent>
+        <charseq START="449" END="485">Yasser Arafat (Palestinian
+president)</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-39" TYPE="NAM">
+      <extent>
+        <charseq START="449" END="461">Yasser Arafat</charseq>
+      </extent>
+      <head>
+        <charseq START="449" END="461">Yasser Arafat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="987" END="992">Arafat</charseq>
+      </name>
+      <name>
+        <charseq START="1033" END="1038">Arafat</charseq>
+      </name>
+      <name>
+        <charseq START="449" END="461">Yasser Arafat</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0012.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="924" END="968">where the majority of Israeli settlements are</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E4" ENTITYMENTIONID="4-18" ARGNUM="1">
+      <extent>
+        <charseq START="930" END="964">the majority of Israeli settlements</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E3" ENTITYMENTIONID="3-15" ARGNUM="2">
+      <extent>
+        <charseq START="924" END="928">where</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R2" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="211" END="229">a
+Palestinian state</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E9" ENTITYMENTIONID="9-27" ARGNUM="1">
+      <extent>
+        <charseq START="211" END="229">a
+Palestinian state</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E10" ENTITYMENTIONID="10-28" ARGNUM="2">
+      <extent>
+        <charseq START="213" END="223">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R3" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="363" END="412">chief advisor to Israeli Prime Minister Ehud Barak</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E13" ENTITYMENTIONID="13-33" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="412">chief advisor to Israeli Prime Minister Ehud Barak</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E14" ENTITYMENTIONID="14-34" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="412">Israeli Prime Minister Ehud Barak</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="380" END="401">Israeli Prime Minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E15" ENTITYMENTIONID="15-35" ARGNUM="1">
+      <extent>
+        <charseq START="388" END="401">Prime Minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E16" ENTITYMENTIONID="16-36" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="386">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="464" END="484">Palestinian
+president</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E1" ENTITYMENTIONID="1-40" ARGNUM="1">
+      <extent>
+        <charseq START="464" END="484">Palestinian
+president</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E10" ENTITYMENTIONID="10-2" ARGNUM="2">
+      <extent>
+        <charseq START="464" END="474">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="898" END="969">sectors of the
+West Bank, where the majority of Israeli settlements are,</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E2" ENTITYMENTIONID="2-24" ARGNUM="1">
+      <extent>
+        <charseq START="898" END="968">sectors of the
+West Bank, where the majority of Israeli settlements are</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E3" ENTITYMENTIONID="3-17" ARGNUM="2">
+      <extent>
+        <charseq START="909" END="921">the
+West Bank</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R7" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="510" END="528">a Palestinian state</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E10" ENTITYMENTIONID="10-4" ARGNUM="1">
+      <extent>
+        <charseq START="512" END="522">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E9" ENTITYMENTIONID="9-3" ARGNUM="2">
+      <extent>
+        <charseq START="510" END="528">a Palestinian state</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="7-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1065" END="1083">a Palestinian state</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E10" ENTITYMENTIONID="10-16" ARGNUM="1">
+      <extent>
+        <charseq START="1067" END="1077">Palestinian</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E9" ENTITYMENTIONID="9-23" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1083">a Palestinian state</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="930" END="968">the majority of Israeli settlements are</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E4" ENTITYMENTIONID="4-18" ARGNUM="1">
+      <extent>
+        <charseq START="930" END="964">the majority of Israeli settlements</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E5" ENTITYMENTIONID="5-19" ARGNUM="2">
+      <extent>
+        <charseq START="946" END="964">Israeli settlements</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0012.eng-R9" TYPE="GPE-AFF" SUBTYPE="Other">
+  <relation_mention ID="9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="946" END="964">Israeli settlements</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E5" ENTITYMENTIONID="5-19" ARGNUM="1">
+      <extent>
+        <charseq START="946" END="964">Israeli settlements</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0012.eng-E16" ENTITYMENTIONID="16-20" ARGNUM="2">
+      <extent>
+        <charseq START="946" END="952">Israeli</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

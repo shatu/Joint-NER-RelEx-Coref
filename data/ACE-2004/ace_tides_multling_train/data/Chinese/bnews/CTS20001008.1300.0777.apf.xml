@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CTS20001008.1300.0777.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CTS20001008.1300.0777">
+<entity ID="CTS20001008.1300.0777-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="265" END="267">6个人</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="267">人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="296" END="304">飞机上40多名乘客</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="304">乘客</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E3" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="3-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="65" END="67">北美洲</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="67">北美洲</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="67">北美洲</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CTS20001008.1300.0777-E4" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="4-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="274" END="275">飞机</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="275">飞机</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="296" END="297">飞机</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="297">飞机</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="82" END="94">一架墨西哥航空dc9型客机</charseq>
+    </extent>
+    <head>
+      <charseq START="93" END="94">客机</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="158" END="159">飞机</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="159">飞机</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="190" END="193">这架客机</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="193">客机</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="234" END="235">飞机</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="235">飞机</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="84" END="88">墨西哥航空</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="88">墨西哥航空</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="84" END="88">墨西哥航空</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CTS20001008.1300.0777-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="106" END="108">墨西哥</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="108">墨西哥</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="106" END="108">墨西哥</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CTS20001008.1300.0777-E7" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="106" END="112">墨西哥
+的北部</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="112">北部</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E8" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="125" END="126">跑道</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="126">跑道</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="147" END="148">跑道</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="148">跑道</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="199" END="200">跑道</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="200">跑道</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E9" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="9-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="164" END="165">汽车</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="165">汽车</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="184" END="186">目击者</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="186">目击者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E11" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="199" END="206">跑道边的三间民房</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="206">民房</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="208" END="215">索性民家中的民众</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="215">民众</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E13" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="13-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="279" END="280">运河</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="280">运河</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="241" END="246">排水用的运河</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="246">运河</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CTS20001008.1300.0777-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="253" END="260">在河边走路的民众</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="260">民众</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CTS20001008.1300.0777-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E4" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="82" END="94">一架墨西哥航空dc9型客机</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="84" END="88">墨西哥航空</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="2">
+      <extent>
+        <charseq START="82" END="94">一架墨西哥航空dc9型客机</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001008.1300.0777-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="106" END="112">墨西哥
+的北部</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="106" END="112">墨西哥
+的北部</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-10" ARGNUM="2">
+      <extent>
+        <charseq START="106" END="108">墨西哥</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001008.1300.0777-R3" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="199" END="206">跑道边的三间民房</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="1">
+      <extent>
+        <charseq START="199" END="206">跑道边的三间民房</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-18" ARGNUM="2">
+      <extent>
+        <charseq START="199" END="200">跑道</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CTS20001008.1300.0777-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CTS20001008.1300.0777-E4" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="296" END="304">飞机上40多名乘客</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="296" END="304">飞机上40多名乘客</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="2">
+      <extent>
+        <charseq START="296" END="297">飞机</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

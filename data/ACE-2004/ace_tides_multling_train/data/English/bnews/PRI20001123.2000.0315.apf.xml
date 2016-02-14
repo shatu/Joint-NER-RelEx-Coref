@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="PRI20001123.2000.0315.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="PRI20001123.2000.0315">
+<entity ID="PRI20001123.2000.0315-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="461" END="474">Corey
+Flintoff</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="474">Corey
+Flintoff</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="456" END="456">I</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="456">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="461" END="474">Corey
+Flintoff</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001123.2000.0315-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="477" END="484">NPR News</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="484">NPR News</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="477" END="484">NPR News</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001123.2000.0315-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="487" END="496">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="496">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="136" END="150">Washington D.C.</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="150">Washington D.C.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="487" END="496">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001123.2000.0315-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="265" END="291">his
+democratic counter part</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="291">counter part</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="293" END="308">Joseph Lieberman</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="308">Joseph Lieberman</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="293" END="308">Joseph Lieberman</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001123.2000.0315-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="105">GOP vice presidential nominee Dick Cheney</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="105">Dick Cheney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-7" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="65" END="93">GOP vice presidential nominee</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="93">nominee</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="167" END="168">he</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="168">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="232" END="237">Cheney</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="237">Cheney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="265" END="267">his</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="267">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="318" END="320">him</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="320">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="376" END="381">Cheney</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="381">Cheney</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="421" END="423">his</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="423">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="232" END="237">Cheney</charseq>
+    </name>
+    <name>
+      <charseq START="376" END="381">Cheney</charseq>
+    </name>
+    <name>
+      <charseq START="95" END="105">Dick Cheney</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="PRI20001123.2000.0315-E7" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="7-8" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="69" END="85">vice presidential</charseq>
+    </extent>
+    <head>
+      <charseq START="74" END="85">presidential</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E8" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="65" END="67">GOP</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="67">GOP</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E9" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="9-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="134" END="229">a Washington D.C. Hospital where he is recovering from what doctors
+said was a mild heart attack</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="159">Hospital</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-20" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="161" END="165">where</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="165">where</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E11" TYPE="PER" CLASS="USP">
+  <entity_mention ID="11-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="194" END="200">doctors</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="200">doctors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E13" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="13-21" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="269" END="278">democratic</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="278">democratic</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="341" END="364">The hospital spokeswoman</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="364">spokeswoman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="PRI20001123.2000.0315-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-23" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="345" END="352">hospital</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="352">hospital</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="PRI20001123.2000.0315-R1" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="65" END="93">GOP vice presidential nominee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="93">GOP vice presidential nominee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="67">GOP</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R8" TYPE="METONYMY">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E15" ARGNUM="2" />
+</relation>
+<relation ID="PRI20001123.2000.0315-R2" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E13" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="265" END="291">his
+democratic counter part</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="265" END="291">his
+democratic counter part</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-21" ARGNUM="2">
+      <extent>
+        <charseq START="269" END="278">democratic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E15" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="341" END="364">The hospital spokeswoman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-22" ARGNUM="1">
+      <extent>
+        <charseq START="341" END="364">The hospital spokeswoman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="2">
+      <extent>
+        <charseq START="345" END="352">hospital</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E2" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="461" END="484">Corey
+Flintoff, NPR News</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="461" END="474">Corey
+Flintoff</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="477" END="484">NPR News</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E3" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="461" END="496">Corey
+Flintoff, NPR News, Washington</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="461" END="474">Corey
+Flintoff</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="2">
+      <extent>
+        <charseq START="487" END="496">Washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E3" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="134" END="229">a Washington D.C. Hospital where he is recovering from what doctors
+said was a mild heart attack</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-10" ARGNUM="1">
+      <extent>
+        <charseq START="134" END="229">a Washington D.C. Hospital where he is recovering from what doctors
+said was a mild heart attack</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-11" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="150">Washington D.C.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="PRI20001123.2000.0315-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="PRI20001123.2000.0315-E9" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="161" END="229">where he is recovering from what doctors
+said was a mild heart attack</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-12" ARGNUM="1">
+      <extent>
+        <charseq START="167" END="168">he</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-20" ARGNUM="2">
+      <extent>
+        <charseq START="161" END="165">where</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

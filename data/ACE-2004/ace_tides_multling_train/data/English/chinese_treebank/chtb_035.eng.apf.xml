@@ -1,0 +1,1158 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_035.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_035.eng">
+<entity ID="chtb_035.eng-E1" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1010" END="1052">convenient express air, sea, and land ports</charseq>
+    </extent>
+    <head>
+      <charseq START="1048" END="1052">ports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1374" END="1412">Binhai International Airport in Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1401">Binhai International Airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1425" END="1609">the
+largest airport in China for Community of Independent States
+countries' air freighters in terms of the number of flights and the
+amount of products transported for export from China</charseq>
+    </extent>
+    <head>
+      <charseq START="1437" END="1443">airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1374" END="1401">Binhai International Airport</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1448" END="1452">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1448" END="1452">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1605" END="1609">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1605" END="1609">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-39" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2764" END="2770">Chinese</charseq>
+    </extent>
+    <head>
+      <charseq START="2764" END="2770">Chinese</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1448" END="1452">China</charseq>
+    </name>
+    <name>
+      <charseq START="1605" END="1609">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E5" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="5-10" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1458" END="1488">Community of Independent States</charseq>
+    </extent>
+    <head>
+      <charseq START="1458" END="1488">Community of Independent States</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-48" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE">
+    <extent>
+      <charseq START="1458" END="1499">Community of Independent States
+countries'</charseq>
+    </extent>
+    <head>
+      <charseq START="1490" END="1498">countries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E7" TYPE="VEH" SUBTYPE="Air" CLASS="USP">
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1458" END="1514">Community of Independent States
+countries' air freighters</charseq>
+    </extent>
+    <head>
+      <charseq START="1505" END="1514">freighters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E8" TYPE="VEH" SUBTYPE="Air" CLASS="GEN">
+  <entity_mention ID="8-14" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1636" END="1648">air freighter</charseq>
+    </extent>
+    <head>
+      <charseq START="1640" END="1648">freighter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E9" TYPE="PER" CLASS="USP">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1711" END="1769">Officials from Tianjin Foreign Economic and Trade Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="1711" END="1719">Officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1726" END="1769">Tianjin Foreign Economic and Trade Committee</charseq>
+    </extent>
+    <head>
+      <charseq START="1726" END="1769">Tianjin Foreign Economic and Trade Committee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1726" END="1769">Tianjin Foreign Economic and Trade Committee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1780" END="1786">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1780" END="1786">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-27" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2379" END="2385">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="2379" END="2385">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1780" END="1786">Tianjin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="114" END="131">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="131">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="114" END="131">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="970" END="976">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="976">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1406" END="1412">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1406" END="1412">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1958" END="1964">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="1958" END="1964">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="2106" END="2112">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="2106" END="2112">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="134" END="140">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="140">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2882" END="2888">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="2882" END="2888">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-43" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1868" END="1913">an important industrial city in northern China</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1895">city</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-44" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1919" END="1955">a foreign trade
+port with vast inland</charseq>
+    </extent>
+    <head>
+      <charseq START="1935" END="1938">port</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-50" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="216" END="222">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="222">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-53" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="225" END="265">an important economic
+city of north China</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="250">city</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="398" END="404">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="404">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="593" END="599">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="599">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="731" END="737">Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="737">Tianjin</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1406" END="1412">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="1958" END="1964">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="2106" END="2112">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="134" END="140">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="2882" END="2888">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="216" END="222">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="398" END="404">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="593" END="599">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="731" END="737">Tianjin</charseq>
+    </name>
+    <name>
+      <charseq START="970" END="976">Tianjin</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="16-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2374" END="2413">many Tianjin "triple-funded enterprises"</charseq>
+    </extent>
+    <head>
+      <charseq START="2402" END="2412">enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="17-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2494" END="2546">some large-scale professional foreign
+trade companies</charseq>
+    </extent>
+    <head>
+      <charseq START="2538" END="2546">companies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E18" TYPE="PER" CLASS="USP">
+  <entity_mention ID="18-32" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2564" END="2574">sales teams</charseq>
+    </extent>
+    <head>
+      <charseq START="2570" END="2574">teams</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E19" TYPE="PER" CLASS="USP">
+  <entity_mention ID="19-33" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2577" END="2603">exhibition sale
+delegations</charseq>
+    </extent>
+    <head>
+      <charseq START="2593" END="2603">delegations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E20" TYPE="PER" CLASS="USP">
+  <entity_mention ID="20-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2606" END="2609">etc.</charseq>
+    </extent>
+    <head>
+      <charseq START="2606" END="2609">etc.</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-36" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2658" END="2685">Relevant people who analyzed</charseq>
+    </extent>
+    <head>
+      <charseq START="2667" END="2672">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-37" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2674" END="2676">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2674" END="2676">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="22-38" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2760" END="2794">the Chinese and Russian
+governments</charseq>
+    </extent>
+    <head>
+      <charseq START="2784" END="2794">governments</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E25" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="25-45" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1945" END="1955">vast inland</charseq>
+    </extent>
+    <head>
+      <charseq START="1950" END="1955">inland</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-51" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="157" END="164">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="164">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="157" END="174">reporter Daojia Li</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="174">Daojia Li</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="359" END="371">This reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="371">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="166" END="174">Daojia Li</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E28" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="28-49" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1900" END="1913">northern China</charseq>
+    </extent>
+    <head>
+      <charseq START="1909" END="1913">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-54" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="255" END="265">north China</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="265">China</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="29-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="982" END="987">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="987">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1213" END="1234">the Russian Federation</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1234">Russian Federation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1792" END="1797">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1797">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2042" END="2047">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2042" END="2047">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2117" END="2122">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2117" END="2122">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2176" END="2181">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2176" END="2181">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2223" END="2228">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2223" END="2228">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2235" END="2240">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2235" END="2240">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-26" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2330" END="2332">its</charseq>
+    </extent>
+    <head>
+      <charseq START="2330" END="2332">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2449" END="2455">Russian</charseq>
+    </extent>
+    <head>
+      <charseq START="2449" END="2455">Russian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2621" END="2626">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="2621" END="2626">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-40" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2776" END="2782">Russian</charseq>
+    </extent>
+    <head>
+      <charseq START="2776" END="2782">Russian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2894" END="2917">the Russian
+Commonwealth</charseq>
+    </extent>
+    <head>
+      <charseq START="2898" END="2917">Russian
+Commonwealth</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-47" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="809" END="822">the other side</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="822">side</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-55" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="272" END="293">the Russian Federation</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="293">Russian Federation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-59" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="431" END="436">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="436">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="692" END="697">Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="697">Russia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-66" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="700" END="706">Russian</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="706">Russian</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1792" END="1797">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2042" END="2047">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2117" END="2122">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2176" END="2181">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2223" END="2228">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2235" END="2240">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2621" END="2626">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="2898" END="2917">Russian
+Commonwealth</charseq>
+    </name>
+    <name>
+      <charseq START="276" END="293">Russian Federation</charseq>
+    </name>
+    <name>
+      <charseq START="431" END="436">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="692" END="697">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="982" END="987">Russia</charseq>
+    </name>
+    <name>
+      <charseq START="1217" END="1234">Russian Federation</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_035.eng-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="31-58" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="453" END="454">US</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="454">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-60" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="507" END="508">US</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="508">US</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-69" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="852" END="853">US</charseq>
+    </extent>
+    <head>
+      <charseq START="852" END="853">US</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="32-46" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="631" END="634">that</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="634">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="605" END="697">more than ten enterprises that have
+established companies or representative offices in Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="629">enterprises</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="33-63" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="653" END="697">companies or representative offices in Russia</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="687">companies or representative offices</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_035.eng-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="34-65" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="700" END="737">Russian
+companies investing in Tianjin</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="716">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-68" TYPE="PRO" LDCTYPE="HLS" LDCATR="TRUE">
+    <extent>
+      <charseq START="757" END="768">more than 20</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="768">20</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_035.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E28" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="225" END="265">an important economic
+city of north China</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-53" ARGNUM="1">
+      <extent>
+        <charseq START="225" END="265">an important economic
+city of north China</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-54" ARGNUM="2">
+      <extent>
+        <charseq START="255" END="265">north China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1868" END="1913">an important industrial city in northern China</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-43" ARGNUM="1">
+      <extent>
+        <charseq START="1868" END="1913">an important industrial city in northern China</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-49" ARGNUM="2">
+      <extent>
+        <charseq START="1900" END="1913">northern China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E29" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="653" END="697">companies or representative offices in Russia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-63" ARGNUM="1">
+      <extent>
+        <charseq START="653" END="697">companies or representative offices in Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-64" ARGNUM="2">
+      <extent>
+        <charseq START="692" END="697">Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E29" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="700" END="737">Russian
+companies investing in Tianjin</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-65" ARGNUM="1">
+      <extent>
+        <charseq START="700" END="737">Russian
+companies investing in Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-66" ARGNUM="2">
+      <extent>
+        <charseq START="700" END="706">Russian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R4" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E13" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="700" END="737">Russian
+companies investing in Tianjin</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-65" ARGNUM="1">
+      <extent>
+        <charseq START="700" END="737">Russian
+companies investing in Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-67" ARGNUM="2">
+      <extent>
+        <charseq START="731" END="737">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E13" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1374" END="1412">Binhai International Airport in Tianjin</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="1374" END="1412">Binhai International Airport in Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-7" ARGNUM="2">
+      <extent>
+        <charseq START="1406" END="1412">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E4" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1425" END="1609">the
+largest airport in China for Community of Independent States
+countries' air freighters in terms of the number of flights and the
+amount of products transported for export from China</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-8" ARGNUM="1">
+      <extent>
+        <charseq START="1425" END="1609">the
+largest airport in China for Community of Independent States
+countries' air freighters in terms of the number of flights and the
+amount of products transported for export from China</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-9" ARGNUM="2">
+      <extent>
+        <charseq START="1448" END="1452">China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R7" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E5" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1458" END="1499">Community of Independent States
+countries'</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-48" ARGNUM="1">
+      <extent>
+        <charseq START="1458" END="1499">Community of Independent States
+countries'</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-10" ARGNUM="2">
+      <extent>
+        <charseq START="1458" END="1488">Community of Independent States</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R8" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E7" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E6" ARGNUM="1" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1458" END="1514">Community of Independent States
+countries' air freighters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="1458" END="1514">Community of Independent States
+countries' air freighters</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-48" ARGNUM="1">
+      <extent>
+        <charseq START="1458" END="1499">Community of Independent States
+countries'</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E10" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1711" END="1769">Officials from Tianjin Foreign Economic and Trade Committee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="1711" END="1769">Officials from Tianjin Foreign Economic and Trade Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-16" ARGNUM="2">
+      <extent>
+        <charseq START="1726" END="1769">Tianjin Foreign Economic and Trade Committee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E13" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1919" END="1955">a foreign trade
+port with vast inland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-45" ARGNUM="1">
+      <extent>
+        <charseq START="1945" END="1955">vast inland</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-44" ARGNUM="2">
+      <extent>
+        <charseq START="1919" END="1955">a foreign trade
+port with vast inland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E11" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2374" END="2413">many Tianjin "triple-funded enterprises"</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-29" ARGNUM="1">
+      <extent>
+        <charseq START="2374" END="2413">many Tianjin "triple-funded enterprises"</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-27" ARGNUM="2">
+      <extent>
+        <charseq START="2379" END="2385">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E12" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="114" END="174">Xinhua News Agency, Tianjin, April 6th, by reporter Daojia Li</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-52" ARGNUM="1">
+      <extent>
+        <charseq START="157" END="174">reporter Daojia Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-11" ARGNUM="2">
+      <extent>
+        <charseq START="114" END="131">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R14" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E13" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="114" END="174">Xinhua News Agency, Tianjin, April 6th, by reporter Daojia Li</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-52" ARGNUM="1">
+      <extent>
+        <charseq START="157" END="174">reporter Daojia Li</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-28" ARGNUM="2">
+      <extent>
+        <charseq START="134" END="140">Tianjin</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R15" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E32" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="605" END="697">more than ten enterprises that have
+established companies or representative offices in Russia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-63" ARGNUM="1">
+      <extent>
+        <charseq START="653" END="697">companies or representative offices in Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-62" ARGNUM="2">
+      <extent>
+        <charseq START="605" END="697">more than ten enterprises that have
+established companies or representative offices in Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R16" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E29" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-32" ARGNUM="1">
+      <extent>
+        <charseq START="2564" END="2574">sales teams</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-35" ARGNUM="2">
+      <extent>
+        <charseq START="2621" END="2626">Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R17" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E29" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-33" ARGNUM="1">
+      <extent>
+        <charseq START="2577" END="2603">exhibition sale
+delegations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-35" ARGNUM="2">
+      <extent>
+        <charseq START="2621" END="2626">Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R18" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E29" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-34" ARGNUM="1">
+      <extent>
+        <charseq START="2606" END="2609">etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-35" ARGNUM="2">
+      <extent>
+        <charseq START="2621" END="2626">Russia</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R19" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E17" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-32" ARGNUM="1">
+      <extent>
+        <charseq START="2564" END="2574">sales teams</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-31" ARGNUM="2">
+      <extent>
+        <charseq START="2494" END="2546">some large-scale professional foreign
+trade companies</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R20" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E17" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-33" ARGNUM="1">
+      <extent>
+        <charseq START="2577" END="2603">exhibition sale
+delegations</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-31" ARGNUM="2">
+      <extent>
+        <charseq START="2494" END="2546">some large-scale professional foreign
+trade companies</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_035.eng-R21" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_035.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_035.eng-E17" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2466" END="2653">Since the end of last year, some large-scale professional foreign
+trade companies started to send sales teams, exhibition sale
+delegations, etc., to enter Russia to seek to expand business</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-34" ARGNUM="1">
+      <extent>
+        <charseq START="2606" END="2609">etc.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-31" ARGNUM="2">
+      <extent>
+        <charseq START="2494" END="2546">some large-scale professional foreign
+trade companies</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

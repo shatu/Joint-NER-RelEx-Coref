@@ -1,0 +1,906 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NBC20001008.1830.0203.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NBC20001008.1830.0203">
+<entity ID="NBC20001008.1830.0203-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="473" END="480">israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="480">israelis</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="638" END="638">i</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="638">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="688" END="703">the israeli side</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="703">side</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="692" END="698">israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="698">israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1226" END="1231">israel</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1231">israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-33" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1519" END="1525">israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1519" END="1525">israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-34" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1554" END="1560">israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1554" END="1560">israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-35" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1792" END="1798">israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1798">israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-36" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1550" END="1565">the israeli side</charseq>
+    </extent>
+    <head>
+      <charseq START="1562" END="1565">side</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-37" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1585" END="1588">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1588">them</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1226" END="1231">israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E5" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="770" END="785">the palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="774" END="785">palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="802" END="806">egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="806">egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1696" END="1700">egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="1696" END="1700">egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1696" END="1700">egypt</charseq>
+    </name>
+    <name>
+      <charseq START="802" END="806">egypt</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="811" END="817">morocco</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="817">morocco</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="811" END="817">morocco</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="822" END="825">iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="822" END="825">iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="822" END="825">iraq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="828" END="844">arafat's advisers</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="844">advisers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-20" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="949" END="956">a people</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="956">people</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-21" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="962" END="1080">a whole nation,
+that is being killed every day and being asked to lie back and to
+die quietly, not to defend themselves</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="975">nation</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-22" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="978" END="981">that</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="981">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-23" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="1071" END="1080">themselves</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1080">themselves</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E11" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1107" END="1116">which side</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1116">side</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1165" END="1182">the united nations</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1182">united nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1169" END="1182">united nations</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="13-25" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1187" END="1202">security council</charseq>
+    </extent>
+    <head>
+      <charseq START="1187" END="1202">security council</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1234" END="1241">the u.s.</charseq>
+    </extent>
+    <head>
+      <charseq START="1238" END="1241">u.s.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-53" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="80" END="83">u.s.</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="83">u.s.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1238" END="1241">u.s.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="15-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1304" END="1321">the administration</charseq>
+    </extent>
+    <head>
+      <charseq START="1308" END="1321">administration</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-30" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1440" END="1464">the palestinian
+authority</charseq>
+    </extent>
+    <head>
+      <charseq START="1444" END="1464">palestinian
+authority</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-46" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1804" END="1814">palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="1804" END="1814">palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-63" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="308" END="318">palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="318">palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1444" END="1464">palestinian
+authority</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1484" END="1493">the crowds</charseq>
+    </extent>
+    <head>
+      <charseq START="1488" END="1493">crowds</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1504" END="1507">them</charseq>
+    </extent>
+    <head>
+      <charseq START="1504" END="1507">them</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E18" TYPE="PER" CLASS="USP">
+  <entity_mention ID="18-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1626" END="1650">aids to president clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="1626" END="1629">aids</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1634" END="1650">president clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="1644" END="1650">clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1634" END="1642">president</charseq>
+    </extent>
+    <head>
+      <charseq START="1634" END="1642">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1656" END="1657">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1656" END="1657">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1765" END="1777">the president</charseq>
+    </extent>
+    <head>
+      <charseq START="1769" END="1777">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1644" END="1650">clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="68" END="77">washington</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="77">washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="68" END="77">washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E22" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="22-42" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1674" END="1684">middle east</charseq>
+    </extent>
+    <head>
+      <charseq START="1674" END="1684">middle east</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="169" END="183">the middle east</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="183">middle east</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="173" END="183">middle east</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E23" TYPE="PER" CLASS="USP">
+  <entity_mention ID="23-44" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1725" END="1728">aids</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1728">aids</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E24" TYPE="PER" CLASS="USP">
+  <entity_mention ID="24-47" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1792" END="1822">israeli and palestinian leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="1816" END="1822">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E25" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="25-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1867" END="1881">the white house</charseq>
+    </extent>
+    <head>
+      <charseq START="1871" END="1881">white house</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1871" END="1881">white house</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E26" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-51" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="209" END="218">each other</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="218">other</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E27" TYPE="PER" CLASS="USP">
+  <entity_mention ID="27-52" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="80" END="93">u.s. officials</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="93">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="30-29" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1376" END="1385">both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="1381" END="1385">sides</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-55" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="188" END="200">the two sides</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="200">sides</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E31" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="31-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1846" END="1854">joe johns</charseq>
+    </extent>
+    <head>
+      <charseq START="1846" END="1854">joe johns</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="221" END="235">nbc's joe johns</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="235">joe johns</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1846" END="1854">joe johns</charseq>
+    </name>
+    <name>
+      <charseq START="227" END="235">joe johns</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="32-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1857" END="1864">nbc news</charseq>
+    </extent>
+    <head>
+      <charseq START="1857" END="1864">nbc news</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="221" END="223">nbc</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="223">nbc</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1857" END="1864">nbc news</charseq>
+    </name>
+    <name>
+      <charseq START="221" END="223">nbc</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="274">secretary of state albright</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="274">albright</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-59" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="248" END="265">secretary of state</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="256">secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="267" END="274">albright</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="35-60" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="261" END="265">state</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="265">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NBC20001008.1830.0203-E36" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="36-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="504" END="507">arat</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="507">arat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="546" END="555">mr. arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="555">arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-5" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="546" END="548">mr.</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="548">mr.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="646" END="647">he</charseq>
+    </extent>
+    <head>
+      <charseq START="646" END="647">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="828" END="833">arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="828" END="833">arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="861" END="863">his</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="863">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="910" END="925">president arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="925">arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="910" END="918">president</charseq>
+    </extent>
+    <head>
+      <charseq START="910" END="918">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="308" END="339">palestinian leader yasser arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="339">yasser arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-62" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="308" END="325">palestinian leader</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="325">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="365" END="366">he</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="366">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="439" END="441">him</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="441">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="828" END="833">arafat</charseq>
+    </name>
+    <name>
+      <charseq START="920" END="925">arafat</charseq>
+    </name>
+    <name>
+      <charseq START="327" END="339">yasser arafat</charseq>
+    </name>
+    <name>
+      <charseq START="504" END="507">arat</charseq>
+    </name>
+    <name>
+      <charseq START="550" END="555">arafat</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NBC20001008.1830.0203-E39" TYPE="PER" CLASS="USP">
+  <entity_mention ID="39-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="429" END="430">we</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="430">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NBC20001008.1830.0203-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E14" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="80" END="93">u.s. officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-52" ARGNUM="1">
+      <extent>
+        <charseq START="80" END="93">u.s. officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-53" ARGNUM="2">
+      <extent>
+        <charseq START="80" END="83">u.s.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E32" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="221" END="235">nbc's joe johns</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-56" ARGNUM="1">
+      <extent>
+        <charseq START="221" END="235">nbc's joe johns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-57" ARGNUM="2">
+      <extent>
+        <charseq START="221" END="223">nbc</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1846" END="1881">joe johns, nbc news, the white house</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-48" ARGNUM="1">
+      <extent>
+        <charseq START="1846" END="1854">joe johns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="32-49" ARGNUM="2">
+      <extent>
+        <charseq START="1857" END="1864">nbc news</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E35" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="248" END="265">secretary of state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-59" ARGNUM="1">
+      <extent>
+        <charseq START="248" END="265">secretary of state</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-60" ARGNUM="2">
+      <extent>
+        <charseq START="261" END="265">state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E16" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="308" END="325">palestinian leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-62" ARGNUM="1">
+      <extent>
+        <charseq START="308" END="325">palestinian leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-63" ARGNUM="2">
+      <extent>
+        <charseq START="308" END="318">palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E9" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="828" END="844">arafat's advisers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-14" ARGNUM="1">
+      <extent>
+        <charseq START="828" END="833">arafat</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="828" END="844">arafat's advisers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R6" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E19" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1626" END="1650">aids to president clinton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-38" ARGNUM="1">
+      <extent>
+        <charseq START="1626" END="1650">aids to president clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-39" ARGNUM="2">
+      <extent>
+        <charseq START="1634" END="1650">president clinton</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E3" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1792" END="1822">israeli and palestinian leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-47" ARGNUM="1">
+      <extent>
+        <charseq START="1792" END="1822">israeli and palestinian leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-35" ARGNUM="2">
+      <extent>
+        <charseq START="1792" END="1798">israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E16" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1792" END="1822">israeli and palestinian leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-47" ARGNUM="1">
+      <extent>
+        <charseq START="1792" END="1822">israeli and palestinian leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-46" ARGNUM="2">
+      <extent>
+        <charseq START="1804" END="1814">palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E25" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1846" END="1881">joe johns, nbc news, the white house</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-48" ARGNUM="1">
+      <extent>
+        <charseq START="1846" END="1854">joe johns</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-50" ARGNUM="2">
+      <extent>
+        <charseq START="1867" END="1881">the white house</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NBC20001008.1830.0203-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NBC20001008.1830.0203-E21" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="65" END="218">in washington, u.s. officials are working overtime to find some way
+to defuse the volatile situation in the middle east as the two sides
+attack each other</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-52" ARGNUM="1">
+      <extent>
+        <charseq START="80" END="93">u.s. officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-1" ARGNUM="2">
+      <extent>
+        <charseq START="68" END="77">washington</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

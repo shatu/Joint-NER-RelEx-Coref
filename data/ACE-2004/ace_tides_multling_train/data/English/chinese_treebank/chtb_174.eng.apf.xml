@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_174.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_174.eng">
+<entity ID="chtb_174.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="383" END="436">Azis, receiving appointment by Iraq's
+President Saddam</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="386">Azis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="551" END="554">Azis</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="554">Azis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="599" END="601">him</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="601">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="359" END="381">Iraq's foreign minister</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="381">minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="383" END="386">Azis</charseq>
+    </name>
+    <name>
+      <charseq START="551" END="554">Azis</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="414" END="429">Iraq's
+President</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="429">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="431" END="436">Saddam</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="436">Saddam</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="431" END="436">Saddam</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="507" END="522">the Soviet Union</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="522">Soviet Union</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-23" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="176" END="187">Soviet Union</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="187">Soviet Union</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="511" END="522">Soviet Union</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="570" END="588">president Gorbachev</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="588">Gorbachev</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-14" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="570" END="578">president</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="578">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="197">the Soviet Union president</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="197">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-26" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="292" END="300">president</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="300">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="580" END="588">Gorbachev</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="85" END="102">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="102">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="85" END="102">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="452" END="457">Moscow</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="457">Moscow</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="562" END="567">Moscow</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="567">Moscow</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="105" END="110">Moscow</charseq>
+    </extent>
+    <head>
+      <charseq START="105" END="110">Moscow</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="105" END="110">Moscow</charseq>
+    </name>
+    <name>
+      <charseq START="452" END="457">Moscow</charseq>
+    </name>
+    <name>
+      <charseq START="562" END="567">Moscow</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="131" END="154">reporter Xiangguang
+Zhou</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="154">Xiangguang
+Zhou</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="131" END="138">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="138">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="140" END="154">Xiangguang
+Zhou</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="527" END="537">Igor Njinko</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="537">Igor Njinko</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="217">the Soviet Union president's news spokesperson</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="217">spokesperson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="220" END="231">Igor
+Najinko</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="231">Igor
+Najinko</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="220" END="231">Igor
+Najinko</charseq>
+    </name>
+    <name>
+      <charseq START="527" END="537">Igor Njinko</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E13" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="13-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="356">president special envoy, Primakov, who is currently visiting Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="324">Primakov</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-25" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="292" END="314">president special envoy</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="314">envoy</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-27" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="327" END="329">who</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="329">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="317" END="324">Primakov</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_174.eng-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="16-7" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="414" END="417">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="417">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="353" END="356">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="356">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-29" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="359" END="362">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="362">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="353" END="356">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="359" END="362">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="414" END="417">Iraq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_174.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E6" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="85" END="154">Xinhua News Agency, Moscow, February 13th, by reporter Xiangguang
+Zhou</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="1">
+      <extent>
+        <charseq START="131" END="154">reporter Xiangguang
+Zhou</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-1" ARGNUM="2">
+      <extent>
+        <charseq START="85" END="102">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E7" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="85" END="154">Xinhua News Agency, Moscow, February 13th, by reporter Xiangguang
+Zhou</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="1">
+      <extent>
+        <charseq START="131" END="154">reporter Xiangguang
+Zhou</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-16" ARGNUM="2">
+      <extent>
+        <charseq START="105" END="110">Moscow</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E4" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="172" END="197">the Soviet Union president</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-22" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="197">the Soviet Union president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-23" ARGNUM="2">
+      <extent>
+        <charseq START="176" END="187">Soviet Union</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R4" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E10" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="172" END="217">the Soviet Union president's news spokesperson</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-22" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="197">the Soviet Union president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-20" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="217">the Soviet Union president's news spokesperson</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E13" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="292" END="314">president special envoy</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-26" ARGNUM="1">
+      <extent>
+        <charseq START="292" END="300">president</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="2">
+      <extent>
+        <charseq START="292" END="314">president special envoy</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E16" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="327" END="356">who is currently visiting Iraq</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-27" ARGNUM="1">
+      <extent>
+        <charseq START="327" END="329">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-28" ARGNUM="2">
+      <extent>
+        <charseq START="353" END="356">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E16" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="359" END="381">Iraq's foreign minister</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-30" ARGNUM="1">
+      <extent>
+        <charseq START="359" END="381">Iraq's foreign minister</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-29" ARGNUM="2">
+      <extent>
+        <charseq START="359" END="362">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_174.eng-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_174.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_174.eng-E16" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="414" END="429">Iraq's
+President</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="414" END="429">Iraq's
+President</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="16-7" ARGNUM="2">
+      <extent>
+        <charseq START="414" END="417">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

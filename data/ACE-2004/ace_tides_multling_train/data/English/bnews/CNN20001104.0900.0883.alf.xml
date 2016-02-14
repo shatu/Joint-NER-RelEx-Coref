@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001104.0900.0883.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001104.0900.0883">
+<composite_entity ID="CNN20001104.0900.0883-CE1">
+  <entity ID="CNN20001104.0900.0883-E1" TYPE="PER" CLASS="USP">
+    <entity_mention ID="1-2" TYPE="PRO">
+      <extent>
+        <charseq START="1534" END="1535">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1534" END="1535">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-9" TYPE="PRO">
+      <extent>
+        <charseq START="1582" END="1582">s</charseq>
+      </extent>
+      <head>
+        <charseq START="1582" END="1582">s</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-25" TYPE="PRO">
+      <extent>
+        <charseq START="1485" END="1486">we</charseq>
+      </extent>
+      <head>
+        <charseq START="1485" END="1486">we</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE2">
+  <entity ID="CNN20001104.0900.0883-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1648" END="1655">american</charseq>
+      </extent>
+      <head>
+        <charseq START="1648" END="1655">american</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="CNN20001104.0900.0883-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-1" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="64" END="73">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="68" END="73">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-24" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="1420" END="1429">the nation</charseq>
+      </extent>
+      <head>
+        <charseq START="1424" END="1429">nation</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE3">
+  <entity ID="CNN20001104.0900.0883-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-4" TYPE="NOM">
+      <extent>
+        <charseq START="1677" END="1691">most economists</charseq>
+      </extent>
+      <head>
+        <charseq START="1682" END="1691">economists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE4">
+  <entity ID="CNN20001104.0900.0883-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="4-6" TYPE="NAM">
+      <extent>
+        <charseq START="1784" END="1801">cnn financial
+news</charseq>
+      </extent>
+      <head>
+        <charseq START="1784" END="1801">cnn financial
+news</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1784" END="1801">cnn financial
+news</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE5">
+  <entity ID="CNN20001104.0900.0883-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1805" END="1814">washington</charseq>
+      </extent>
+      <head>
+        <charseq START="1805" END="1814">washington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1805" END="1814">washington</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE6">
+  <entity ID="CNN20001104.0900.0883-E6" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="6-8" TYPE="PRE">
+      <extent>
+        <charseq START="805" END="809">labor</charseq>
+      </extent>
+      <head>
+        <charseq START="805" END="809">labor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE7">
+  <entity ID="CNN20001104.0900.0883-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="8-10" TYPE="NAM">
+      <extent>
+        <charseq START="109" END="128">the labor department</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="128">labor department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="113" END="128">labor department</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE8">
+  <entity ID="CNN20001104.0900.0883-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-5" TYPE="NAM">
+      <extent>
+        <charseq START="1772" END="1780">bob beard</charseq>
+      </extent>
+      <head>
+        <charseq START="1772" END="1780">bob beard</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-11" TYPE="NAM">
+      <extent>
+        <charseq START="215" END="223">bob beard</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="223">bob beard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="215" END="223">bob beard</charseq>
+      </name>
+      <name>
+        <charseq START="1772" END="1780">bob beard</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE9">
+  <entity ID="CNN20001104.0900.0883-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+    <entity_mention ID="10-12" TYPE="BAR">
+      <extent>
+        <charseq START="275" END="292">construction firms</charseq>
+      </extent>
+      <head>
+        <charseq START="288" END="292">firms</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE10">
+  <entity ID="CNN20001104.0900.0883-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NOM">
+      <extent>
+        <charseq START="311" END="334">the huge services sector</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="334">sector</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE11">
+  <entity ID="CNN20001104.0900.0883-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="12-14" TYPE="BAR">
+      <extent>
+        <charseq START="364" END="376">manufacturing</charseq>
+      </extent>
+      <head>
+        <charseq START="364" END="376">manufacturing</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE12">
+  <entity ID="CNN20001104.0900.0883-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="13-15" TYPE="PRE">
+      <extent>
+        <charseq START="424" END="430">factory</charseq>
+      </extent>
+      <head>
+        <charseq START="424" END="430">factory</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE13">
+  <entity ID="CNN20001104.0900.0883-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="14-16" TYPE="BAR">
+      <extent>
+        <charseq START="424" END="436">factory
+labor</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="436">labor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE14">
+  <entity ID="CNN20001104.0900.0883-E15" TYPE="PER" CLASS="USP">
+    <entity_mention ID="15-17" TYPE="NOM">
+      <extent>
+        <charseq START="984" END="998">some economists</charseq>
+      </extent>
+      <head>
+        <charseq START="989" END="998">economists</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE15">
+  <entity ID="CNN20001104.0900.0883-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="16-18" TYPE="NAM">
+      <extent>
+        <charseq START="1081" END="1087">the fed</charseq>
+      </extent>
+      <head>
+        <charseq START="1085" END="1087">fed</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-22" TYPE="NAM">
+      <extent>
+        <charseq START="1294" END="1300">the fed</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1300">fed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1085" END="1087">fed</charseq>
+      </name>
+      <name>
+        <charseq START="1298" END="1300">fed</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE16">
+  <entity ID="CNN20001104.0900.0883-E17" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="17-19" TYPE="PRO">
+      <extent>
+        <charseq START="1162" END="1162">i</charseq>
+      </extent>
+      <head>
+        <charseq START="1162" END="1162">i</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-21" TYPE="PRO">
+      <extent>
+        <charseq START="1253" END="1253">i</charseq>
+      </extent>
+      <head>
+        <charseq START="1253" END="1253">i</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE17">
+  <entity ID="CNN20001104.0900.0883-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="18-20" TYPE="BAR">
+      <extent>
+        <charseq START="1235" END="1246">policymakers</charseq>
+      </extent>
+      <head>
+        <charseq START="1235" END="1246">policymakers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001104.0900.0883-CE18">
+  <entity ID="CNN20001104.0900.0883-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="19-23" TYPE="NOM">
+      <extent>
+        <charseq START="1361" END="1378">the administration</charseq>
+      </extent>
+      <head>
+        <charseq START="1365" END="1378">administration</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001104.0900.0883-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="424" END="436">factory
+labor</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E14" ENTITYMENTIONID="14-16" ARGNUM="1">
+      <extent>
+        <charseq START="424" END="436">factory
+labor</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E13" ENTITYMENTIONID="13-15" ARGNUM="2">
+      <extent>
+        <charseq START="424" END="430">factory</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001104.0900.0883-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1772" END="1814">bob beard, "cnn financial
+news," washington</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E9" ENTITYMENTIONID="9-5" ARGNUM="1">
+      <extent>
+        <charseq START="1772" END="1780">bob beard</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E4" ENTITYMENTIONID="4-6" ARGNUM="2">
+      <extent>
+        <charseq START="1784" END="1801">cnn financial
+news</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001104.0900.0883-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1772" END="1814">bob beard, "cnn financial
+news," washington</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E9" ENTITYMENTIONID="9-5" ARGNUM="1">
+      <extent>
+        <charseq START="1772" END="1780">bob beard</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001104.0900.0883-E5" ENTITYMENTIONID="5-7" ARGNUM="2">
+      <extent>
+        <charseq START="1805" END="1814">washington</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,2565 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001119.2132.0191.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001119.2132.0191">
+<entity ID="NYT20001119.2132.0191-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-159" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="595" END="647">Hezbollah
+forces in areas controlled by Syrian troops</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="610">forces</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E2" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC">
+    <extent>
+      <charseq START="615" END="647">areas controlled by Syrian troops</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="619">areas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E3" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="595" END="603">Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="603">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="717" END="725">Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="725">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1020" END="1028">Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="1020" END="1028">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3502" END="3514">the Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="3506" END="3514">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="717" END="725">Hezbollah</charseq>
+    </name>
+    <name>
+      <charseq START="1020" END="1028">Hezbollah</charseq>
+    </name>
+    <name>
+      <charseq START="3506" END="3514">Hezbollah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="635" END="647">Syrian troops</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">troops</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="661" END="675">Israel's
+troops</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="675">troops</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="661" END="666">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="666">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="941" END="946">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="946">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1043" END="1049">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1043" END="1049">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1124" END="1130">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1130">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-33" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1624" END="1626">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1624" END="1626">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1515" END="1520">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="1515" END="1520">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1607" END="1612">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="1607" END="1612">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2137" END="2142">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="2137" END="2142">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-68" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2400" END="2406">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="2400" END="2406">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-81" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3024" END="3029">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="3024" END="3029">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-95" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3316" END="3322">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="3316" END="3322">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-114" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="3743" END="3748">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="3743" END="3748">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-116" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3831" END="3850">his enemy's homeland</charseq>
+    </extent>
+    <head>
+      <charseq START="3843" END="3850">homeland</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-124" TYPE="NOM" LDCTYPE="BAR" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="4038" END="4045">Israelis</charseq>
+    </extent>
+    <head>
+      <charseq START="4038" END="4045">Israelis</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-128" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="4323" END="4329">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="4323" END="4329">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-149" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="399" END="405">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="405">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-153" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="691" END="693">its</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="693">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-158" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="554" END="559">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="559">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="941" END="946">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="1515" END="1520">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="1607" END="1612">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="2137" END="2142">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="3024" END="3029">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="3743" END="3748">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="554" END="559">Israel</charseq>
+    </name>
+    <name>
+      <charseq START="661" END="666">Israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E7" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="714">zone</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1602" END="1636">what Israel considers its territory</charseq>
+    </extent>
+    <head>
+      <charseq START="1628" END="1636">territory</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="695" END="702">Lebanese</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="702">Lebanese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1097" END="1103">Lebanon</charseq>
+    </extent>
+    <head>
+      <charseq START="1097" END="1103">Lebanon</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1097" END="1103">Lebanon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="783" END="790">Damascus</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="790">Damascus</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="783" END="790">Damascus</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="795" END="831">Usually reliable intelligence sources</charseq>
+    </extent>
+    <head>
+      <charseq START="825" END="831">sources</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E11" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="11-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="903" END="916">the Arab world</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="916">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="907" END="910">Arab</charseq>
+    </extent>
+    <head>
+      <charseq START="907" END="910">Arab</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-40" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="1546" END="1549">Arab</charseq>
+    </extent>
+    <head>
+      <charseq START="1546" END="1549">Arab</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-82" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3034" END="3037">Arab</charseq>
+    </extent>
+    <head>
+      <charseq START="3034" END="3037">Arab</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1043" END="1058">Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1058">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E15" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="15-28" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1113" END="1137">Syrian and
+Israeli forces</charseq>
+    </extent>
+    <head>
+      <charseq START="1132" END="1137">forces</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1162" END="1177">Hassan Nasrallah</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1177">Hassan Nasrallah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1180" END="1209">secretary general of
+Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="1180" END="1188">secretary</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1332" END="1334">him</charseq>
+    </extent>
+    <head>
+      <charseq START="1332" END="1334">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1406" END="1425">the terrorist leader</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1425">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1162" END="1177">Hassan Nasrallah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E18" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="18-37" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1465" END="1468">U.N.</charseq>
+    </extent>
+    <head>
+      <charseq START="1465" END="1468">U.N.</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-39" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1546" END="1569">Arab and Persian leaders</charseq>
+    </extent>
+    <head>
+      <charseq START="1563" END="1569">leaders</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-41" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1555" END="1561">Persian</charseq>
+    </extent>
+    <head>
+      <charseq START="1555" END="1561">Persian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="290" END="299">WASHINGTON</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="299">WASHINGTON</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="290" END="299">WASHINGTON</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E22" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="22-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1674" END="1686">Yasser Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="1674" END="1686">Yasser Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1707" END="1709">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1707" END="1709">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1888" END="1890">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1888" END="1890">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1786" END="1788">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1786" END="1788">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1869" END="1871">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1869" END="1871">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3064" END="3066">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3064" END="3066">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-86" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3073" END="3078">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="3073" END="3078">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3163" END="3164">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3163" END="3164">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-88" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3483" END="3488">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="3483" END="3488">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-89" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3666" END="3671">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="3666" END="3671">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-91" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4566" END="4571">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="4566" END="4571">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-126" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4131" END="4136">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="4131" END="4136">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-127" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4277" END="4282">Arafat</charseq>
+    </extent>
+    <head>
+      <charseq START="4277" END="4282">Arafat</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-144" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2241" END="2243">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2241" END="2243">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1674" END="1686">Yasser Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="3073" END="3078">Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="3483" END="3488">Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="3666" END="3671">Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="4566" END="4571">Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="4131" END="4136">Arafat</charseq>
+    </name>
+    <name>
+      <charseq START="4277" END="4282">Arafat</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1739" END="1755">President Clinton</charseq>
+    </extent>
+    <head>
+      <charseq START="1749" END="1755">Clinton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-48" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1739" END="1747">President</charseq>
+    </extent>
+    <head>
+      <charseq START="1739" END="1747">President</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1749" END="1755">Clinton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E25" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="25-49" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1764" END="1773">Camp
+David</charseq>
+    </extent>
+    <head>
+      <charseq START="1764" END="1773">Camp
+David</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E26" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-56" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2023" END="2033">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="2023" END="2033">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-60" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2211" END="2235">a struggling dictatorship</charseq>
+    </extent>
+    <head>
+      <charseq START="2224" END="2235">dictatorship</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-69" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2414" END="2424">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="2414" END="2424">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-93" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3248" END="3258">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="3248" END="3258">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-117" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3881" END="3891">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="3881" END="3891">Palestinian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1869" END="1885">his gunmen-police</charseq>
+    </extent>
+    <head>
+      <charseq START="1873" END="1885">gunmen-police</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E28" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="28-51" TYPE="NOM" LDCTYPE="BAR" ROLE="PER">
+    <extent>
+      <charseq START="1841" END="1852">Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="1841" END="1852">Palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="29-53" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2015" END="2039">a small Palestinian state</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2039">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="30-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2090" END="2098">Jerusalem</charseq>
+    </extent>
+    <head>
+      <charseq START="2090" END="2098">Jerusalem</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2090" END="2098">Jerusalem</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="31-55" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2104" END="2142">a state
+incorporating Jordan and Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="2106" END="2110">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="33-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2126" END="2131">Jordan</charseq>
+    </extent>
+    <head>
+      <charseq START="2126" END="2131">Jordan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-140" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3819" END="3824">Jordan</charseq>
+    </extent>
+    <head>
+      <charseq START="3819" END="3824">Jordan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2126" END="2131">Jordan</charseq>
+    </name>
+    <name>
+      <charseq START="3819" END="3824">Jordan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="921" END="946">a
+militant enemy of Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="932" END="936">enemy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E36" TYPE="PER" CLASS="USP">
+  <entity_mention ID="36-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2241" END="2262">his
+militant followers</charseq>
+    </extent>
+    <head>
+      <charseq START="2254" END="2262">followers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E37" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="37-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2282" END="2289">the Jews</charseq>
+    </extent>
+    <head>
+      <charseq START="2286" END="2289">Jews</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E38" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="38-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2298" END="2312">the Middle
+East</charseq>
+    </extent>
+    <head>
+      <charseq START="2302" END="2312">Middle
+East</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-92" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3189" END="3199">Middle East</charseq>
+    </extent>
+    <head>
+      <charseq START="3189" END="3199">Middle East</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-99" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3389" END="3398">the region</charseq>
+    </extent>
+    <head>
+      <charseq START="3393" END="3398">region</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2302" END="2312">Middle
+East</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E39" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="39-65" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2354" END="2358">world</charseq>
+    </extent>
+    <head>
+      <charseq START="2354" END="2358">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E40" TYPE="PER" CLASS="USP">
+  <entity_mention ID="40-66" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2380" END="2411">innocent victims of Israeli guns</charseq>
+    </extent>
+    <head>
+      <charseq START="2389" END="2395">victims</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E41" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="41-67" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2400" END="2411">Israeli guns</charseq>
+    </extent>
+    <head>
+      <charseq START="2408" END="2411">guns</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E42" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="42-70" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2414" END="2432">Palestinian snipers</charseq>
+    </extent>
+    <head>
+      <charseq START="2426" END="2432">snipers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E43" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="43-71" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2449" END="2463">civilian crowds</charseq>
+    </extent>
+    <head>
+      <charseq START="2458" END="2463">crowds</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E44" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="44-72" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2449" END="2456">civilian</charseq>
+    </extent>
+    <head>
+      <charseq START="2449" END="2456">civilian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E45" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="45-73" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2501" END="2509">innocents</charseq>
+    </extent>
+    <head>
+      <charseq START="2501" END="2509">innocents</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E46" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="46-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2624" END="2663">a boy with a
+slingshot rather than a gun</charseq>
+    </extent>
+    <head>
+      <charseq START="2626" END="2628">boy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E47" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="47-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2635" END="2645">a
+slingshot</charseq>
+    </extent>
+    <head>
+      <charseq START="2637" END="2645">slingshot</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E48" TYPE="WEA" SUBTYPE="Shooting" CLASS="GEN">
+  <entity_mention ID="48-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2659" END="2663">a gun</charseq>
+    </extent>
+    <head>
+      <charseq START="2661" END="2663">gun</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E49" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="49-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2711" END="2738">the boy dying in a crossfire</charseq>
+    </extent>
+    <head>
+      <charseq START="2715" END="2717">boy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E50" TYPE="ORG" SUBTYPE="Other" CLASS="GEN">
+  <entity_mention ID="50-79" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2807" END="2814">military</charseq>
+    </extent>
+    <head>
+      <charseq START="2807" END="2814">military</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="50-134" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="4459" END="4466">military</charseq>
+    </extent>
+    <head>
+      <charseq START="4459" END="4466">military</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E51" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="51-80" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2939" END="2948">Ehud Barak</charseq>
+    </extent>
+    <head>
+      <charseq START="2939" END="2948">Ehud Barak</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-118" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3935" END="3939">Barak</charseq>
+    </extent>
+    <head>
+      <charseq START="3935" END="3939">Barak</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-119" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3951" END="3952">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3951" END="3952">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-120" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3993" END="3994">He</charseq>
+    </extent>
+    <head>
+      <charseq START="3993" END="3994">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-121" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4077" END="4078">he</charseq>
+    </extent>
+    <head>
+      <charseq START="4077" END="4078">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-122" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4158" END="4162">Barak</charseq>
+    </extent>
+    <head>
+      <charseq START="4158" END="4162">Barak</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-123" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4200" END="4202">him</charseq>
+    </extent>
+    <head>
+      <charseq START="4200" END="4202">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="51-125" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4053" END="4055">him</charseq>
+    </extent>
+    <head>
+      <charseq START="4053" END="4055">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2939" END="2948">Ehud Barak</charseq>
+    </name>
+    <name>
+      <charseq START="3935" END="3939">Barak</charseq>
+    </name>
+    <name>
+      <charseq START="4158" END="4162">Barak</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E52" TYPE="ORG" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="52-83" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3034" END="3070">Arab
+armies far stronger than his own</charseq>
+    </extent>
+    <head>
+      <charseq START="3039" END="3044">armies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E53" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="53-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3064" END="3070">his own</charseq>
+    </extent>
+    <head>
+      <charseq START="3068" END="3070">own</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E55" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="55-94" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="3248" END="3277">Palestinian women and
+children</charseq>
+    </extent>
+    <head>
+      <charseq START="3260" END="3277">women and
+children</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E56" TYPE="WEA" SUBTYPE="Exploding" CLASS="GEN">
+  <entity_mention ID="56-96" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3308" END="3328">a stray Israeli shell</charseq>
+    </extent>
+    <head>
+      <charseq START="3324" END="3328">shell</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E57" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="57-97" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3421" END="3432">shaky sheiks</charseq>
+    </extent>
+    <head>
+      <charseq START="3427" END="3432">sheiks</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E58" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="58-98" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3359" END="3398">Infuriated Muslims throughout the region</charseq>
+    </extent>
+    <head>
+      <charseq START="3370" END="3376">Muslims</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E59" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="59-100" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3476" END="3477">we</charseq>
+    </extent>
+    <head>
+      <charseq START="3476" END="3477">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E60" TYPE="PER" CLASS="USP">
+  <entity_mention ID="60-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3483" END="3514">Arafat's allies in the Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="3492" END="3497">allies</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E61" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="61-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3630" END="3632">him</charseq>
+    </extent>
+    <head>
+      <charseq START="3630" END="3632">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="61-107" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3561" END="3579">his dictator-father</charseq>
+    </extent>
+    <head>
+      <charseq START="3574" END="3579">father</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="61-108" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3565" END="3572">dictator</charseq>
+    </extent>
+    <head>
+      <charseq START="3565" END="3572">dictator</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="61-109" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3581" END="3585">Hafez</charseq>
+    </extent>
+    <head>
+      <charseq START="3581" END="3585">Hafez</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3581" END="3585">Hafez</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E63" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="63-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3831" END="3833">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3831" END="3833">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3791" END="3793">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3791" END="3793">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="63-142" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3689" END="3709">Iraq's Saddam Hussein</charseq>
+    </extent>
+    <head>
+      <charseq START="3696" END="3709">Saddam Hussein</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3696" END="3709">Saddam Hussein</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E64" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="64-110" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3689" END="3692">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="3689" END="3692">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3689" END="3692">Iraq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E65" TYPE="WEA" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="65-112" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="3791" END="3809">his tanks and Scuds</charseq>
+    </extent>
+    <head>
+      <charseq START="3795" END="3809">tanks and Scuds</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E66" TYPE="WEA" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="66-113" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3723" END="3768">weaponry to counter Israel's nuclear deterrent</charseq>
+    </extent>
+    <head>
+      <charseq START="3723" END="3730">weaponry</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E67" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="67-76" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="308" END="361">the leader of the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="317">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="67-141" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="462" END="464">him</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="464">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="67-152" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="431" END="433">his</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="433">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="312" END="317">leader</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E68" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="68-130" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4319" END="4347">the Israeli opposition leader</charseq>
+    </extent>
+    <head>
+      <charseq START="4342" END="4347">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="68-131" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4349" END="4359">Arik
+Sharon</charseq>
+    </extent>
+    <head>
+      <charseq START="4349" END="4359">Arik
+Sharon</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="68-132" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4411" END="4426">the Likud
+leader</charseq>
+    </extent>
+    <head>
+      <charseq START="4421" END="4426">leader</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4349" END="4359">Arik
+Sharon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E70" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="70-135" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="4508" END="4514">America</charseq>
+    </extent>
+    <head>
+      <charseq START="4508" END="4514">America</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="70-136" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="4535" END="4537">its</charseq>
+    </extent>
+    <head>
+      <charseq START="4535" END="4537">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4508" END="4514">America</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E71" TYPE="PER" CLASS="USP">
+  <entity_mention ID="71-137" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4574" END="4601">whoever wins the White House</charseq>
+    </extent>
+    <head>
+      <charseq START="4574" END="4580">whoever</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E72" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="72-138" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="4587" END="4601">the White House</charseq>
+    </extent>
+    <head>
+      <charseq START="4591" END="4601">White House</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E73" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="73-106" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3634" END="3642">the Golan</charseq>
+    </extent>
+    <head>
+      <charseq START="3638" END="3642">Golan</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E74" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="74-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1201" END="1209">Hezbollah</charseq>
+    </extent>
+    <head>
+      <charseq START="1201" END="1209">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="74-139" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="322" END="361">the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="334">Hezbollah</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="326" END="334">Hezbollah</charseq>
+    </name>
+    <name>
+      <charseq START="1201" END="1209">Hezbollah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E75" TYPE="WEA" SUBTYPE="Nuclear" CLASS="SPC">
+  <entity_mention ID="75-143" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3743" END="3768">Israel's nuclear deterrent</charseq>
+    </extent>
+    <head>
+      <charseq START="3752" END="3768">nuclear deterrent</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E76" TYPE="PER" CLASS="USP">
+  <entity_mention ID="76-115" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3831" END="3839">his enemy</charseq>
+    </extent>
+    <head>
+      <charseq START="3835" END="3839">enemy</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E77" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="77-133" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="4415" END="4419">Likud</charseq>
+    </extent>
+    <head>
+      <charseq START="4415" END="4419">Likud</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="77-145" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="4323" END="4340">Israeli opposition</charseq>
+    </extent>
+    <head>
+      <charseq START="4331" END="4340">opposition</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E78" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="78-146" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="339" END="361">Syrian-occupied
+Lebanon</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="361">Lebanon</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="355" END="361">Lebanon</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E79" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="79-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="635" END="640">Syrian</charseq>
+    </extent>
+    <head>
+      <charseq START="635" END="640">Syrian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="79-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1113" END="1118">Syrian</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1118">Syrian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="79-103" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3525" END="3529">Syria</charseq>
+    </extent>
+    <head>
+      <charseq START="3525" END="3529">Syria</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="79-147" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="339" END="344">Syrian</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="344">Syrian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="79-157" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="530" END="534">Syria</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="534">Syria</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3525" END="3529">Syria</charseq>
+    </name>
+    <name>
+      <charseq START="530" END="534">Syria</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001119.2132.0191-E80" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="80-148" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="393" END="414">three Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="414">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E82" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="82-150" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="431" END="450">his Iranian sponsors</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="450">sponsors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E83" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="83-151" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="435" END="441">Iranian</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="441">Iranian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001119.2132.0191-E84" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="84-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="773" END="778">Bashar</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="778">Bashar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="843" END="866">the inexperienced
+Bashar</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="866">Bashar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1233" END="1238">Bashar</charseq>
+    </extent>
+    <head>
+      <charseq START="1233" END="1238">Bashar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="954" END="956">his</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="956">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1293" END="1298">Bashar</charseq>
+    </extent>
+    <head>
+      <charseq START="1293" END="1298">Bashar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-104" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3525" END="3541">Syria's
+strongman</charseq>
+    </extent>
+    <head>
+      <charseq START="3533" END="3541">strongman</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3561" END="3563">his</charseq>
+    </extent>
+    <head>
+      <charseq START="3561" END="3563">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-155" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="495" END="506">Bashar Assad</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="506">Bashar Assad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="84-156" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="509" END="534">the new president of Syria</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="525">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="861" END="866">Bashar</charseq>
+    </name>
+    <name>
+      <charseq START="1233" END="1238">Bashar</charseq>
+    </name>
+    <name>
+      <charseq START="1293" END="1298">Bashar</charseq>
+    </name>
+    <name>
+      <charseq START="495" END="506">Bashar Assad</charseq>
+    </name>
+    <name>
+      <charseq START="773" END="778">Bashar</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001119.2132.0191-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E67" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E74" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="308" END="361">the leader of the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="67-76" ARGNUM="1">
+      <extent>
+        <charseq START="308" END="361">the leader of the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="74-139" ARGNUM="2">
+      <extent>
+        <charseq START="322" END="361">the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E74" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E78" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="322" END="361">the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="74-139" ARGNUM="1">
+      <extent>
+        <charseq START="322" END="361">the Hezbollah in Syrian-occupied
+Lebanon</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="78-146" ARGNUM="2">
+      <extent>
+        <charseq START="339" END="361">Syrian-occupied
+Lebanon</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R3" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E78" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E79" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="339" END="361">Syrian-occupied
+Lebanon</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="78-146" ARGNUM="1">
+      <extent>
+        <charseq START="339" END="361">Syrian-occupied
+Lebanon</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="79-147" ARGNUM="2">
+      <extent>
+        <charseq START="339" END="344">Syrian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E80" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="393" END="414">three Israeli soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="80-148" ARGNUM="1">
+      <extent>
+        <charseq START="393" END="414">three Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-149" ARGNUM="2">
+      <extent>
+        <charseq START="399" END="405">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R5" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E67" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E82" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="431" END="450">his Iranian sponsors</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="67-152" ARGNUM="1">
+      <extent>
+        <charseq START="431" END="433">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="82-150" ARGNUM="2">
+      <extent>
+        <charseq START="431" END="450">his Iranian sponsors</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R6" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E82" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E83" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="431" END="450">his Iranian sponsors</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="82-150" ARGNUM="1">
+      <extent>
+        <charseq START="431" END="450">his Iranian sponsors</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="83-151" ARGNUM="2">
+      <extent>
+        <charseq START="435" END="441">Iranian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E84" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E79" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="509" END="534">the new president of Syria</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="84-156" ARGNUM="1">
+      <extent>
+        <charseq START="509" END="534">the new president of Syria</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="79-157" ARGNUM="2">
+      <extent>
+        <charseq START="530" END="534">Syria</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="7-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3525" END="3541">Syria's
+strongman</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="84-104" ARGNUM="1">
+      <extent>
+        <charseq START="3525" END="3541">Syria's
+strongman</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="79-103" ARGNUM="2">
+      <extent>
+        <charseq START="3525" END="3529">Syria</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R8" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E2" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="595" END="647">Hezbollah
+forces in areas controlled by Syrian troops</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-159" ARGNUM="1">
+      <extent>
+        <charseq START="595" END="647">Hezbollah
+forces in areas controlled by Syrian troops</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="615" END="647">areas controlled by Syrian troops</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E2" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="615" END="647">areas controlled by Syrian troops</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="635" END="647">Syrian troops</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="615" END="647">areas controlled by Syrian troops</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E79" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="635" END="647">Syrian troops</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="635" END="647">Syrian troops</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="79-6" ARGNUM="2">
+      <extent>
+        <charseq START="635" END="640">Syrian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R11" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="661" END="675">Israel's
+troops</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="661" END="675">Israel's
+troops</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-8" ARGNUM="2">
+      <extent>
+        <charseq START="661" END="666">Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E7" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="661" END="714">Israel's
+troops pulled out of its Lebanese buffer zone</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-7" ARGNUM="1">
+      <extent>
+        <charseq START="661" END="675">Israel's
+troops</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="2">
+      <extent>
+        <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R13" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="1">
+      <extent>
+        <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-153" ARGNUM="2">
+      <extent>
+        <charseq START="691" END="693">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R14" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E8" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="1">
+      <extent>
+        <charseq START="691" END="714">its Lebanese buffer zone</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-12" ARGNUM="2">
+      <extent>
+        <charseq START="695" END="702">Lebanese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R15" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E84" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E9" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="773" END="790">Bashar in Damascus</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="84-10" ARGNUM="1">
+      <extent>
+        <charseq START="773" END="778">Bashar</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="783" END="790">Damascus</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R16" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E12" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="903" END="916">the Arab world</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-18" ARGNUM="1">
+      <extent>
+        <charseq START="903" END="916">the Arab world</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-20" ARGNUM="2">
+      <extent>
+        <charseq START="907" END="910">Arab</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R17" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1043" END="1058">Israeli soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-25" ARGNUM="1">
+      <extent>
+        <charseq START="1043" END="1058">Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-26" ARGNUM="2">
+      <extent>
+        <charseq START="1043" END="1049">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R18" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E79" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1113" END="1137">Syrian and
+Israeli forces</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-28" ARGNUM="1">
+      <extent>
+        <charseq START="1113" END="1137">Syrian and
+Israeli forces</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="79-29" ARGNUM="2">
+      <extent>
+        <charseq START="1113" END="1118">Syrian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R19" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1113" END="1137">Syrian and
+Israeli forces</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-28" ARGNUM="1">
+      <extent>
+        <charseq START="1113" END="1137">Syrian and
+Israeli forces</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-30" ARGNUM="2">
+      <extent>
+        <charseq START="1124" END="1130">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R20" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E74" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1180" END="1209">secretary general of
+Hezbollah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-32" ARGNUM="1">
+      <extent>
+        <charseq START="1180" END="1209">secretary general of
+Hezbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="74-9" ARGNUM="2">
+      <extent>
+        <charseq START="1201" END="1209">Hezbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R21" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E12" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1546" END="1569">Arab and Persian leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-39" ARGNUM="1">
+      <extent>
+        <charseq START="1546" END="1569">Arab and Persian leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-40" ARGNUM="2">
+      <extent>
+        <charseq START="1546" END="1549">Arab</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R22" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E20" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1546" END="1569">Arab and Persian leaders</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-39" ARGNUM="1">
+      <extent>
+        <charseq START="1546" END="1569">Arab and Persian leaders</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-41" ARGNUM="2">
+      <extent>
+        <charseq START="1555" END="1561">Persian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R23" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E27" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1869" END="1885">his gunmen-police</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-52" ARGNUM="1">
+      <extent>
+        <charseq START="1869" END="1871">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-4" ARGNUM="2">
+      <extent>
+        <charseq START="1869" END="1885">his gunmen-police</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R24" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E26" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2015" END="2039">a small Palestinian state</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-53" ARGNUM="1">
+      <extent>
+        <charseq START="2015" END="2039">a small Palestinian state</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-56" ARGNUM="2">
+      <extent>
+        <charseq START="2023" END="2033">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R25" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E31" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2104" END="2142">a state
+incorporating Jordan and Israel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-57" ARGNUM="1">
+      <extent>
+        <charseq START="2126" END="2131">Jordan</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-55" ARGNUM="2">
+      <extent>
+        <charseq START="2104" END="2142">a state
+incorporating Jordan and Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R26" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E31" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2104" END="2142">a state
+incorporating Jordan and Israel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-58" ARGNUM="1">
+      <extent>
+        <charseq START="2137" END="2142">Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-55" ARGNUM="2">
+      <extent>
+        <charseq START="2104" END="2142">a state
+incorporating Jordan and Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R27" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E36" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2241" END="2262">his
+militant followers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-144" ARGNUM="1">
+      <extent>
+        <charseq START="2241" END="2243">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="36-61" ARGNUM="2">
+      <extent>
+        <charseq START="2241" END="2262">his
+militant followers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R28" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E41" ARGNUM="2" />
+  <relation_mention ID="28-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2400" END="2411">Israeli guns</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-68" ARGNUM="1">
+      <extent>
+        <charseq START="2400" END="2406">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-67" ARGNUM="2">
+      <extent>
+        <charseq START="2400" END="2411">Israeli guns</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R29" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E42" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E26" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2414" END="2432">Palestinian snipers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="42-70" ARGNUM="1">
+      <extent>
+        <charseq START="2414" END="2432">Palestinian snipers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-69" ARGNUM="2">
+      <extent>
+        <charseq START="2414" END="2424">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R30" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E46" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E47" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2624" END="2663">a boy with a
+slingshot rather than a gun</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="46-74" ARGNUM="1">
+      <extent>
+        <charseq START="2624" END="2663">a boy with a
+slingshot rather than a gun</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="47-75" ARGNUM="2">
+      <extent>
+        <charseq START="2635" END="2645">a
+slingshot</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R31" TYPE="OTHER-AFF" SUBTYPE="Ethnic">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E52" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E12" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3034" END="3070">Arab
+armies far stronger than his own</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="52-83" ARGNUM="1">
+      <extent>
+        <charseq START="3034" END="3070">Arab
+armies far stronger than his own</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-82" ARGNUM="2">
+      <extent>
+        <charseq START="3034" END="3037">Arab</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R32" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E53" ARGNUM="2" />
+  <relation_mention ID="32-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3064" END="3070">his own</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-85" ARGNUM="1">
+      <extent>
+        <charseq START="3064" END="3066">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="53-84" ARGNUM="2">
+      <extent>
+        <charseq START="3064" END="3070">his own</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R33" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E55" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E26" ARGNUM="2" />
+  <relation_mention ID="33-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3248" END="3277">Palestinian women and
+children</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="55-94" ARGNUM="1">
+      <extent>
+        <charseq START="3248" END="3277">Palestinian women and
+children</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-93" ARGNUM="2">
+      <extent>
+        <charseq START="3248" END="3258">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R34" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E56" ARGNUM="2" />
+  <relation_mention ID="34-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3308" END="3328">a stray Israeli shell</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-95" ARGNUM="1">
+      <extent>
+        <charseq START="3316" END="3322">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="56-96" ARGNUM="2">
+      <extent>
+        <charseq START="3308" END="3328">a stray Israeli shell</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R35" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E58" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E38" ARGNUM="2" />
+  <relation_mention ID="35-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3359" END="3398">Infuriated Muslims throughout the region</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="58-98" ARGNUM="1">
+      <extent>
+        <charseq START="3359" END="3398">Infuriated Muslims throughout the region</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-99" ARGNUM="2">
+      <extent>
+        <charseq START="3389" END="3398">the region</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R36" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E60" ARGNUM="2" />
+  <relation_mention ID="36-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3483" END="3514">Arafat's allies in the Hezbollah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-88" ARGNUM="1">
+      <extent>
+        <charseq START="3483" END="3488">Arafat</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="60-101" ARGNUM="2">
+      <extent>
+        <charseq START="3483" END="3514">Arafat's allies in the Hezbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R37" TYPE="EMP-ORG" SUBTYPE="Partner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E60" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E3" ARGNUM="2" />
+  <relation_mention ID="37-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3483" END="3514">Arafat's allies in the Hezbollah</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="60-101" ARGNUM="1">
+      <extent>
+        <charseq START="3483" END="3514">Arafat's allies in the Hezbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-102" ARGNUM="2">
+      <extent>
+        <charseq START="3502" END="3514">the Hezbollah</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R39" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E84" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E61" ARGNUM="2" />
+  <relation_mention ID="39-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3561" END="3579">his dictator-father</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="84-105" ARGNUM="1">
+      <extent>
+        <charseq START="3561" END="3563">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="61-107" ARGNUM="2">
+      <extent>
+        <charseq START="3561" END="3579">his dictator-father</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R40" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E63" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E64" ARGNUM="2" />
+  <relation_mention ID="40-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3689" END="3768">Iraq's Saddam Hussein, developing
+weaponry to counter Israel's nuclear deterrent</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="63-142" ARGNUM="1">
+      <extent>
+        <charseq START="3689" END="3709">Iraq's Saddam Hussein</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="64-110" ARGNUM="2">
+      <extent>
+        <charseq START="3689" END="3692">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R41" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E63" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E65" ARGNUM="2" />
+  <relation_mention ID="41-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3791" END="3809">his tanks and Scuds</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="63-111" ARGNUM="1">
+      <extent>
+        <charseq START="3791" END="3793">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="65-112" ARGNUM="2">
+      <extent>
+        <charseq START="3791" END="3809">his tanks and Scuds</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R42" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E68" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E77" ARGNUM="2" />
+  <relation_mention ID="42-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4319" END="4347">the Israeli opposition leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="68-130" ARGNUM="1">
+      <extent>
+        <charseq START="4319" END="4347">the Israeli opposition leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="77-145" ARGNUM="2">
+      <extent>
+        <charseq START="4323" END="4340">Israeli opposition</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="42-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4411" END="4426">the Likud
+leader</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="68-132" ARGNUM="1">
+      <extent>
+        <charseq START="4411" END="4426">the Likud
+leader</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="77-133" ARGNUM="2">
+      <extent>
+        <charseq START="4415" END="4419">Likud</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R44" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E71" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E72" ARGNUM="2" />
+  <relation_mention ID="44-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="4574" END="4601">whoever wins the White House</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="71-137" ARGNUM="1">
+      <extent>
+        <charseq START="4574" END="4601">whoever wins the White House</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="72-138" ARGNUM="2">
+      <extent>
+        <charseq START="4587" END="4601">the White House</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R45" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E66" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E75" ARGNUM="2" />
+  <relation_mention ID="45-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="3723" END="3768">weaponry to counter Israel's nuclear deterrent</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="66-113" ARGNUM="1">
+      <extent>
+        <charseq START="3723" END="3768">weaponry to counter Israel's nuclear deterrent</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="75-143" ARGNUM="2">
+      <extent>
+        <charseq START="3743" END="3768">Israel's nuclear deterrent</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R46" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E75" ARGNUM="2" />
+  <relation_mention ID="46-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3723" END="3768">weaponry to counter Israel's nuclear deterrent</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-114" ARGNUM="1">
+      <extent>
+        <charseq START="3743" END="3748">Israel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="75-143" ARGNUM="2">
+      <extent>
+        <charseq START="3743" END="3768">Israel's nuclear deterrent</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R47" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E63" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E76" ARGNUM="2" />
+  <relation_mention ID="47-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3831" END="3839">his enemy</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="63-90" ARGNUM="1">
+      <extent>
+        <charseq START="3831" END="3833">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="76-115" ARGNUM="2">
+      <extent>
+        <charseq START="3831" END="3839">his enemy</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R48" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E76" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="48-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3831" END="3850">his enemy's homeland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="76-115" ARGNUM="1">
+      <extent>
+        <charseq START="3831" END="3839">his enemy</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-116" ARGNUM="2">
+      <extent>
+        <charseq START="3831" END="3850">his enemy's homeland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001119.2132.0191-R49" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E77" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001119.2132.0191-E6" ARGNUM="2" />
+  <relation_mention ID="49-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4323" END="4340">Israeli opposition</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="77-145" ARGNUM="1">
+      <extent>
+        <charseq START="4323" END="4340">Israeli opposition</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-128" ARGNUM="2">
+      <extent>
+        <charseq START="4323" END="4329">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000915_AFP_ARB.0006.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000915_AFP_ARB.0006.eng">
+<entity ID="20000915_AFP_ARB.0006.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="630" END="635">Rijeka</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="635">Rijeka</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="630" END="635">Rijeka</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="500" END="508">Croatians</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="508">Croatians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E3" TYPE="PER" CLASS="USP">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="514" END="518">Serbs</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="518">Serbs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="661" END="686">around 100 former fighters</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="686">fighters</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="739" END="742">they</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="742">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="733" END="777">those they regard as equivalent to war
+heroes</charseq>
+    </extent>
+    <head>
+      <charseq START="733" END="737">those</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-13" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="768" END="777">war
+heroes</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="777">heroes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="183" END="196">five Croatians</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="196">Croatians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="140" END="156">A judicial source</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="156">source</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="7-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="119" END="124">Zagreb</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="124">Zagreb</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="466" END="471">Zagreb</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="471">Zagreb</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="466" END="471">Zagreb</charseq>
+    </name>
+    <name>
+      <charseq START="119" END="124">Zagreb</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="134">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="134">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="132" END="134">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="255" END="358">a number of war
+criminals suspected of involvement in the killing of around 50
+Serbian civilians in 1991</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="279">criminals</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="324" END="350">around 50
+Serbian civilians</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="350">civilians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="334" END="340">Serbian</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="340">Serbian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="640" END="648">The radio</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="648">radio</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-21" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="363" END="376">Croatian radio</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="376">radio</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="363" END="370">Croatian</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="370">Croatian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="388" END="528">Tihomir Ursiovich, in charge of defending
+the town of Gospic (150 km south of Zagreb) when the fighting between
+Croatians and Serbs broke out</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="404">Tihomir Ursiovich</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="388" END="404">Tihomir Ursiovich</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="531" END="544">Eveka Rosiatch</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="544">Eveka Rosiatch</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="531" END="544">Eveka Rosiatch</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="547" END="559">Yusu Miliatch</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="559">Yusu Miliatch</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="547" END="559">Yusu Miliatch</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="562" END="577">Martan
+Markovich</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="577">Martan
+Markovich</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="562" END="577">Martan
+Markovich</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="583" END="596">Ivan Yovanovic</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="596">Ivan Yovanovic</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="583" END="596">Ivan Yovanovic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000915_AFP_ARB.0006.eng-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="20-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="442" END="447">Gospic</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="447">Gospic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="620" END="625">Gospic</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="625">Gospic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="704" END="709">Gospic</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="709">Gospic</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="430" END="472">the town of Gospic (150 km south of Zagreb)</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="437">town</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="620" END="625">Gospic</charseq>
+    </name>
+    <name>
+      <charseq START="704" END="709">Gospic</charseq>
+    </name>
+    <name>
+      <charseq START="442" END="447">Gospic</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000915_AFP_ARB.0006.eng-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E12" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="324" END="350">around 50
+Serbian civilians</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-19" ARGNUM="1">
+      <extent>
+        <charseq START="324" END="350">around 50
+Serbian civilians</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-20" ARGNUM="2">
+      <extent>
+        <charseq START="334" END="340">Serbian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R2" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E14" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="363" END="376">Croatian radio</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-21" ARGNUM="1">
+      <extent>
+        <charseq START="363" END="376">Croatian radio</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-22" ARGNUM="2">
+      <extent>
+        <charseq START="363" END="370">Croatian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="388" END="635">Tihomir Ursiovich, in charge of defending
+the town of Gospic (150 km south of Zagreb) when the fighting between
+Croatians and Serbs broke out, Eveka Rosiatch, Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="388" END="528">Tihomir Ursiovich, in charge of defending
+the town of Gospic (150 km south of Zagreb) when the fighting between
+Croatians and Serbs broke out</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="625">Gospic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="388" END="635">Tihomir Ursiovich, in charge of defending
+the town of Gospic (150 km south of Zagreb) when the fighting between
+Croatians and Serbs broke out, Eveka Rosiatch, Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-23" ARGNUM="1">
+      <extent>
+        <charseq START="388" END="528">Tihomir Ursiovich, in charge of defending
+the town of Gospic (150 km south of Zagreb) when the fighting between
+Croatians and Serbs broke out</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="635">Rijeka</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R5" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E7" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="430" END="472">the town of Gospic (150 km south of Zagreb)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-15" ARGNUM="1">
+      <extent>
+        <charseq START="430" END="472">the town of Gospic (150 km south of Zagreb)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-3" ARGNUM="2">
+      <extent>
+        <charseq START="466" END="471">Zagreb</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="531" END="625">Eveka Rosiatch, Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-24" ARGNUM="1">
+      <extent>
+        <charseq START="531" END="544">Eveka Rosiatch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="625">Gospic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E1" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="531" END="635">Eveka Rosiatch, Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-24" ARGNUM="1">
+      <extent>
+        <charseq START="531" END="544">Eveka Rosiatch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="635">Rijeka</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="547" END="625">Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="1">
+      <extent>
+        <charseq START="547" END="559">Yusu Miliatch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="625">Gospic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E1" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="547" END="635">Yusu Miliatch, Martan
+Markovich and Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="1">
+      <extent>
+        <charseq START="547" END="559">Yusu Miliatch</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="635">Rijeka</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R10" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="562" END="625">Martan
+Markovich and Ivan Yovanovic were transferred from Gospic</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="1">
+      <extent>
+        <charseq START="562" END="577">Martan
+Markovich</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="625">Gospic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R11" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E1" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="562" END="635">Martan
+Markovich and Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-26" ARGNUM="1">
+      <extent>
+        <charseq START="562" END="577">Martan
+Markovich</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="635">Rijeka</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R12" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E20" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="583" END="635">Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-27" ARGNUM="1">
+      <extent>
+        <charseq START="583" END="596">Ivan Yovanovic</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-6" ARGNUM="2">
+      <extent>
+        <charseq START="620" END="625">Gospic</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000915_AFP_ARB.0006.eng-R13" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000915_AFP_ARB.0006.eng-E1" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="583" END="635">Ivan Yovanovic were transferred from Gospic to Rijeka</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-27" ARGNUM="1">
+      <extent>
+        <charseq START="583" END="596">Ivan Yovanovic</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-7" ARGNUM="2">
+      <extent>
+        <charseq START="630" END="635">Rijeka</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

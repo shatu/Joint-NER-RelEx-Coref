@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VAR20001219.1100.0702.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001219.1100.0702">
+<entity ID="VAR20001219.1100.0702-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="109" END="124">للولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="124">للولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="252" END="267">للولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="267">للولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="479" END="486">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="486">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="109" END="124">للولايات المتحدة</charseq>
+    </name>
+    <name>
+      <charseq START="252" END="267">للولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0702-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="511">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0702-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="516" END="519">كندا</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="519">كندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="516" END="519">كندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0702-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="522" END="526">الصين</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="526">الصين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="522" END="526">الصين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0702-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="529" END="535">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="535">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="529" END="535">اليابان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0702-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="547" END="557">منظمات أوبك</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="557">أوبك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="554" END="557">أوبك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="VAR20001219.1100.0702-R1" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E5" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="516" END="519">كندا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0702-R2" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="2">
+      <extent>
+        <charseq START="522" END="526">الصين</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0702-R3" TYPE="DISC">
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VAR20001219.1100.0702-E7" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="529" END="535">اليابان</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-4" ARGNUM="1">
+      <extent>
+        <charseq START="510" END="535">كل من
+كندا والصين واليابان</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

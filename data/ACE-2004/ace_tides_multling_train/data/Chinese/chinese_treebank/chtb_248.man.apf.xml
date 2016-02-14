@@ -1,0 +1,995 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_248.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_248.man">
+<entity ID="chtb_248.man-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="268" END="270">拉那烈</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="270">拉那烈</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="252" END="258">奉辛比克党主席</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="258">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="260" END="267">王国政府第一首相</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="267">首相</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="160" END="166">诺罗敦・拉那烈</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="166">诺罗敦・拉那烈</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="159">第一首相</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="159">首相</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="268" END="270">拉那烈</charseq>
+    </name>
+    <name>
+      <charseq START="160" END="166">诺罗敦・拉那烈</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="173">洪森</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="173">洪森</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="168" END="171">第二首相</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="171">首相</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="277" END="278">洪森</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="278">洪森</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="272" END="276">第
+二首相</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="276">首相</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="277" END="278">洪森</charseq>
+    </name>
+    <name>
+      <charseq START="172" END="173">洪森</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E4" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="176" END="178">首相府</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="178">首相府</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="201" END="208">本尼・威
+迪奥诺</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="208">本尼・威
+迪奥诺</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="182" END="200">刚刚到任的联合国秘书长派驻柬埔寨的代表</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="200">代表</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="216" END="219">威迪奥诺</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="219">威迪奥诺</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="395" END="403">其派驻柬埔寨的代表</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="403">代表</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="424" END="427">威迪奥诺</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="427">威迪奥诺</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="201" END="208">本尼・威
+迪奥诺</charseq>
+    </name>
+    <name>
+      <charseq START="216" END="219">威迪奥诺</charseq>
+    </name>
+    <name>
+      <charseq START="424" END="427">威迪奥诺</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="187" END="192">联合国秘书长</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="192">秘书长</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="388" END="393">联合国秘书长</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="393">秘书长</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="395" END="395">其</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="395">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="438" END="443">联合国秘书长</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="443">秘书长</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E8" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="187" END="189">联合国</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="189">联合国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="388" END="390">联合国</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="390">联合国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="438" END="440">联合国</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="440">联合国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="187" END="189">联合国</charseq>
+    </name>
+    <name>
+      <charseq START="388" END="390">联合国</charseq>
+    </name>
+    <name>
+      <charseq START="438" END="440">联合国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="221" END="226">总理府发言人</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="226">发言人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="233" END="240">柬埔寨人民党主席</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="240">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="243" END="248">国民议会议长</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="248">议长</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="249" END="250">谢辛</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="250">谢辛</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="249" END="250">谢辛</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E13" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="13-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="233" END="238">柬埔寨人民党</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="238">人民党</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="236" END="238">人民党</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="243" END="246">国民议会</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="246">国民议会</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="243" END="246">国民议会</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="18-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="149" END="155">柬埔寨王国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="155">政府</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="263">王国政府</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="263">政府</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E22" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="22-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="252" END="256">奉辛比克党</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="256">奉辛比克党</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="252" END="256">奉辛比克党</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="289" END="291">乔森潘</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="291">乔森潘</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="280" END="288">民主柬埔寨方面主席</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="288">主席</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="289" END="291">乔森潘</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="24-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="67" END="69">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="67" END="69">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="67" END="69">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="280" END="286">民主柬埔寨方面</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="286">方面</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="357" END="358">双方</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="358">双方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="379" END="385">柬埔寨两位首相</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="385">首相</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E29" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="29-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="221" END="223">总理府</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="223">总理府</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E30" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="30-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="280" END="284">民主柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="284">民主柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="280" END="284">民主柬埔寨</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="31-41" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="313" END="314">金边</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="314">金边</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-56" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="70" END="71">金边</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="71">金边</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-65" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="89" END="90">此间</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="90">此间</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="313" END="314">金边</charseq>
+    </name>
+    <name>
+      <charseq START="70" END="71">金边</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E32" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="32-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="229" END="230">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="230">记者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="79" END="80">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="80">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="81" END="83">邢和平</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="83">邢和平</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="81" END="83">邢和平</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E35" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="35-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="84" END="86">蔡锡梅</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="86">蔡锡梅</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="84" END="86">蔡锡梅</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E36" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="36-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="89" END="92">此间人士</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="92">人士</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E37" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="37-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="98" END="104">柬埔寨有关各方</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="104">各方</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_248.man-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="38-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="195" END="197">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="197">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="233" END="235">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="235">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-32" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="260" END="261">王国</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="261">王国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="149" END="153">柬埔寨王国</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="153">柬埔寨王国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-44" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="362" END="364">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="364">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-46" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="379" END="381">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="381">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="398" END="400">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="400">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="98" END="100">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="98" END="100">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-70" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="125" END="127">柬埔寨</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="127">柬埔寨</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="195" END="197">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="233" END="235">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="149" END="153">柬埔寨王国</charseq>
+    </name>
+    <name>
+      <charseq START="362" END="364">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="379" END="381">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="398" END="400">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="98" END="100">柬埔寨</charseq>
+    </name>
+    <name>
+      <charseq START="125" END="127">柬埔寨</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_248.man-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="325" END="328">西哈努克</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="328">西哈努克</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="111" END="116">西哈努克国王</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="116">国王</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="111" END="114">西哈努克</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="114">西哈努克</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="325" END="328">西哈努克</charseq>
+    </name>
+    <name>
+      <charseq START="111" END="114">西哈努克</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_248.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_248.man-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E31" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="67" END="71">新华社金边</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-1" ARGNUM="1">
+      <extent>
+        <charseq START="67" END="69">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-56" ARGNUM="2">
+      <extent>
+        <charseq START="70" END="71">金边</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R2" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="chtb_248.man-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E31" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="89" END="92">此间人士</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-64" ARGNUM="1">
+      <extent>
+        <charseq START="89" END="92">此间人士</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-65" ARGNUM="2">
+      <extent>
+        <charseq START="89" END="90">此间</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_248.man-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E38" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="98" END="104">柬埔寨有关各方</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-66" ARGNUM="1">
+      <extent>
+        <charseq START="98" END="104">柬埔寨有关各方</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-67" ARGNUM="2">
+      <extent>
+        <charseq START="98" END="100">柬埔寨</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E18" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="149" END="159">柬埔寨王国政府第一首相</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-75" ARGNUM="1">
+      <extent>
+        <charseq START="156" END="159">第一首相</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-5" ARGNUM="2">
+      <extent>
+        <charseq START="149" END="155">柬埔寨王国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="260" END="267">王国政府第一首相</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-30" ARGNUM="1">
+      <extent>
+        <charseq START="260" END="267">王国政府第一首相</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-57" ARGNUM="2">
+      <extent>
+        <charseq START="260" END="263">王国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="chtb_248.man-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E29" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="221" END="226">总理府发言人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-15" ARGNUM="1">
+      <extent>
+        <charseq START="221" END="226">总理府发言人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-55" ARGNUM="2">
+      <extent>
+        <charseq START="221" END="223">总理府</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E13" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="233" END="240">柬埔寨人民党主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="1">
+      <extent>
+        <charseq START="233" END="240">柬埔寨人民党主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-19" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="238">柬埔寨人民党</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E17" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="243" END="248">国民议会议长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-21" ARGNUM="1">
+      <extent>
+        <charseq START="243" END="248">国民议会议长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-25" ARGNUM="2">
+      <extent>
+        <charseq START="243" END="246">国民议会</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E22" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="252" END="258">奉辛比克党主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-29" ARGNUM="1">
+      <extent>
+        <charseq START="252" END="258">奉辛比克党主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-31" ARGNUM="2">
+      <extent>
+        <charseq START="252" END="256">奉辛比克党</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E26" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="280" END="288">民主柬埔寨方面主席</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-39" ARGNUM="1">
+      <extent>
+        <charseq START="280" END="288">民主柬埔寨方面主席</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-40" ARGNUM="2">
+      <extent>
+        <charseq START="280" END="286">民主柬埔寨方面</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E38" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="379" END="385">柬埔寨两位首相</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-45" ARGNUM="1">
+      <extent>
+        <charseq START="379" END="385">柬埔寨两位首相</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-46" ARGNUM="2">
+      <extent>
+        <charseq START="379" END="381">柬埔寨</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_248.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E8" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="388" END="393">联合国秘书长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-47" ARGNUM="1">
+      <extent>
+        <charseq START="388" END="393">联合国秘书长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-48" ARGNUM="2">
+      <extent>
+        <charseq START="388" END="390">联合国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="12-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="438" END="443">联合国秘书长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-53" ARGNUM="1">
+      <extent>
+        <charseq START="438" END="443">联合国秘书长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-54" ARGNUM="2">
+      <extent>
+        <charseq START="438" END="440">联合国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="12-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="187" END="192">联合国秘书长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="187" END="192">联合国秘书长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="187" END="189">联合国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R14" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_248.man-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E38" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="149" END="155">柬埔寨王国政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-5" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="155">柬埔寨王国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-33" ARGNUM="2">
+      <extent>
+        <charseq START="149" END="153">柬埔寨王国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="14-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="260" END="263">王国政府</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-57" ARGNUM="1">
+      <extent>
+        <charseq START="260" END="263">王国政府</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-32" ARGNUM="2">
+      <extent>
+        <charseq START="260" END="261">王国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R16" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_248.man-E13" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E38" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="233" END="238">柬埔寨人民党</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="13-19" ARGNUM="1">
+      <extent>
+        <charseq START="233" END="238">柬埔寨人民党</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="38-20" ARGNUM="2">
+      <extent>
+        <charseq START="233" END="235">柬埔寨</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_248.man-R18" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_248.man-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_248.man-E30" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="280" END="286">民主柬埔寨方面</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-40" ARGNUM="1">
+      <extent>
+        <charseq START="280" END="286">民主柬埔寨方面</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-58" ARGNUM="2">
+      <extent>
+        <charseq START="280" END="284">民主柬埔寨</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

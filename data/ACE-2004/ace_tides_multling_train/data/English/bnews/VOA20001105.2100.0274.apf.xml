@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="VOA20001105.2100.0274.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VOA20001105.2100.0274">
+<entity ID="VOA20001105.2100.0274-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="65" END="83">Brazilian officials</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="83">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-3" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="65" END="73">Brazilian</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="73">Brazilian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-9" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="211" END="215">state</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="215">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E3" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="89" END="101">an oil tanker</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="101">tanker</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="207" END="241">The state-owned Petro Basque tanker</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="241">tanker</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E4" TYPE="FAC" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="120" END="142">a pier in a
+resort area</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="125">pier</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="247" END="317">the concrete pier in
+San Sebastian, a popular resort south of Sao Paulo</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="263">pier</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E5" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="5-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="130" END="142">a
+resort area</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="142">area</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="196" END="204">the
+ocean</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="204">ocean</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E7" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="7-2" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="475" END="486">Petro Basque</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="486">Petro Basque</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="223" END="234">Petro Basque</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="234">Petro Basque</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="268" END="280">San Sebastian</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="280">San Sebastian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="283" END="317">a popular resort south of Sao Paulo</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="298">resort</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="268" END="280">San Sebastian</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001105.2100.0274-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="10-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="309" END="317">Sao Paulo</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="317">Sao Paulo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="309" END="317">Sao Paulo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VOA20001105.2100.0274-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="320" END="326">Workers</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="326">Workers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="381" END="391">authorities</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="391">authorities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VOA20001105.2100.0274-E13" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="13-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="426" END="438">local beaches</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="438">beaches</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="VOA20001105.2100.0274-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="65" END="83">Brazilian officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="83">Brazilian officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-3" ARGNUM="2">
+      <extent>
+        <charseq START="65" END="73">Brazilian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001105.2100.0274-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E5" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="120" END="142">a pier in a
+resort area</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="120" END="142">a pier in a
+resort area</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-6" ARGNUM="2">
+      <extent>
+        <charseq START="130" END="142">a
+resort area</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001105.2100.0274-R3" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E3" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E2" ARGNUM="1" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="207" END="241">The state-owned Petro Basque tanker</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-8" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="241">The state-owned Petro Basque tanker</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-9" ARGNUM="1">
+      <extent>
+        <charseq START="211" END="215">state</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001105.2100.0274-R4" TYPE="ART" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E3" ARGNUM="2" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E7" ARGNUM="1" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="207" END="241">The state-owned Petro Basque tanker</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-8" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="241">The state-owned Petro Basque tanker</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="223" END="234">Petro Basque</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001105.2100.0274-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="247" END="317">the concrete pier in
+San Sebastian, a popular resort south of Sao Paulo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-11" ARGNUM="1">
+      <extent>
+        <charseq START="247" END="317">the concrete pier in
+San Sebastian, a popular resort south of Sao Paulo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="2">
+      <extent>
+        <charseq START="268" END="280">San Sebastian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="VOA20001105.2100.0274-R6" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="VOA20001105.2100.0274-E10" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="283" END="317">a popular resort south of Sao Paulo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-14" ARGNUM="1">
+      <extent>
+        <charseq START="283" END="317">a popular resort south of Sao Paulo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-15" ARGNUM="2">
+      <extent>
+        <charseq START="309" END="317">Sao Paulo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001002.1754.0290.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001002.1754.0290">
+<entity ID="NYT20001002.1754.0290-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1556" END="1592">the Dauphin Island Sea Lab in
+Alabama</charseq>
+    </extent>
+    <head>
+      <charseq START="1560" END="1581">Dauphin Island Sea Lab</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1560" END="1581">Dauphin Island Sea Lab</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1586" END="1592">Alabama</charseq>
+    </extent>
+    <head>
+      <charseq START="1586" END="1592">Alabama</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-41" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="4073" END="4079">Alabama</charseq>
+    </extent>
+    <head>
+      <charseq START="4073" END="4079">Alabama</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4073" END="4079">Alabama</charseq>
+    </name>
+    <name>
+      <charseq START="1586" END="1592">Alabama</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1773" END="1782">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="1773" END="1782">Australian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2201" END="2210">Australian</charseq>
+    </extent>
+    <head>
+      <charseq START="2201" END="2210">Australian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E4" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1904" END="1914">the Pacific</charseq>
+    </extent>
+    <head>
+      <charseq START="1908" END="1914">Pacific</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1908" END="1914">Pacific</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E5" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1989" END="2001">the Caribbean</charseq>
+    </extent>
+    <head>
+      <charseq START="1993" END="2001">Caribbean</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1993" END="2001">Caribbean</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="GEN">
+  <entity_mention ID="6-10" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2041" END="2045">ocean</charseq>
+    </extent>
+    <head>
+      <charseq START="2041" END="2045">ocean</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E7" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2095" END="2192">the passes between
+the barrier islands that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+    </extent>
+    <head>
+      <charseq START="2099" END="2104">passes</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2777" END="2803">the jellyfish-choked passes</charseq>
+    </extent>
+    <head>
+      <charseq START="2798" END="2803">passes</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E8" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2114" END="2192">the barrier islands that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+    </extent>
+    <head>
+      <charseq START="2126" END="2132">islands</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-13" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2134" END="2137">that</charseq>
+    </extent>
+    <head>
+      <charseq START="2134" END="2137">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2682" END="2700">the barrier islands</charseq>
+    </extent>
+    <head>
+      <charseq START="2694" END="2700">islands</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E9" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="9-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2148" END="2168">the Mississippi Sound</charseq>
+    </extent>
+    <head>
+      <charseq START="2152" END="2168">Mississippi Sound</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2152" END="2168">Mississippi Sound</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E10" TYPE="PER" CLASS="USP">
+  <entity_mention ID="10-18" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2264" END="2281">fishery scientists</charseq>
+    </extent>
+    <head>
+      <charseq START="2272" END="2281">scientists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E11" TYPE="ORG" SUBTYPE="Other" CLASS="GEN">
+  <entity_mention ID="11-19" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="2264" END="2270">fishery</charseq>
+    </extent>
+    <head>
+      <charseq START="2264" END="2270">fishery</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E12" TYPE="PER" CLASS="USP">
+  <entity_mention ID="12-20" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2359" END="2368">scientists</charseq>
+    </extent>
+    <head>
+      <charseq START="2359" END="2368">scientists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="13-21" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2578" END="2584">Spanish</charseq>
+    </extent>
+    <head>
+      <charseq START="2578" END="2584">Spanish</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E14" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="14-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2814" END="2868">the estuaries that serve as
+nurseries for the baby fish</charseq>
+    </extent>
+    <head>
+      <charseq START="2818" END="2826">estuaries</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-25" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2828" END="2831">that</charseq>
+    </extent>
+    <head>
+      <charseq START="2828" END="2831">that</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E15" TYPE="PER" CLASS="USP">
+  <entity_mention ID="15-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2990" END="2991">We</charseq>
+    </extent>
+    <head>
+      <charseq START="2990" END="2991">We</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E16" TYPE="PER" CLASS="USP">
+  <entity_mention ID="16-28" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3300" END="3309">scientists</charseq>
+    </extent>
+    <head>
+      <charseq START="3300" END="3309">scientists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3367" END="3369">You</charseq>
+    </extent>
+    <head>
+      <charseq START="3367" END="3369">You</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3444" END="3459">Harriet M. Perry</charseq>
+    </extent>
+    <head>
+      <charseq START="3444" END="3459">Harriet M. Perry</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-31" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="3462" END="3547">director of the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </extent>
+    <head>
+      <charseq START="3462" END="3469">director</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3753" END="3757">Perry</charseq>
+    </extent>
+    <head>
+      <charseq START="3753" END="3757">Perry</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3764" END="3766">she</charseq>
+    </extent>
+    <head>
+      <charseq START="3764" END="3766">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3444" END="3459">Harriet M. Perry</charseq>
+    </name>
+    <name>
+      <charseq START="3753" END="3757">Perry</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E20" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="20-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3474" END="3547">the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </extent>
+    <head>
+      <charseq START="3488" END="3494">section</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="21-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3499" END="3547">the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </extent>
+    <head>
+      <charseq START="3503" END="3532">Gulf Coast Research Laboratory</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3503" END="3532">Gulf Coast Research Laboratory</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="22-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3537" END="3547">Mississippi</charseq>
+    </extent>
+    <head>
+      <charseq START="3537" END="3547">Mississippi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="4082" END="4092">Mississippi</charseq>
+    </extent>
+    <head>
+      <charseq START="4082" END="4092">Mississippi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="3537" END="3547">Mississippi</charseq>
+    </name>
+    <name>
+      <charseq START="4082" END="4092">Mississippi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E23" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="23-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="516" END="533">the
+Gulf of Mexico</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="533">Gulf of Mexico</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1847" END="1854">the Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="1851" END="1854">Gulf</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2175" END="2192">the
+Gulf of Mexico</charseq>
+    </extent>
+    <head>
+      <charseq START="2179" END="2192">Gulf of Mexico</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2250" END="2257">the Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="2254" END="2257">Gulf</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="814" END="821">the Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="818" END="821">Gulf</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="952" END="959">the Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="959">Gulf</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="520" END="533">Gulf of Mexico</charseq>
+    </name>
+    <name>
+      <charseq START="2179" END="2192">Gulf of Mexico</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="24-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="4098" END="4106">Louisiana</charseq>
+    </extent>
+    <head>
+      <charseq START="4098" END="4106">Louisiana</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4098" END="4106">Louisiana</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E25" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="25-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4201" END="4228">Dr. Joanne Lyczkowski-Shultz</charseq>
+    </extent>
+    <head>
+      <charseq START="4205" END="4228">Joanne Lyczkowski-Shultz</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-45" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="4201" END="4203">Dr.</charseq>
+    </extent>
+    <head>
+      <charseq START="4201" END="4203">Dr.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4231" END="4292">a
+larval specialist with the National Marine Fisheries Service</charseq>
+    </extent>
+    <head>
+      <charseq START="4240" END="4249">specialist</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4297" END="4313">Lyczkowski-Shultz</charseq>
+    </extent>
+    <head>
+      <charseq START="4297" END="4313">Lyczkowski-Shultz</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4464" END="4466">she</charseq>
+    </extent>
+    <head>
+      <charseq START="4464" END="4466">she</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4205" END="4228">Joanne Lyczkowski-Shultz</charseq>
+    </name>
+    <name>
+      <charseq START="4297" END="4313">Lyczkowski-Shultz</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E28" TYPE="LOC" SUBTYPE="Water-Body" CLASS="USP">
+  <entity_mention ID="28-51" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="757" END="776">prime spawning areas</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="776">areas</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E29" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="29-53" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="3478" END="3486">fisheries</charseq>
+    </extent>
+    <head>
+      <charseq START="3478" END="3486">fisheries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E30" TYPE="PER" CLASS="USP">
+  <entity_mention ID="30-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="552" END="566">some scientists</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="566">scientists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E31" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="31-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="671" END="687">the northern Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="687">Gulf</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E32" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="32-56" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="630" END="687">commercial and
+recreational fisheries in the northern Gulf</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="666">fisheries</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="33-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4256" END="4292">the National Marine Fisheries Service</charseq>
+    </extent>
+    <head>
+      <charseq START="4260" END="4292">National Marine Fisheries Service</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-58" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="886" END="922">the National Marine Fisheries Service</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="922">National Marine Fisheries Service</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4260" END="4292">National Marine Fisheries Service</charseq>
+    </name>
+    <name>
+      <charseq START="890" END="922">National Marine Fisheries Service</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001002.1754.0290-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-60" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1000" END="1009">Scientists</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1009">Scientists</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E35" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="35-61" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1056" END="1060">human</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1060">human</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E36" TYPE="FAC" SUBTYPE="Other" CLASS="USP">
+  <entity_mention ID="36-52" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1098" END="1172">thousands of oil rigs and
+artificial reefs established to attract game fish</charseq>
+    </extent>
+    <head>
+      <charseq START="1111" END="1139">oil rigs and
+artificial reefs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E37" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="37-62" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1297" END="1300">farm</charseq>
+    </extent>
+    <head>
+      <charseq START="1297" END="1300">farm</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E38" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="38-63" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1395" END="1414">commercial fishermen</charseq>
+    </extent>
+    <head>
+      <charseq START="1406" END="1414">fishermen</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001002.1754.0290-E39" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="39-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1722" END="1723">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1722" END="1723">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2975" END="2980">Graham</charseq>
+    </extent>
+    <head>
+      <charseq START="2975" END="2980">Graham</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3831" END="3836">Graham</charseq>
+    </extent>
+    <head>
+      <charseq START="3831" END="3836">Graham</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3843" END="3844">he</charseq>
+    </extent>
+    <head>
+      <charseq START="3843" END="3844">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3920" END="3921">He</charseq>
+    </extent>
+    <head>
+      <charseq START="3920" END="3921">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-64" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1522" END="1537">Dr. Monty Graham</charseq>
+    </extent>
+    <head>
+      <charseq START="1526" END="1537">Monty Graham</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-65" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1522" END="1524">Dr.</charseq>
+    </extent>
+    <head>
+      <charseq START="1522" END="1524">Dr.</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="39-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1540" END="1592">a researcher at the Dauphin Island Sea Lab in
+Alabama</charseq>
+    </extent>
+    <head>
+      <charseq START="1542" END="1551">researcher</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2975" END="2980">Graham</charseq>
+    </name>
+    <name>
+      <charseq START="3831" END="3836">Graham</charseq>
+    </name>
+    <name>
+      <charseq START="1526" END="1537">Monty Graham</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001002.1754.0290-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E31" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="630" END="687">commercial and
+recreational fisheries in the northern Gulf</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-56" ARGNUM="1">
+      <extent>
+        <charseq START="630" END="687">commercial and
+recreational fisheries in the northern Gulf</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-55" ARGNUM="2">
+      <extent>
+        <charseq START="671" END="687">the northern Gulf</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E39" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E1" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1540" END="1592">a researcher at the Dauphin Island Sea Lab in
+Alabama</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="39-66" ARGNUM="1">
+      <extent>
+        <charseq START="1540" END="1592">a researcher at the Dauphin Island Sea Lab in
+Alabama</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="2">
+      <extent>
+        <charseq START="1556" END="1592">the Dauphin Island Sea Lab in
+Alabama</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E2" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1556" END="1592">the Dauphin Island Sea Lab in
+Alabama</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="1556" END="1592">the Dauphin Island Sea Lab in
+Alabama</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="1586" END="1592">Alabama</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R4" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E8" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2095" END="2192">the passes between
+the barrier islands that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-11" ARGNUM="1">
+      <extent>
+        <charseq START="2095" END="2192">the passes between
+the barrier islands that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-12" ARGNUM="2">
+      <extent>
+        <charseq START="2114" END="2192">the barrier islands that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R5" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E9" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2134" END="2192">that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="2134" END="2137">that</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-14" ARGNUM="2">
+      <extent>
+        <charseq START="2148" END="2168">the Mississippi Sound</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R6" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E23" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="2134" END="2192">that separate the Mississippi Sound from the
+Gulf of Mexico</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-13" ARGNUM="1">
+      <extent>
+        <charseq START="2134" END="2137">that</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-15" ARGNUM="2">
+      <extent>
+        <charseq START="2175" END="2192">the
+Gulf of Mexico</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2264" END="2281">fishery scientists</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="1">
+      <extent>
+        <charseq START="2264" END="2281">fishery scientists</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-19" ARGNUM="2">
+      <extent>
+        <charseq START="2264" END="2270">fishery</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E20" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3462" END="3547">director of the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-31" ARGNUM="1">
+      <extent>
+        <charseq START="3462" END="3547">director of the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-32" ARGNUM="2">
+      <extent>
+        <charseq START="3474" END="3547">the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E21" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3474" END="3547">the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-32" ARGNUM="1">
+      <extent>
+        <charseq START="3474" END="3547">the fisheries section of
+the Gulf Coast Research Laboratory in Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-33" ARGNUM="2">
+      <extent>
+        <charseq START="3499" END="3547">the Gulf Coast Research Laboratory in Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R10" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E22" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="3499" END="3547">the Gulf Coast Research Laboratory in Mississippi</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-33" ARGNUM="1">
+      <extent>
+        <charseq START="3499" END="3547">the Gulf Coast Research Laboratory in Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-34" ARGNUM="2">
+      <extent>
+        <charseq START="3537" END="3547">Mississippi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001002.1754.0290-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001002.1754.0290-E33" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="4231" END="4292">a
+larval specialist with the National Marine Fisheries Service</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-46" ARGNUM="1">
+      <extent>
+        <charseq START="4231" END="4292">a
+larval specialist with the National Marine Fisheries Service</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-48" ARGNUM="2">
+      <extent>
+        <charseq START="4256" END="4292">the National Marine Fisheries Service</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

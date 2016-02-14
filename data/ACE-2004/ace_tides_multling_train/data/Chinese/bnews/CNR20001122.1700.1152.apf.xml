@@ -1,0 +1,815 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNR20001122.1700.1152.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNR20001122.1700.1152">
+<entity ID="CNR20001122.1700.1152-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="400" END="407">国家药监局官
+员</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="407">官
+员</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="410" END="411">你们</charseq>
+    </extent>
+    <head>
+      <charseq START="410" END="411">你们</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="197">国家药品监督管理局的官
+员</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="197">官
+员</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="185" END="193">国家药品监督管理局</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="193">国家药品监督管理局</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="400" END="404">国家药监局</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="404">国家药监局</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="400" END="404">国家药监局</charseq>
+    </name>
+    <name>
+      <charseq START="185" END="193">国家药品监督管理局</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="210" END="211">公安</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="211">公安</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="300" END="303">公安部门</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="303">部门</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="213" END="218">药品监督管理</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="218">药品监督管理</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="225">质量技术监督</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="225">质量技术监督</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E7" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="237" END="243">地下
+造假工厂</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="243">工厂</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="246" END="253">姚老板的制假窝点</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="253">窝点</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="300" END="306">公安部门负责人</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="306">负责人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="9-18" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="309" END="309">村</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="309">村</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="330" END="348">无锡市质量技术监督局、医药管理局等部门</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="348">部门</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="12-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="333" END="339">质量技术监督局</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="339">质量技术监督局</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="364" END="372">当地质量技术监督局</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="372">质量技术监督局</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="333" END="339">质量技术监督局</charseq>
+    </name>
+    <name>
+      <charseq START="366" END="372">质量技术监督局</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="13-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="341" END="345">医药管理局</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="345">医药管理局</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="341" END="345">医药管理局</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="14-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="330" END="332">无锡市</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="332">无锡市</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-48" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="364" END="365">当地</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="365">当地</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="330" END="332">无锡市</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="15-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="330" END="357">无锡市质量技术监督局、医药管理局等部门组成的联合执法小组</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="357">小组</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="364" END="378">当地质量技术监督局的一位负责人</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="378">负责人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="420" END="423">执法人员</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="423">人员</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="442" END="445">执法人员</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="445">人员</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="433" END="440">造假的姚氏三兄弟</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="440">兄弟</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="436" END="436">姚</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="436">姚</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="436" END="436">姚</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="19-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="66" END="68">中央台</charseq>
+    </extent>
+    <head>
+      <charseq START="66" END="68">中央台</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="459" END="461">中央台</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="461">中央台</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="72" END="74">中央台</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="74">中央台</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="169" END="170">我们</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="170">我们</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="178" END="180">中央台</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="180">中央台</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="459" END="461">中央台</charseq>
+    </name>
+    <name>
+      <charseq START="72" END="74">中央台</charseq>
+    </name>
+    <name>
+      <charseq START="178" END="180">中央台</charseq>
+    </name>
+    <name>
+      <charseq START="66" END="68">中央台</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="100" END="101">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="100" END="101">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="105" END="106">买主</charseq>
+    </extent>
+    <head>
+      <charseq START="105" END="106">买主</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="148" END="149">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="149">记者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="22-40" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="109" END="124">江
+苏、扬州、淮阴等地的一些农村</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="124">农村</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E23" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="23-41" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="119">地</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNR20001122.1700.1152-E25" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="25-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="203" END="204">江苏</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="204">江苏</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="207" END="209">江苏省</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="209">江苏省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-36" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="478" END="479">江苏</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="479">江苏</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-43" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="109" END="111">江
+苏</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="111">江
+苏</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="203" END="204">江苏</charseq>
+    </name>
+    <name>
+      <charseq START="207" END="209">江苏省</charseq>
+    </name>
+    <name>
+      <charseq START="478" END="479">江苏</charseq>
+    </name>
+    <name>
+      <charseq START="109" END="111">江
+苏</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="26-44" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="113" END="114">扬州</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="114">扬州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="113" END="114">扬州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="27-45" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="116" END="117">淮阴</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="117">淮阴</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="116" END="117">淮阴</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="246" END="248">姚老板</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="248">老板</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="246" END="246">姚</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="246">姚</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="151" END="160">一位
+姓姚的造假老板</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="160">老板</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="155" END="155">姚</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="155">姚</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="246" END="246">姚</charseq>
+    </name>
+    <name>
+      <charseq START="155" END="155">姚</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNR20001122.1700.1152-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="291" END="292">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="292">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="178" END="182">中央台记者</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="182">记者</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNR20001122.1700.1152-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E25" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="207" END="227">江苏省公安、药品监督管理、质量技术监督部门</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="213" END="218">药品监督管理</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-10" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="209">江苏省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E25" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="207" END="227">江苏省公安、药品监督管理、质量技术监督部门</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="220" END="225">质量技术监督</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-10" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="209">江苏省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E23" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="109" END="124">江
+苏、扬州、淮阴等地的一些农村</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-40" ARGNUM="1">
+      <extent>
+        <charseq START="109" END="124">江
+苏、扬州、淮阴等地的一些农村</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-41" ARGNUM="2">
+      <extent>
+        <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R4" TYPE="DISC">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E23" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-43" ARGNUM="1">
+      <extent>
+        <charseq START="109" END="111">江
+苏</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-41" ARGNUM="2">
+      <extent>
+        <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R5" TYPE="DISC">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E23" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-44" ARGNUM="1">
+      <extent>
+        <charseq START="113" END="114">扬州</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-41" ARGNUM="2">
+      <extent>
+        <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R6" TYPE="DISC">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E23" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-45" ARGNUM="1">
+      <extent>
+        <charseq START="116" END="117">淮阴</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-41" ARGNUM="2">
+      <extent>
+        <charseq START="109" END="119">江
+苏、扬州、淮阴等地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E19" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="178" END="182">中央台记者</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-51" ARGNUM="1">
+      <extent>
+        <charseq START="178" END="182">中央台记者</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-52" ARGNUM="2">
+      <extent>
+        <charseq START="178" END="180">中央台</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E2" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="185" END="197">国家药品监督管理局的官
+员</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-53" ARGNUM="1">
+      <extent>
+        <charseq START="185" END="197">国家药品监督管理局的官
+员</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="185" END="193">国家药品监督管理局</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="8-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="400" END="407">国家药监局官
+员</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-28" ARGNUM="1">
+      <extent>
+        <charseq START="400" END="407">国家药监局官
+员</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-29" ARGNUM="2">
+      <extent>
+        <charseq START="400" END="404">国家药监局</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E25" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="207" END="227">江苏省公安、药品监督管理、质量技术监督部门</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="210" END="211">公安</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-10" ARGNUM="2">
+      <extent>
+        <charseq START="207" END="209">江苏省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R10" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E7" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="246" END="253">姚老板的制假窝点</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-13" ARGNUM="1">
+      <extent>
+        <charseq START="246" END="248">姚老板</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="246" END="253">姚老板的制假窝点</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E4" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="300" END="306">公安部门负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-16" ARGNUM="1">
+      <extent>
+        <charseq START="300" END="306">公安部门负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-17" ARGNUM="2">
+      <extent>
+        <charseq START="300" END="303">公安部门</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R12" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E14" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="330" END="348">无锡市质量技术监督局、医药管理局等部门</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-19" ARGNUM="1">
+      <extent>
+        <charseq START="330" END="348">无锡市质量技术监督局、医药管理局等部门</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-24" ARGNUM="2">
+      <extent>
+        <charseq START="330" END="332">无锡市</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E12" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="364" END="378">当地质量技术监督局的一位负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-26" ARGNUM="1">
+      <extent>
+        <charseq START="364" END="378">当地质量技术监督局的一位负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-27" ARGNUM="2">
+      <extent>
+        <charseq START="364" END="372">当地质量技术监督局</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNR20001122.1700.1152-R14" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNR20001122.1700.1152-E14" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="364" END="372">当地质量技术监督局</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-27" ARGNUM="1">
+      <extent>
+        <charseq START="364" END="372">当地质量技术监督局</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-48" ARGNUM="2">
+      <extent>
+        <charseq START="364" END="365">当地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

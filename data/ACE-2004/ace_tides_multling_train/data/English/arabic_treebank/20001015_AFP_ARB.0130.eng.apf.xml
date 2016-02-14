@@ -1,0 +1,1381 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0130.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0130.eng">
+<entity ID="20001015_AFP_ARB.0130.eng-E1" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="1-38" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1326" END="1336">Association</charseq>
+    </extent>
+    <head>
+      <charseq START="1326" END="1336">Association</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-100" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="452" END="472">the Saudi Association</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="472">Saudi Association</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="456" END="472">Saudi Association</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="554" END="577">its Japanese counterpart</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="577">counterpart</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1716" END="1732">the Japanese team</charseq>
+    </extent>
+    <head>
+      <charseq START="1729" END="1732">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-61" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1964" END="1968">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="1964" END="1968">Japan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-73" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2296" END="2300">Japan</charseq>
+    </extent>
+    <head>
+      <charseq START="2296" END="2300">Japan</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-7" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="558" END="565">Japanese</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="565">Japanese</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-54" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1720" END="1727">Japanese</charseq>
+    </extent>
+    <head>
+      <charseq START="1720" END="1727">Japanese</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E4" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="638" END="650">Saida
+stadium</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="650">Saida
+stadium</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="638" END="650">Saida
+stadium</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E5" TYPE="PER" CLASS="USP">
+  <entity_mention ID="5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="746" END="754">the coach</charseq>
+    </extent>
+    <head>
+      <charseq START="750" END="754">coach</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-13" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="793" END="799">another</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="799">another</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="831" END="838">the team</charseq>
+    </extent>
+    <head>
+      <charseq START="835" END="838">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="880" END="896">the Saudi players</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="896">players</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="947" END="957">the players</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="957">players</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1150" END="1151">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1150" END="1151">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1150" END="1159">we players</charseq>
+    </extent>
+    <head>
+      <charseq START="1153" END="1159">players</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E9" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1013" END="1067">the Qatari team which is
+also a strong and skilled team</charseq>
+    </extent>
+    <head>
+      <charseq START="1024" END="1027">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-21" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1029" END="1033">which</charseq>
+    </extent>
+    <head>
+      <charseq START="1029" END="1033">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1043" END="1067">a strong and skilled team</charseq>
+    </extent>
+    <head>
+      <charseq START="1064" END="1067">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1840" END="1844">Qatar</charseq>
+    </extent>
+    <head>
+      <charseq START="1840" END="1844">Qatar</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1017" END="1022">Qatari</charseq>
+    </extent>
+    <head>
+      <charseq START="1017" END="1022">Qatari</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1073" END="1093">Forward Sami al-Jaber</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1093">Sami al-Jaber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-26" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1073" END="1079">Forward</charseq>
+    </extent>
+    <head>
+      <charseq START="1073" END="1079">Forward</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1096" END="1141">a professional with English club
+Wolverhampton</charseq>
+    </extent>
+    <head>
+      <charseq START="1098" END="1109">professional</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1352" END="1353">He</charseq>
+    </extent>
+    <head>
+      <charseq START="1352" END="1353">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1676" END="1683">Al-Jaber</charseq>
+    </extent>
+    <head>
+      <charseq START="1676" END="1683">Al-Jaber</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1996" END="1997">he</charseq>
+    </extent>
+    <head>
+      <charseq START="1996" END="1997">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1081" END="1093">Sami al-Jaber</charseq>
+    </name>
+    <name>
+      <charseq START="1676" END="1683">Al-Jaber</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E14" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="14-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1116" END="1141">English club
+Wolverhampton</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1141">Wolverhampton</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-30" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1116" END="1127">English club</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1127">club</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1129" END="1141">Wolverhampton</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1116" END="1122">English</charseq>
+    </extent>
+    <head>
+      <charseq START="1116" END="1122">English</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1577" END="1583">English</charseq>
+    </extent>
+    <head>
+      <charseq START="1577" END="1583">English</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E17" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="17-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1231" END="1237">a coach</charseq>
+    </extent>
+    <head>
+      <charseq START="1233" END="1237">coach</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1293" END="1320">the bosses of the Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="1297" END="1302">bosses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E19" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="19-37" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1326" END="1346">Association officials</charseq>
+    </extent>
+    <head>
+      <charseq START="1338" END="1346">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E21" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="21-40" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="1392" END="1424">top international teams and
+clubs</charseq>
+    </extent>
+    <head>
+      <charseq START="1410" END="1424">teams and
+clubs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="22-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="116" END="121">Beirut</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="121">Beirut</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="116" END="121">Beirut</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1444" END="1512">Wanderley Luxumburger who was sacked from
+training the Brazilian team</charseq>
+    </extent>
+    <head>
+      <charseq START="1444" END="1464">Wanderley Luxumburger</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-42" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1466" END="1468">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1466" END="1468">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1444" END="1464">Wanderley Luxumburger</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E24" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="24-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1495" END="1512">the Brazilian team</charseq>
+    </extent>
+    <head>
+      <charseq START="1509" END="1512">team</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="25-44" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1499" END="1507">Brazilian</charseq>
+    </extent>
+    <head>
+      <charseq START="1499" END="1507">Brazilian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E26" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="26-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1524" END="1596">Italian Gianluca Vialli who
+discharged from training English team Chelsea</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1546">Gianluca Vialli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-47" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1548" END="1550">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1548" END="1550">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1532" END="1546">Gianluca Vialli</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="27-46" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1524" END="1530">Italian</charseq>
+    </extent>
+    <head>
+      <charseq START="1524" END="1530">Italian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E28" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="28-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1577" END="1596">English team Chelsea</charseq>
+    </extent>
+    <head>
+      <charseq START="1590" END="1596">Chelsea</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-49" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1577" END="1588">English team</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1588">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1590" END="1596">Chelsea</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1614" END="1618">their</charseq>
+    </extent>
+    <head>
+      <charseq START="1614" END="1618">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E31" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="31-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1779" END="1787">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1783" END="1787">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E32" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="32-58" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1850" END="1859">Uzbekistan</charseq>
+    </extent>
+    <head>
+      <charseq START="1850" END="1859">Uzbekistan</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E33" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="33-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2216" END="2218">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2216" END="2218">his</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-70" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2226" END="2246">the team's goalkeeper</charseq>
+    </extent>
+    <head>
+      <charseq START="2237" END="2246">goalkeeper</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2248" END="2262">Mohamed al-Daei</charseq>
+    </extent>
+    <head>
+      <charseq START="2248" END="2262">Mohamed al-Daei</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2303" END="2303">I</charseq>
+    </extent>
+    <head>
+      <charseq START="2303" END="2303">I</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-76" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2363" END="2364">He</charseq>
+    </extent>
+    <head>
+      <charseq START="2363" END="2364">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2518" END="2524">Al-Daei</charseq>
+    </extent>
+    <head>
+      <charseq START="2518" END="2524">Al-Daei</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2248" END="2262">Mohamed al-Daei</charseq>
+    </name>
+    <name>
+      <charseq START="2518" END="2524">Al-Daei</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E36" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="36-82" TYPE="NOM" LDCTYPE="MWH">
+    <extent>
+      <charseq START="2596" END="2633">the technical management and new coach</charseq>
+    </extent>
+    <head>
+      <charseq START="2600" END="2633">technical management and new coach</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="37-83" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="130" END="132">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="132">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="130" END="132">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E38" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="38-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="655" END="660">Jawher</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="660">Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="902" END="903">He</charseq>
+    </extent>
+    <head>
+      <charseq START="902" END="903">He</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-84" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="138" END="275">Coach Nasser Jawher who has been appointed to supervise the Saudi
+soccer team in place of Czech Milan Machala, who was sacked today
+Sunday</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="156">Nasser Jawher</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-85" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="138" END="142">Coach</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="142">Coach</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-86" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="158" END="160">who</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="160">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="283" END="284">he</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="284">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="38-93" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="314" END="316">him</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="316">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="655" END="660">Jawher</charseq>
+    </name>
+    <name>
+      <charseq START="144" END="156">Nasser Jawher</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E40" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="40-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="513" END="540">the
+title-holding Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="540">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="554" END="556">its</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="556">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="692" END="705">the Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="705">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="971" END="980">al-Akhdhar</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="980">al-Akhdhar</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1307" END="1320">the Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="1317" END="1320">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1793" END="1795">our</charseq>
+    </extent>
+    <head>
+      <charseq START="1793" END="1795">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1882" END="1895">the Saudi team</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1895">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1983" END="1985">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1983" END="1985">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2045" END="2046">us</charseq>
+    </extent>
+    <head>
+      <charseq START="2045" END="2046">us</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2097" END="2098">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2097" END="2098">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2128" END="2130">our</charseq>
+    </extent>
+    <head>
+      <charseq START="2128" END="2130">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2226" END="2233">the team</charseq>
+    </extent>
+    <head>
+      <charseq START="2230" END="2233">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2400" END="2401">we</charseq>
+    </extent>
+    <head>
+      <charseq START="2400" END="2401">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2413" END="2415">our</charseq>
+    </extent>
+    <head>
+      <charseq START="2413" END="2415">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2424" END="2426">our</charseq>
+    </extent>
+    <head>
+      <charseq START="2424" END="2426">our</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2547" END="2555">the squad</charseq>
+    </extent>
+    <head>
+      <charseq START="2551" END="2555">squad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="40-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="194" END="214">the Saudi
+soccer team</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="214">team</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="971" END="980">al-Akhdhar</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E41" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="41-4" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="531" END="535">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="535">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="696" END="700">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="700">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="884" END="888">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="888">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-36" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1311" END="1315">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="1311" END="1315">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-60" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1886" END="1890">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="1886" END="1890">Saudi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="41-88" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="198" END="202">Saudi</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="202">Saudi</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E42" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="42-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="499" END="505">Machala</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="505">Machala</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2325" END="2331">Machala</charseq>
+    </extent>
+    <head>
+      <charseq START="2325" END="2331">Machala</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2350" END="2352">his</charseq>
+    </extent>
+    <head>
+      <charseq START="2350" END="2352">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-89" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="228" END="275">Czech Milan Machala, who was sacked today
+Sunday</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="246">Milan Machala</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="42-91" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="249" END="251">who</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="251">who</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2325" END="2331">Machala</charseq>
+    </name>
+    <name>
+      <charseq START="234" END="246">Milan Machala</charseq>
+    </name>
+    <name>
+      <charseq START="499" END="505">Machala</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="43-90" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="228" END="232">Czech</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="232">Czech</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E44" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="44-95" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="380" END="402">Prince Sultan Ben Fahed</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="402">Ben Fahed</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-96" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="380" END="392">Prince Sultan</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="392">Sultan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-97" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="405" END="433">president of the Youth Bureau</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="413">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-99" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="439" END="472">president
+of the Saudi Association</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="447">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="394" END="402">Ben Fahed</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001015_AFP_ARB.0130.eng-E46" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="46-98" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="418" END="433">the Youth Bureau</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="433">Youth Bureau</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="422" END="433">Youth Bureau</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001015_AFP_ARB.0130.eng-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E38" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E40" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="158" END="214">who has been appointed to supervise the Saudi
+soccer team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="38-86" ARGNUM="1">
+      <extent>
+        <charseq START="158" END="160">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="40-87" ARGNUM="2">
+      <extent>
+        <charseq START="194" END="214">the Saudi
+soccer team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R2" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E41" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="194" END="214">the Saudi
+soccer team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-87" ARGNUM="1">
+      <extent>
+        <charseq START="194" END="214">the Saudi
+soccer team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-88" ARGNUM="2">
+      <extent>
+        <charseq START="198" END="202">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="513" END="540">the
+title-holding Saudi team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-3" ARGNUM="1">
+      <extent>
+        <charseq START="513" END="540">the
+title-holding Saudi team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-4" ARGNUM="2">
+      <extent>
+        <charseq START="531" END="535">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="692" END="705">the Saudi team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-10" ARGNUM="1">
+      <extent>
+        <charseq START="692" END="705">the Saudi team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-11" ARGNUM="2">
+      <extent>
+        <charseq START="696" END="700">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-4" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1307" END="1320">the Saudi team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-35" ARGNUM="1">
+      <extent>
+        <charseq START="1307" END="1320">the Saudi team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-36" ARGNUM="2">
+      <extent>
+        <charseq START="1311" END="1315">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-5" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1882" END="1895">the Saudi team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-59" ARGNUM="1">
+      <extent>
+        <charseq START="1882" END="1895">the Saudi team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-60" ARGNUM="2">
+      <extent>
+        <charseq START="1886" END="1890">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R3" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E42" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E43" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="228" END="275">Czech Milan Machala, who was sacked today
+Sunday</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="42-89" ARGNUM="1">
+      <extent>
+        <charseq START="228" END="275">Czech Milan Machala, who was sacked today
+Sunday</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="43-90" ARGNUM="2">
+      <extent>
+        <charseq START="228" END="232">Czech</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E44" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E46" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="405" END="433">president of the Youth Bureau</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-97" ARGNUM="1">
+      <extent>
+        <charseq START="405" END="433">president of the Youth Bureau</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="46-98" ARGNUM="2">
+      <extent>
+        <charseq START="418" END="433">the Youth Bureau</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E44" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E1" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="439" END="472">president
+of the Saudi Association</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="44-99" ARGNUM="1">
+      <extent>
+        <charseq START="439" END="472">president
+of the Saudi Association</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-100" ARGNUM="2">
+      <extent>
+        <charseq START="452" END="472">the Saudi Association</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R7" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E3" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="554" END="577">its Japanese counterpart</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="1">
+      <extent>
+        <charseq START="554" END="577">its Japanese counterpart</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="558" END="565">Japanese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="7-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1716" END="1732">the Japanese team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-53" ARGNUM="1">
+      <extent>
+        <charseq START="1716" END="1732">the Japanese team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-54" ARGNUM="2">
+      <extent>
+        <charseq START="1720" END="1727">Japanese</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R9" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E41" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="880" END="896">the Saudi players</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="880" END="896">the Saudi players</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-16" ARGNUM="2">
+      <extent>
+        <charseq START="884" END="888">Saudi</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R10" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E10" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1013" END="1067">the Qatari team which is
+also a strong and skilled team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="1">
+      <extent>
+        <charseq START="1013" END="1067">the Qatari team which is
+also a strong and skilled team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-20" ARGNUM="2">
+      <extent>
+        <charseq START="1017" END="1022">Qatari</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E14" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1096" END="1141">a professional with English club
+Wolverhampton</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-27" ARGNUM="1">
+      <extent>
+        <charseq START="1096" END="1141">a professional with English club
+Wolverhampton</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-28" ARGNUM="2">
+      <extent>
+        <charseq START="1116" END="1141">English club
+Wolverhampton</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E15" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1116" END="1127">English club</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-30" ARGNUM="1">
+      <extent>
+        <charseq START="1116" END="1127">English club</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-29" ARGNUM="2">
+      <extent>
+        <charseq START="1116" END="1122">English</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E1" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1326" END="1346">Association officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-37" ARGNUM="1">
+      <extent>
+        <charseq START="1326" END="1346">Association officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-38" ARGNUM="2">
+      <extent>
+        <charseq START="1326" END="1336">Association</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R15" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E24" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1444" END="1512">Wanderley Luxumburger who was sacked from
+training the Brazilian team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-42" ARGNUM="1">
+      <extent>
+        <charseq START="1466" END="1468">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-43" ARGNUM="2">
+      <extent>
+        <charseq START="1495" END="1512">the Brazilian team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R16" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E25" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1495" END="1512">the Brazilian team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-43" ARGNUM="1">
+      <extent>
+        <charseq START="1495" END="1512">the Brazilian team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="25-44" ARGNUM="2">
+      <extent>
+        <charseq START="1499" END="1507">Brazilian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R17" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E27" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1524" END="1596">Italian Gianluca Vialli who
+discharged from training English team Chelsea</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-45" ARGNUM="1">
+      <extent>
+        <charseq START="1524" END="1596">Italian Gianluca Vialli who
+discharged from training English team Chelsea</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-46" ARGNUM="2">
+      <extent>
+        <charseq START="1524" END="1530">Italian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R18" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E26" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E28" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1548" END="1596">who
+discharged from training English team Chelsea</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="26-47" ARGNUM="1">
+      <extent>
+        <charseq START="1548" END="1550">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-48" ARGNUM="2">
+      <extent>
+        <charseq START="1577" END="1596">English team Chelsea</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R19" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E28" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E15" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1577" END="1588">English team</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="28-49" ARGNUM="1">
+      <extent>
+        <charseq START="1577" END="1588">English team</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-50" ARGNUM="2">
+      <extent>
+        <charseq START="1577" END="1583">English</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0130.eng-R22" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E34" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001015_AFP_ARB.0130.eng-E40" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="2226" END="2246">the team's goalkeeper</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="34-70" ARGNUM="1">
+      <extent>
+        <charseq START="2226" END="2246">the team's goalkeeper</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="40-68" ARGNUM="2">
+      <extent>
+        <charseq START="2226" END="2233">the team</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

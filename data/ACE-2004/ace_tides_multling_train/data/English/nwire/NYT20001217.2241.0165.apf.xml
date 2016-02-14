@@ -1,0 +1,1244 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001217.2241.0165.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001217.2241.0165">
+<entity ID="NYT20001217.2241.0165-E1" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="1-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2756" END="2766">the
+airport</charseq>
+    </extent>
+    <head>
+      <charseq START="2760" END="2766">airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-97" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="614" END="621">airports</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="621">airports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="665" END="691">the
+least-congested airport</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="691">airport</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E3" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="703" END="763">some airports, like Chicago O'Hare
+and La Guardia in New York</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="715">airports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E4" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="723" END="736">Chicago O'Hare</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="736">Chicago O'Hare</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="723" END="736">Chicago O'Hare</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E5" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="5-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="742" END="763">La Guardia in New York</charseq>
+    </extent>
+    <head>
+      <charseq START="742" END="751">La Guardia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="742" END="751">La Guardia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="756" END="763">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="756" END="763">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2017" END="2024">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="2017" END="2024">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="756" END="763">New York</charseq>
+    </name>
+    <name>
+      <charseq START="2017" END="2024">New York</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E7" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="7-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="845" END="867">an airport in the South</charseq>
+    </extent>
+    <head>
+      <charseq START="848" END="854">airport</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E8" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="8-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="859" END="867">the South</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="867">South</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="863" END="867">South</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="9-9" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="990" END="997">Airlines</charseq>
+    </extent>
+    <head>
+      <charseq START="990" END="997">Airlines</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-15" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1792" END="1798">airline</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1798">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-26" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="2204" END="2211">carriers</charseq>
+    </extent>
+    <head>
+      <charseq START="2204" END="2211">carriers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-34" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2801" END="2807">airline</charseq>
+    </extent>
+    <head>
+      <charseq START="2801" END="2807">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-39" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="3263" END="3270">carriers</charseq>
+    </extent>
+    <head>
+      <charseq START="3263" END="3270">carriers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-46" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3601" END="3607">airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3601" END="3607">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4487" END="4498">The airlines</charseq>
+    </extent>
+    <head>
+      <charseq START="4491" END="4498">airlines</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4563" END="4566">They</charseq>
+    </extent>
+    <head>
+      <charseq START="4563" END="4566">They</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="10-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1198" END="1226">The Transportation Department</charseq>
+    </extent>
+    <head>
+      <charseq START="1202" END="1226">Transportation Department</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4829" END="4857">the Transportation
+Department</charseq>
+    </extent>
+    <head>
+      <charseq START="4833" END="4857">Transportation
+Department</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-67" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="5012" END="5039">Department of Transportation</charseq>
+    </extent>
+    <head>
+      <charseq START="5012" END="5039">Department of Transportation</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1202" END="1226">Transportation Department</charseq>
+    </name>
+    <name>
+      <charseq START="4833" END="4857">Transportation
+Department</charseq>
+    </name>
+    <name>
+      <charseq START="5012" END="5039">Department of Transportation</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E11" TYPE="ORG" SUBTYPE="Government" CLASS="USP">
+  <entity_mention ID="11-11" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1237" END="1259">major domestic airlines</charseq>
+    </extent>
+    <head>
+      <charseq START="1252" END="1259">airlines</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-12" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1318" END="1326">consumers</charseq>
+    </extent>
+    <head>
+      <charseq START="1318" END="1326">consumers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-41" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="3364" END="3373">passengers</charseq>
+    </extent>
+    <head>
+      <charseq START="3364" END="3373">passengers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-61" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4527" END="4534">consumer</charseq>
+    </extent>
+    <head>
+      <charseq START="4527" END="4534">consumer</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1401" END="1412">each airline</charseq>
+    </extent>
+    <head>
+      <charseq START="1406" END="1412">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4813" END="4824">each airline</charseq>
+    </extent>
+    <head>
+      <charseq START="4818" END="4824">airline</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E14" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="14-14" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1649" END="1666">business
+travelers</charseq>
+    </extent>
+    <head>
+      <charseq START="1658" END="1666">travelers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E16" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="GEN">
+  <entity_mention ID="16-16" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1819" END="1834">smaller airports</charseq>
+    </extent>
+    <head>
+      <charseq START="1827" END="1834">airports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E17" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="17-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1848" END="1872">Los Angeles International</charseq>
+    </extent>
+    <head>
+      <charseq START="1848" END="1872">Los Angeles International</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1848" END="1872">Los Angeles International</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E18" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="18-18" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1909" END="1915">Burbank</charseq>
+    </extent>
+    <head>
+      <charseq START="1909" END="1915">Burbank</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E19" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="19-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1920" END="1961">John Wayne Airport in
+Orange County, Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1920" END="1937">John Wayne Airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1920" END="1937">John Wayne Airport</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E20" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="20-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1942" END="1961">Orange County, Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1942" END="1954">Orange County</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1942" END="1954">Orange County</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="21-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1957" END="1961">Calif</charseq>
+    </extent>
+    <head>
+      <charseq START="1957" END="1961">Calif</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1957" END="1961">Calif</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E22" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="22-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1972" END="1997">Westchester County Airport</charseq>
+    </extent>
+    <head>
+      <charseq START="1972" END="1997">Westchester County Airport</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1972" END="1997">Westchester County Airport</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E23" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="23-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2010" END="2012">JFK</charseq>
+    </extent>
+    <head>
+      <charseq START="2010" END="2012">JFK</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2010" END="2012">JFK</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="24-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2168" END="2180">most airlines</charseq>
+    </extent>
+    <head>
+      <charseq START="2173" END="2180">airlines</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="25-27" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2342" END="2423">airlines experiencing labor
+strife, which often increases cancellations and delays</charseq>
+    </extent>
+    <head>
+      <charseq START="2342" END="2349">airlines</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="26-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2456" END="2480">the airline you book with</charseq>
+    </extent>
+    <head>
+      <charseq START="2460" END="2466">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3332" END="3343">your airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3337" END="3343">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3436" END="3446">the airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3440" END="3446">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-44" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3496" END="3502">airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3496" END="3502">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3785" END="3795">the airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3789" END="3795">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4013" END="4024">your airline</charseq>
+    </extent>
+    <head>
+      <charseq START="4018" END="4024">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4159" END="4169">the airline</charseq>
+    </extent>
+    <head>
+      <charseq START="4163" END="4169">airline</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4246" END="4256">the airline</charseq>
+    </extent>
+    <head>
+      <charseq START="4250" END="4256">airline</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E27" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="27-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2566" END="2579">a travel agent</charseq>
+    </extent>
+    <head>
+      <charseq START="2575" END="2579">agent</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2582" END="2591">A good one</charseq>
+    </extent>
+    <head>
+      <charseq START="2589" END="2591">one</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2600" END="2637">a great ally in the event of
+a problem</charseq>
+    </extent>
+    <head>
+      <charseq START="2608" END="2611">ally</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E29" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="29-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="544" END="546">you</charseq>
+    </extent>
+    <head>
+      <charseq START="544" END="546">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2654" END="2656">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2654" END="2656">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3087" END="3090">your</charseq>
+    </extent>
+    <head>
+      <charseq START="3087" END="3090">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-54" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4124" END="4152">a high-mileage
+frequent flier</charseq>
+    </extent>
+    <head>
+      <charseq START="4148" END="4152">flier</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-68" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="580" END="582">you</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="582">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-71" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="637" END="639">you</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="639">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1062" END="1064">you</charseq>
+    </extent>
+    <head>
+      <charseq START="1062" END="1064">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-73" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1071" END="1075">yours</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1075">yours</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-74" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1097" END="1100">your</charseq>
+    </extent>
+    <head>
+      <charseq START="1097" END="1100">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1329" END="1331">You</charseq>
+    </extent>
+    <head>
+      <charseq START="1329" END="1331">You</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-76" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2185" END="2187">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2185" END="2187">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-77" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2468" END="2470">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2468" END="2470">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2510" END="2512">you</charseq>
+    </extent>
+    <head>
+      <charseq START="2510" END="2512">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-79" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2717" END="2720">your</charseq>
+    </extent>
+    <head>
+      <charseq START="2717" END="2720">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-80" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3233" END="3235">you</charseq>
+    </extent>
+    <head>
+      <charseq START="3233" END="3235">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-81" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3278" END="3281">your</charseq>
+    </extent>
+    <head>
+      <charseq START="3278" END="3281">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-82" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3308" END="3315">yourself</charseq>
+    </extent>
+    <head>
+      <charseq START="3308" END="3315">yourself</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-83" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3332" END="3335">your</charseq>
+    </extent>
+    <head>
+      <charseq START="3332" END="3335">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-84" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3478" END="3480">you</charseq>
+    </extent>
+    <head>
+      <charseq START="3478" END="3480">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-85" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3572" END="3575">your</charseq>
+    </extent>
+    <head>
+      <charseq START="3572" END="3575">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-86" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3991" END="3994">your</charseq>
+    </extent>
+    <head>
+      <charseq START="3991" END="3994">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-87" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4013" END="4016">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4013" END="4016">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-88" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4037" END="4040">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4037" END="4040">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-89" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4081" END="4083">you</charseq>
+    </extent>
+    <head>
+      <charseq START="4081" END="4083">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-90" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4098" END="4100">you</charseq>
+    </extent>
+    <head>
+      <charseq START="4098" END="4100">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-91" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4177" END="4180">Your</charseq>
+    </extent>
+    <head>
+      <charseq START="4177" END="4180">Your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4272" END="4275">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4272" END="4275">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-93" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4287" END="4289">you</charseq>
+    </extent>
+    <head>
+      <charseq START="4287" END="4289">you</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-94" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4355" END="4358">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4355" END="4358">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-95" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4639" END="4642">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4639" END="4642">your</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-96" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="4755" END="4758">your</charseq>
+    </extent>
+    <head>
+      <charseq START="4755" END="4758">your</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="30-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2884" END="2918">The
+Federal Aviation Administration</charseq>
+    </extent>
+    <head>
+      <charseq START="2888" END="2918">Federal Aviation Administration</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2888" END="2918">Federal Aviation Administration</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E31" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="31-35" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2869" END="2881">ticket agents</charseq>
+    </extent>
+    <head>
+      <charseq START="2876" END="2881">agents</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E32" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="32-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2992" END="3011">the biggest airports</charseq>
+    </extent>
+    <head>
+      <charseq START="3004" END="3011">airports</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E33" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="33-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3492" END="3518">the
+airline representatives</charseq>
+    </extent>
+    <head>
+      <charseq START="3504" END="3518">representatives</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E35" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="35-45" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="3601" END="3617">airline personnel</charseq>
+    </extent>
+    <head>
+      <charseq START="3609" END="3617">personnel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3654" END="3658">their</charseq>
+    </extent>
+    <head>
+      <charseq START="3654" END="3658">their</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E36" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="36-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3802" END="3812">the airport</charseq>
+    </extent>
+    <head>
+      <charseq START="3806" END="3812">airport</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E37" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="GEN">
+  <entity_mention ID="37-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3830" END="3847">the
+ticket counter</charseq>
+    </extent>
+    <head>
+      <charseq START="3841" END="3847">counter</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="38-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3942" END="3956">the competition</charseq>
+    </extent>
+    <head>
+      <charseq START="3946" END="3956">competition</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="39-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3962" END="3976">another airline</charseq>
+    </extent>
+    <head>
+      <charseq START="3970" END="3976">airline</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E41" TYPE="FAC" SUBTYPE="Building" CLASS="USP">
+  <entity_mention ID="41-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4272" END="4281">your
+hotel</charseq>
+    </extent>
+    <head>
+      <charseq START="4277" END="4281">hotel</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E42" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="42-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4394" END="4398">a car</charseq>
+    </extent>
+    <head>
+      <charseq START="4396" END="4398">car</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="44-62" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="4770" END="4779">Washington</charseq>
+    </extent>
+    <head>
+      <charseq START="4770" END="4779">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="44-66" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="5066" END="5079">Washington, DC</charseq>
+    </extent>
+    <head>
+      <charseq START="5066" END="5075">Washington</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4770" END="4779">Washington</charseq>
+    </name>
+    <name>
+      <charseq START="5066" END="5075">Washington</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E45" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="45-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="5043" END="5079">400 Seventh St. S.W. 
+
+Washington, DC</charseq>
+    </extent>
+    <head>
+      <charseq START="5043" END="5062">400 Seventh St. S.W.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="5043" END="5062">400 Seventh St. S.W.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001217.2241.0165-E46" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="46-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3124" END="3132">an infant</charseq>
+    </extent>
+    <head>
+      <charseq START="3127" END="3132">infant</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001217.2241.0165-E47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="47-70" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="4969" END="5000">Aviation Consumer Protection Div</charseq>
+    </extent>
+    <head>
+      <charseq START="4969" END="5000">Aviation Consumer Protection Div</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="4969" END="5000">Aviation Consumer Protection Div</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="NYT20001217.2241.0165-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E6" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="742" END="763">La Guardia in New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="742" END="763">La Guardia in New York</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-6" ARGNUM="2">
+      <extent>
+        <charseq START="756" END="763">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E8" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="845" END="867">an airport in the South</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-7" ARGNUM="1">
+      <extent>
+        <charseq START="845" END="867">an airport in the South</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-8" ARGNUM="2">
+      <extent>
+        <charseq START="859" END="867">the South</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E20" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1920" END="1961">John Wayne Airport in
+Orange County, Calif</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-19" ARGNUM="1">
+      <extent>
+        <charseq START="1920" END="1961">John Wayne Airport in
+Orange County, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-20" ARGNUM="2">
+      <extent>
+        <charseq START="1942" END="1961">Orange County, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1920" END="1961">John Wayne Airport in
+Orange County, Calif</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-19" ARGNUM="1">
+      <extent>
+        <charseq START="1920" END="1961">John Wayne Airport in
+Orange County, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-20" ARGNUM="2">
+      <extent>
+        <charseq START="1942" END="1961">Orange County, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E21" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1942" END="1961">Orange County, Calif</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-20" ARGNUM="1">
+      <extent>
+        <charseq START="1942" END="1961">Orange County, Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-21" ARGNUM="2">
+      <extent>
+        <charseq START="1957" END="1961">Calif</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E6" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2010" END="2024">JFK in New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-23" ARGNUM="1">
+      <extent>
+        <charseq START="2010" END="2012">JFK</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-24" ARGNUM="2">
+      <extent>
+        <charseq START="2017" END="2024">New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R6" TYPE="EMP-ORG" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E26" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="3332" END="3343">your airline</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-83" ARGNUM="1">
+      <extent>
+        <charseq START="3332" END="3335">your</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-40" ARGNUM="2">
+      <extent>
+        <charseq START="3332" END="3343">your airline</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="6-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4013" END="4024">your airline</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-87" ARGNUM="1">
+      <extent>
+        <charseq START="4013" END="4016">your</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-53" ARGNUM="2">
+      <extent>
+        <charseq START="4013" END="4024">your airline</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R7" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E26" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3492" END="3518">the
+airline representatives</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-43" ARGNUM="1">
+      <extent>
+        <charseq START="3492" END="3518">the
+airline representatives</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-44" ARGNUM="2">
+      <extent>
+        <charseq START="3496" END="3502">airline</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R8" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E35" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E9" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="3601" END="3617">airline personnel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="35-45" ARGNUM="1">
+      <extent>
+        <charseq START="3601" END="3617">airline personnel</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-46" ARGNUM="2">
+      <extent>
+        <charseq START="3601" END="3607">airline</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R10" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E41" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="4272" END="4281">your
+hotel</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-92" ARGNUM="1">
+      <extent>
+        <charseq START="4272" END="4275">your</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="41-57" ARGNUM="2">
+      <extent>
+        <charseq START="4272" END="4281">your
+hotel</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R11" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E45" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E44" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="5043" END="5079">400 Seventh St. S.W. 
+
+Washington, DC</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="45-65" ARGNUM="1">
+      <extent>
+        <charseq START="5043" END="5079">400 Seventh St. S.W. 
+
+Washington, DC</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="44-66" ARGNUM="2">
+      <extent>
+        <charseq START="5066" END="5079">Washington, DC</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R12" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E3" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="703" END="763">some airports, like Chicago O'Hare
+and La Guardia in New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="723" END="736">Chicago O'Hare</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="763">some airports, like Chicago O'Hare
+and La Guardia in New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001217.2241.0165-R13" TYPE="DISC">
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001217.2241.0165-E3" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="703" END="763">some airports, like Chicago O'Hare
+and La Guardia in New York</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-5" ARGNUM="1">
+      <extent>
+        <charseq START="742" END="763">La Guardia in New York</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="763">some airports, like Chicago O'Hare
+and La Guardia in New York</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

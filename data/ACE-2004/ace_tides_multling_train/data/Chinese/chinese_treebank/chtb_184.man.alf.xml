@@ -1,0 +1,844 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_184.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_184.man">
+<composite_entity ID="chtb_184.man-CE1">
+  <entity ID="chtb_184.man-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-9" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="201" END="202">中美</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="202">中美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-12" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="217" END="218">中美</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="218">中美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-15" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="233" END="234">两国</charseq>
+      </extent>
+      <head>
+        <charseq START="234" END="234">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-20" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="274" END="275">中美</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="275">中美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-24" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="293" END="294">中美</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="294">中美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-27" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="302" END="305">两国人民</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="305">人民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-28" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="302" END="303">两国</charseq>
+      </extent>
+      <head>
+        <charseq START="303" END="303">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-37" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="349" END="350">两国</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="350">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-38" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="364" END="365">两国</charseq>
+      </extent>
+      <head>
+        <charseq START="365" END="365">国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-39" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="373" END="374">中美</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="374">中美</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE2">
+  <entity ID="chtb_184.man-E2" TYPE="GPE" SUBTYPE="Other" CLASS="ATR">
+    <entity_mention ID="2-16" TYPE="PCN" ROLE="GPE">
+      <extent>
+        <charseq START="238" END="239">国际</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="239">国际</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE3">
+  <entity ID="chtb_184.man-E3" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="3-29" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="313" END="316">亚太地区</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="316">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="3-30" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="313" END="314">亚太</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="314">亚太</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE4">
+  <entity ID="chtb_184.man-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+    <entity_mention ID="4-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="313" END="313">亚</charseq>
+      </extent>
+      <head>
+        <charseq START="313" END="313">亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="313" END="313">亚</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE5">
+  <entity ID="chtb_184.man-E5" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+    <entity_mention ID="5-32" TYPE="NAM">
+      <extent>
+        <charseq START="314" END="314">太</charseq>
+      </extent>
+      <head>
+        <charseq START="314" END="314">太</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="314" END="314">太</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE6">
+  <entity ID="chtb_184.man-E6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+    <entity_mention ID="6-33" TYPE="NOM">
+      <extent>
+        <charseq START="319" END="321">世
+界</charseq>
+      </extent>
+      <head>
+        <charseq START="319" END="321">世
+界</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE7">
+  <entity ID="chtb_184.man-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="7-1" TYPE="NOM">
+      <extent>
+        <charseq START="33" END="34">本报</charseq>
+      </extent>
+      <head>
+        <charseq START="33" END="34">本报</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE8">
+  <entity ID="chtb_184.man-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="8-55" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="35" END="37">华盛顿</charseq>
+      </extent>
+      <head>
+        <charseq START="35" END="37">华盛顿</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="35" END="37">华盛顿</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE9">
+  <entity ID="chtb_184.man-E9" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="9-56" TYPE="APP">
+      <extent>
+        <charseq START="46" END="50">记者张启昕</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="9-57" TYPE="NAM">
+      <extent>
+        <charseq START="48" END="50">张启昕</charseq>
+      </extent>
+      <head>
+        <charseq START="48" END="50">张启昕</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="48" END="50">张启昕</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_184.man-E10" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="10-58" TYPE="NOM">
+      <extent>
+        <charseq START="46" END="47">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="46" END="47">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE10">
+  <entity ID="chtb_184.man-E11" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="11-6" TYPE="NOM">
+      <extent>
+        <charseq START="181" END="183">朱大使</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="183">大使</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-7" TYPE="NAM">
+      <extent>
+        <charseq START="181" END="181">朱</charseq>
+      </extent>
+      <head>
+        <charseq START="181" END="181">朱</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-23" TYPE="PRO">
+      <extent>
+        <charseq START="290" END="290">他</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="290">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-42" TYPE="NAM">
+      <extent>
+        <charseq START="398" END="400">朱启祯</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="400">朱启祯</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-47" TYPE="PRO">
+      <extent>
+        <charseq START="475" END="475">他</charseq>
+      </extent>
+      <head>
+        <charseq START="475" END="475">他</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-59" TYPE="APP">
+      <extent>
+        <charseq START="54" END="63">中国驻美国大使朱启祯</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-60" TYPE="NAM">
+      <extent>
+        <charseq START="61" END="63">朱启祯</charseq>
+      </extent>
+      <head>
+        <charseq START="61" END="63">朱启祯</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-71" TYPE="NOM">
+      <extent>
+        <charseq START="105" END="107">朱大使</charseq>
+      </extent>
+      <head>
+        <charseq START="106" END="107">大使</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-72" TYPE="NAM">
+      <extent>
+        <charseq START="105" END="105">朱</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="105">朱</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="398" END="400">朱启祯</charseq>
+      </name>
+      <name>
+        <charseq START="61" END="63">朱启祯</charseq>
+      </name>
+      <name>
+        <charseq START="105" END="105">朱</charseq>
+      </name>
+      <name>
+        <charseq START="181" END="181">朱</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_184.man-E12" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="12-61" TYPE="NOM">
+      <extent>
+        <charseq START="54" END="60">中国驻美国大使</charseq>
+      </extent>
+      <head>
+        <charseq START="59" END="60">大使</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE11">
+  <entity ID="chtb_184.man-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="13-4" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="123" END="124">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="124">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-5" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="164" END="165">全国</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="165">全国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-8" TYPE="NAM" ROLE="ORG">
+      <extent>
+        <charseq START="187" END="188">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="187" END="188">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="201" END="201">中</charseq>
+      </extent>
+      <head>
+        <charseq START="201" END="201">中</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="217" END="217">中</charseq>
+      </extent>
+      <head>
+        <charseq START="217" END="217">中</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="262" END="262">华</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="262">华</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-21" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="274" END="274">中</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="274">中</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-25" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="293" END="293">中</charseq>
+      </extent>
+      <head>
+        <charseq START="293" END="293">中</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="336" END="337">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="336" END="337">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-40" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="373" END="373">中</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="373">中</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-43" TYPE="NOM" ROLE="PER">
+      <extent>
+        <charseq START="403" END="406">中国人民</charseq>
+      </extent>
+      <head>
+        <charseq START="405" END="406">人民</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-44" TYPE="NAM" ROLE="PER">
+      <extent>
+        <charseq START="403" END="404">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="404">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-45" TYPE="PRO" ROLE="PER">
+      <extent>
+        <charseq START="415" END="416">自己</charseq>
+      </extent>
+      <head>
+        <charseq START="415" END="416">自己</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-46" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="463" END="464">祖国</charseq>
+      </extent>
+      <head>
+        <charseq START="463" END="464">祖国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-53" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="493" END="494">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="493" END="494">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-54" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="501" END="502">国家</charseq>
+      </extent>
+      <head>
+        <charseq START="501" END="502">国家</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-62" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="54" END="55">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="54" END="55">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-64" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="65" END="66">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="65" END="66">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="187" END="188">中国</charseq>
+      </name>
+      <name>
+        <charseq START="201" END="201">中</charseq>
+      </name>
+      <name>
+        <charseq START="217" END="217">中</charseq>
+      </name>
+      <name>
+        <charseq START="262" END="262">华</charseq>
+      </name>
+      <name>
+        <charseq START="274" END="274">中</charseq>
+      </name>
+      <name>
+        <charseq START="293" END="293">中</charseq>
+      </name>
+      <name>
+        <charseq START="336" END="337">中国</charseq>
+      </name>
+      <name>
+        <charseq START="373" END="373">中</charseq>
+      </name>
+      <name>
+        <charseq START="403" END="404">中国</charseq>
+      </name>
+      <name>
+        <charseq START="493" END="494">中国</charseq>
+      </name>
+      <name>
+        <charseq START="54" END="55">中国</charseq>
+      </name>
+      <name>
+        <charseq START="65" END="66">中国</charseq>
+      </name>
+      <name>
+        <charseq START="123" END="124">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE12">
+  <entity ID="chtb_184.man-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="202" END="202">美</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="202">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-14" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="218" END="218">美</charseq>
+      </extent>
+      <head>
+        <charseq START="218" END="218">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-17" TYPE="NOM" ROLE="ORG">
+      <extent>
+        <charseq START="256" END="259">美国政府</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="259">政府</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-18" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="256" END="257">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="257">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-22" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="275" END="275">美</charseq>
+      </extent>
+      <head>
+        <charseq START="275" END="275">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-26" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="294" END="294">美</charseq>
+      </extent>
+      <head>
+        <charseq START="294" END="294">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-34" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="331" END="334">美国政府</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="334">政府</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-35" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="331" END="332">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="332">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-41" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="374" END="374">美</charseq>
+      </extent>
+      <head>
+        <charseq START="374" END="374">美</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-50" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="480" END="481">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="480" END="481">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-63" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="57" END="58">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="57" END="58">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-69" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="77" END="78">美国</charseq>
+      </extent>
+      <head>
+        <charseq START="77" END="78">美国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="202" END="202">美</charseq>
+      </name>
+      <name>
+        <charseq START="218" END="218">美</charseq>
+      </name>
+      <name>
+        <charseq START="256" END="257">美国</charseq>
+      </name>
+      <name>
+        <charseq START="275" END="275">美</charseq>
+      </name>
+      <name>
+        <charseq START="294" END="294">美</charseq>
+      </name>
+      <name>
+        <charseq START="331" END="332">美国</charseq>
+      </name>
+      <name>
+        <charseq START="374" END="374">美</charseq>
+      </name>
+      <name>
+        <charseq START="480" END="481">美国</charseq>
+      </name>
+      <name>
+        <charseq START="57" END="58">美国</charseq>
+      </name>
+      <name>
+        <charseq START="77" END="78">美国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE13">
+  <entity ID="chtb_184.man-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="15-48" TYPE="EPM">
+      <extent>
+        <charseq START="478" END="487">居住美国的华侨、华人</charseq>
+      </extent>
+      <head>
+        <charseq START="478" END="487">居住美国的华侨、华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-49" TYPE="PMM">
+      <extent>
+        <charseq START="483" END="487">华侨、华人</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="487">华侨、华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-65" TYPE="EPM">
+      <extent>
+        <charseq START="75" END="84">在
+美国的华侨、华人</charseq>
+      </extent>
+      <head>
+        <charseq START="75" END="84">在
+美国的华侨、华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-66" TYPE="PMM">
+      <extent>
+        <charseq START="80" END="84">华侨、华人</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="84">华侨、华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-70" TYPE="PRO">
+      <extent>
+        <charseq START="93" END="94">他们</charseq>
+      </extent>
+      <head>
+        <charseq START="93" END="94">他们</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-73" TYPE="PMM">
+      <extent>
+        <charseq START="113" END="117">华侨和华人</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="117">华侨和华人</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE14">
+  <entity ID="chtb_184.man-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="16-2" TYPE="NOM">
+      <extent>
+        <charseq START="113" END="114">华侨</charseq>
+      </extent>
+      <head>
+        <charseq START="113" END="114">华侨</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-51" TYPE="NOM">
+      <extent>
+        <charseq START="483" END="484">华侨</charseq>
+      </extent>
+      <head>
+        <charseq START="483" END="484">华侨</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="16-67" TYPE="NOM">
+      <extent>
+        <charseq START="80" END="81">华侨</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="81">华侨</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_184.man-CE15">
+  <entity ID="chtb_184.man-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="17-3" TYPE="NOM">
+      <extent>
+        <charseq START="116" END="117">华人</charseq>
+      </extent>
+      <head>
+        <charseq START="116" END="117">华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-52" TYPE="NOM">
+      <extent>
+        <charseq START="486" END="487">华人</charseq>
+      </extent>
+      <head>
+        <charseq START="486" END="487">华人</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-68" TYPE="NOM">
+      <extent>
+        <charseq START="83" END="84">华人</charseq>
+      </extent>
+      <head>
+        <charseq START="83" END="84">华人</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="chtb_184.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="33" END="37">本报华盛顿</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_184.man-E7" ENTITYMENTIONID="7-1" ARGNUM="1">
+      <extent>
+        <charseq START="33" END="34">本报</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_184.man-E8" ENTITYMENTIONID="8-55" ARGNUM="2">
+      <extent>
+        <charseq START="35" END="37">华盛顿</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_184.man-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="54" END="60">中国驻美国大使</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_184.man-E12" ENTITYMENTIONID="12-61" ARGNUM="1">
+      <extent>
+        <charseq START="54" END="60">中国驻美国大使</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_184.man-E13" ENTITYMENTIONID="13-62" ARGNUM="2">
+      <extent>
+        <charseq START="54" END="55">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_184.man-R3" TYPE="DISC">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="313" END="316">亚太地区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_184.man-E4" ENTITYMENTIONID="4-31" ARGNUM="1">
+      <extent>
+        <charseq START="313" END="313">亚</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_184.man-E3" ENTITYMENTIONID="3-29" ARGNUM="2">
+      <extent>
+        <charseq START="313" END="316">亚太地区</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_184.man-R4" TYPE="DISC">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="313" END="316">亚太地区</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_184.man-E5" ENTITYMENTIONID="5-32" ARGNUM="1">
+      <extent>
+        <charseq START="314" END="314">太</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_184.man-E3" ENTITYMENTIONID="3-29" ARGNUM="2">
+      <extent>
+        <charseq START="313" END="316">亚太地区</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_184.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="54" END="60">中国驻美国大使</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_184.man-E12" ENTITYMENTIONID="12-61" ARGNUM="1">
+      <extent>
+        <charseq START="54" END="60">中国驻美国大使</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_184.man-E14" ENTITYMENTIONID="14-63" ARGNUM="2">
+      <extent>
+        <charseq START="57" END="58">美国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

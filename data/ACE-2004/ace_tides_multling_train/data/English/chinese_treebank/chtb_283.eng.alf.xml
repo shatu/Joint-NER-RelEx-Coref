@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_283.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_283.eng">
+<composite_entity ID="chtb_283.eng-CE1">
+  <entity ID="chtb_283.eng-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NAM">
+      <extent>
+        <charseq START="404" END="417">mayor Ju Huang</charseq>
+      </extent>
+      <head>
+        <charseq START="410" END="417">Ju Huang</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="410" END="417">Ju Huang</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_283.eng-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-3" TYPE="PRE">
+      <extent>
+        <charseq START="404" END="408">mayor</charseq>
+      </extent>
+      <head>
+        <charseq START="404" END="408">mayor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE2">
+  <entity ID="chtb_283.eng-E3" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="3-7" TYPE="NOM">
+      <extent>
+        <charseq START="453" END="466">his delegation</charseq>
+      </extent>
+      <head>
+        <charseq START="457" END="466">delegation</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE3">
+  <entity ID="chtb_283.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="4-11" TYPE="NAM">
+      <extent>
+        <charseq START="547" END="597">the
+Minhang China-Malaysia joint-venture enterprise</charseq>
+      </extent>
+      <head>
+        <charseq START="551" END="597">Minhang China-Malaysia joint-venture enterprise</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="551" END="597">Minhang China-Malaysia joint-venture enterprise</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE4">
+  <entity ID="chtb_283.eng-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="14-17" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="172" END="180">Malaysian</charseq>
+      </extent>
+      <head>
+        <charseq START="172" END="180">Malaysian</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE5">
+  <entity ID="chtb_283.eng-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-8" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="622" END="627">Pudong</charseq>
+      </extent>
+      <head>
+        <charseq START="622" END="627">Pudong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="622" END="627">Pudong</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE6">
+  <entity ID="chtb_283.eng-E6" TYPE="GPE" SUBTYPE="County-or-District" CLASS="ATR">
+    <entity_mention ID="6-10" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="631" END="638">Jingqiao</charseq>
+      </extent>
+      <head>
+        <charseq START="631" END="638">Jingqiao</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_283.eng-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+    <entity_mention ID="7-9" TYPE="NOM" ROLE="LOC">
+      <extent>
+        <charseq START="622" END="665">Pudong's Jingqiao export processing district</charseq>
+      </extent>
+      <head>
+        <charseq START="658" END="665">district</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE7">
+  <entity ID="chtb_283.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="8-1" TYPE="NAM">
+      <extent>
+        <charseq START="103" END="120">Xinhua News Agency</charseq>
+      </extent>
+      <head>
+        <charseq START="103" END="120">Xinhua News Agency</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="103" END="120">Xinhua News Agency</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE8">
+  <entity ID="chtb_283.eng-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-12" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="123" END="130">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="123" END="130">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-19" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="256" END="263">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="263">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-22" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="295" END="302">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="295" END="302">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="369" END="376">Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="369" END="376">Shanghai</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="123" END="130">Shanghai</charseq>
+      </name>
+      <name>
+        <charseq START="256" END="263">Shanghai</charseq>
+      </name>
+      <name>
+        <charseq START="295" END="302">Shanghai</charseq>
+      </name>
+      <name>
+        <charseq START="369" END="376">Shanghai</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE9">
+  <entity ID="chtb_283.eng-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-13" TYPE="NAM">
+      <extent>
+        <charseq START="149" END="169">reporter Jierong Zhou</charseq>
+      </extent>
+      <head>
+        <charseq START="158" END="169">Jierong Zhou</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="158" END="169">Jierong Zhou</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_283.eng-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-14" TYPE="PRE">
+      <extent>
+        <charseq START="149" END="156">reporter</charseq>
+      </extent>
+      <head>
+        <charseq START="149" END="156">reporter</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE10">
+  <entity ID="chtb_283.eng-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-4" TYPE="NAM">
+      <extent>
+        <charseq START="443" END="447">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="443" END="447">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-5" TYPE="PRO">
+      <extent>
+        <charseq START="453" END="455">his</charseq>
+      </extent>
+      <head>
+        <charseq START="453" END="455">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-6" TYPE="NAM">
+      <extent>
+        <charseq START="498" END="502">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="498" END="502">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-15" TYPE="NAM">
+      <extent>
+        <charseq START="172" END="206">Malaysian vice-prime minister Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="202" END="206">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-21" TYPE="NAM">
+      <extent>
+        <charseq START="278" END="282">Anwar</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="282">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="202" END="206">Anwar</charseq>
+      </name>
+      <name>
+        <charseq START="278" END="282">Anwar</charseq>
+      </name>
+      <name>
+        <charseq START="443" END="447">Anwar</charseq>
+      </name>
+      <name>
+        <charseq START="498" END="502">Anwar</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_283.eng-E13" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="13-16" TYPE="PRE">
+      <extent>
+        <charseq START="172" END="200">Malaysian vice-prime minister</charseq>
+      </extent>
+      <head>
+        <charseq START="193" END="200">minister</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE11">
+  <entity ID="chtb_283.eng-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="225" END="229">China</charseq>
+      </extent>
+      <head>
+        <charseq START="225" END="229">China</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="225" END="229">China</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE12">
+  <entity ID="chtb_283.eng-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="16-20" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="269" END="273">Tokyo</charseq>
+      </extent>
+      <head>
+        <charseq START="269" END="273">Tokyo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="269" END="273">Tokyo</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE13">
+  <entity ID="chtb_283.eng-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="17-23" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="309" END="315">Nanjing</charseq>
+      </extent>
+      <head>
+        <charseq START="309" END="315">Nanjing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="309" END="315">Nanjing</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_283.eng-CE14">
+  <entity ID="chtb_283.eng-E18" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="18-24" TYPE="APP">
+      <extent>
+        <charseq START="351" END="390">the vice-mayor of Shanghai, Qizheng Zhao</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="18-25" TYPE="NOM">
+      <extent>
+        <charseq START="351" END="376">the vice-mayor of Shanghai</charseq>
+      </extent>
+      <head>
+        <charseq START="360" END="364">mayor</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="chtb_283.eng-E19" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="19-26" TYPE="NAM">
+      <extent>
+        <charseq START="379" END="390">Qizheng Zhao</charseq>
+      </extent>
+      <head>
+        <charseq START="379" END="390">Qizheng Zhao</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="379" END="390">Qizheng Zhao</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_283.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="172" END="229">Malaysian vice-prime minister Anwar ended a visit to China</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E12" ENTITYMENTIONID="12-15" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="206">Malaysian vice-prime minister Anwar</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E15" ENTITYMENTIONID="15-18" ARGNUM="2">
+      <extent>
+        <charseq START="225" END="229">China</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="278" END="302">Anwar arrived in Shanghai</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E12" ENTITYMENTIONID="12-21" ARGNUM="1">
+      <extent>
+        <charseq START="278" END="282">Anwar</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E9" ENTITYMENTIONID="9-22" ARGNUM="2">
+      <extent>
+        <charseq START="295" END="302">Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R3" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="278" END="315">Anwar arrived in Shanghai from Nanjing</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E12" ENTITYMENTIONID="12-21" ARGNUM="1">
+      <extent>
+        <charseq START="278" END="282">Anwar</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E17" ENTITYMENTIONID="17-23" ARGNUM="2">
+      <extent>
+        <charseq START="309" END="315">Nanjing</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="172" END="200">Malaysian vice-prime minister</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E13" ENTITYMENTIONID="13-16" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="200">Malaysian vice-prime minister</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E14" ENTITYMENTIONID="14-17" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="180">Malaysian</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="351" END="376">the vice-mayor of Shanghai</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E18" ENTITYMENTIONID="18-25" ARGNUM="1">
+      <extent>
+        <charseq START="351" END="376">the vice-mayor of Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E9" ENTITYMENTIONID="9-27" ARGNUM="2">
+      <extent>
+        <charseq START="369" END="376">Shanghai</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R6" TYPE="PER-SOC" SUBTYPE="Business">
+  <relation_mention ID="6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="453" END="466">his delegation</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E12" ENTITYMENTIONID="12-5" ARGNUM="1">
+      <extent>
+        <charseq START="453" END="455">his</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E3" ENTITYMENTIONID="3-7" ARGNUM="2">
+      <extent>
+        <charseq START="453" END="466">his delegation</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_283.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="622" END="665">Pudong's Jingqiao export processing district</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E7" ENTITYMENTIONID="7-9" ARGNUM="1">
+      <extent>
+        <charseq START="622" END="665">Pudong's Jingqiao export processing district</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_283.eng-E5" ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="622" END="627">Pudong</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

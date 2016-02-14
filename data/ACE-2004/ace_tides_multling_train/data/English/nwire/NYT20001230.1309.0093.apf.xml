@@ -1,0 +1,730 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="NYT20001230.1309.0093.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NYT20001230.1309.0093">
+<entity ID="NYT20001230.1309.0093-E1" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1573" END="1609">American Zoo and Aquarium Association</charseq>
+    </extent>
+    <head>
+      <charseq START="1573" END="1609">American Zoo and Aquarium Association</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1573" END="1609">American Zoo and Aquarium Association</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1614" END="1618">Keele</charseq>
+    </extent>
+    <head>
+      <charseq START="1614" END="1618">Keele</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1621" END="1671">an assistant director at the Oregon Zoo in Portland</charseq>
+    </extent>
+    <head>
+      <charseq START="1634" END="1641">director</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1500" END="1509">Mike Keele</charseq>
+    </extent>
+    <head>
+      <charseq START="1500" END="1509">Mike Keele</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1512" END="1609">the coordinator for the elephant species
+survival program of American Zoo and Aquarium Association</charseq>
+    </extent>
+    <head>
+      <charseq START="1516" END="1526">coordinator</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1614" END="1618">Keele</charseq>
+    </name>
+    <name>
+      <charseq START="1500" END="1509">Mike Keele</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E3" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1646" END="1671">the Oregon Zoo in Portland</charseq>
+    </extent>
+    <head>
+      <charseq START="1650" END="1659">Oregon Zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1650" END="1659">Oregon Zoo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1664" END="1671">Portland</charseq>
+    </extent>
+    <head>
+      <charseq START="1664" END="1671">Portland</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1664" END="1671">Portland</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="287" END="293">SEATTLE</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="293">SEATTLE</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1766" END="1772">Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="1766" END="1772">Seattle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2562" END="2568">Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="2562" END="2568">Seattle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-33" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="380" END="386">Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="386">Seattle</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1377" END="1383">Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="1377" END="1383">Seattle</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="287" END="293">SEATTLE</charseq>
+    </name>
+    <name>
+      <charseq START="380" END="386">Seattle</charseq>
+    </name>
+    <name>
+      <charseq START="1377" END="1383">Seattle</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E6" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="6-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1964" END="1978">a flatbed truck</charseq>
+    </extent>
+    <head>
+      <charseq START="1974" END="1978">truck</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E7" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1996" END="2036">the Dickerson Park Zoo in
+Springfield, Mo</charseq>
+    </extent>
+    <head>
+      <charseq START="2000" END="2017">Dickerson Park Zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2000" END="2017">Dickerson Park Zoo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2022" END="2036">Springfield, Mo</charseq>
+    </extent>
+    <head>
+      <charseq START="2022" END="2032">Springfield</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2022" END="2032">Springfield</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E9" TYPE="PER" CLASS="USP">
+  <entity_mention ID="9-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2232" END="2244">zoo officials</charseq>
+    </extent>
+    <head>
+      <charseq START="2236" END="2244">officials</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E10" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="10-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1912" END="1918">the zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="1916" END="1918">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-18" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2232" END="2234">zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="2232" END="2234">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2558" END="2572">the Seattle zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="2570" END="2572">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2674" END="2680">The zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="2678" END="2680">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2788" END="2794">the zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="2792" END="2794">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="679" END="681">its</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="681">its</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2746" END="2759">David L. Towne</charseq>
+    </extent>
+    <head>
+      <charseq START="2746" END="2759">David L. Towne</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-24" TYPE="NOM" LDCTYPE="MWH" LDCATR="TRUE">
+    <extent>
+      <charseq START="2762" END="2794">president and director of the zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="2762" END="2783">president and director</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="12-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2852" END="2856">Towne</charseq>
+    </extent>
+    <head>
+      <charseq START="2852" END="2856">Towne</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2746" END="2759">David L. Towne</charseq>
+    </name>
+    <name>
+      <charseq START="2852" END="2856">Towne</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E14" TYPE="PER" CLASS="USP">
+  <entity_mention ID="14-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2805" END="2904">The person who submits the winning name, which Towne said should
+evoke the elephant's Asian heritage</charseq>
+    </extent>
+    <head>
+      <charseq START="2809" END="2814">person</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-27" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2816" END="2818">who</charseq>
+    </extent>
+    <head>
+      <charseq START="2816" END="2818">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2938" END="2965">Thailand, where Chai is from</charseq>
+    </extent>
+    <head>
+      <charseq START="2938" END="2945">Thailand</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-31" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="2948" END="2952">where</charseq>
+    </extent>
+    <head>
+      <charseq START="2948" END="2952">where</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2938" END="2945">Thailand</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E17" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="17-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1762" END="1776">the Seattle zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="1774" END="1776">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="355" END="386">the Woodland Park Zoo in Seattle</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="375">Woodland Park Zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="668" END="674">the zoo</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="674">zoo</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="359" END="375">Woodland Park Zoo</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="18-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="476" END="484">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="484">world</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1141" END="1149">the world</charseq>
+    </extent>
+    <head>
+      <charseq START="1145" END="1149">world</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E19" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="19-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2035" END="2036">Mo</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2036">Mo</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="589" END="596">Missouri</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="596">Missouri</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2035" END="2036">Mo</charseq>
+    </name>
+    <name>
+      <charseq START="589" END="596">Missouri</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NYT20001230.1309.0093-E20" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="20-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1828" END="1832">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="1828" END="1832">Asian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="2891" END="2895">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="2891" END="2895">Asian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-36" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="630" END="634">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="634">Asian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-43" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1273" END="1277">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="1273" END="1277">Asian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-47" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1401" END="1405">Asian</charseq>
+    </extent>
+    <head>
+      <charseq START="1401" END="1405">Asian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E21" TYPE="PER" CLASS="USP">
+  <entity_mention ID="21-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="837" END="849">some visitors</charseq>
+    </extent>
+    <head>
+      <charseq START="842" END="849">visitors</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E22" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="22-40" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1117" END="1351">elephant experts around the world, who consider any successful
+experiment in breeding an important victory because elephants are
+endangered, especially the Asian species, whose numbers have
+declined steadily to about 40,000 in the wild</charseq>
+    </extent>
+    <head>
+      <charseq START="1126" END="1132">experts</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-41" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1152" END="1154">who</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1154">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E23" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="USP">
+  <entity_mention ID="23-45" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1425" END="1443">North American zoos</charseq>
+    </extent>
+    <head>
+      <charseq START="1440" END="1443">zoos</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NYT20001230.1309.0093-E24" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="24-46" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1425" END="1438">North American</charseq>
+    </extent>
+    <head>
+      <charseq START="1425" END="1438">North American</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="NYT20001230.1309.0093-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E5" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="355" END="386">the Woodland Park Zoo in Seattle</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-32" ARGNUM="1">
+      <extent>
+        <charseq START="355" END="386">the Woodland Park Zoo in Seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-33" ARGNUM="2">
+      <extent>
+        <charseq START="380" END="386">Seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1762" END="1776">the Seattle zoo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-9" ARGNUM="1">
+      <extent>
+        <charseq START="1762" END="1776">the Seattle zoo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-10" ARGNUM="2">
+      <extent>
+        <charseq START="1766" END="1772">Seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E18" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1117" END="1351">elephant experts around the world, who consider any successful
+experiment in breeding an important victory because elephants are
+endangered, especially the Asian species, whose numbers have
+declined steadily to about 40,000 in the wild</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-40" ARGNUM="1">
+      <extent>
+        <charseq START="1117" END="1351">elephant experts around the world, who consider any successful
+experiment in breeding an important victory because elephants are
+endangered, especially the Asian species, whose numbers have
+declined steadily to about 40,000 in the wild</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-42" ARGNUM="2">
+      <extent>
+        <charseq START="1141" END="1149">the world</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E23" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E24" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1425" END="1443">North American zoos</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="23-45" ARGNUM="1">
+      <extent>
+        <charseq START="1425" END="1443">North American zoos</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-46" ARGNUM="2">
+      <extent>
+        <charseq START="1425" END="1438">North American</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E1" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1512" END="1609">the coordinator for the elephant species
+survival program of American Zoo and Aquarium Association</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-49" ARGNUM="1">
+      <extent>
+        <charseq START="1512" END="1609">the coordinator for the elephant species
+survival program of American Zoo and Aquarium Association</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="2">
+      <extent>
+        <charseq START="1573" END="1609">American Zoo and Aquarium Association</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R5" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E4" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1646" END="1671">the Oregon Zoo in Portland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="1646" END="1671">the Oregon Zoo in Portland</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="2">
+      <extent>
+        <charseq START="1664" END="1671">Portland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E3" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1621" END="1671">an assistant director at the Oregon Zoo in Portland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-5" ARGNUM="1">
+      <extent>
+        <charseq START="1621" END="1671">an assistant director at the Oregon Zoo in Portland</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="1646" END="1671">the Oregon Zoo in Portland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R8" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E19" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="2022" END="2036">Springfield, Mo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="1">
+      <extent>
+        <charseq START="2022" END="2036">Springfield, Mo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-16" ARGNUM="2">
+      <extent>
+        <charseq START="2035" END="2036">Mo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R9" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E8" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1996" END="2036">the Dickerson Park Zoo in
+Springfield, Mo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-14" ARGNUM="1">
+      <extent>
+        <charseq START="1996" END="2036">the Dickerson Park Zoo in
+Springfield, Mo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-15" ARGNUM="2">
+      <extent>
+        <charseq START="2022" END="2036">Springfield, Mo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E10" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2232" END="2244">zoo officials</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-17" ARGNUM="1">
+      <extent>
+        <charseq START="2232" END="2244">zoo officials</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-18" ARGNUM="2">
+      <extent>
+        <charseq START="2232" END="2234">zoo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E5" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="2558" END="2572">the Seattle zoo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-19" ARGNUM="1">
+      <extent>
+        <charseq START="2558" END="2572">the Seattle zoo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-20" ARGNUM="2">
+      <extent>
+        <charseq START="2562" END="2568">Seattle</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R12" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E10" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="2762" END="2794">president and director of the zoo</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-24" ARGNUM="1">
+      <extent>
+        <charseq START="2762" END="2794">president and director of the zoo</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-22" ARGNUM="2">
+      <extent>
+        <charseq START="2788" END="2794">the zoo</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="NYT20001230.1309.0093-R13" TYPE="METONYMY">
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="NYT20001230.1309.0093-E17" ARGNUM="2" />
+</relation>
+</document>
+</source_file>

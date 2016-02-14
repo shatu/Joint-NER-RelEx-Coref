@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0111.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0111.eng">
+<entity ID="20000815_AFP_ARB.0111.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="143" END="156">Hydra (Greece)</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="147">Hydra</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="143" END="147">Hydra</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="150" END="155">Greece</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="155">Greece</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="172" END="177">Greece</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="177">Greece</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="150" END="155">Greece</charseq>
+    </name>
+    <name>
+      <charseq START="172" END="177">Greece</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="164" END="166">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="166">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="164" END="166">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="172" END="196">Greece's Foreign Minister</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="196">Minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="198" END="214">George Papandreou</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="214">George Papandreou</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="198" END="214">George Papandreou</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="271" END="347">Palestinian Minister for Planning and
+International Cooperation, Nabil Shaath</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="347">Nabil Shaath</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-9" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="271" END="333">Palestinian Minister for Planning and
+International Cooperation</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="290">Minister</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="336" END="347">Nabil Shaath</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E8" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="8-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="271" END="281">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="281">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-11" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="355" END="370">the Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="370">Palestinians</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-12" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="398" END="408">their state</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="408">state</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0111.eng-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="443" END="448">Israel</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="448">Israel</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="443" END="448">Israel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000815_AFP_ARB.0111.eng-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E2" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="143" END="156">Hydra (Greece)</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-1" ARGNUM="1">
+      <extent>
+        <charseq START="143" END="156">Hydra (Greece)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="150" END="155">Greece</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0111.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E2" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="172" END="196">Greece's Foreign Minister</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-5" ARGNUM="1">
+      <extent>
+        <charseq START="172" END="196">Greece's Foreign Minister</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-6" ARGNUM="2">
+      <extent>
+        <charseq START="172" END="177">Greece</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0111.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0111.eng-E8" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="271" END="333">Palestinian Minister for Planning and
+International Cooperation</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-9" ARGNUM="1">
+      <extent>
+        <charseq START="271" END="333">Palestinian Minister for Planning and
+International Cooperation</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-10" ARGNUM="2">
+      <extent>
+        <charseq START="271" END="281">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

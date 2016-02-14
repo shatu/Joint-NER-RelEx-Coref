@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0176.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0176.eng">
+<entity ID="20001115_AFP_ARB.0176.eng-E1" TYPE="ORG" SUBTYPE="Non-Profit" CLASS="SPC">
+  <entity_mention ID="1-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1195" END="1198">MEES</charseq>
+    </extent>
+    <head>
+      <charseq START="1195" END="1198">MEES</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1385" END="1386">It</charseq>
+    </extent>
+    <head>
+      <charseq START="1385" END="1386">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1855" END="1858">MEES</charseq>
+    </extent>
+    <head>
+      <charseq START="1855" END="1858">MEES</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2027" END="2030">MEES</charseq>
+    </extent>
+    <head>
+      <charseq START="2027" END="2030">MEES</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1855" END="1858">MEES</charseq>
+    </name>
+    <name>
+      <charseq START="2027" END="2030">MEES</charseq>
+    </name>
+    <name>
+      <charseq START="1195" END="1198">MEES</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="2-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1256" END="1273">the
+United Nations</charseq>
+    </extent>
+    <head>
+      <charseq START="1260" END="1273">United Nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-16" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1573" END="1586">United Nations</charseq>
+    </extent>
+    <head>
+      <charseq START="1573" END="1586">United Nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-30" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="352" END="365">United Nations</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="365">United Nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-36" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="615" END="628">United Nations</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="628">United Nations</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1260" END="1273">United Nations</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="3-2" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1058" END="1061">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1061">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1117" END="1130">its population</charseq>
+    </extent>
+    <head>
+      <charseq START="1121" END="1130">population</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-4" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1117" END="1119">its</charseq>
+    </extent>
+    <head>
+      <charseq START="1117" END="1119">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-5" TYPE="PRO" LDCTYPE="WHQ" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1133" END="1137">which</charseq>
+    </extent>
+    <head>
+      <charseq START="1133" END="1137">which</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-7" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1209" END="1215">Baghdad</charseq>
+    </extent>
+    <head>
+      <charseq START="1209" END="1215">Baghdad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-8" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="875" END="894">the Iraqi government</charseq>
+    </extent>
+    <head>
+      <charseq START="885" END="894">government</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-10" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1290" END="1294">Iraqi</charseq>
+    </extent>
+    <head>
+      <charseq START="1290" END="1294">Iraqi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-17" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1621" END="1625">Iraqi</charseq>
+    </extent>
+    <head>
+      <charseq START="1621" END="1625">Iraqi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-18" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1759" END="1762">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="1759" END="1762">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-20" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1909" END="1913">Iraqi</charseq>
+    </extent>
+    <head>
+      <charseq START="1909" END="1913">Iraqi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-21" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="1959" END="1965">Baghdad</charseq>
+    </extent>
+    <head>
+      <charseq START="1959" END="1965">Baghdad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-23" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2055" END="2058">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="2055" END="2058">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-25" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="879" END="883">Iraqi</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="883">Iraqi</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-27" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="215" END="218">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="218">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-29" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="230" END="232">its</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="232">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="490" END="493">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="493">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="3-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="758" END="761">Iraq</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="761">Iraq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1759" END="1762">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="2055" END="2058">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="215" END="218">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="490" END="493">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="758" END="761">Iraq</charseq>
+    </name>
+    <name>
+      <charseq START="1058" END="1061">Iraq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="4-12" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1399" END="1407">companies</charseq>
+    </extent>
+    <head>
+      <charseq START="1399" END="1407">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1465" END="1468">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1465" END="1468">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2120" END="2153">the International Security Council</charseq>
+    </extent>
+    <head>
+      <charseq START="2124" END="2153">International Security Council</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="2124" END="2153">International Security Council</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="6-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="106" END="112">Nicosia</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="112">Nicosia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="419" END="425">Nicosia</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="425">Nicosia</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="419" END="425">Nicosia</charseq>
+    </name>
+    <name>
+      <charseq START="106" END="112">Nicosia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="7-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="115" END="117">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="117">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="115" END="117">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="8-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="230" END="240">its clients</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="240">clients</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="490" END="503">Iraq's clients</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="503">clients</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="758" END="771">Iraq's clients</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="771">clients</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="11-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1422" END="1458">the Oil Marketing Organization
+(SOMO)</charseq>
+    </extent>
+    <head>
+      <charseq START="1426" END="1451">Oil Marketing Organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1454" END="1457">SOMO</charseq>
+    </extent>
+    <head>
+      <charseq START="1454" END="1457">SOMO</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="441" END="477">the Oil
+Marketing Organization (SOMO)</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="470">Oil
+Marketing Organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="473" END="476">SOMO</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="476">SOMO</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="663" END="678">the organization</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="678">organization</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1426" END="1451">Oil Marketing Organization</charseq>
+    </name>
+    <name>
+      <charseq START="1454" END="1457">SOMO</charseq>
+    </name>
+    <name>
+      <charseq START="445" END="470">Oil
+Marketing Organization</charseq>
+    </name>
+    <name>
+      <charseq START="473" END="476">SOMO</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="13-38" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="692" END="724">oil companies who
+refuse to do so</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="704">companies</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-39" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="706" END="708">who</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="708">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="14-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="954" END="964">BNP-Paribas</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="964">BNP-Paribas</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="954" END="964">BNP-Paribas</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0176.eng-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="15-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="984" END="991">New York</charseq>
+    </extent>
+    <head>
+      <charseq START="984" END="991">New York</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="984" END="991">New York</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20001115_AFP_ARB.0176.eng-R1" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0176.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0176.eng-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="490" END="503">Iraq's clients</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-34" ARGNUM="1">
+      <extent>
+        <charseq START="490" END="493">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-35" ARGNUM="2">
+      <extent>
+        <charseq START="490" END="503">Iraq's clients</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="1-2" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="758" END="771">Iraq's clients</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-41" ARGNUM="1">
+      <extent>
+        <charseq START="758" END="761">Iraq</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-40" ARGNUM="2">
+      <extent>
+        <charseq START="758" END="771">Iraq's clients</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0176.eng-R3" TYPE="GPE-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0176.eng-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0176.eng-E3" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="230" END="240">its clients</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-28" ARGNUM="1">
+      <extent>
+        <charseq START="230" END="240">its clients</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-29" ARGNUM="2">
+      <extent>
+        <charseq START="230" END="232">its</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

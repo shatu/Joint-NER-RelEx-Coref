@@ -1,0 +1,904 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0065.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0065.arb">
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE1">
+  <entity ID="20001115_AFP_ARB.0065.arb-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-5" TYPE="NOM">
+      <extent>
+        <charseq START="466" END="490">محامي الدفاع ريتشارد
+كيين</charseq>
+      </extent>
+      <head>
+        <charseq START="466" END="470">محامي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="1-9" TYPE="NOM">
+      <extent>
+        <charseq START="585" END="591">المحامي</charseq>
+      </extent>
+      <head>
+        <charseq START="585" END="591">المحامي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E2" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="2-6" TYPE="NAM">
+      <extent>
+        <charseq START="479" END="490">ريتشارد
+كيين</charseq>
+      </extent>
+      <head>
+        <charseq START="479" END="490">ريتشارد
+كيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="479" END="490">ريتشارد
+كيين</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE2">
+  <entity ID="20001115_AFP_ARB.0065.arb-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-8" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="539" END="555">الاتحاد السوفياتي</charseq>
+      </extent>
+      <head>
+        <charseq START="539" END="555">الاتحاد السوفياتي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="539" END="555">الاتحاد السوفياتي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE3">
+  <entity ID="20001115_AFP_ARB.0065.arb-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="764" END="769">السويد</charseq>
+      </extent>
+      <head>
+        <charseq START="764" END="769">السويد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="4-33" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="1227" END="1232">السويد</charseq>
+      </extent>
+      <head>
+        <charseq START="1227" END="1232">السويد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="764" END="769">السويد</charseq>
+      </name>
+      <name>
+        <charseq START="1227" END="1232">السويد</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE4">
+  <entity ID="20001115_AFP_ARB.0065.arb-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="5-16" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="798" END="805">امستردام</charseq>
+      </extent>
+      <head>
+        <charseq START="798" END="805">امستردام</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="798" END="805">امستردام</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE5">
+  <entity ID="20001115_AFP_ARB.0065.arb-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-17" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="808" END="815">كوبنهاغن</charseq>
+      </extent>
+      <head>
+        <charseq START="808" END="815">كوبنهاغن</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="808" END="815">كوبنهاغن</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE6">
+  <entity ID="20001115_AFP_ARB.0065.arb-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="7-18" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="818" END="825">ستوكهولم</charseq>
+      </extent>
+      <head>
+        <charseq START="818" END="825">ستوكهولم</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="818" END="825">ستوكهولم</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE7">
+  <entity ID="20001115_AFP_ARB.0065.arb-E8" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="8-19" TYPE="NOM">
+      <extent>
+        <charseq START="862" END="872">هيئة الدفاع</charseq>
+      </extent>
+      <head>
+        <charseq START="862" END="865">هيئة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-41" TYPE="NOM">
+      <extent>
+        <charseq START="1381" END="1391">هيئة الدفاع</charseq>
+      </extent>
+      <head>
+        <charseq START="1381" END="1384">هيئة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE8">
+  <entity ID="20001115_AFP_ARB.0065.arb-E10" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="10-43" TYPE="NOM">
+      <extent>
+        <charseq START="1461" END="1516">رئيس المحكمة رانالد ساذرلاند الذي رفع الجلسة لفترة قصيرة</charseq>
+      </extent>
+      <head>
+        <charseq START="1461" END="1464">رئيس</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-45" TYPE="WHQ">
+      <extent>
+        <charseq START="1490" END="1493">الذي</charseq>
+      </extent>
+      <head>
+        <charseq START="1490" END="1493">الذي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E11" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="11-44" TYPE="NAM">
+      <extent>
+        <charseq START="1474" END="1488">رانالد ساذرلاند</charseq>
+      </extent>
+      <head>
+        <charseq START="1474" END="1488">رانالد ساذرلاند</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1474" END="1488">رانالد ساذرلاند</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE9">
+  <entity ID="20001115_AFP_ARB.0065.arb-E12" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="12-46" TYPE="APP">
+      <extent>
+        <charseq START="1595" END="1655">الليبيان المشتبه فيهما الامين خليفة فحيمة وعبد الباسط المقرحي</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="12-47" TYPE="PRO">
+      <extent>
+        <charseq START="1590" END="1590">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="1590" END="1590">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-48" TYPE="NOM">
+      <extent>
+        <charseq START="1595" END="1616">الليبيان المشتبه فيهما</charseq>
+      </extent>
+      <head>
+        <charseq START="1595" END="1602">الليبيان</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-49" TYPE="PRO">
+      <extent>
+        <charseq START="1614" END="1616">هما</charseq>
+      </extent>
+      <head>
+        <charseq START="1614" END="1616">هما</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-52" TYPE="PRO">
+      <extent>
+        <charseq START="1660" END="1662">هما</charseq>
+      </extent>
+      <head>
+        <charseq START="1660" END="1662">هما</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-53" TYPE="PRO">
+      <extent>
+        <charseq START="1667" END="1667">ل</charseq>
+      </extent>
+      <head>
+        <charseq START="1667" END="1667">ل</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E14" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="14-50" TYPE="NAM">
+      <extent>
+        <charseq START="1618" END="1635">الامين خليفة فحيمة</charseq>
+      </extent>
+      <head>
+        <charseq START="1618" END="1635">الامين خليفة فحيمة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1618" END="1635">الامين خليفة فحيمة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E15" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="15-51" TYPE="NAM">
+      <extent>
+        <charseq START="1638" END="1655">عبد الباسط المقرحي</charseq>
+      </extent>
+      <head>
+        <charseq START="1638" END="1655">عبد الباسط المقرحي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1638" END="1655">عبد الباسط المقرحي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE10">
+  <entity ID="20001115_AFP_ARB.0065.arb-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="16-54" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1673" END="1677">مالطا</charseq>
+      </extent>
+      <head>
+        <charseq START="1673" END="1677">مالطا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1673" END="1677">مالطا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE11">
+  <entity ID="20001115_AFP_ARB.0065.arb-E17" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+    <entity_mention ID="17-55" TYPE="NOM">
+      <extent>
+        <charseq START="1679" END="1723">القنبلة التي فجرت الطائرة التابعة لشركة بانام</charseq>
+      </extent>
+      <head>
+        <charseq START="1679" END="1685">القنبلة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-56" TYPE="WHQ">
+      <extent>
+        <charseq START="1687" END="1690">التي</charseq>
+      </extent>
+      <head>
+        <charseq START="1687" END="1690">التي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="17-57" TYPE="PRO">
+      <extent>
+        <charseq START="1695" END="1695">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="1695" END="1695">ت</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE12">
+  <entity ID="20001115_AFP_ARB.0065.arb-E18" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="18-58" TYPE="NOM">
+      <extent>
+        <charseq START="1697" END="1723">الطائرة التابعة لشركة بانام</charseq>
+      </extent>
+      <head>
+        <charseq START="1697" END="1703">الطائرة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE13">
+  <entity ID="20001115_AFP_ARB.0065.arb-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="19-59" TYPE="NAM">
+      <extent>
+        <charseq START="1713" END="1723">لشركة بانام</charseq>
+      </extent>
+      <head>
+        <charseq START="1719" END="1723">بانام</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1719" END="1723">بانام</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE14">
+  <entity ID="20001115_AFP_ARB.0065.arb-E20" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="20-62" TYPE="NOM">
+      <extent>
+        <charseq START="1800" END="1807">270 شخصا</charseq>
+      </extent>
+      <head>
+        <charseq START="1804" END="1807">شخصا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE15">
+  <entity ID="20001115_AFP_ARB.0065.arb-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="13-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="88" END="97">كامب زايست</charseq>
+      </extent>
+      <head>
+        <charseq START="88" END="97">كامب زايست</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-68" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="192" END="201">كامب زايست</charseq>
+      </extent>
+      <head>
+        <charseq START="192" END="201">كامب زايست</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="192" END="201">كامب زايست</charseq>
+      </name>
+      <name>
+        <charseq START="88" END="97">كامب زايست</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE16">
+  <entity ID="20001115_AFP_ARB.0065.arb-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="21-63" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="100" END="105">هولندا</charseq>
+      </extent>
+      <head>
+        <charseq START="100" END="105">هولندا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="21-69" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="204" END="209">هولندا</charseq>
+      </extent>
+      <head>
+        <charseq START="204" END="209">هولندا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="100" END="105">هولندا</charseq>
+      </name>
+      <name>
+        <charseq START="204" END="209">هولندا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE17">
+  <entity ID="20001115_AFP_ARB.0065.arb-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="22-64" TYPE="NAM">
+      <extent>
+        <charseq START="115" END="118">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="115" END="118">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="115" END="118">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE18">
+  <entity ID="20001115_AFP_ARB.0065.arb-E23" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="23-10" TYPE="NOM">
+      <extent>
+        <charseq START="596" END="601">القضاة</charseq>
+      </extent>
+      <head>
+        <charseq START="596" END="601">القضاة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-25" TYPE="NOM">
+      <extent>
+        <charseq START="1048" END="1053">القضاة</charseq>
+      </extent>
+      <head>
+        <charseq START="1048" END="1053">القضاة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-29" TYPE="NOM">
+      <extent>
+        <charseq START="1183" END="1188">القضاة</charseq>
+      </extent>
+      <head>
+        <charseq START="1183" END="1188">القضاة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-30" TYPE="PRO">
+      <extent>
+        <charseq START="1198" END="1199">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="1198" END="1199">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-38" TYPE="PRO">
+      <extent>
+        <charseq START="1334" END="1334">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="1334" END="1334">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-39" TYPE="NOM">
+      <extent>
+        <charseq START="1339" END="1344">القضاة</charseq>
+      </extent>
+      <head>
+        <charseq START="1339" END="1344">القضاة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-65" TYPE="NOM">
+      <extent>
+        <charseq START="132" END="172">قضاة المحكمة المكلفة النظر في قضية لوكربي</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="135">قضاة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-70" TYPE="PRO">
+      <extent>
+        <charseq START="233" END="234">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="233" END="234">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-71" TYPE="PRO">
+      <extent>
+        <charseq START="245" END="246">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="245" END="246">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="23-74" TYPE="PRO">
+      <extent>
+        <charseq START="278" END="279">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="278" END="279">هم</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE19">
+  <entity ID="20001115_AFP_ARB.0065.arb-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="24-3" TYPE="NOM">
+      <extent>
+        <charseq START="409" END="415">المحكمة</charseq>
+      </extent>
+      <head>
+        <charseq START="409" END="415">المحكمة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-26" TYPE="NOM">
+      <extent>
+        <charseq START="1074" END="1081">للمحكمة"</charseq>
+      </extent>
+      <head>
+        <charseq START="1074" END="1081">للمحكمة"</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-37" TYPE="PRE">
+      <extent>
+        <charseq START="1318" END="1324">المحكمة</charseq>
+      </extent>
+      <head>
+        <charseq START="1318" END="1324">المحكمة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="24-66" TYPE="PRE">
+      <extent>
+        <charseq START="137" END="172">المحكمة المكلفة النظر في قضية لوكربي</charseq>
+      </extent>
+      <head>
+        <charseq START="137" END="143">المحكمة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE20">
+  <entity ID="20001115_AFP_ARB.0065.arb-E25" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+    <entity_mention ID="25-20" TYPE="PRE">
+      <extent>
+        <charseq START="884" END="889">لوكربي</charseq>
+      </extent>
+      <head>
+        <charseq START="884" END="889">لوكربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-22" TYPE="PRE">
+      <extent>
+        <charseq START="917" END="922">لوكربي</charseq>
+      </extent>
+      <head>
+        <charseq START="917" END="922">لوكربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-60" TYPE="NAM">
+      <extent>
+        <charseq START="1729" END="1751">قرية لوكربي الاسكتلندية</charseq>
+      </extent>
+      <head>
+        <charseq START="1734" END="1739">لوكربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="25-67" TYPE="NAM">
+      <extent>
+        <charseq START="167" END="172">لوكربي</charseq>
+      </extent>
+      <head>
+        <charseq START="167" END="172">لوكربي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1734" END="1739">لوكربي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE21">
+  <entity ID="20001115_AFP_ARB.0065.arb-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="9-35" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="1269" END="1276">اسكتلندا</charseq>
+      </extent>
+      <head>
+        <charseq START="1269" END="1276">اسكتلندا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="1269" END="1276">اسكتلندا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="27-23" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="945" END="954">الاسكتلندي</charseq>
+      </extent>
+      <head>
+        <charseq START="945" END="954">الاسكتلندي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-28" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1115" END="1124">الاسكتلندي</charseq>
+      </extent>
+      <head>
+        <charseq START="1115" END="1124">الاسكتلندي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-61" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="1741" END="1751">الاسكتلندية</charseq>
+      </extent>
+      <head>
+        <charseq START="1741" END="1751">الاسكتلندية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="27-78" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="333" END="342">الاسكتلندي</charseq>
+      </extent>
+      <head>
+        <charseq START="333" END="342">الاسكتلندي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE22">
+  <entity ID="20001115_AFP_ARB.0065.arb-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="28-79" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="373" END="426">الفلسطيني محمود ابو طالب الذي تستمع المحكمة
+الى شهادته</charseq>
+      </extent>
+      <head>
+        <charseq START="373" END="381">الفلسطيني</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001115_AFP_ARB.0065.arb-CE23">
+  <entity ID="20001115_AFP_ARB.0065.arb-E26" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="26-7" TYPE="PRO">
+      <extent>
+        <charseq START="519" END="519">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="519" END="519">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-12" TYPE="NOM">
+      <extent>
+        <charseq START="694" END="699">للشاهد</charseq>
+      </extent>
+      <head>
+        <charseq START="694" END="699">للشاهد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-27" TYPE="PRO">
+      <extent>
+        <charseq START="1087" END="1087">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1087" END="1087">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-42" TYPE="NOM">
+      <extent>
+        <charseq START="1437" END="1442">الشاهد</charseq>
+      </extent>
+      <head>
+        <charseq START="1437" END="1442">الشاهد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-75" TYPE="PRO">
+      <extent>
+        <charseq START="290" END="290">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="290" END="290">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-76" TYPE="PRO">
+      <extent>
+        <charseq START="292" END="292">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="292" END="292">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="26-77" TYPE="PRO">
+      <extent>
+        <charseq START="320" END="320">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="320" END="320">ي</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001115_AFP_ARB.0065.arb-E29" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="29-2" TYPE="PRO">
+      <extent>
+        <charseq START="403" END="403">ت</charseq>
+      </extent>
+      <head>
+        <charseq START="403" END="403">ت</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-4" TYPE="PRO">
+      <extent>
+        <charseq START="426" END="426">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="426" END="426">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-11" TYPE="NAM">
+      <extent>
+        <charseq START="609" END="616">ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="609" END="616">ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-13" TYPE="NAM">
+      <extent>
+        <charseq START="713" END="720">ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="713" END="720">ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-15" TYPE="PRO">
+      <extent>
+        <charseq START="778" END="778">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="778" END="778">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-21" TYPE="PRO">
+      <extent>
+        <charseq START="905" END="905">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="905" END="905">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-24" TYPE="NAM">
+      <extent>
+        <charseq START="998" END="1005">ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="998" END="1005">ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-31" TYPE="NAM">
+      <extent>
+        <charseq START="1201" END="1208">ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="1201" END="1208">ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-32" TYPE="PRO">
+      <extent>
+        <charseq START="1225" END="1225">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1225" END="1225">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-34" TYPE="PRO">
+      <extent>
+        <charseq START="1263" END="1263">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1263" END="1263">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-36" TYPE="PRO">
+      <extent>
+        <charseq START="1298" END="1298">ه</charseq>
+      </extent>
+      <head>
+        <charseq START="1298" END="1298">ه</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-40" TYPE="NAM">
+      <extent>
+        <charseq START="1358" END="1365">ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="1358" END="1365">ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-72" TYPE="NOM">
+      <extent>
+        <charseq START="251" END="279">شاهد يرفض
+الاجابة على اسئلتهم</charseq>
+      </extent>
+      <head>
+        <charseq START="251" END="254">شاهد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-73" TYPE="PRO">
+      <extent>
+        <charseq START="256" END="256">ي</charseq>
+      </extent>
+      <head>
+        <charseq START="256" END="256">ي</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-80" TYPE="NAM">
+      <extent>
+        <charseq START="383" END="396">محمود ابو طالب</charseq>
+      </extent>
+      <head>
+        <charseq START="383" END="396">محمود ابو طالب</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="29-81" TYPE="WHQ">
+      <extent>
+        <charseq START="398" END="401">الذي</charseq>
+      </extent>
+      <head>
+        <charseq START="398" END="401">الذي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="609" END="616">ابو طالب</charseq>
+      </name>
+      <name>
+        <charseq START="713" END="720">ابو طالب</charseq>
+      </name>
+      <name>
+        <charseq START="998" END="1005">ابو طالب</charseq>
+      </name>
+      <name>
+        <charseq START="1201" END="1208">ابو طالب</charseq>
+      </name>
+      <name>
+        <charseq START="1358" END="1365">ابو طالب</charseq>
+      </name>
+      <name>
+        <charseq START="383" END="396">محمود ابو طالب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="20001115_AFP_ARB.0065.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="132" END="172">قضاة المحكمة المكلفة النظر في قضية لوكربي</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.arb-E23" ENTITYMENTIONID="23-65" ARGNUM="1">
+      <extent>
+        <charseq START="132" END="172">قضاة المحكمة المكلفة النظر في قضية لوكربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.arb-E24" ENTITYMENTIONID="24-66" ARGNUM="2">
+      <extent>
+        <charseq START="137" END="172">المحكمة المكلفة النظر في قضية لوكربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0065.arb-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1697" END="1723">الطائرة التابعة لشركة بانام</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.arb-E19" ENTITYMENTIONID="19-59" ARGNUM="1">
+      <extent>
+        <charseq START="1713" END="1723">لشركة بانام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001115_AFP_ARB.0065.arb-E18" ENTITYMENTIONID="18-58" ARGNUM="2">
+      <extent>
+        <charseq START="1697" END="1723">الطائرة التابعة لشركة بانام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="CNN20001103.1400.0554.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001103.1400.0554">
+<composite_entity ID="CNN20001103.1400.0554-CE1">
+  <entity ID="CNN20001103.1400.0554-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-2" TYPE="NOM">
+      <extent>
+        <charseq START="550" END="558">81 people</charseq>
+      </extent>
+      <head>
+        <charseq START="553" END="558">people</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE2">
+  <entity ID="CNN20001103.1400.0554-E2" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="2-3" TYPE="NOM">
+      <extent>
+        <charseq START="645" END="655">the airport</charseq>
+      </extent>
+      <head>
+        <charseq START="649" END="655">airport</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE3">
+  <entity ID="CNN20001103.1400.0554-E3" TYPE="PER" CLASS="USP">
+    <entity_mention ID="3-4" TYPE="BAR">
+      <extent>
+        <charseq START="681" END="703">air traffic controllers</charseq>
+      </extent>
+      <head>
+        <charseq START="693" END="703">controllers</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE4">
+  <entity ID="CNN20001103.1400.0554-E4" TYPE="FAC" SUBTYPE="Path" CLASS="ATR">
+    <entity_mention ID="4-1" TYPE="PRE">
+      <extent>
+        <charseq START="67" END="72">runway</charseq>
+      </extent>
+      <head>
+        <charseq START="67" END="72">runway</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE5">
+  <entity ID="CNN20001103.1400.0554-E5" TYPE="VEH" SUBTYPE="Air" CLASS="ATR">
+    <entity_mention ID="5-6" TYPE="PRE">
+      <extent>
+        <charseq START="109" END="113">plane</charseq>
+      </extent>
+      <head>
+        <charseq START="109" END="113">plane</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE6">
+  <entity ID="CNN20001103.1400.0554-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="6-7" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="124" END="129">taiwan</charseq>
+      </extent>
+      <head>
+        <charseq START="124" END="129">taiwan</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-24" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="526" END="531">taiwan</charseq>
+      </extent>
+      <head>
+        <charseq START="526" END="531">taiwan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="526" END="531">taiwan</charseq>
+      </name>
+      <name>
+        <charseq START="124" END="129">taiwan</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE7">
+  <entity ID="CNN20001103.1400.0554-E7" TYPE="PER" CLASS="USP">
+    <entity_mention ID="7-8" TYPE="BAR">
+      <extent>
+        <charseq START="132" END="144">investigators</charseq>
+      </extent>
+      <head>
+        <charseq START="132" END="144">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-19" TYPE="BAR">
+      <extent>
+        <charseq START="338" END="350">investigators</charseq>
+      </extent>
+      <head>
+        <charseq START="338" END="350">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-20" TYPE="PRO">
+      <extent>
+        <charseq START="356" END="359">they</charseq>
+      </extent>
+      <head>
+        <charseq START="356" END="359">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="7-21" TYPE="PRO">
+      <extent>
+        <charseq START="432" END="435">they</charseq>
+      </extent>
+      <head>
+        <charseq START="432" END="435">they</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE8">
+  <entity ID="CNN20001103.1400.0554-E8" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+    <entity_mention ID="8-9" TYPE="NOM">
+      <extent>
+        <charseq START="150" END="175">the singapore airlines jet</charseq>
+      </extent>
+      <head>
+        <charseq START="173" END="175">jet</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-12" TYPE="PRO">
+      <extent>
+        <charseq START="228" END="229">it</charseq>
+      </extent>
+      <head>
+        <charseq START="228" END="229">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-16" TYPE="NOM">
+      <extent>
+        <charseq START="269" END="277">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="273" END="277">plane</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-17" TYPE="PRO">
+      <extent>
+        <charseq START="376" END="377">it</charseq>
+      </extent>
+      <head>
+        <charseq START="376" END="377">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="8-18" TYPE="NOM">
+      <extent>
+        <charseq START="442" END="450">the plane</charseq>
+      </extent>
+      <head>
+        <charseq START="446" END="450">plane</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE9">
+  <entity ID="CNN20001103.1400.0554-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="ATR">
+    <entity_mention ID="9-10" TYPE="PRE">
+      <extent>
+        <charseq START="154" END="171">singapore airlines</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="171">singapore airlines</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE10">
+  <entity ID="CNN20001103.1400.0554-E10" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="10-11" TYPE="NAM">
+      <extent>
+        <charseq START="197" END="212">runway five-left</charseq>
+      </extent>
+      <head>
+        <charseq START="197" END="212">runway five-left</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="197" END="212">runway five-left</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE11">
+  <entity ID="CNN20001103.1400.0554-E11" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+    <entity_mention ID="11-13" TYPE="NAM">
+      <extent>
+        <charseq START="238" END="247">five-right</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="247">five-right</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-14" TYPE="APP">
+      <extent>
+        <charseq START="238" END="266">five-right. a parallel
+runway</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="11-22" TYPE="NOM">
+      <extent>
+        <charseq START="386" END="401">the
+wrong runway</charseq>
+      </extent>
+      <head>
+        <charseq START="396" END="401">runway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="238" END="247">five-right</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="CNN20001103.1400.0554-E12" TYPE="FAC" SUBTYPE="Path" CLASS="ATR">
+    <entity_mention ID="12-15" TYPE="NOM">
+      <extent>
+        <charseq START="250" END="266">a parallel
+runway</charseq>
+      </extent>
+      <head>
+        <charseq START="261" END="266">runway</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="CNN20001103.1400.0554-CE12">
+  <entity ID="CNN20001103.1400.0554-E13" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="13-5" TYPE="NOM">
+      <extent>
+        <charseq START="726" END="734">the pilot</charseq>
+      </extent>
+      <head>
+        <charseq START="730" END="734">pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-23" TYPE="NOM">
+      <extent>
+        <charseq START="499" END="507">the pilot</charseq>
+      </extent>
+      <head>
+        <charseq START="503" END="507">pilot</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="CNN20001103.1400.0554-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="150" END="175">the singapore airlines jet</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E9" ENTITYMENTIONID="9-10" ARGNUM="1">
+      <extent>
+        <charseq START="154" END="171">singapore airlines</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E8" ENTITYMENTIONID="8-9" ARGNUM="2">
+      <extent>
+        <charseq START="150" END="175">the singapore airlines jet</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0554-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="228" END="247">it was on five-right</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E8" ENTITYMENTIONID="8-12" ARGNUM="1">
+      <extent>
+        <charseq START="228" END="229">it</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E11" ENTITYMENTIONID="11-13" ARGNUM="2">
+      <extent>
+        <charseq START="238" END="247">five-right</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="376" END="401">it was on the
+wrong runway</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E8" ENTITYMENTIONID="8-17" ARGNUM="1">
+      <extent>
+        <charseq START="376" END="377">it</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E11" ENTITYMENTIONID="11-22" ARGNUM="2">
+      <extent>
+        <charseq START="386" END="401">the
+wrong runway</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001103.1400.0554-R4" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="4-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="499" END="531">the pilot is being kept
+in taiwan</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E13" ENTITYMENTIONID="13-23" ARGNUM="1">
+      <extent>
+        <charseq START="499" END="507">the pilot</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="CNN20001103.1400.0554-E6" ENTITYMENTIONID="6-24" ARGNUM="2">
+      <extent>
+        <charseq START="526" END="531">taiwan</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

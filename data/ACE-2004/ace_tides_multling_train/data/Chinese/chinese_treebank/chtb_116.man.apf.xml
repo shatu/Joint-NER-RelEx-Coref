@@ -1,0 +1,1676 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_116.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_116.man">
+<entity ID="chtb_116.man-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="140" END="143">南昌海关</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="143">海关</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="142" END="143">海关</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="146" END="147">卫检</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="147">卫检</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="146" END="147">卫检</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="150">商检</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="150">商检</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="149" END="150">商检</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="153" END="157">动植物检疫</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="157">动植物检疫</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="153" END="157">动植物检疫</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E6" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="6-105" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="170">南昌货运口岸</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="170">货运口岸</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="167" END="170">货运口岸</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E7" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="7-103" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="180">南昌货运口岸南昌港口岸货运管理区</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="180">南昌港口岸货运管理区</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="171" END="180">南昌港口岸货运管理区</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="186" END="189">当地官员</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="189">官员</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E10" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="10-13" TYPE="NAM" LDCTYPE="NAM" ROLE="FAC">
+    <extent>
+      <charseq START="211" END="213">广州港</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="213">港</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="213" END="213">港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="11-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="211" END="212">广州</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="212">广州</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="211" END="212">广州</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E12" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="12-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="215" END="218">上
+海港</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="218">港</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="218" END="218">港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="215" END="217">上
+海</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="217">上
+海</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="215" END="217">上
+海</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E14" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="14-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="238" END="242">赣北九江港</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="242">九江港</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="266" END="268">九江港</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="268">九江港</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="287">该港口</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="287">港口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="297" END="299">九江港</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="299">九江港</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="240" END="242">九江港</charseq>
+    </name>
+    <name>
+      <charseq START="266" END="268">九江港</charseq>
+    </name>
+    <name>
+      <charseq START="297" END="299">九江港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E15" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="15-18" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="238" END="239">赣北</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="239">北</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="295" END="296">赣北</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="296">北</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E16" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="16-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="257" END="259">南昌港</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="259">南昌港</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="262" END="278">江
+西继九江港之外的又一个“出海口</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="278">出海口</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="356" END="359">南昌港口</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="359">港口</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="257" END="259">南昌港</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E18" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="18-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="290">该港口负责人</charseq>
+    </extent>
+    <head>
+      <charseq START="288" END="290">负责人</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E19" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="19-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="396" END="399">京九铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="399">京九铁路</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="424" END="433">中国第三条南北大动脉</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="433">动脉</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="451" END="451">其</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="451">其</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-78" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="436" END="439">京九铁路</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="439">京九铁路</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-80" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="489" END="490">京九</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="490">京九</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="396" END="399">京九铁路</charseq>
+    </name>
+    <name>
+      <charseq START="436" END="439">京九铁路</charseq>
+    </name>
+    <name>
+      <charseq START="489" END="490">京九</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E20" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="20-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="387">水运港口</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="387">港口</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="22-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="53" END="55">新华社</charseq>
+    </extent>
+    <head>
+      <charseq START="53" END="55">新华社</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="53" END="55">新华社</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="23-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="424" END="425">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="425">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="635" END="636">中国</charseq>
+    </extent>
+    <head>
+      <charseq START="635" END="636">中国</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="424" END="425">中国</charseq>
+    </name>
+    <name>
+      <charseq START="635" END="636">中国</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="24-5" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="145" END="145">省</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="145">省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="194" END="195">赣省</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="195">赣省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="238">赣</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">赣</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="262" END="264">江
+西</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="264">江
+西</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="295" END="295">赣</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="295">赣</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-36" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="392" END="394">江西省</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="394">江西省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="451" END="463">其三分
+之一里程经过的江西</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="463">江西</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-44" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="466" END="472">最大的受益省份</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="472">省份</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-52" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="510" END="511">省内</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="511">省内</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-66" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="605" END="606">江西</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="606">江西</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-76" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="677" END="678">江西</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="678">江西</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-77" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="700" END="702">江西省</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="702">江西省</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-96" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="106" END="107">江西</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="107">江西</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-97" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="103" END="105">内陆省</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="105">内陆省</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="194" END="195">赣省</charseq>
+    </name>
+    <name>
+      <charseq START="238" END="238">赣</charseq>
+    </name>
+    <name>
+      <charseq START="262" END="264">江
+西</charseq>
+    </name>
+    <name>
+      <charseq START="295" END="295">赣</charseq>
+    </name>
+    <name>
+      <charseq START="392" END="394">江西省</charseq>
+    </name>
+    <name>
+      <charseq START="462" END="463">江西</charseq>
+    </name>
+    <name>
+      <charseq START="605" END="606">江西</charseq>
+    </name>
+    <name>
+      <charseq START="677" END="678">江西</charseq>
+    </name>
+    <name>
+      <charseq START="700" END="702">江西省</charseq>
+    </name>
+    <name>
+      <charseq START="106" END="107">江西</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E26" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="26-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E27" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="27-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="501" END="508">十一条铁路支
+线</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="508">铁路支
+线</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E29" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="29-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="480" END="481">浙赣</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="481">浙赣</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="480" END="481">浙赣</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E30" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="30-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="483" END="484">鹰厦</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="484">鹰厦</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="483" END="484">鹰厦</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E31" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="31-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="486" END="487">皖赣</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="487">皖赣</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="486" END="487">皖赣</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E32" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="32-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="492" END="493">武九</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="493">武九</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="492" END="493">武九</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="33-10" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="186" END="187">当地</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="187">当地</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="165" END="166">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="166">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="356" END="357">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="357">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-53" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="517" END="518">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="518">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-54" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="520" END="526">过去的闭塞之地</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="526">地</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-55" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="531" END="540">内陆新兴的交通
+中心</charseq>
+    </extent>
+    <head>
+      <charseq START="539" END="540">中心</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-69" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="56" END="57">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="56" END="57">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-92" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="72" END="73">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="73">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-104" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="140" END="141">南昌</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="141">南昌</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="165" END="166">南昌</charseq>
+    </name>
+    <name>
+      <charseq START="356" END="357">南昌</charseq>
+    </name>
+    <name>
+      <charseq START="517" END="518">南昌</charseq>
+    </name>
+    <name>
+      <charseq START="56" END="57">南昌</charseq>
+    </name>
+    <name>
+      <charseq START="72" END="73">南昌</charseq>
+    </name>
+    <name>
+      <charseq START="140" END="141">南昌</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E35" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="35-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="531" END="532">内陆</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="532">内陆</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="35-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="612" END="613">内陆</charseq>
+    </extent>
+    <head>
+      <charseq START="612" END="613">内陆</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="36-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="568" END="569">媒介</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="569">媒介</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E37" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="37-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="591">沿海地区仅苏、浙、沪三地国际集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="591">码头</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="37-84" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="595" END="599">二十多
+个</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="599">个</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E38" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="38-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="576">沿海地区</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="576">地区</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E39" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="39-60" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="578" END="584">苏、浙、沪三地</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="584">地</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E40" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="40-62" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="578" END="578">苏</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="578">苏</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="578" END="578">苏</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E41" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="41-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="580" END="580">浙</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="580">浙</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="580" END="580">浙</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="42-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="582" END="582">沪</charseq>
+    </extent>
+    <head>
+      <charseq START="582" END="582">沪</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="582" END="582">沪</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E43" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="43-65" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="603" END="615">包括江西在内的许多内陆省份</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="615">省份</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E44" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+  <entity_mention ID="44-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="640" END="643">内河航道</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="643">航道</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E45" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="45-70" TYPE="NOM" LDCTYPE="PCN">
+    <extent>
+      <charseq START="640" END="641">内河</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="641">内河</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E46" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="46-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="653" END="666">包括集装箱码头
+在内的新泊位</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="666">泊位</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E47" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="47-72" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="655" END="659">集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="659">码头</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E48" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="48-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="683">舒圣佑</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="683">舒圣佑</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="48-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="677" END="680">江西省长</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="680">省长</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="681" END="683">舒圣佑</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E50" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="50-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="375" END="378">有关人士</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="378">人士</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E51" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="GEN">
+  <entity_mention ID="51-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="546" END="552">国际集装箱港口</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="552">港口</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E53" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="53-86" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="667" END="672">一百六十多个</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="672">个</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E54" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="54-90" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="67" END="68">卢晶</charseq>
+    </extent>
+    <head>
+      <charseq START="67" END="68">卢晶</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="54-91" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="65" END="66">记者</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="66">记者</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="67" END="68">卢晶</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E56" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="56-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="246" END="255">五千吨级的集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="255">码头</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="295" END="306">赣北九江港国际集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="306">码头</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="352" END="352">它</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="352">它</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-93" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="72" END="86">南昌新建的又一座国际集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="86">码头</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="56-98" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="122" END="136">这座建立于赣江港口的集装箱码头</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="136">码头</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E57" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="57-82" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="546" END="547">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="547">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-83" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="585" END="586">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="586">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-87" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="300" END="301">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="301">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-88" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="361" END="362">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="362">国际</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="57-94" TYPE="NOM" LDCTYPE="PCN" ROLE="GPE">
+    <extent>
+      <charseq START="80" END="81">国际</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="81">国际</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E60" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="60-99" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="127" END="130">赣江港口</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="130">港口</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_116.man-E61" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="61-100" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="127" END="128">赣江</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="128">赣江</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="127" END="128">赣江</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_116.man-E62" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="62-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="140" END="160">南昌海关及省卫检、商检
+和动植物检疫等单位</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="160">单位</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="chtb_116.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E22" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="53" END="57">新华社南昌</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="22-1" ARGNUM="1">
+      <extent>
+        <charseq START="53" END="55">新华社</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-69" ARGNUM="2">
+      <extent>
+        <charseq START="56" END="57">南昌</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E15" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="238" END="242">赣北九江港</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-17" ARGNUM="1">
+      <extent>
+        <charseq START="238" END="242">赣北九江港</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-18" ARGNUM="2">
+      <extent>
+        <charseq START="238" END="239">赣北</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="295" END="299">赣北九江港</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="1">
+      <extent>
+        <charseq START="297" END="299">九江港</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-30" ARGNUM="2">
+      <extent>
+        <charseq START="295" END="296">赣北</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R3" TYPE="ART" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="chtb_116.man-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E14" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="285" END="290">该港口负责人</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-25" ARGNUM="1">
+      <extent>
+        <charseq START="285" END="290">该港口负责人</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-26" ARGNUM="2">
+      <extent>
+        <charseq START="285" END="287">该港口</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R4" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_116.man-E56" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E14" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="295" END="306">赣北九江港国际集装箱码头</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="56-28" ARGNUM="1">
+      <extent>
+        <charseq START="295" END="306">赣北九江港国际集装箱码头</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="14-32" ARGNUM="2">
+      <extent>
+        <charseq START="297" END="299">九江港</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E37" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E39" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="573" END="591">沿海地区仅苏、浙、沪三地国际集装箱码头</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="37-58" ARGNUM="1">
+      <extent>
+        <charseq START="573" END="591">沿海地区仅苏、浙、沪三地国际集装箱码头</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-60" ARGNUM="2">
+      <extent>
+        <charseq START="578" END="584">苏、浙、沪三地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R6" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="chtb_116.man-E48" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="677" END="680">江西省长</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="48-75" ARGNUM="1">
+      <extent>
+        <charseq START="677" END="680">江西省长</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-76" ARGNUM="2">
+      <extent>
+        <charseq START="677" END="678">江西</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E60" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E61" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="127" END="130">赣江港口</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="60-99" ARGNUM="1">
+      <extent>
+        <charseq START="127" END="130">赣江港口</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="61-100" ARGNUM="2">
+      <extent>
+        <charseq START="127" END="128">赣江</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R8" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_116.man-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="140" END="143">南昌海关</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-2" ARGNUM="1">
+      <extent>
+        <charseq START="140" END="143">南昌海关</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-104" ARGNUM="2">
+      <extent>
+        <charseq START="140" END="141">南昌</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R9" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_116.man-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="145" END="157">省卫检、商检
+和动植物检疫</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="147">卫检</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-5" ARGNUM="2">
+      <extent>
+        <charseq START="145" END="145">省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R10" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_116.man-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="145" END="157">省卫检、商检
+和动植物检疫</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="149" END="150">商检</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-5" ARGNUM="2">
+      <extent>
+        <charseq START="145" END="145">省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R11" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_116.man-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="145" END="157">省卫检、商检
+和动植物检疫</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="1">
+      <extent>
+        <charseq START="153" END="157">动植物检疫</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-5" ARGNUM="2">
+      <extent>
+        <charseq START="145" END="145">省</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R12" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_116.man-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E6" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="165" END="180">南昌货运口岸南昌港口岸货运管理区</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-103" ARGNUM="1">
+      <extent>
+        <charseq START="165" END="180">南昌货运口岸南昌港口岸货运管理区</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-105" ARGNUM="2">
+      <extent>
+        <charseq START="165" END="170">南昌货运口岸</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R13" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="165" END="170">南昌货运口岸</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-105" ARGNUM="1">
+      <extent>
+        <charseq START="165" END="170">南昌货运口岸</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-27" ARGNUM="2">
+      <extent>
+        <charseq START="165" END="166">南昌</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R14" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_116.man-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="186" END="189">当地官员</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-9" ARGNUM="1">
+      <extent>
+        <charseq START="186" END="189">当地官员</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-10" ARGNUM="2">
+      <extent>
+        <charseq START="186" END="187">当地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R15" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E11" ARGNUM="2" />
+  <relation_mention ID="15-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="211" END="213">广州港</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-13" ARGNUM="1">
+      <extent>
+        <charseq START="211" END="213">广州港</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-14" ARGNUM="2">
+      <extent>
+        <charseq START="211" END="212">广州</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R16" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E12" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E13" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="215" END="218">上
+海港</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="12-15" ARGNUM="1">
+      <extent>
+        <charseq START="215" END="218">上
+海港</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-16" ARGNUM="2">
+      <extent>
+        <charseq START="215" END="217">上
+海</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R17" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_116.man-E15" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="238" END="239">赣北</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-18" ARGNUM="1">
+      <extent>
+        <charseq START="238" END="239">赣北</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-19" ARGNUM="2">
+      <extent>
+        <charseq START="238" END="238">赣</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="17-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="295" END="296">赣北</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="15-30" ARGNUM="1">
+      <extent>
+        <charseq START="295" END="296">赣北</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-31" ARGNUM="2">
+      <extent>
+        <charseq START="295" END="295">赣</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R18" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E24" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="262" END="278">江
+西继九江港之外的又一个“出海口</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-22" ARGNUM="1">
+      <extent>
+        <charseq START="262" END="278">江
+西继九江港之外的又一个“出海口</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-23" ARGNUM="2">
+      <extent>
+        <charseq START="262" END="264">江
+西</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R21" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="356" END="359">南昌港口</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-34" ARGNUM="1">
+      <extent>
+        <charseq START="356" END="359">南昌港口</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-35" ARGNUM="2">
+      <extent>
+        <charseq START="356" END="357">南昌</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R22" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_116.man-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E23" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="424" END="433">中国第三条南北大动脉</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-40" ARGNUM="1">
+      <extent>
+        <charseq START="424" END="433">中国第三条南北大动脉</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="23-41" ARGNUM="2">
+      <extent>
+        <charseq START="424" END="425">中国</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R23" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E26" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-48" ARGNUM="1">
+      <extent>
+        <charseq START="480" END="481">浙赣</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-79" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R24" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E26" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-49" ARGNUM="1">
+      <extent>
+        <charseq START="483" END="484">鹰厦</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-79" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R25" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E26" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-50" ARGNUM="1">
+      <extent>
+        <charseq START="486" END="487">皖赣</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-79" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R26" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E26" ARGNUM="2" />
+  <relation_mention ID="26-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-80" ARGNUM="1">
+      <extent>
+        <charseq START="489" END="490">京九</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-79" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R27" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E26" ARGNUM="2" />
+  <relation_mention ID="27-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-51" ARGNUM="1">
+      <extent>
+        <charseq START="492" END="493">武九</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="26-79" ARGNUM="2">
+      <extent>
+        <charseq START="480" END="499">浙赣、鹰厦、皖赣、京九、武九五条铁路干线</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R28" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_116.man-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E35" ARGNUM="2" />
+  <relation_mention ID="28-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="531" END="540">内陆新兴的交通
+中心</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-55" ARGNUM="1">
+      <extent>
+        <charseq START="531" END="540">内陆新兴的交通
+中心</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-56" ARGNUM="2">
+      <extent>
+        <charseq START="531" END="532">内陆</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R29" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E40" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E39" ARGNUM="2" />
+  <relation_mention ID="29-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="578" END="584">苏、浙、沪三地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="40-62" ARGNUM="1">
+      <extent>
+        <charseq START="578" END="578">苏</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-60" ARGNUM="2">
+      <extent>
+        <charseq START="578" END="584">苏、浙、沪三地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R30" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E41" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E39" ARGNUM="2" />
+  <relation_mention ID="30-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="578" END="584">苏、浙、沪三地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="41-63" ARGNUM="1">
+      <extent>
+        <charseq START="580" END="580">浙</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-60" ARGNUM="2">
+      <extent>
+        <charseq START="578" END="584">苏、浙、沪三地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R31" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_116.man-E42" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E39" ARGNUM="2" />
+  <relation_mention ID="31-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="578" END="584">苏、浙、沪三地</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="42-64" ARGNUM="1">
+      <extent>
+        <charseq START="582" END="582">沪</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="39-60" ARGNUM="2">
+      <extent>
+        <charseq START="578" END="584">苏、浙、沪三地</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_116.man-R32" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_116.man-E43" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_116.man-E35" ARGNUM="2" />
+  <relation_mention ID="32-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="603" END="615">包括江西在内的许多内陆省份</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="43-65" ARGNUM="1">
+      <extent>
+        <charseq START="603" END="615">包括江西在内的许多内陆省份</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-85" ARGNUM="2">
+      <extent>
+        <charseq START="612" END="613">内陆</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,1058 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20001115_AFP_ARB.0030.eng.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001115_AFP_ARB.0030.eng">
+<entity ID="20001115_AFP_ARB.0030.eng-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="471" END="473">all</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="473">all</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="458" END="490">six children all shot in
+the head</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="469">children</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E2" TYPE="PER" CLASS="USP">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="496" END="507">Eyewitnesses</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="507">Eyewitnesses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E3" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="590">land</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E4" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="597" END="617">the border with Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="606">border</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="613" END="617">Egypt</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="617">Egypt</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="613" END="617">Egypt</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="647" END="666">Palestinian citizens</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="666">citizens</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="673" END="676">they</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="676">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E7" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="719" END="733">An Israeli tank</charseq>
+    </extent>
+    <head>
+      <charseq START="730" END="733">tank</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E8" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="746" END="753">a rocket</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="753">rocket</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E9" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="769" END="786">Israeli bulldozers</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="786">bulldozers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="10-17" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="843" END="895">the village of Alkarara (near the Kosovim
+checkpoint)</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="853">village</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="858" END="865">Alkarara</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="865">Alkarara</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-27" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1025" END="1032">The town</charseq>
+    </extent>
+    <head>
+      <charseq START="1025" END="1032">The town</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="858" END="865">Alkarara</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E11" TYPE="FAC" SUBTYPE="Barrier" CLASS="SPC">
+  <entity_mention ID="11-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="873" END="894">the Kosovim
+checkpoint</charseq>
+    </extent>
+    <head>
+      <charseq START="885" END="894">checkpoint</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-20" TYPE="PRE" LDCTYPE="PRE" ROLE="LOC">
+    <extent>
+      <charseq START="877" END="883">Kosovim</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="883">Kosovim</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E13" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="948" END="957">two
+houses</charseq>
+    </extent>
+    <head>
+      <charseq START="952" END="957">houses</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E14" TYPE="FAC" SUBTYPE="Conduit" CLASS="SPC">
+  <entity_mention ID="14-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="963" END="968">a well</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="968">well</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E15" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="15-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="994" END="1012">a new military camp</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1012">camp</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E16" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="16-25" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1000" END="1007">military</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1007">military</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E17" TYPE="PER" CLASS="USP">
+  <entity_mention ID="17-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1025" END="1046">The town's authorities</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1046">authorities</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E18" TYPE="LOC" SUBTYPE="Region-Local" CLASS="SPC">
+  <entity_mention ID="18-30" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1134" END="1146">southern Gaza</charseq>
+    </extent>
+    <head>
+      <charseq START="1143" END="1146">Gaza</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1274" END="1281">the area</charseq>
+    </extent>
+    <head>
+      <charseq START="1278" END="1281">area</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="19-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1149" END="1156">Nitsarim</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1156">Nitsarim</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1149" END="1156">Nitsarim</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1218" END="1235">an Israeli
+soldier</charseq>
+    </extent>
+    <head>
+      <charseq START="1229" END="1235">soldier</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="21-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="125" END="128">Gaza</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="128">Gaza</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="125" END="128">Gaza</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E22" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="22-44" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="684" END="689">stones</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="689">stones</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E23" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+  <entity_mention ID="23-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="795" END="894">dozens of hectares of
+Palestinian farmland near the village of Alkarara (near the Kosovim
+checkpoint</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="812">hectares</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="23-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="971" END="975">where</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="975">where</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E24" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+  <entity_mention ID="24-36" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="817" END="836">Palestinian farmland</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="836">farmland</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E25" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="USP">
+  <entity_mention ID="25-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1088" END="1156">several hectares planted with orange trees in southern Gaza
+(Nitsarim</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1103">hectares</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="26-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="137" END="139">AFP</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="139">AFP</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="137" END="139">AFP</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="145" END="172">A Palestinian medical source</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="172">source</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="28-7" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="575" END="585">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="585">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-16" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="817" END="827">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="827">Palestinian</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="28-42" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="147" END="157">Palestinian</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="157">Palestinian</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E29" TYPE="PER" CLASS="USP">
+  <entity_mention ID="29-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="204" END="233">more than
+fifteen Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="233">Palestinians</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="367" END="390">at least 15 Palestinians</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="390">Palestinians</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="30-46" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="264" END="307">the town of Rafah
+in the southern Gaza Strip</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="271">town</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="276" END="280">Rafah</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="280">Rafah</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="276" END="280">Rafah</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E31" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="31-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="307">the southern Gaza Strip</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="307">Gaza Strip</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E32" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="32-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="541" END="556">the Israeli army</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="556">army</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="977" END="984">the army</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="984">army</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1064" END="1079">the Israeli army</charseq>
+    </extent>
+    <head>
+      <charseq START="1076" END="1079">army</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="32-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="325" END="340">the Israeli army</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="340">army</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="33-5" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="545" END="551">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="551">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-13" TYPE="PRE" LDCTYPE="PRE" ROLE="PER">
+    <extent>
+      <charseq START="722" END="728">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="728">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1068" END="1074">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1068" END="1074">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-33" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1221" END="1227">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="1221" END="1227">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-35" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="769" END="775">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="775">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="329" END="335">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="335">Israeli</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-55" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="430" END="436">Israeli</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="436">Israeli</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E34" TYPE="PER" CLASS="USP">
+  <entity_mention ID="34-51" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="345" END="359">Medical sources</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="359">sources</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E35" TYPE="WEA" SUBTYPE="Projectile" CLASS="USP">
+  <entity_mention ID="35-53" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="408" END="445">live
+bullets fired by Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="419">bullets</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20001115_AFP_ARB.0030.eng-E36" TYPE="PER" CLASS="USP">
+  <entity_mention ID="36-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="694" END="705">the
+soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="705">soldiers</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="36-54" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="430" END="445">Israeli soldiers</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="445">soldiers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20001115_AFP_ARB.0030.eng-R1" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E28" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="145" END="172">A Palestinian medical source</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-41" ARGNUM="1">
+      <extent>
+        <charseq START="145" END="172">A Palestinian medical source</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-42" ARGNUM="2">
+      <extent>
+        <charseq START="147" END="157">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R2" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E30" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E31" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="264" END="307">the town of Rafah
+in the southern Gaza Strip</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="30-46" ARGNUM="1">
+      <extent>
+        <charseq START="264" END="307">the town of Rafah
+in the southern Gaza Strip</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-48" ARGNUM="2">
+      <extent>
+        <charseq START="285" END="307">the southern Gaza Strip</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E33" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="325" END="340">the Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-49" ARGNUM="1">
+      <extent>
+        <charseq START="325" END="340">the Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-50" ARGNUM="2">
+      <extent>
+        <charseq START="329" END="335">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1064" END="1079">the Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-28" ARGNUM="1">
+      <extent>
+        <charseq START="1064" END="1079">the Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-29" ARGNUM="2">
+      <extent>
+        <charseq START="1068" END="1074">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="3-3" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="541" END="556">the Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-4" ARGNUM="1">
+      <extent>
+        <charseq START="541" END="556">the Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-5" ARGNUM="2">
+      <extent>
+        <charseq START="545" END="551">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="541" END="617">the Israeli army began
+bulldozing Palestinian land near the border with Egypt</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-4" ARGNUM="1">
+      <extent>
+        <charseq START="541" END="556">the Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="2">
+      <extent>
+        <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R5" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E5" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="613" END="617">Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R6" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="597" END="617">the border with Egypt</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-8" ARGNUM="1">
+      <extent>
+        <charseq START="597" END="617">the border with Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-9" ARGNUM="2">
+      <extent>
+        <charseq START="613" END="617">Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E4" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="575" END="617">Palestinian land near the border with Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-8" ARGNUM="2">
+      <extent>
+        <charseq START="597" END="617">the border with Egypt</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R8" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E7" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="719" END="733">An Israeli tank</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-13" ARGNUM="1">
+      <extent>
+        <charseq START="722" END="728">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-12" ARGNUM="2">
+      <extent>
+        <charseq START="719" END="733">An Israeli tank</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R9" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E33" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E9" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="769" END="786">Israeli bulldozers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="33-35" ARGNUM="1">
+      <extent>
+        <charseq START="769" END="775">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="2">
+      <extent>
+        <charseq START="769" END="786">Israeli bulldozers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R10" TYPE="PHYS" SUBTYPE="Near">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E11" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="843" END="894">the village of Alkarara (near the Kosovim
+checkpoint</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-17" ARGNUM="1">
+      <extent>
+        <charseq START="843" END="895">the village of Alkarara (near the Kosovim
+checkpoint)</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-19" ARGNUM="2">
+      <extent>
+        <charseq START="873" END="894">the Kosovim
+checkpoint</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R11" TYPE="EMP-ORG" SUBTYPE="Employ-Undetermined">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E17" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E10" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="1025" END="1046">The town's authorities</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="17-26" ARGNUM="1">
+      <extent>
+        <charseq START="1025" END="1046">The town's authorities</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="10-27" ARGNUM="2">
+      <extent>
+        <charseq START="1025" END="1032">The town</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R13" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E18" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1134" END="1156">southern Gaza
+(Nitsarim</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-31" ARGNUM="1">
+      <extent>
+        <charseq START="1149" END="1156">Nitsarim</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-30" ARGNUM="2">
+      <extent>
+        <charseq START="1134" END="1146">southern Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R14" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E24" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E28" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="817" END="836">Palestinian farmland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="24-36" ARGNUM="1">
+      <extent>
+        <charseq START="817" END="836">Palestinian farmland</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="28-16" ARGNUM="2">
+      <extent>
+        <charseq START="817" END="827">Palestinian</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R16" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E24" ARGNUM="2" />
+  <relation_mention ID="16-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="769" END="836">Israeli bulldozers dug up dozens of hectares of
+Palestinian farmland</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-15" ARGNUM="1">
+      <extent>
+        <charseq START="769" END="786">Israeli bulldozers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-36" ARGNUM="2">
+      <extent>
+        <charseq START="817" END="836">Palestinian farmland</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R17" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E15" ARGNUM="2" />
+  <relation_mention ID="17-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="994" END="1012">a new military camp</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-25" ARGNUM="1">
+      <extent>
+        <charseq START="1000" END="1007">military</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-24" ARGNUM="2">
+      <extent>
+        <charseq START="994" END="1012">a new military camp</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R18" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E32" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E18" ARGNUM="2" />
+  <relation_mention ID="18-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1064" END="1156">the Israeli army dug up
+several hectares planted with orange trees in southern Gaza
+(Nitsarim</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="32-28" ARGNUM="1">
+      <extent>
+        <charseq START="1064" END="1079">the Israeli army</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-30" ARGNUM="2">
+      <extent>
+        <charseq START="1134" END="1146">southern Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R19" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E18" ARGNUM="2" />
+  <relation_mention ID="19-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1218" END="1281">an Israeli
+soldier was killed in a shooting incident in the area</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-32" ARGNUM="1">
+      <extent>
+        <charseq START="1218" END="1235">an Israeli
+soldier</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-34" ARGNUM="2">
+      <extent>
+        <charseq START="1274" END="1281">the area</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R20" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E29" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E30" ARGNUM="2" />
+  <relation_mention ID="20-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="204" END="340">more than
+fifteen Palestinians were injured this morning in the town of Rafah
+in the southern Gaza Strip in clashes with the Israeli army</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="29-43" ARGNUM="1">
+      <extent>
+        <charseq START="204" END="233">more than
+fifteen Palestinians</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-46" ARGNUM="2">
+      <extent>
+        <charseq START="264" END="307">the town of Rafah
+in the southern Gaza Strip</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R21" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E35" ARGNUM="2" />
+  <relation_mention ID="21-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="408" END="445">live
+bullets fired by Israeli soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-54" ARGNUM="1">
+      <extent>
+        <charseq START="430" END="445">Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="35-53" ARGNUM="2">
+      <extent>
+        <charseq START="408" END="445">live
+bullets fired by Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R22" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E36" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E33" ARGNUM="2" />
+  <relation_mention ID="22-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="430" END="445">Israeli soldiers</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="36-54" ARGNUM="1">
+      <extent>
+        <charseq START="430" END="445">Israeli soldiers</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-55" ARGNUM="2">
+      <extent>
+        <charseq START="430" END="436">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R23" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E22" ARGNUM="2" />
+  <relation_mention ID="23-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="673" END="716">they threw stones at the
+soldiers in protest</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-11" ARGNUM="1">
+      <extent>
+        <charseq START="673" END="676">they</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-44" ARGNUM="2">
+      <extent>
+        <charseq START="684" END="689">stones</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R24" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E25" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E18" ARGNUM="2" />
+  <relation_mention ID="24-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1088" END="1156">several hectares planted with orange trees in southern Gaza
+(Nitsarim</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="25-38" ARGNUM="1">
+      <extent>
+        <charseq START="1088" END="1156">several hectares planted with orange trees in southern Gaza
+(Nitsarim</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-30" ARGNUM="2">
+      <extent>
+        <charseq START="1134" END="1146">southern Gaza</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20001115_AFP_ARB.0030.eng-R25" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20001115_AFP_ARB.0030.eng-E33" ARGNUM="2" />
+  <relation_mention ID="25-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1218" END="1235">an Israeli
+soldier</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-32" ARGNUM="1">
+      <extent>
+        <charseq START="1218" END="1235">an Israeli
+soldier</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="33-33" ARGNUM="2">
+      <extent>
+        <charseq START="1221" END="1227">Israeli</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

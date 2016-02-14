@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ANN20001219.0300.0004.sgm" SOURCE="newswire" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001219.0300.0004">
+<entity ID="ANN20001219.0300.0004-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="485" END="514">الامير
+عبد الاله بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="514">عبد الاله بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="516" END="532">أمير منطقة
+الجوف.</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="519">أمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="492" END="514">عبد الاله بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E2" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="2-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="521" END="532">منطقة
+الجوف.</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="532">الجوف.</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="527" END="532">الجوف.</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="541" END="546">الجميع</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="546">الجميع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001219.0300.0004-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="218" END="220">مكة</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="220">مكة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="218" END="220">مكة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="5-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="223" END="230">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="230">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="223" END="230">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="6-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="235" END="237">واس</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="237">واس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="235" END="237">واس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="572" END="580">ولي العهد</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="574">ولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="264">ولي العهد السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="250">ولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="266" END="296">النائب الأول لرئيس
+مجلس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="271">النائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="298" END="314">رئيس الحرس الوطني</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="301">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="316" END="343">الامير عبدالله بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="343">عبدالله بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="323" END="343">عبدالله بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="258" END="264">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="264">السعودي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001219.0300.0004-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="345" END="371">النائب
+السابق للرئيس السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="350">النائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="373" END="390">الدكتور رفعت
+الأسد</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="390">رفعت
+الأسد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="401" END="401">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="401">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="381" END="390">رفعت
+الأسد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="359" END="371">للرئيس السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="364">للرئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001219.0300.0004-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="12-18" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="366" END="371">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="371">السوري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001219.0300.0004-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="431" END="455">الامير نواف بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="455">نواف بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="438" END="455">نواف بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001219.0300.0004-E15" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="15-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="458" END="482">الامير فواز بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="482">فواز بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="465" END="482">فواز بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="ANN20001219.0300.0004-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="248" END="343">ولي العهد السعودي النائب الأول لرئيس
+مجلس الوزراء رئيس الحرس الوطني
+الامير عبدالله بن عبد العزيز</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="248" END="264">ولي العهد السعودي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="258" END="264">السعودي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001219.0300.0004-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E11" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="345" END="390">النائب
+السابق للرئيس السوري الدكتور رفعت
+الأسد</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-16" ARGNUM="1">
+      <extent>
+        <charseq START="345" END="371">النائب
+السابق للرئيس السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="2">
+      <extent>
+        <charseq START="359" END="371">للرئيس السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001219.0300.0004-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E2" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="485" END="532">الامير
+عبد الاله بن عبد العزيز أمير منطقة
+الجوف.</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-3" ARGNUM="1">
+      <extent>
+        <charseq START="516" END="532">أمير منطقة
+الجوف.</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="521" END="532">منطقة
+الجوف.</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001219.0300.0004-R4" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E12" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="345" END="371">النائب
+السابق للرئيس السوري</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-17" ARGNUM="1">
+      <extent>
+        <charseq START="359" END="371">للرئيس السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-18" ARGNUM="2">
+      <extent>
+        <charseq START="366" END="371">السوري</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001219.0300.0004-R5" TYPE="GPE-AFF" SUBTYPE="Citizen-or-Resident">
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ANN20001219.0300.0004-E8" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="248" END="264">ولي العهد السعودي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-10" ARGNUM="1">
+      <extent>
+        <charseq START="248" END="264">ولي العهد السعودي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-11" ARGNUM="2">
+      <extent>
+        <charseq START="258" END="264">السعودي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

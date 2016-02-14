@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="chtb_007.eng.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_007.eng">
+<entity ID="chtb_007.eng-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="1-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="459" END="465">Jiading</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="465">Jiading</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="459" END="465">Jiading</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="468" END="476">Songjiang</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="476">Songjiang</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="468" END="476">Songjiang</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="479" END="484">Qingpu</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="484">Qingpu</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="479" END="484">Qingpu</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="490" END="496">Jinshan</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="496">Jinshan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="490" END="496">Jinshan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E5" TYPE="LOC" SUBTYPE="Region-International" CLASS="USP">
+  <entity_mention ID="5-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="619" END="631">international</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="631">international</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-26" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1591" END="1603">international</charseq>
+    </extent>
+    <head>
+      <charseq START="1591" END="1603">international</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="5-27" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1675" END="1687">international</charseq>
+    </extent>
+    <head>
+      <charseq START="1675" END="1687">international</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E6" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="6-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="656" END="683">China's third largest island</charseq>
+    </extent>
+    <head>
+      <charseq START="678" END="683">island</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="7-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1065" END="1091">the hundred strong counties</charseq>
+    </extent>
+    <head>
+      <charseq START="1084" END="1091">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1109" END="1113">China</charseq>
+    </extent>
+    <head>
+      <charseq START="1109" END="1113">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="656" END="660">China</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="660">China</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1109" END="1113">China</charseq>
+    </name>
+    <name>
+      <charseq START="656" END="660">China</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="9-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1200" END="1236">organizations inside Chongming county</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1212">organizations</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E10" TYPE="VEH" SUBTYPE="Water" CLASS="GEN">
+  <entity_mention ID="10-28" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="1721" END="1728">shipping</charseq>
+    </extent>
+    <head>
+      <charseq START="1721" END="1728">shipping</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="11-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="643" END="651">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="651">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-12" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="686" END="687">It</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="687">It</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-13" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="786" END="801">Chongming county</charseq>
+    </extent>
+    <head>
+      <charseq START="796" END="801">county</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1189" END="1197">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1197">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-20" TYPE="NOM" LDCTYPE="BAR" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1221" END="1236">Chongming county</charseq>
+    </extent>
+    <head>
+      <charseq START="1231" END="1236">county</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-22" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1296" END="1305">the island</charseq>
+    </extent>
+    <head>
+      <charseq START="1300" END="1305">island</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1390" END="1398">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="1390" END="1398">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1522" END="1530">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="1522" END="1530">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-29" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="786" END="794">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="794">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-30" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1221" END="1229">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="1221" END="1229">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-32" TYPE="NOM" LDCTYPE="BAR" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1058" END="1131">one of the hundred strong counties that
+constitute China's actual strength</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1060">one</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-33" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1093" END="1096">that</charseq>
+    </extent>
+    <head>
+      <charseq START="1093" END="1096">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="11-41" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="229" END="237">Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="237">Chongming</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="643" END="651">Chongming</charseq>
+    </name>
+    <name>
+      <charseq START="1189" END="1197">Chongming</charseq>
+    </name>
+    <name>
+      <charseq START="1390" END="1398">Chongming</charseq>
+    </name>
+    <name>
+      <charseq START="1522" END="1530">Chongming</charseq>
+    </name>
+    <name>
+      <charseq START="229" END="237">Chongming</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="91" END="108">Xinhua News Agency</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="108">Xinhua News Agency</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="91" END="108">Xinhua News Agency</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="13-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="118">Shanghai</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="118">Shanghai</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="111" END="118">Shanghai</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="143" END="166">correspondent
+Liang Kong</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="166">Liang Kong</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-36" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="143" END="155">correspondent</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="155">correspondent</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="157" END="166">Liang Kong</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="169" END="185">reporter Ruge Xia</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="185">Ruge Xia</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="16-38" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="169" END="176">reporter</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="176">reporter</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="178" END="185">Ruge Xia</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E18" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="18-5" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="240" END="243">that</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="243">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-6" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="499" END="502">that</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="502">that</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1167" END="1197">the customs office in Chongming</charseq>
+    </extent>
+    <head>
+      <charseq START="1179" END="1184">office</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="197">office</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="386" END="389">This</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="389">This</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="394" END="638">the seventh customs organization, following Fengxian,
+Xinzhuang, Jiading, Songjiang, Qingpu and Jinshan, that Shanghai
+Customs has set up in order to further advance the development in the
+suburbs of an economy geared to the international market</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="425">organization</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="19-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="504" END="519">Shanghai
+Customs</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="519">Shanghai
+Customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="202" END="217">Shanghai Customs</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="217">Shanghai Customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="504" END="519">Shanghai
+Customs</charseq>
+    </name>
+    <name>
+      <charseq START="202" END="217">Shanghai Customs</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E21" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="21-17" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1171" END="1177">customs</charseq>
+    </extent>
+    <head>
+      <charseq START="1171" END="1177">customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-21" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1253" END="1259">customs</charseq>
+    </extent>
+    <head>
+      <charseq START="1253" END="1259">customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-24" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1464" END="1470">customs</charseq>
+    </extent>
+    <head>
+      <charseq START="1464" END="1470">customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="265" END="289">China Customs Head Office</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="289">China Customs Head Office</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-45" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="406" END="412">customs</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="412">customs</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="265" END="289">China Customs Head Office</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E22" TYPE="LOC" SUBTYPE="Region-Local" CLASS="GEN">
+  <entity_mention ID="22-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="579" END="589">the
+suburbs</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="589">suburbs</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="chtb_007.eng-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="24-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="438" END="445">Fengxian</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="445">Fengxian</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="438" END="445">Fengxian</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="chtb_007.eng-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="25-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="448" END="456">Xinzhuang</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="456">Xinzhuang</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="448" END="456">Xinzhuang</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="chtb_007.eng-R1" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E13" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="111" END="166">Shanghai, February 13, by wire (correspondent
+Liang Kong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-35" ARGNUM="1">
+      <extent>
+        <charseq START="143" END="166">correspondent
+Liang Kong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-34" ARGNUM="2">
+      <extent>
+        <charseq START="111" END="118">Shanghai</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E12" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="91" END="166">Xinhua News Agency, Shanghai, February 13, by wire (correspondent
+Liang Kong</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-35" ARGNUM="1">
+      <extent>
+        <charseq START="143" END="166">correspondent
+Liang Kong</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-1" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="108">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E12" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="91" END="185">Xinhua News Agency, Shanghai, February 13, by wire (correspondent
+Liang Kong, reporter Ruge Xia</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-37" ARGNUM="1">
+      <extent>
+        <charseq START="169" END="185">reporter Ruge Xia</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-1" ARGNUM="2">
+      <extent>
+        <charseq START="91" END="108">Xinhua News Agency</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R4" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E11" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-39" ARGNUM="1">
+      <extent>
+        <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-41" ARGNUM="2">
+      <extent>
+        <charseq START="229" END="237">Chongming</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="4-2" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1167" END="1197">the customs office in Chongming</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-16" ARGNUM="1">
+      <extent>
+        <charseq START="1167" END="1197">the customs office in Chongming</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-18" ARGNUM="2">
+      <extent>
+        <charseq START="1189" END="1197">Chongming</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R5" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E19" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-39" ARGNUM="1">
+      <extent>
+        <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-40" ARGNUM="2">
+      <extent>
+        <charseq START="202" END="217">Shanghai Customs</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E21" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="189" END="302">An office of Shanghai Customs posted at Chongming, that was approved
+by the China Customs Head Office to be set up</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-40" ARGNUM="1">
+      <extent>
+        <charseq START="202" END="217">Shanghai Customs</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="21-42" ARGNUM="2">
+      <extent>
+        <charseq START="265" END="289">China Customs Head Office</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R7" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E8" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="643" END="683">Chongming is China's third largest island</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-10" ARGNUM="1">
+      <extent>
+        <charseq START="643" END="651">Chongming</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-31" ARGNUM="2">
+      <extent>
+        <charseq START="656" END="660">China</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R8" TYPE="DISC">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E11" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E7" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1058" END="1131">one of the hundred strong counties that
+constitute China's actual strength</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="11-32" ARGNUM="1">
+      <extent>
+        <charseq START="1058" END="1131">one of the hundred strong counties that
+constitute China's actual strength</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-14" ARGNUM="2">
+      <extent>
+        <charseq START="1065" END="1091">the hundred strong counties</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R10" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E9" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1167" END="1236">the customs office in Chongming,
+organizations inside Chongming county</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-16" ARGNUM="1">
+      <extent>
+        <charseq START="1167" END="1197">the customs office in Chongming</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="2">
+      <extent>
+        <charseq START="1200" END="1236">organizations inside Chongming county</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="chtb_007.eng-R11" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="chtb_007.eng-E9" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="chtb_007.eng-E11" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1200" END="1236">organizations inside Chongming county</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="9-19" ARGNUM="1">
+      <extent>
+        <charseq START="1200" END="1236">organizations inside Chongming county</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-20" ARGNUM="2">
+      <extent>
+        <charseq START="1221" END="1236">Chongming county</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

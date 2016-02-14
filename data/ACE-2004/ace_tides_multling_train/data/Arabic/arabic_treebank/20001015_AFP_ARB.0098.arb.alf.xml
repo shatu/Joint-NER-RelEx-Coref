@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="20001015_AFP_ARB.0098.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20001015_AFP_ARB.0098.arb">
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE1">
+  <entity ID="20001015_AFP_ARB.0098.arb-E1" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="1-4" TYPE="APP">
+      <extent>
+        <charseq START="565" END="629">رئيس المنظمة غير الحكومية "باز اهورا" (السلام الآن) جوليو
+رودريغز</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="1-5" TYPE="NOM">
+      <extent>
+        <charseq START="565" END="614">رئيس المنظمة غير الحكومية "باز اهورا" (السلام الآن</charseq>
+      </extent>
+      <head>
+        <charseq START="565" END="568">رئيس</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE2">
+  <entity ID="20001015_AFP_ARB.0098.arb-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="2-6" TYPE="PRE">
+      <extent>
+        <charseq START="570" END="614">المنظمة غير الحكومية "باز اهورا" (السلام الآن</charseq>
+      </extent>
+      <head>
+        <charseq START="570" END="576">المنظمة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-7" TYPE="NAM">
+      <extent>
+        <charseq START="591" END="601">"باز اهورا"</charseq>
+      </extent>
+      <head>
+        <charseq START="591" END="601">"باز اهورا"</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="2-8" TYPE="NAM">
+      <extent>
+        <charseq START="604" END="614">السلام الآن</charseq>
+      </extent>
+      <head>
+        <charseq START="604" END="614">السلام الآن</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="591" END="601">"باز اهورا"</charseq>
+      </name>
+      <name>
+        <charseq START="604" END="614">السلام الآن</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE3">
+  <entity ID="20001015_AFP_ARB.0098.arb-E3" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="3-9" TYPE="NAM">
+      <extent>
+        <charseq START="617" END="629">جوليو
+رودريغز</charseq>
+      </extent>
+      <head>
+        <charseq START="617" END="629">جوليو
+رودريغز</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="617" END="629">جوليو
+رودريغز</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE4">
+  <entity ID="20001015_AFP_ARB.0098.arb-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-10" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="639" END="654">الولايات المتحدة</charseq>
+      </extent>
+      <head>
+        <charseq START="639" END="654">الولايات المتحدة</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="639" END="654">الولايات المتحدة</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE5">
+  <entity ID="20001015_AFP_ARB.0098.arb-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="5-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="657" END="672">الاتحاد الاوروبي</charseq>
+      </extent>
+      <head>
+        <charseq START="657" END="672">الاتحاد الاوروبي</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="657" END="672">الاتحاد الاوروبي</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE6">
+  <entity ID="20001015_AFP_ARB.0098.arb-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="ATR">
+    <entity_mention ID="6-13" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="711" END="721">الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="711" END="721">الاسرائيلية</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="6-16" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="810" END="820">الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="810" END="820">الاسرائيلية</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+  <entity ID="20001015_AFP_ARB.0098.arb-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="13-21" TYPE="PRE" ROLE="GPE">
+      <extent>
+        <charseq START="169" END="175">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="169" END="175">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="13-26" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="258" END="264">اسرائيل</charseq>
+      </extent>
+      <head>
+        <charseq START="258" END="264">اسرائيل</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="258" END="264">اسرائيل</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE7">
+  <entity ID="20001015_AFP_ARB.0098.arb-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="7-14" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="726" END="732">اسبانيا</charseq>
+      </extent>
+      <head>
+        <charseq START="726" END="732">اسبانيا</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="726" END="732">اسبانيا</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE8">
+  <entity ID="20001015_AFP_ARB.0098.arb-E8" TYPE="PER" CLASS="USP">
+    <entity_mention ID="8-17" TYPE="NOM">
+      <extent>
+        <charseq START="826" END="835">خمسين شخصا</charseq>
+      </extent>
+      <head>
+        <charseq START="832" END="835">شخصا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE9">
+  <entity ID="20001015_AFP_ARB.0098.arb-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="9-1" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="105" END="109">مدريد</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="109">مدريد</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-22" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="180" END="184">مدريد</charseq>
+      </extent>
+      <head>
+        <charseq START="180" END="184">مدريد</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="180" END="184">مدريد</charseq>
+      </name>
+      <name>
+        <charseq START="105" END="109">مدريد</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE10">
+  <entity ID="20001015_AFP_ARB.0098.arb-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="10-18" TYPE="NAM">
+      <extent>
+        <charseq START="118" END="121">اف ب</charseq>
+      </extent>
+      <head>
+        <charseq START="118" END="121">اف ب</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="118" END="121">اف ب</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE11">
+  <entity ID="20001015_AFP_ARB.0098.arb-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="11-2" TYPE="PRO">
+      <extent>
+        <charseq START="381" END="382">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="381" END="382">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-3" TYPE="PRO">
+      <extent>
+        <charseq START="441" END="442">هم</charseq>
+      </extent>
+      <head>
+        <charseq START="441" END="442">هم</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-19" TYPE="NOM">
+      <extent>
+        <charseq START="137" END="144">الفي شخص</charseq>
+      </extent>
+      <head>
+        <charseq START="142" END="144">شخص</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-24" TYPE="PRO">
+      <extent>
+        <charseq START="211" END="212">ين</charseq>
+      </extent>
+      <head>
+        <charseq START="211" END="212">ين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-29" TYPE="NOM">
+      <extent>
+        <charseq START="304" END="345">المتظاهرين الذين كانوا محاطين بعناصر الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="313">المتظاهرين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-30" TYPE="WHQ">
+      <extent>
+        <charseq START="315" END="319">الذين</charseq>
+      </extent>
+      <head>
+        <charseq START="315" END="319">الذين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-31" TYPE="PRO">
+      <extent>
+        <charseq START="324" END="325">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="325">وا</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-32" TYPE="PRO">
+      <extent>
+        <charseq START="331" END="332">ين</charseq>
+      </extent>
+      <head>
+        <charseq START="331" END="332">ين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-35" TYPE="PRO">
+      <extent>
+        <charseq START="351" END="352">وا</charseq>
+      </extent>
+      <head>
+        <charseq START="351" END="352">وا</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE12">
+  <entity ID="20001015_AFP_ARB.0098.arb-E12" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+    <entity_mention ID="12-12" TYPE="NOM">
+      <extent>
+        <charseq START="703" END="732">السفارة الاسرائيلية في اسبانيا</charseq>
+      </extent>
+      <head>
+        <charseq START="703" END="709">السفارة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-15" TYPE="NOM">
+      <extent>
+        <charseq START="802" END="820">السفارة الاسرائيلية</charseq>
+      </extent>
+      <head>
+        <charseq START="802" END="808">السفارة</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="12-20" TYPE="NOM">
+      <extent>
+        <charseq START="163" END="184">سفارة اسرائيل في مدريد</charseq>
+      </extent>
+      <head>
+        <charseq START="163" END="167">سفارة</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE13">
+  <entity ID="20001015_AFP_ARB.0098.arb-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-23" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="194" END="203">لفلسطينيين</charseq>
+      </extent>
+      <head>
+        <charseq START="194" END="203">لفلسطينيين</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="14-25" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="238" END="255">الاراضي الفلسطينية</charseq>
+      </extent>
+      <head>
+        <charseq START="238" END="255">الاراضي الفلسطينية</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="194" END="203">لفلسطينيين</charseq>
+      </name>
+      <name>
+        <charseq START="238" END="255">الاراضي الفلسطينية</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE14">
+  <entity ID="20001015_AFP_ARB.0098.arb-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention ID="15-27" TYPE="BAR">
+      <extent>
+        <charseq START="274" END="280">صحافيون</charseq>
+      </extent>
+      <head>
+        <charseq START="274" END="280">صحافيون</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="15-28" TYPE="NOM">
+      <extent>
+        <charseq START="291" END="299">الصحافيون</charseq>
+      </extent>
+      <head>
+        <charseq START="291" END="299">الصحافيون</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE15">
+  <entity ID="20001015_AFP_ARB.0098.arb-E16" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="16-33" TYPE="NOM">
+      <extent>
+        <charseq START="334" END="345">بعناصر الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="334" END="339">بعناصر</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="20001015_AFP_ARB.0098.arb-CE16">
+  <entity ID="20001015_AFP_ARB.0098.arb-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="17-34" TYPE="PRE">
+      <extent>
+        <charseq START="341" END="345">الامن</charseq>
+      </extent>
+      <head>
+        <charseq START="341" END="345">الامن</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<relation ID="20001015_AFP_ARB.0098.arb-R1" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="163" END="184">سفارة اسرائيل في مدريد</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E13" ENTITYMENTIONID="13-21" ARGNUM="1">
+      <extent>
+        <charseq START="169" END="175">اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E12" ENTITYMENTIONID="12-20" ARGNUM="2">
+      <extent>
+        <charseq START="163" END="184">سفارة اسرائيل في مدريد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0098.arb-R2" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="163" END="184">سفارة اسرائيل في مدريد</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E12" ENTITYMENTIONID="12-20" ARGNUM="1">
+      <extent>
+        <charseq START="163" END="184">سفارة اسرائيل في مدريد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E9" ENTITYMENTIONID="9-22" ARGNUM="2">
+      <extent>
+        <charseq START="180" END="184">مدريد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0098.arb-R3" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="565" END="614">رئيس المنظمة غير الحكومية "باز اهورا" (السلام الآن</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E1" ENTITYMENTIONID="1-5" ARGNUM="1">
+      <extent>
+        <charseq START="565" END="614">رئيس المنظمة غير الحكومية "باز اهورا" (السلام الآن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E2" ENTITYMENTIONID="2-6" ARGNUM="2">
+      <extent>
+        <charseq START="570" END="614">المنظمة غير الحكومية "باز اهورا" (السلام الآن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0098.arb-R4" TYPE="ART" SUBTYPE="User-or-Owner">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="703" END="732">السفارة الاسرائيلية في اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E6" ENTITYMENTIONID="6-13" ARGNUM="1">
+      <extent>
+        <charseq START="711" END="721">الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E12" ENTITYMENTIONID="12-12" ARGNUM="2">
+      <extent>
+        <charseq START="703" END="732">السفارة الاسرائيلية في اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="4-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="802" END="820">السفارة الاسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E6" ENTITYMENTIONID="6-16" ARGNUM="1">
+      <extent>
+        <charseq START="810" END="820">الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E12" ENTITYMENTIONID="12-15" ARGNUM="2">
+      <extent>
+        <charseq START="802" END="820">السفارة الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="20001015_AFP_ARB.0098.arb-R5" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="703" END="732">السفارة الاسرائيلية في اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E12" ENTITYMENTIONID="12-12" ARGNUM="1">
+      <extent>
+        <charseq START="703" END="732">السفارة الاسرائيلية في اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="20001015_AFP_ARB.0098.arb-E7" ENTITYMENTIONID="7-14" ARGNUM="2">
+      <extent>
+        <charseq START="726" END="732">اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

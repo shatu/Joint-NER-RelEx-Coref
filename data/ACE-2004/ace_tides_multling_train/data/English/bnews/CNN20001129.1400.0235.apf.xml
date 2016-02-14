@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001129.1400.0235.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001129.1400.0235">
+<entity ID="CNN20001129.1400.0235-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="PRE" LDCTYPE="PRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="592" END="599">governor</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="599">governor</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="359" END="372">george w. bush</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="372">george w. bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="592" END="604">governor bush</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="604">bush</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="359" END="372">george w. bush</charseq>
+    </name>
+    <name>
+      <charseq START="601" END="604">bush</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001129.1400.0235-E2" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="754" END="776">our partisan supporters</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="776">supporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001129.1400.0235-E3" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="3-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="754" END="756">our</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="756">our</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001129.1400.0235-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="71">al gore</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="71">al gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="610" END="610">i</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="610">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="78" END="80">his</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="80">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="136" END="138">his</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="138">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-12" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="150" END="163">vice president</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="163">president</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="242" END="245">gore</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="245">gore</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="252" END="253">he</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="253">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="263" END="265">his</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="265">his</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="332" END="333">he</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="333">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="348" END="349">he</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="349">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="412" END="412">i</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="412">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="422" END="422">i</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="422">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="478" END="478">i</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="478">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="534" END="535">my</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="535">my</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="574" END="574">i</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="574">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="71">al gore</charseq>
+    </name>
+    <name>
+      <charseq START="242" END="245">gore</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001129.1400.0235-E6" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="6-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="78" END="115">his residence at the naval observatory</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="90">residence</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001129.1400.0235-E7" TYPE="FAC" SUBTYPE="Bounded-Area" CLASS="SPC">
+  <entity_mention ID="7-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="95" END="115">the naval observatory</charseq>
+    </extent>
+    <head>
+      <charseq START="105" END="115">observatory</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001129.1400.0235-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-9" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="99" END="103">naval</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="103">naval</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001129.1400.0235-E9" TYPE="FAC" SUBTYPE="Building" CLASS="SPC">
+  <entity_mention ID="9-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="168" END="182">the white house</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="182">white house</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="172" END="182">white house</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001129.1400.0235-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="10-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="222" END="224">nbc</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="224">nbc</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="222" END="224">nbc</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001129.1400.0235-E12" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="12-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="534" END="546">my supporters</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="546">supporters</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001129.1400.0235-R1" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E7" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="78" END="115">his residence at the naval observatory</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="1">
+      <extent>
+        <charseq START="78" END="115">his residence at the naval observatory</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="7-8" ARGNUM="2">
+      <extent>
+        <charseq START="95" END="115">the naval observatory</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001129.1400.0235-R2" TYPE="ART" SUBTYPE="User-or-Owner">
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E6" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="78" END="115">his residence at the naval observatory</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-10" ARGNUM="1">
+      <extent>
+        <charseq START="78" END="80">his</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-7" ARGNUM="2">
+      <extent>
+        <charseq START="78" END="115">his residence at the naval observatory</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001129.1400.0235-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E9" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="65" END="182">al gore left his residence at the naval observatory today to attend
+to his duties as vice president at the white house</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-1" ARGNUM="1">
+      <extent>
+        <charseq START="65" END="71">al gore</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="9-13" ARGNUM="2">
+      <extent>
+        <charseq START="168" END="182">the white house</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001129.1400.0235-R4" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E12" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="534" END="546">my supporters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-25" ARGNUM="1">
+      <extent>
+        <charseq START="534" END="535">my</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-24" ARGNUM="2">
+      <extent>
+        <charseq START="534" END="546">my supporters</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="CNN20001129.1400.0235-R5" TYPE="PER-SOC" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E3" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001129.1400.0235-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Possessive">
+    <ldc_extent>
+      <charseq START="754" END="776">our partisan supporters</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="3-6" ARGNUM="1">
+      <extent>
+        <charseq START="754" END="756">our</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-4" ARGNUM="2">
+      <extent>
+        <charseq START="754" END="776">our partisan supporters</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

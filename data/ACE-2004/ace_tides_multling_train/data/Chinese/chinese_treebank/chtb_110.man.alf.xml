@@ -1,0 +1,624 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "alf.v4.0.1.dtd">
+<source_file URI="chtb_110.man.sgm" SOURCE="chinese_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="chtb_110.man">
+<composite_entity ID="chtb_110.man-CE1">
+  <entity ID="chtb_110.man-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="1-37" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="147" END="148">泰国</charseq>
+      </extent>
+      <head>
+        <charseq START="147" END="148">泰国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="147" END="148">泰国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE2">
+  <entity ID="chtb_110.man-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="2-2" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="150" END="152">新加坡</charseq>
+      </extent>
+      <head>
+        <charseq START="150" END="152">新加坡</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="150" END="152">新加坡</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE3">
+  <entity ID="chtb_110.man-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="3-3" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="154" END="158">马来
+西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="154" END="158">马来
+西亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="154" END="158">马来
+西亚</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE4">
+  <entity ID="chtb_110.man-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="4-14" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="324" END="330">芬兰与这一地区</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="330">芬兰与这一地区</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE5">
+  <entity ID="chtb_110.man-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+    <entity_mention ID="5-1" TYPE="NAM">
+      <extent>
+        <charseq START="57" END="59">新华社</charseq>
+      </extent>
+      <head>
+        <charseq START="57" END="59">新华社</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="57" END="59">新华社</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE6">
+  <entity ID="chtb_110.man-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="6-22" TYPE="NAM" ROLE="LOC">
+      <extent>
+        <charseq START="60" END="63">赫尔辛基</charseq>
+      </extent>
+      <head>
+        <charseq START="60" END="63">赫尔辛基</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="60" END="63">赫尔辛基</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE7">
+  <entity ID="chtb_110.man-E7" TYPE="PER" CLASS="SPC">
+    <entity_mention ID="7-23" TYPE="APP">
+      <extent>
+        <charseq START="71" END="75">记者郑焕清</charseq>
+      </extent>
+    </entity_mention>
+    <entity_mention ID="7-24" TYPE="NAM">
+      <extent>
+        <charseq START="73" END="75">郑焕清</charseq>
+      </extent>
+      <head>
+        <charseq START="73" END="75">郑焕清</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="73" END="75">郑焕清</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+  <entity ID="chtb_110.man-E8" TYPE="PER" CLASS="ATR">
+    <entity_mention ID="8-25" TYPE="NOM">
+      <extent>
+        <charseq START="71" END="72">记者</charseq>
+      </extent>
+      <head>
+        <charseq START="71" END="72">记者</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE8">
+  <entity ID="chtb_110.man-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+    <entity_mention ID="9-17" TYPE="NAM">
+      <extent>
+        <charseq START="348" END="351">芬兰海关</charseq>
+      </extent>
+      <head>
+        <charseq START="350" END="351">海关</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="9-26" TYPE="NAM">
+      <extent>
+        <charseq START="80" END="83">芬兰海关</charseq>
+      </extent>
+      <head>
+        <charseq START="82" END="83">海关</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="350" END="351">海关</charseq>
+      </name>
+      <name>
+        <charseq START="82" END="83">海关</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE9">
+  <entity ID="chtb_110.man-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="10-4" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="176" END="177">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="176" END="177">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-5" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="182" END="183">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="182" END="183">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-6" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="215" END="216">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="215" END="216">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-8" TYPE="PRO" ROLE="GPE">
+      <extent>
+        <charseq START="226" END="226">其</charseq>
+      </extent>
+      <head>
+        <charseq START="226" END="226">其</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-9" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="257" END="258">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="257" END="258">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-11" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="298" END="299">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="298" END="299">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-15" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="324" END="325">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="324" END="325">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-18" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="348" END="349">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="348" END="349">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-20" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="366" END="367">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="366" END="367">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-27" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="80" END="81">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="80" END="81">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-28" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="99" END="100">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="99" END="100">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="10-31" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="133" END="134">芬兰</charseq>
+      </extent>
+      <head>
+        <charseq START="133" END="134">芬兰</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="215" END="216">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="257" END="258">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="298" END="299">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="324" END="325">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="348" END="349">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="366" END="367">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="80" END="81">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="99" END="100">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="133" END="134">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="176" END="177">芬兰</charseq>
+      </name>
+      <name>
+        <charseq START="182" END="183">芬兰</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE10">
+  <entity ID="chtb_110.man-E11" TYPE="GPE" SUBTYPE="Other" CLASS="SPC">
+    <entity_mention ID="11-7" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="218" END="221">这一地区</charseq>
+      </extent>
+      <head>
+        <charseq START="220" END="221">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-10" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="260" END="263">这一地区</charseq>
+      </extent>
+      <head>
+        <charseq START="262" END="263">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-12" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="301" END="305">东南亚地区</charseq>
+      </extent>
+      <head>
+        <charseq START="304" END="305">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-13" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="301" END="303">东南亚</charseq>
+      </extent>
+      <head>
+        <charseq START="301" END="303">东南亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-16" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="327" END="330">这一地区</charseq>
+      </extent>
+      <head>
+        <charseq START="329" END="330">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-19" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="355" END="357">东南亚</charseq>
+      </extent>
+      <head>
+        <charseq START="355" END="357">东南亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-21" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="369" END="372">这一地区</charseq>
+      </extent>
+      <head>
+        <charseq START="371" END="372">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-29" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="106">东南亚地区</charseq>
+      </extent>
+      <head>
+        <charseq START="105" END="106">地区</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-30" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="102" END="104">东南亚</charseq>
+      </extent>
+      <head>
+        <charseq START="102" END="104">东南亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_mention ID="11-32" TYPE="NOM" ROLE="GPE">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+      <head>
+        <charseq START="164" END="165">伙伴</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="301" END="303">东南亚</charseq>
+      </name>
+      <name>
+        <charseq START="355" END="357">东南亚</charseq>
+      </name>
+      <name>
+        <charseq START="102" END="104">东南亚</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE11">
+  <entity ID="chtb_110.man-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="12-33" TYPE="PMM" ROLE="GPE">
+      <extent>
+        <charseq START="136" END="158">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="158">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚</charseq>
+      </head>
+    </entity_mention>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE12">
+  <entity ID="chtb_110.man-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+    <entity_mention ID="13-34" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="136" END="139">中国香港</charseq>
+      </extent>
+      <head>
+        <charseq START="138" END="139">香港</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="138" END="139">香港</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE13">
+  <entity ID="chtb_110.man-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="14-35" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="136" END="137">中国</charseq>
+      </extent>
+      <head>
+        <charseq START="136" END="137">中国</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="136" END="137">中国</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<composite_entity ID="chtb_110.man-CE14">
+  <entity ID="chtb_110.man-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+    <entity_mention ID="15-36" TYPE="NAM" ROLE="GPE">
+      <extent>
+        <charseq START="141" END="145">印度尼西亚</charseq>
+      </extent>
+      <head>
+        <charseq START="141" END="145">印度尼西亚</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+      <name>
+        <charseq START="141" END="145">印度尼西亚</charseq>
+      </name>
+  </entity_attributes>
+  </entity>
+</composite_entity>
+<relation ID="chtb_110.man-R1" TYPE="PHYS" SUBTYPE="Located">
+  <relation_mention ID="1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="57" END="63">新华社赫尔辛基</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E5" ENTITYMENTIONID="5-1" ARGNUM="1">
+      <extent>
+        <charseq START="57" END="59">新华社</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E6" ENTITYMENTIONID="6-22" ARGNUM="2">
+      <extent>
+        <charseq START="60" END="63">赫尔辛基</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <relation_mention ID="2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="80" END="83">芬兰海关</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E9" ENTITYMENTIONID="9-26" ARGNUM="1">
+      <extent>
+        <charseq START="80" END="83">芬兰海关</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E10" ENTITYMENTIONID="10-27" ARGNUM="2">
+      <extent>
+        <charseq START="80" END="81">芬兰</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="348" END="351">芬兰海关</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E9" ENTITYMENTIONID="9-17" ARGNUM="1">
+      <extent>
+        <charseq START="348" END="351">芬兰海关</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E10" ENTITYMENTIONID="10-18" ARGNUM="2">
+      <extent>
+        <charseq START="348" END="349">芬兰</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R3" TYPE="PHYS" SUBTYPE="Part-Whole">
+  <relation_mention ID="3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="139">中国香港</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E13" ENTITYMENTIONID="13-34" ARGNUM="1">
+      <extent>
+        <charseq START="136" END="139">中国香港</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E14" ENTITYMENTIONID="14-35" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="137">中国</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R4" TYPE="DISC">
+  <relation_mention ID="4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E13" ENTITYMENTIONID="13-34" ARGNUM="1">
+      <extent>
+        <charseq START="136" END="139">中国香港</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E11" ENTITYMENTIONID="11-32" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R5" TYPE="DISC">
+  <relation_mention ID="5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E15" ENTITYMENTIONID="15-36" ARGNUM="1">
+      <extent>
+        <charseq START="141" END="145">印度尼西亚</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E11" ENTITYMENTIONID="11-32" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R6" TYPE="DISC">
+  <relation_mention ID="6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E1" ENTITYMENTIONID="1-37" ARGNUM="1">
+      <extent>
+        <charseq START="147" END="148">泰国</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E11" ENTITYMENTIONID="11-32" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R7" TYPE="DISC">
+  <relation_mention ID="7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E2" ENTITYMENTIONID="2-2" ARGNUM="1">
+      <extent>
+        <charseq START="150" END="152">新加坡</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E11" ENTITYMENTIONID="11-32" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="chtb_110.man-R8" TYPE="DISC">
+  <relation_mention ID="8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+    </extent>
+    <relation_mention_argument ENTITYID="chtb_110.man-E3" ENTITYMENTIONID="3-3" ARGNUM="1">
+      <extent>
+        <charseq START="154" END="158">马来
+西亚</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument ENTITYID="chtb_110.man-E11" ENTITYMENTIONID="11-32" ARGNUM="2">
+      <extent>
+        <charseq START="136" END="165">中国香港、印度尼西亚、泰国、新加坡和马来
+西亚等主要贸易伙伴</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

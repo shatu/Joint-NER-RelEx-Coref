@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0033.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0033.arb">
+<entity ID="20000815_AFP_ARB.0033.arb-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="657" END="662">الطاقم</charseq>
+    </extent>
+    <head>
+      <charseq START="657" END="662">الطاقم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E2" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="693" END="696">قتلى</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="696">قتلى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E3" TYPE="PER" CLASS="GEN">
+  <entity_mention ID="3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="701" END="704">جرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="701" END="704">جرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="723" END="723">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="723">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="725" END="738">صحيفة كومرسانت</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="738">كومرسانت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="731" END="738">كومرسانت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E5" TYPE="VEH" SUBTYPE="Water" CLASS="USP">
+  <entity_mention ID="5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="758" END="770">سفينة استكشاف</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="762">سفينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E6" TYPE="VEH" SUBTYPE="Water" CLASS="USP">
+  <entity_mention ID="6-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="773" END="777">غواصة</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="777">غواصة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E7" TYPE="VEH" SUBTYPE="Water" CLASS="USP">
+  <entity_mention ID="7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="793" END="794">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="794">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="835" END="836">تا</charseq>
+    </extent>
+    <head>
+      <charseq START="835" END="836">تا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="8-17" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="917" END="931">البحرية الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="923">البحرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="915" END="915">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="915" END="915">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="936" END="936">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="936" END="936">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="151" END="170">سلاح البحرية الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="154">سلاح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E9" TYPE="VEH" SUBTYPE="Water" CLASS="GEN">
+  <entity_mention ID="9-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="965" END="974">سفينة اخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="969">سفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="979" END="979">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="979">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1026" END="1096">116 رجلا على متن الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1030" END="1032">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1128" END="1129">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1128" END="1129">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E11" TYPE="LOC" SUBTYPE="Region-National" CLASS="SPC">
+  <entity_mention ID="11-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1083" END="1096">شمال
+غرب روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1096">روسيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="12-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="122" END="126">موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="126">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="122" END="126">موسكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="134" END="137">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="137">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="134" END="137">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E14" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="14-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="146" END="170">قائد سلاح البحرية الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="149">قائد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="197">الاميرال فلاديمير كورويدوف</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="197">فلاديمير كورويدوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="383" END="390">كورويدوف</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="390">كورويدوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="181" END="197">فلاديمير كورويدوف</charseq>
+    </name>
+    <name>
+      <charseq START="383" END="390">كورويدوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="15-11" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="779" END="785">روسيتين</charseq>
+    </extent>
+    <head>
+      <charseq START="779" END="785">روسيتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-19" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="925" END="931">الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="925" END="931">الروسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-34" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="164" END="170">الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="170">الروسية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="17-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="211" END="211">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="211">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="17-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="214" END="233">وكالة انباء انترفاكس</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="233">انترفاكس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="226" END="233">انترفاكس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E18" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="18-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="713" END="714">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="714">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="812" END="816">كورسك</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="816">كورسك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="891" END="906">الغواصة المنكوبة</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="897">الغواصة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1043" END="1096">الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1043" END="1049">الغواصة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1057" END="1057">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="1057" END="1057">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="305" END="325">الغواصة النووية كورسك</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="325">كورسك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="333" END="333">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="333">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="562" END="568">السفينة</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="568">السفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="599" END="600">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="600">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="812" END="816">كورسك</charseq>
+    </name>
+    <name>
+      <charseq START="321" END="325">كورسك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E19" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="19-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="821" END="830">بحر بارنتس</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="830">بحر بارنتس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1072" END="1096">بحر بارنتس شمال
+غرب روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1072" END="1081">بحر بارنتس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-28" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1098" END="1100">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="1098" END="1100">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="354" END="363">بحر بارنتس</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="363">بحر بارنتس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="821" END="830">بحر بارنتس</charseq>
+    </name>
+    <name>
+      <charseq START="1072" END="1081">بحر بارنتس</charseq>
+    </name>
+    <name>
+      <charseq START="354" END="363">بحر بارنتس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="20-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="484" END="484">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="484">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="486" END="500">وكالة ايتار تاس</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="500">ايتار تاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="492" END="500">ايتار تاس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="21-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="505" END="532">المكتب الصحافي لاسطول الشمال</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="510">المكتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="21-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="611" END="624">المكتب الصحافي</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="616">المكتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0033.arb-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="22-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="520" END="532">لاسطول الشمال</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="532">لاسطول الشمال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="520" END="532">لاسطول الشمال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<relation ID="20000815_AFP_ARB.0033.arb-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E8" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="146" END="170">قائد سلاح البحرية الروسية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-33" ARGNUM="1">
+      <extent>
+        <charseq START="146" END="170">قائد سلاح البحرية الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-30" ARGNUM="2">
+      <extent>
+        <charseq START="151" END="170">سلاح البحرية الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0033.arb-R2" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E8" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E15" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="151" END="170">سلاح البحرية الروسية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-30" ARGNUM="1">
+      <extent>
+        <charseq START="151" END="170">سلاح البحرية الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-34" ARGNUM="2">
+      <extent>
+        <charseq START="164" END="170">الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="917" END="931">البحرية الروسية</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="8-17" ARGNUM="1">
+      <extent>
+        <charseq START="917" END="931">البحرية الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-19" ARGNUM="2">
+      <extent>
+        <charseq START="925" END="931">الروسية</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0033.arb-R3" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E22" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="505" END="532">المكتب الصحافي لاسطول الشمال</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-44" ARGNUM="1">
+      <extent>
+        <charseq START="505" END="532">المكتب الصحافي لاسطول الشمال</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-45" ARGNUM="2">
+      <extent>
+        <charseq START="520" END="532">لاسطول الشمال</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0033.arb-R5" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E18" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1026" END="1096">116 رجلا على متن الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-23" ARGNUM="1">
+      <extent>
+        <charseq START="1026" END="1096">116 رجلا على متن الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="18-24" ARGNUM="2">
+      <extent>
+        <charseq START="1043" END="1096">الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0033.arb-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E18" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E19" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="1043" END="1096">الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="18-24" ARGNUM="1">
+      <extent>
+        <charseq START="1043" END="1096">الغواصة الراقدة منذ الاحد في بحر بارنتس شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="2">
+      <extent>
+        <charseq START="1072" END="1096">بحر بارنتس شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0033.arb-R7" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E19" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0033.arb-E11" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1072" END="1096">بحر بارنتس شمال
+غرب روسيا</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="19-26" ARGNUM="1">
+      <extent>
+        <charseq START="1072" END="1096">بحر بارنتس شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="11-27" ARGNUM="2">
+      <extent>
+        <charseq START="1083" END="1096">شمال
+غرب روسيا</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

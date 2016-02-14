@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="ABC20001209.1830.0360.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ABC20001209.1830.0360">
+<entity ID="ABC20001209.1830.0360-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="800" END="801">he</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="801">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="861" END="862">he</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="862">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="914" END="920">himself</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="920">himself</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="650" END="696">the republican chairman of the canvassing
+board</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="672">chairman</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E2" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="654" END="663">republican</charseq>
+    </extent>
+    <head>
+      <charseq START="654" END="663">republican</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-20" TYPE="NOM" LDCTYPE="BAR" LDCATR="FALSE">
+    <extent>
+      <charseq START="1585" END="1595">republicans</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1595">republicans</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="677" END="696">the canvassing
+board</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="696">board</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="877" END="900">the judge in tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="885">judge</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="890" END="900">tallahassee</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="900">tallahassee</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="890" END="900">tallahassee</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001209.1830.0360-E6" TYPE="PER" CLASS="USP">
+  <entity_mention ID="6-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="927" END="960">somebody there who can get it done</charseq>
+    </extent>
+    <head>
+      <charseq START="927" END="934">somebody</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="6-24" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="942" END="944">who</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="944">who</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1101" END="1121">a computer
+consultant</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1121">consultant</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1169" END="1171">his</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1171">his</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1219" END="1220">we</charseq>
+    </extent>
+    <head>
+      <charseq START="1219" END="1220">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E9" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1363" END="1372">both sides</charseq>
+    </extent>
+    <head>
+      <charseq START="1368" END="1372">sides</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1417" END="1420">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1417" END="1420">they</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1462" END="1474">the two sides</charseq>
+    </extent>
+    <head>
+      <charseq START="1470" END="1474">sides</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1514" END="1517">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1514" END="1517">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E10" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="10-19" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="1543" END="1551">democrats</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1551">democrats</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="12-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1627" END="1634">abc news</charseq>
+    </extent>
+    <head>
+      <charseq START="1627" END="1634">abc news</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1627" END="1634">abc news</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001209.1830.0360-E13" TYPE="PER" CLASS="USP">
+  <entity_mention ID="13-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1088" END="1091">they</charseq>
+    </extent>
+    <head>
+      <charseq START="1088" END="1091">they</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="14-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="92" END="114">florida supreme's court</charseq>
+    </extent>
+    <head>
+      <charseq START="100" END="114">supreme's court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="312" END="328">the supreme court</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="328">supreme court</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="14-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="337" END="339">its</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="339">its</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="100" END="114">supreme's court</charseq>
+    </name>
+    <name>
+      <charseq START="316" END="328">supreme court</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001209.1830.0360-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="15-26" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="92" END="98">florida</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="98">florida</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E16" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="16-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="117" END="133">the chief
+justice</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="133">justice</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E17" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="17-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="167" END="178">the counties</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="178">counties</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E18" TYPE="LOC" SUBTYPE="Region-Subnational" CLASS="SPC">
+  <entity_mention ID="18-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="221" END="231">some places</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="231">places</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="19-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1637" END="1648">jacksonville</charseq>
+    </extent>
+    <head>
+      <charseq START="1637" END="1648">jacksonville</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="291" END="302">jacksonville</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="302">jacksonville</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1637" END="1648">jacksonville</charseq>
+    </name>
+    <name>
+      <charseq START="291" END="302">jacksonville</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001209.1830.0360-E20" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="20-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1213" END="1214">me</charseq>
+    </extent>
+    <head>
+      <charseq START="1213" END="1214">me</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1611" END="1624">mike von fremd</charseq>
+    </extent>
+    <head>
+      <charseq START="1611" END="1624">mike von fremd</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="271" END="302">mike von fremd from jacksonville</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="284">mike von fremd</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1611" END="1624">mike von fremd</charseq>
+    </name>
+    <name>
+      <charseq START="271" END="284">mike von fremd</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ABC20001209.1830.0360-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-34" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="359" END="388">observers in the
+counting room</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="367">observers</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E22" TYPE="FAC" SUBTYPE="Subarea-Building" CLASS="SPC">
+  <entity_mention ID="22-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="936" END="940">there</charseq>
+    </extent>
+    <head>
+      <charseq START="936" END="940">there</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="372" END="388">the
+counting room</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="388">room</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="416" END="418">you</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="418">you</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E24" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="24-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="442" END="442">i</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="442">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="480" END="480">i</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="480">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="24-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="524" END="524">i</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="524">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ABC20001209.1830.0360-E25" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="25-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="493" END="494">we</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="494">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="25-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="533" END="534">we</charseq>
+    </extent>
+    <head>
+      <charseq START="533" END="534">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="ABC20001209.1830.0360-R1" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E15" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="92" END="114">florida supreme's court</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-1" ARGNUM="1">
+      <extent>
+        <charseq START="92" END="114">florida supreme's court</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="15-26" ARGNUM="2">
+      <extent>
+        <charseq START="92" END="98">florida</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R2" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E19" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="271" END="302">mike von fremd from jacksonville</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-31" ARGNUM="1">
+      <extent>
+        <charseq START="271" END="302">mike von fremd from jacksonville</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-30" ARGNUM="2">
+      <extent>
+        <charseq START="291" END="302">jacksonville</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+  <relation_mention ID="2-2" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1611" END="1648">mike von fremd, abc news, jacksonville</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-21" ARGNUM="1">
+      <extent>
+        <charseq START="1611" END="1624">mike von fremd</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="19-22" ARGNUM="2">
+      <extent>
+        <charseq START="1637" END="1648">jacksonville</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R3" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E21" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E22" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="359" END="388">observers in the
+counting room</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="21-34" ARGNUM="1">
+      <extent>
+        <charseq START="359" END="388">observers in the
+counting room</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-35" ARGNUM="2">
+      <extent>
+        <charseq START="372" END="388">the
+counting room</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R4" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E3" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="650" END="696">the republican chairman of the canvassing
+board</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-42" ARGNUM="1">
+      <extent>
+        <charseq START="650" END="696">the republican chairman of the canvassing
+board</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="677" END="696">the canvassing
+board</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R5" TYPE="EMP-ORG" SUBTYPE="Member-of-Group">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E1" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E2" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="650" END="696">the republican chairman of the canvassing
+board</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="1-42" ARGNUM="1">
+      <extent>
+        <charseq START="650" END="696">the republican chairman of the canvassing
+board</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="2-2" ARGNUM="2">
+      <extent>
+        <charseq START="654" END="663">republican</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R6" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E5" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="877" END="900">the judge in tallahassee</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-7" ARGNUM="1">
+      <extent>
+        <charseq START="877" END="900">the judge in tallahassee</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="5-8" ARGNUM="2">
+      <extent>
+        <charseq START="890" END="900">tallahassee</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R8" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E6" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E22" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="936" END="960">there who can get it done</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="6-24" ARGNUM="1">
+      <extent>
+        <charseq START="942" END="944">who</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="22-10" ARGNUM="2">
+      <extent>
+        <charseq START="936" END="940">there</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="ABC20001209.1830.0360-R9" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E20" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="ABC20001209.1830.0360-E12" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1611" END="1648">mike von fremd, abc news, jacksonville</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="20-21" ARGNUM="1">
+      <extent>
+        <charseq START="1611" END="1624">mike von fremd</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="12-23" ARGNUM="2">
+      <extent>
+        <charseq START="1627" END="1634">abc news</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="CNN20001105.1400.1149.sgm" SOURCE="broadcast news" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="CNN20001105.1400.1149">
+<entity ID="CNN20001105.1400.1149-E1" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="65" END="76">duane walker</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="76">duane walker</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="65" END="76">duane walker</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001105.1400.1149-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="2-2" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="118" END="120">nfl</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="120">nfl</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001105.1400.1149-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="3-3" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="158" END="176">washington redskins</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="176">washington redskins</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001105.1400.1149-E4" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="4-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="187" END="197">jeff george</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="197">jeff george</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="4-5" TYPE="NOM" LDCTYPE="BAR" LDCATR="TRUE">
+    <extent>
+      <charseq START="228" END="268">quarterback against the arizona
+cardinals</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="238">quarterback</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="187" END="197">jeff george</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001105.1400.1149-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="6-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="248" END="268">the arizona
+cardinals</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="268">arizona
+cardinals</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="252" END="268">arizona
+cardinals</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001105.1400.1149-E7" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="7-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="271" END="282">brad johnson</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="282">brad johnson</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="364" END="367">brad</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="367">brad</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="426" END="428">him</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="428">him</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="480" END="481">he</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="481">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="523" END="524">he</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="524">he</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="7-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="535" END="552">an emergency third</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="552">third</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="271" END="282">brad johnson</charseq>
+    </name>
+    <name>
+      <charseq START="364" END="367">brad</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="CNN20001105.1400.1149-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="330" END="330">i</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="330">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="394" END="395">my</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="395">my</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="409" END="409">i</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="409">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="417" END="417">i</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="417">i</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="8-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="467" END="467">i</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="467">i</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="CNN20001105.1400.1149-E9" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="9-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="350" END="351">we</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="351">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="514" END="515">we</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="515">we</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="587" END="588">we</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="588">we</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="CNN20001105.1400.1149-R1" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="CNN20001105.1400.1149-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="CNN20001105.1400.1149-E3" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Verbal">
+    <ldc_extent>
+      <charseq START="134" END="268">for the first time in a washington redskins uniform, jeff george
+will get the starting nod at quarterback against the arizona
+cardinals</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-4" ARGNUM="1">
+      <extent>
+        <charseq START="187" END="197">jeff george</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="3-3" ARGNUM="2">
+      <extent>
+        <charseq START="158" END="176">washington redskins</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

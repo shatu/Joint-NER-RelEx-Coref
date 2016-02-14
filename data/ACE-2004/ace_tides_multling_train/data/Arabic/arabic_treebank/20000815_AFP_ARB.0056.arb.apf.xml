@@ -1,0 +1,1180 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v4.0.1.dtd">
+<source_file URI="20000815_AFP_ARB.0056.arb.sgm" SOURCE="arabic_treebank" TYPE="text" VERSION="4.0" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="20000815_AFP_ARB.0056.arb">
+<entity ID="20000815_AFP_ARB.0056.arb-E1" TYPE="PER" CLASS="USP">
+  <entity_mention ID="1-6" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="474" END="487">معظم المراقبين</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="477">معظم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="492" END="493">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="493">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="1-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="500" END="501">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="501">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E2" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="2-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="511" END="524">محمد رضا خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="524">محمد رضا خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="526" END="536">شقيق الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="529">شقيق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="538" END="556">زعيما لهذه الغالبية</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="542">زعيما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="559" END="595">هو الذي جاء فى مقدمة
+لائحة الاصلاحيين</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="560">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-14" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="562" END="565">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="565">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="643" END="651">رضا خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="651">رضا خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="2-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="653" END="691">مديرا لمكتب الدراسات والابحاث في المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="657">مديرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="511" END="524">محمد رضا خاتمي</charseq>
+    </name>
+    <name>
+      <charseq START="643" END="651">رضا خاتمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="4-19" TYPE="NOM" LDCTYPE="NOM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="659" END="691">لمكتب الدراسات والابحاث في المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="663">لمكتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E5" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="5-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="776" END="807">للراديكاليين الاسلاميين
+السابقين</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="787">للراديكاليين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E6" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="6-23" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="789" END="798">الاسلاميين</charseq>
+    </extent>
+    <head>
+      <charseq START="789" END="798">الاسلاميين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E7" TYPE="PER" CLASS="USP">
+  <entity_mention ID="7-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="875" END="945">120 نائبا من اصل 180 من
+اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="883">نائبا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E8" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="8-27" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="892" END="945">180 من
+اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="894">180</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E9" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="9-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="899" END="945">اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+    </extent>
+    <head>
+      <charseq START="905" END="912">الائتلاف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="9-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="924" END="944">جبهة الثاني من خورداد</charseq>
+    </extent>
+    <head>
+      <charseq START="924" END="944">جبهة الثاني من خورداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="924" END="944">جبهة الثاني من خورداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E10" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="10-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1025" END="1090">النائبان على شاكوري راد (اصلاحي) وابو القاسم سرهدي
+زاده (راديكالي)</charseq>
+    </extent>
+    <head>
+      <charseq START="1025" END="1032">النائبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="10-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1092" END="1137">نائبين لمحتشمي فى الغالبية الاصلاحية فى المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1097">نائبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E11" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="11-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1034" END="1056">على شاكوري راد (اصلاحي)</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1047">على شاكوري راد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1034" END="1047">على شاكوري راد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E12" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="12-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1059" END="1090">ابو القاسم سرهدي
+زاده (راديكالي)</charseq>
+    </extent>
+    <head>
+      <charseq START="1059" END="1079">ابو القاسم سرهدي
+زاده</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1059" END="1079">ابو القاسم سرهدي
+زاده</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="13-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1176" END="1229">صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1187">+بيان+</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-43" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1199" END="1202">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1199" END="1202">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1228" END="1229">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1229">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1280" END="1280">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1280" END="1280">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1282" END="1293">صحيفة +بيان+</charseq>
+    </extent>
+    <head>
+      <charseq START="1289" END="1292">بيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="13-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1298" END="1298">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1298" END="1298">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1182" END="1187">+بيان+</charseq>
+    </name>
+    <name>
+      <charseq START="1289" END="1292">بيان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="14-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1208" END="1222">القضاء الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="1208" END="1213">القضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="109" END="113">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="113">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="15-16" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="624" END="630">العاصمة</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="630">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="109" END="113">طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E16" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="16-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1248" END="1271">حزب الله الشيعي اللبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1248" END="1255">حزب الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1248" END="1255">حزب الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="17-50" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE">
+    <extent>
+      <charseq START="1264" END="1271">اللبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1264" END="1271">اللبناني</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E18" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="18-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1336" END="1406">الفريق
+الصحافي الذي كان فى صحيفة +سلام+ التي اغلقت فى حزيران/يونيو 1999</charseq>
+    </extent>
+    <head>
+      <charseq START="1336" END="1341">الفريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="18-55" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1351" END="1354">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1351" END="1354">الذي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E19" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="19-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1363" END="1374">صحيفة +سلام+</charseq>
+    </extent>
+    <head>
+      <charseq START="1370" END="1373">سلام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-57" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1376" END="1379">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1376" END="1379">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1385" END="1385">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1385" END="1385">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="19-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1418" END="1419">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1418" END="1419">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1370" END="1373">سلام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="20-46" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1215" END="1222">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="1215" END="1222">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-60" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1463" END="1481">الجمهورية الاسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="1463" END="1481">الجمهورية الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-69" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1659" END="1663">ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="1659" END="1663">ايران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="20-82" TYPE="PRE" LDCTYPE="PRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="282" END="289">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="289">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1463" END="1481">الجمهورية الاسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E21" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="21-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1489" END="1498">ثلاثة قتلى</charseq>
+    </extent>
+    <head>
+      <charseq START="1495" END="1498">قتلى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="22-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1532" END="1532">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1532">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="22-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1534" END="1556">محكمة رجال الدين الخاصة</charseq>
+    </extent>
+    <head>
+      <charseq START="1534" END="1538">محكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E23" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="23-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1606" END="1614">المحافظون</charseq>
+    </extent>
+    <head>
+      <charseq START="1606" END="1614">المحافظون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="24-70" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1668" END="1671">دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="1668" END="1671">دمشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="1668" END="1671">دمشق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="25-72" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="121" END="124">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="124">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="121" END="124">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E26" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="26-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="133" END="133">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="133">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="26-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="135" END="157">وكالة الانباء الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="157">وكالة الانباء الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="135" END="157">وكالة الانباء الايرانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E27" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="27-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="452" END="457">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="457">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="745" END="750">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="745" END="750">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="839" END="844">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="839" END="844">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1099" END="1105">لمحتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1099" END="1105">لمحتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1154" END="1159">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1154" END="1159">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1162" END="1229">هو مدير تحرير صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1163">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1165" END="1229">مدير تحرير صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+    </extent>
+    <head>
+      <charseq START="1165" END="1168">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1232" END="1232">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1232" END="1232">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-48" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1238" END="1271">احد مؤسسي حزب الله الشيعي اللبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1238" END="1240">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1558" END="1563">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1558" END="1563">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1604" END="1604">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1604" END="1604">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-67" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1624" END="1629">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1624" END="1629">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1654" END="1671">سفير ايران في دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="1654" END="1657">سفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1709" END="1709">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1709" END="1709">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-75" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="177" END="203">حجة الاسلام على اكبر
+محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="203">حجة الاسلام على اكبر
+محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-76" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="206" END="234">احد مستشاري الرئيس محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="208">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="242" END="289">زعيما للغالبية الاصلاحية
+في مجلس الشورى الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="246">زعيما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="295" END="295">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="295">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="27-84" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="301" END="306">محتشمي</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="306">محتشمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="452" END="457">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="745" END="750">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="839" END="844">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="1099" END="1105">لمحتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="1154" END="1159">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="1558" END="1563">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="1624" END="1629">محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="177" END="203">حجة الاسلام على اكبر
+محتشمي</charseq>
+    </name>
+    <name>
+      <charseq START="301" END="306">محتشمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E28" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="28-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="210" END="216">مستشاري</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="216">مستشاري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E29" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="29-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="531" END="536">الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="536">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="981" END="985">خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="985">خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="29-78" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="218" END="234">الرئيس محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="225" END="234">محمد خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="981" END="985">خاتمي</charseq>
+    </name>
+    <name>
+      <charseq START="225" END="234">محمد خاتمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E30" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="30-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="586" END="595">الاصلاحيين</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="595">الاصلاحيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1110" END="1137">الغالبية الاصلاحية فى المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="1110" END="1117">الغالبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="30-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="248" END="289">للغالبية الاصلاحية
+في مجلس الشورى الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="255">للغالبية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E31" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="31-4" TYPE="PRE" LDCTYPE="PRE">
+    <extent>
+      <charseq START="408" END="424">رئاسة مجلس
+الشورى</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="424">مجلس
+الشورى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="686" END="691">المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="691">المجلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="812" END="824">المجلس الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="817">المجلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1132" END="1137">المجلس</charseq>
+    </extent>
+    <head>
+      <charseq START="1132" END="1137">المجلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="31-81" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="270" END="289">مجلس الشورى الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="280">مجلس الشورى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="270" END="280">مجلس الشورى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E33" TYPE="ORG" SUBTYPE="Other" CLASS="SPC">
+  <entity_mention ID="33-85" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="312" END="363">جمعية العلماء المجاهدين (روحانيون مبارز)
+الراديكالية</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="334">جمعية العلماء المجاهدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="33-86" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="337" END="350">روحانيون مبارز</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="350">روحانيون مبارز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name>
+      <charseq START="312" END="334">جمعية العلماء المجاهدين</charseq>
+    </name>
+    <name>
+      <charseq START="337" END="350">روحانيون مبارز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="20000815_AFP_ARB.0056.arb-E34" TYPE="PER" CLASS="SPC">
+  <entity_mention ID="34-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="397" END="398">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="398">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="406" END="406">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="406">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="366" END="424">نواة التيار الاصلاحي التى سبق لها ان تولت رئاسة مجلس
+الشورى</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="369">نواة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="34-88" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="387" END="390">التى</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="390">التى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<relation ID="20000815_AFP_ARB.0056.arb-R1" TYPE="PER-SOC" SUBTYPE="Business">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E29" ARGNUM="2" />
+  <relation_mention ID="1-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="206" END="234">احد مستشاري الرئيس محمد خاتمي</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-76" ARGNUM="1">
+      <extent>
+        <charseq START="206" END="234">احد مستشاري الرئيس محمد خاتمي</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-78" ARGNUM="2">
+      <extent>
+        <charseq START="218" END="234">الرئيس محمد خاتمي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R2" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E30" ARGNUM="2" />
+  <relation_mention ID="2-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="242" END="289">زعيما للغالبية الاصلاحية
+في مجلس الشورى الايراني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-79" ARGNUM="1">
+      <extent>
+        <charseq START="242" END="289">زعيما للغالبية الاصلاحية
+في مجلس الشورى الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="30-80" ARGNUM="2">
+      <extent>
+        <charseq START="248" END="289">للغالبية الاصلاحية
+في مجلس الشورى الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R3" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E31" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E20" ARGNUM="2" />
+  <relation_mention ID="3-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="270" END="289">مجلس الشورى الايراني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="31-81" ARGNUM="1">
+      <extent>
+        <charseq START="270" END="289">مجلس الشورى الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-82" ARGNUM="2">
+      <extent>
+        <charseq START="282" END="289">الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R4" TYPE="PER-SOC" SUBTYPE="Family">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E29" ARGNUM="2" />
+  <relation_mention ID="4-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="526" END="536">شقيق الرئيس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-10" ARGNUM="1">
+      <extent>
+        <charseq START="526" END="536">شقيق الرئيس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="29-11" ARGNUM="2">
+      <extent>
+        <charseq START="531" END="536">الرئيس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R5" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E2" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E4" ARGNUM="2" />
+  <relation_mention ID="5-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="653" END="691">مديرا لمكتب الدراسات والابحاث في المجلس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="2-18" ARGNUM="1">
+      <extent>
+        <charseq START="653" END="691">مديرا لمكتب الدراسات والابحاث في المجلس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="4-19" ARGNUM="2">
+      <extent>
+        <charseq START="659" END="691">لمكتب الدراسات والابحاث في المجلس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R6" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E4" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E31" ARGNUM="2" />
+  <relation_mention ID="6-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="659" END="691">لمكتب الدراسات والابحاث في المجلس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="4-19" ARGNUM="1">
+      <extent>
+        <charseq START="659" END="691">لمكتب الدراسات والابحاث في المجلس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="31-20" ARGNUM="2">
+      <extent>
+        <charseq START="686" END="691">المجلس</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R7" TYPE="OTHER-AFF" SUBTYPE="Ideology">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E5" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E6" ARGNUM="2" />
+  <relation_mention ID="7-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="776" END="807">للراديكاليين الاسلاميين
+السابقين</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="5-22" ARGNUM="1">
+      <extent>
+        <charseq START="776" END="807">للراديكاليين الاسلاميين
+السابقين</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="6-23" ARGNUM="2">
+      <extent>
+        <charseq START="789" END="798">الاسلاميين</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R8" TYPE="DISC">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E7" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E8" ARGNUM="2" />
+  <relation_mention ID="8-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="875" END="945">120 نائبا من اصل 180 من
+اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="7-26" ARGNUM="1">
+      <extent>
+        <charseq START="875" END="945">120 نائبا من اصل 180 من
+اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="8-27" ARGNUM="2">
+      <extent>
+        <charseq START="892" END="945">180 من
+اطراف الائتلاف الاصلاحي "جبهة الثاني من خورداد"</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R9" TYPE="OTHER-AFF" SUBTYPE="Other">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E10" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="2" />
+  <relation_mention ID="9-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1092" END="1137">نائبين لمحتشمي فى الغالبية الاصلاحية فى المجلس</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="10-35" ARGNUM="1">
+      <extent>
+        <charseq START="1092" END="1137">نائبين لمحتشمي فى الغالبية الاصلاحية فى المجلس</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="27-36" ARGNUM="2">
+      <extent>
+        <charseq START="1099" END="1105">لمحتشمي</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R10" TYPE="EMP-ORG" SUBTYPE="Employ-Executive">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E13" ARGNUM="2" />
+  <relation_mention ID="10-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1165" END="1229">مدير تحرير صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-41" ARGNUM="1">
+      <extent>
+        <charseq START="1165" END="1229">مدير تحرير صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="13-42" ARGNUM="2">
+      <extent>
+        <charseq START="1176" END="1229">صحيفة +بيان+ الاصلاحية التي علق
+القضاء الايراني صدورها</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R11" TYPE="EMP-ORG" SUBTYPE="Subsidiary">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E14" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E20" ARGNUM="2" />
+  <relation_mention ID="11-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1208" END="1229">القضاء الايراني صدورها</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="14-44" ARGNUM="1">
+      <extent>
+        <charseq START="1208" END="1222">القضاء الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-46" ARGNUM="2">
+      <extent>
+        <charseq START="1215" END="1222">الايراني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R12" TYPE="GPE-AFF" SUBTYPE="Based-In">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E16" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E17" ARGNUM="2" />
+  <relation_mention ID="12-1" LDCLEXICALCONDITION="PreMod">
+    <ldc_extent>
+      <charseq START="1248" END="1271">حزب الله الشيعي اللبناني</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="16-49" ARGNUM="1">
+      <extent>
+        <charseq START="1248" END="1271">حزب الله الشيعي اللبناني</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="17-50" ARGNUM="2">
+      <extent>
+        <charseq START="1264" END="1271">اللبناني</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R13" TYPE="EMP-ORG" SUBTYPE="Employ-Staff">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E20" ARGNUM="2" />
+  <relation_mention ID="13-1" LDCLEXICALCONDITION="Formulaic">
+    <ldc_extent>
+      <charseq START="1654" END="1671">سفير ايران في دمشق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-68" ARGNUM="1">
+      <extent>
+        <charseq START="1654" END="1671">سفير ايران في دمشق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="20-69" ARGNUM="2">
+      <extent>
+        <charseq START="1659" END="1663">ايران</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+<relation ID="20000815_AFP_ARB.0056.arb-R14" TYPE="PHYS" SUBTYPE="Located">
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E27" ARGNUM="1" />
+  <rel_entity_arg ENTITYID="20000815_AFP_ARB.0056.arb-E24" ARGNUM="2" />
+  <relation_mention ID="14-1" LDCLEXICALCONDITION="Preposition">
+    <ldc_extent>
+      <charseq START="1654" END="1671">سفير ايران في دمشق</charseq>
+    </ldc_extent>
+    <rel_mention_arg ENTITYMENTIONID="27-68" ARGNUM="1">
+      <extent>
+        <charseq START="1654" END="1671">سفير ايران في دمشق</charseq>
+      </extent>
+    </rel_mention_arg>
+    <rel_mention_arg ENTITYMENTIONID="24-70" ARGNUM="2">
+      <extent>
+        <charseq START="1668" END="1671">دمشق</charseq>
+      </extent>
+    </rel_mention_arg>
+  </relation_mention>
+</relation>
+</document>
+</source_file>
