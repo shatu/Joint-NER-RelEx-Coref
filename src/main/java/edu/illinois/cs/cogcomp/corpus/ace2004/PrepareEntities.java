@@ -101,7 +101,7 @@ public class PrepareEntities {
                 String annotationOutFile = fileList[ fileID ].getName();
                 System.err.println( "processing file '" + annotationFile + "'..." );
                 ACEDocument doc = null;
-                //try {
+                try {
                 	doc = processor.processAceEntry(subFolderEntry, annotationFile);
                 
                 List<TextAnnotation> taList = AceFileProcessor.populateTextAnnotation(doc);
@@ -114,10 +114,10 @@ public class PrepareEntities {
 
                 writeOutEntityColumnFormat(EntityOutType.NER_COARSE_AUGMENTED, coarseNerOutDir, outFilePrefix, taList);
                 writeOutEntityColumnFormat(EntityOutType.NER_FINE_AUGMENTED, fineNerOutDir, outFilePrefix, taList);
-//               } catch (Exception e) {
-//                	failList.add(annotationFile);
-//                	continue;
-//                }
+               } catch (Exception e) {
+                	failList.add(annotationFile);
+                	continue;
+                }
                 
             }
 
