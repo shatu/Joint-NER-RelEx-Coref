@@ -3,7 +3,7 @@ package edu.illinois.cs.cogcomp.common;
 /**
  * A home for general-purpose classes.
  *
- * @author sgupta96
+ * @author shashank
  */
 public class CCM2Utils {
 
