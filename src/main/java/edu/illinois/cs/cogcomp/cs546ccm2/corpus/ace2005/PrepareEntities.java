@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.corpus.ace2004;
+package edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005;
 
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
@@ -10,7 +10,6 @@ import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 import edu.illinois.cs.cogcomp.reader.ace2005.annotationStructure.ACEDocument;
 import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.AceFileProcessor;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.ReadACEAnnotation;
 import edu.illinois.cs.cogcomp.reader.util.EventConstants;
 import gnu.trove.set.hash.TIntHashSet;
 import org.slf4j.Logger;
@@ -22,7 +21,7 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * Read ACE2004 data, generate an NER corpus in column format using coarse or fine NER labels.
+ * Read ACE2005 data, generate an NER corpus in column format using coarse or fine NER labels.
  * Augment with quantities and time expressions.
  *
  * @author shashank
@@ -37,8 +36,8 @@ public class PrepareEntities {
 
 
     private static final String OUT_TAG = "O";
-    private static String docDirInput = "data/ACE2004/data/English";
-    private static String nerDirOutput = "target/test04";
+    private static String docDirInput = "data/ACE2005/";
+    private static String nerDirOutput = "target/test05";
 
     public static void main( String[] args ) throws IOException {
 
@@ -49,8 +48,6 @@ public class PrepareEntities {
 //        String nerOutputDir = args[1];
 //
 //        generateNerOutputFromAceDir(aceCorpusDir, nerOutputDir);
-    	
-    	ReadACEAnnotation.is2004mode = true;
         generateNerOutputFromAceDir(docDirInput, nerDirOutput);
     }
 
@@ -82,6 +79,7 @@ public class PrepareEntities {
         Set<String> coarseTypes = new HashSet<>();
         Set<String> fineTypes = new HashSet<>();
         ArrayList<String> failList = new ArrayList<String>();
+//        int correctFileCount = 0;
 
         for (int folderIndex = 0; folderIndex < subFolderList.length; ++folderIndex) {
 
@@ -114,6 +112,7 @@ public class PrepareEntities {
 
                 writeOutEntityColumnFormat(EntityOutType.NER_COARSE_AUGMENTED, coarseNerOutDir, outFilePrefix, taList);
                 writeOutEntityColumnFormat(EntityOutType.NER_FINE_AUGMENTED, fineNerOutDir, outFilePrefix, taList);
+//                correctFileCount++;
                } catch (Exception e) {
                 	failList.add(annotationFile);
                 	continue;
@@ -127,6 +126,7 @@ public class PrepareEntities {
 //        for(int i=0; i<failList.size(); i++) {
 //        	System.out.println(failList.get(i));
 //        }
+//        System.out.println(correctFileCount);
     }
 
     private static void printTypes(String s, Set<String> types) {

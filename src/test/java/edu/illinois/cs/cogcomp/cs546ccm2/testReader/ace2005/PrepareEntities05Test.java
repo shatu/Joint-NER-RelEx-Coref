@@ -1,7 +1,8 @@
-package edu.illinois.cs.cogcomp.testReader.ace2005;
+package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2005;
 
-import edu.illinois.cs.cogcomp.corpus.ace2005.PrepareEntities;
 import org.junit.Test;
+
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.PrepareEntities;
 
 import java.io.IOException;
 

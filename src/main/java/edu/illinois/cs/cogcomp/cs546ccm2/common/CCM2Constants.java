@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.common;
+package edu.illinois.cs.cogcomp.cs546ccm2.common;
 
 /**
  * @author shashank

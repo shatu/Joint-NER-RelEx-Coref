@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.util;
+package edu.illinois.cs.cogcomp.cs546ccm2.util;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

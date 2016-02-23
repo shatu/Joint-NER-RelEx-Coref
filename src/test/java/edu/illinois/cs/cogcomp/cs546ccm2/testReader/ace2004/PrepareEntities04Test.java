@@ -1,6 +1,6 @@
-package edu.illinois.cs.cogcomp.testReader.ace2004;
+package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2004;
 
-import edu.illinois.cs.cogcomp.corpus.ace2004.PrepareEntities;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2004.PrepareEntities;
 import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.ReadACEAnnotation;
 
 import org.junit.Test;

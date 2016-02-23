@@ -1,7 +1,7 @@
 /**
  * 
  */
-package edu.illinois.cs.cogcomp.corpus.ace2005;
+package edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005;
 
 import java.io.File;
 

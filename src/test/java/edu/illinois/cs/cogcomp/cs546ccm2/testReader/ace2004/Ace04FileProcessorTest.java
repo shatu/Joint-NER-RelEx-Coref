@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.testReader.ace2004;
+package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2004;
 
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
