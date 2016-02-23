@@ -1,17 +1,18 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2005;
 
-import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
-import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
-import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
-import edu.illinois.cs.cogcomp.reader.ace2005.annotationStructure.ACEDocument;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.AceFileProcessor;
-import edu.illinois.cs.cogcomp.reader.util.EventConstants;
-import org.junit.Test;
+import static org.junit.Assert.assertTrue;
 
 import java.io.File;
 import java.util.List;
 
-import static org.junit.Assert.assertTrue;
+import org.junit.Test;
+
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.annotationStructure.ACEDocument;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.AceFileProcessor;
+import edu.illinois.cs.cogcomp.cs546ccm2.util.EventConstants;
+import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
+import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 
 /**
  * 

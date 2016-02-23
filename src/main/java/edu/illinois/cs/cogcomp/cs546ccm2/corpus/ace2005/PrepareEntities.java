@@ -1,24 +1,29 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005;
 
+import java.io.File;
+import java.io.FilenameFilter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Set;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.io.IOUtils;
 import edu.illinois.cs.cogcomp.core.io.LineIO;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.annotationStructure.ACEDocument;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.AceFileProcessor;
+import edu.illinois.cs.cogcomp.cs546ccm2.util.EventConstants;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
-import edu.illinois.cs.cogcomp.reader.ace2005.annotationStructure.ACEDocument;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.AceFileProcessor;
-import edu.illinois.cs.cogcomp.reader.util.EventConstants;
 import gnu.trove.set.hash.TIntHashSet;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import java.io.File;
-import java.io.FilenameFilter;
-import java.io.IOException;
-import java.util.*;
 
 /**
  * Read ACE2005 data, generate an NER corpus in column format using coarse or fine NER labels.

@@ -1,13 +1,13 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2004;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2004.PrepareEntities;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.ReadACEAnnotation;
-
-import org.junit.Test;
+import static org.junit.Assert.fail;
 
 import java.io.IOException;
 
-import static org.junit.Assert.fail;
+import org.junit.Test;
+
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2004.PrepareEntities;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.ReadACEAnnotation;
 
 /**
  * Tests the working of the derived ACE04 Reader (present in this project)

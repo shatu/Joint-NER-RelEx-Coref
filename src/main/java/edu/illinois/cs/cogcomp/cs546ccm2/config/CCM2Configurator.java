@@ -1,7 +1,6 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.config;
 
 import edu.illinois.cs.cogcomp.core.utilities.configuration.Configurator;
-import edu.illinois.cs.cogcomp.core.utilities.configuration.Property;
 import edu.illinois.cs.cogcomp.core.utilities.configuration.ResourceManager;
 
 /**

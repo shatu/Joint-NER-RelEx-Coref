@@ -1,16 +1,16 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2004;
 
-import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
-import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
-import edu.illinois.cs.cogcomp.reader.ace2005.annotationStructure.ACEDocument;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.AceFileProcessor;
-import edu.illinois.cs.cogcomp.reader.ace2005.documentReader.ReadACEAnnotation;
-
-import org.junit.Test;
+import static org.junit.Assert.assertNotNull;
 
 import java.io.File;
 
-import static org.junit.Assert.assertNotNull;
+import org.junit.Test;
+
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.annotationStructure.ACEDocument;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.AceFileProcessor;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.ReadACEAnnotation;
+import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
+import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 
 /**
  * test whether this code can read ACE 2004 annotations.

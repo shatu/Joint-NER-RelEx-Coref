@@ -1,12 +1,12 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.testReader.ace2005;
 
-import org.junit.Test;
-
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.PrepareEntities;
+import static org.junit.Assert.fail;
 
 import java.io.IOException;
 
-import static org.junit.Assert.fail;
+import org.junit.Test;
+
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.PrepareEntities;
 
 /**
  * Tests the working of the derived ACE05 Reader (present in this project)
