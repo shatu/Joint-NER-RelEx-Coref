@@ -18,9 +18,8 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.io.IOUtils;
 import edu.illinois.cs.cogcomp.core.io.LineIO;
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.annotationStructure.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.AceFileProcessor;
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.ace2005.documentReader.ReadACEAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.AceAnnotationStructure.ACEDocument;
+import edu.illinois.cs.cogcomp.cs546ccm2.reader.AceDocumentReader.Ace2004.AceFileProcessor;
 import edu.illinois.cs.cogcomp.cs546ccm2.util.EventConstants;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
@@ -55,7 +54,6 @@ public class PrepareEntities {
 //
 //        generateNerOutputFromAceDir(aceCorpusDir, nerOutputDir);
     	
-    	ReadACEAnnotation.is2004mode = true;
         generateNerOutputFromAceDir(docDirInput, nerDirOutput);
     }
 
@@ -78,7 +76,6 @@ public class PrepareEntities {
      * @param nerOutputDir
      * @throws IOException
      */
-    @SuppressWarnings("unused")
 	public static void generateNerOutputFromAceDir( String aceCorpusDir, String nerOutputDir ) throws IOException {
         File inputFolder = new File (aceCorpusDir);
         File[] subFolderList = inputFolder.listFiles();
