@@ -30,9 +30,15 @@
         </dependency>
         <dependency>
             <groupId>edu.illinois.cs.cogcomp</groupId>
-            <artifactId>illinois-nlp-readers</artifactId>
-            <version>0.0.2-SNAPSHOT</version>
+            <artifactId>illinois-tokenizer</artifactId>
+            <version>3.0.12</version>
         </dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
     </dependencies>
 
     <build>

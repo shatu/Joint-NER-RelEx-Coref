@@ -57,14 +57,14 @@ fi
 # Once you have illinois-ace-reader installed, you may need to restart your IDE, 
 # or re-import mvn project to refresh its cache to use the new version.
 
-if [ ! -d illinois-ace-reader ]; then
-	wget --no-check-certificate https://cogcomp.cs.illinois.edu/member_pages/sammons/tmp/illinois-ace-reader.zip .
-	unzip illinois-ace-reader.zip
-	cd illinois-ace-reader
+#if [ ! -d illinois-ace-reader ]; then
+#	wget --no-check-certificate https://cogcomp.cs.illinois.edu/member_pages/sammons/tmp/illinois-ace-reader.zip .
+#	unzip illinois-ace-reader.zip
+#	cd illinois-ace-reader
 ## Install ace reader.
-	mvn install -DskipTests
-        cd ..
-fi
+#	mvn install -DskipTests
+#        cd ..
+#fi
 
 cd ..
 rm -r tmp
