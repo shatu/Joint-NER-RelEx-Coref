@@ -15,8 +15,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.commondatastructure.XMLException;
-
 /**
  * @author Eric Bengtson
  * 
@@ -27,7 +25,7 @@ public class SimpleXMLParser {
      *                The file to parse
      * @return The {@code Document} XML tag -- the root of the
      *         document.
-     * @throws edu.illinois.cs.cogcomp.reader.commondatastructure.XMLException
+     * @throws edu.illinois.cs.cogcomp.cs546ccm2.util.reader.commondatastructure.XMLException
      */
     public static Document getDocument(String filename) throws XMLException {
 	return getDocument(new File(filename));

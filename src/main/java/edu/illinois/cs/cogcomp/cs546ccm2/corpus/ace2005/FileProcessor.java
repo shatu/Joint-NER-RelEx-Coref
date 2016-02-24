@@ -5,8 +5,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005;
 
 import java.io.File;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.AceAnnotationStructure.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.reader.AceDocumentReader.Ace2005.AceFileProcessor;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 
