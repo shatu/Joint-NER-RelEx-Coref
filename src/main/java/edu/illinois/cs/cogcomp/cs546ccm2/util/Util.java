@@ -7,6 +7,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import org.apache.commons.lang.NullArgumentException;
+
 /**
  * @author shashank
  */
@@ -56,6 +58,78 @@ public class Util {
 		reader = new BufferedReader(new InputStreamReader( is, "UTF-8" ));
 		return reader;
 
+	}
+	
+	public static float getAvg(float[] vals) {
+		float avg = 0;
+		if(vals==null) {
+			throw new NullArgumentException("null argument is not supported");
+		}
+		
+		if(vals.length == 0) {
+			throw new ArrayIndexOutOfBoundsException("Array size is 0");
+		}
+		
+		for (int i = 0; i < vals.length; i++) {
+			avg += vals[i];
+		}
+		avg /= vals.length;
+		return avg;
+	}
+	
+	public static float getMax(float[] vals) {
+		float max = Float.MIN_VALUE;
+		if(vals==null) {
+			throw new NullArgumentException("null argument is not supported");
+		}
+		
+		if(vals.length == 0) {
+			throw new ArrayIndexOutOfBoundsException("Array size is 0");
+		}
+		
+		for (int i = 0; i < vals.length; i++) {
+			if(vals[i] > max) {
+				max = vals[i];
+			}
+		}
+		return max;
+	}
+	
+	public static float getMin(float[] vals) {
+		float min = Float.MAX_VALUE;
+		if(vals==null) {
+			throw new NullArgumentException("null argument is not supported");
+		}
+		
+		if(vals.length == 0) {
+			throw new ArrayIndexOutOfBoundsException("Array size is 0");
+		}
+		
+		for (int i = 0; i < vals.length; i++) {
+			if(vals[i] < min) {
+				min = vals[i];
+			}
+		}
+		return min;
+	}
+	
+	public static float getSD(float[] vals) {
+		if(vals==null) {
+			throw new NullArgumentException("null argument is not supported");
+		}
+		
+		if(vals.length == 0) {
+			throw new ArrayIndexOutOfBoundsException("Array size is 0");
+		}
+				
+		float avg = getAvg(vals);
+		float squaredDeviation = 0;
+		for (int i = 0; i < vals.length; i++) {
+			squaredDeviation += Math.pow((vals[i]-avg), 2);
+		}
+		
+		float sd = ((float) Math.sqrt(squaredDeviation/(float)vals.length)); 
+		return sd;
 	}
 	
 }
