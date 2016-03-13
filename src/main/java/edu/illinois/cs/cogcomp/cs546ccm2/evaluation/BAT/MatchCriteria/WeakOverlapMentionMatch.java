@@ -10,21 +10,21 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria;
 import java.util.HashSet;
 import java.util.List;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Mention;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
 
-public class WeakOverlapMentionMatch implements MatchRelation<Mention>{
+public class WeakOverlapMentionMatch implements MatchRelation<Annotation>{
 	@Override
-	public boolean match(Mention t1, Mention t2) {
-			return t1.overlaps(t2);
+	public boolean match(Annotation t1, Annotation t2) {
+			return t1.getMention().overlaps(t2.getMention());
 	}
 
 	@Override
-	public List<HashSet<Mention>> preProcessOutput(List<HashSet<Mention>> computedOutput) {
+	public List<HashSet<Annotation>> preProcessOutput(List<HashSet<Annotation>> computedOutput) {
 		return computedOutput;
 	}
 
 	@Override
-	public List<HashSet<Mention>> preProcessGoldStandard(List<HashSet<Mention>> goldStandard) {
+	public List<HashSet<Annotation>> preProcessGoldStandard(List<HashSet<Annotation>> goldStandard) {
 		return goldStandard;
 	}
 

@@ -9,6 +9,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotatio
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.MatchRelation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongNoOverlapMentionMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongOverlapMentionMatch;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.WeakNoOverlapMentionMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD.SystemPlugins.IllinoisChunkerWrapper;
@@ -32,22 +33,27 @@ public class Eval_MD {
 
 //		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
 		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
+		ace05.loadAllDocs();
+		ace05.loadNERTags();
 
 
 		/******** Match Relations *********/
 		MatchRelation<Annotation> mam = new StrongNoOverlapMentionMatch();
 //		MatchRelation<Annotation> mam = new StrongOverlapMentionMatch();
+//		MatchRelation<Annotation> mam = new WeakNoOverlapMentionMatch();
 		
 		/******** Annotators *********/
-		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
+//		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
 //		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
-//		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
+		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
+//		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
 //		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getEntityMentionTagList(ace05);
-//		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
+		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
 		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getEntityMentionTagsList(), mam);
+		
+		System.out.println(computedAnnotations.size() + " " + ace05.getEntityMentionTagsList().size());
 	
 		/** Print the results about correctness (F1, precision, recall) to the screen */
 			

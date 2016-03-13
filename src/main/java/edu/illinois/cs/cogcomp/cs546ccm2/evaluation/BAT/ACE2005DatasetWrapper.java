@@ -18,6 +18,9 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 //	private List<String> textList;
 //	private List<HashSet<Annotation>> docMentions;
 	private List<HashSet<Annotation>> docEntities;
+	private List<ACEDocument> docs;
+	private ACECorpus aceCorpus;
+	
 	
 	private String NAME = "ACE2005Wrapper";
 	
@@ -27,14 +30,42 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 		aceCorpus.initCorpus(processedAceCorpusPath);
 		
 		docEntities = new ArrayList<>();
+		docs = new ArrayList<>();
 		
 //		loadEntityMentionTags();
-		loadNERTags();
 //		loadRelationTags();
 	}
 	
+	public void loadAllDocs() {
+		docs.addAll(aceCorpus.getAllDocs());
+	}
+	
+	public void loadBCDocs() {
+		docs.addAll(aceCorpus.getbcDocs());
+	}
+	
+	public void loadBNDocs() {
+		docs.addAll(aceCorpus.getbnDocs());
+	}
+	
+	public void loadCTSDocs() {
+		docs.addAll(aceCorpus.getctsDocs());
+	}
+	
+	public void loadNWDocs() {
+		docs.addAll(aceCorpus.getnwDocs());
+	}
+	
+	public void loadUNDocs() {
+		docs.addAll(aceCorpus.getunDocs());
+	}
+	
+	public void loadWLDocs() {
+		docs.addAll(aceCorpus.getwlDocs());
+	}
+	
 //	private void loadEntityMentionTags() {
-//		for(ACEDocument doc: aceCorpus.getAllDocs()) {
+//		for(ACEDocument doc: docs) {
 //			docMentions.add(wrapEntityMentionTags(doc.getAllEntityMentions()));
 //		}
 //	}
@@ -49,8 +80,8 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 //		return mentionSet;
 //	}
 	
-	private void loadNERTags() {
-		for(ACEDocument doc: aceCorpus.getAllDocs()) {
+	public void loadNERTags() {
+		for(ACEDocument doc: docs) {
 			docEntities.add(wrapNERTags(doc.getAllEntities()));
 		}
 	}
@@ -93,7 +124,7 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 //	}
 
 	public int getSize() {
-		return this.aceCorpus.getDocCount();
+		return docs.size();
 	}
 
 	public int getEntityMentionTagsCount() {
@@ -153,10 +184,9 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 		throw new NotImplementedException();
 	}
 
-	@SuppressWarnings("static-access")
 	@Override
-	public boolean isCorpusReady() {
-		return aceCorpus.isCorpusReady();
+	public List<ACEDocument> getDocs() {
+		return docs;
 	}
 
 }

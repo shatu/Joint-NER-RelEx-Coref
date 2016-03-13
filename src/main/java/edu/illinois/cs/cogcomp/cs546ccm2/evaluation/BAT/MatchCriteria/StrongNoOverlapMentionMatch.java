@@ -16,7 +16,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotatio
 public class StrongNoOverlapMentionMatch implements MatchRelation<Annotation> {
 	@Override
 	public boolean match(Annotation t1, Annotation t2) {
-		return t1.getLength() == t2.getLength() && t1.getPosition() == t1.getPosition();
+		return t1.getMention().equals(t2.getMention());
 	}
 
 	@Override

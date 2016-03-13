@@ -17,8 +17,7 @@ public class StrongOverlapAnnotationMatch implements MatchRelation<Annotation> {
 	@Override
 	public boolean match(Annotation a1, Annotation a2) {
 		try {
-			return a1.getLength() == a2.getLength() &&
-					a1.getPosition() == a2.getPosition() &&
+			return a1.getMention().equals(a2.getMention()) &&
 					a1.getConcept().equals(a2.getConcept());
 		} catch (Exception e) {
 			e.printStackTrace();

@@ -8,10 +8,12 @@ import java.util.List;
 import org.apache.commons.lang.NotImplementedException;
 
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNERPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
@@ -69,14 +71,16 @@ public class IllinoisNERWrapper implements A2WSystem {
 	}
 	
 	public List<HashSet<Annotation>> getEntityMentionTagList(ACEDatasetWrapper ds) throws AnnotatorException {
-		if(!ds.isCorpusReady()) {
-			System.out.println("Corpus not loaded in memory.. first initialize the corpus .. exiting ....");
-			System.exit(0);
-		}
-		
 		List<HashSet<Annotation>> res = new ArrayList<>();
-		for(ACEDocument doc: ds.aceCorpus.getAllDocs()) {
+		for(ACEDocument doc: ds.getDocs()) {
 			HashSet<Annotation> outAnnots = new HashSet<>();
+			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
+			List<Paragraph> contentParas = new ArrayList<>();
+			for(Pair<String, Paragraph> pair: paragraphs) {
+				if(pair.getFirst().equals("text"))
+					contentParas.add(pair.getSecond());
+			}
+			int i=0;
 			for(AnnotatedText ta: doc.taList) {
 				ner.labelText(ta.getTa());
 				List<Constituent> docAnnots;
@@ -86,9 +90,11 @@ public class IllinoisNERWrapper implements A2WSystem {
 					docAnnots = ta.getTa().getView(ViewNames.NER_CONLL).getConstituents();
 				
 				for(Constituent cons: docAnnots) {
-					Annotation annot = new Annotation(cons.getStartCharOffset(), cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
+					Annotation annot = new Annotation(cons.getStartCharOffset() + contentParas.get(i).offsetFilterTags,
+							cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
 					outAnnots.add(annot);
 				}
+				i++;
 			}
 			res.add(outAnnots);
 		}

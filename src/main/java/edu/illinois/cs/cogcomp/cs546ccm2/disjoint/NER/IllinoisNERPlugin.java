@@ -14,9 +14,6 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 import edu.illinois.cs.cogcomp.nlp.common.PipelineConfigurator;
 
 public class IllinoisNERPlugin {
-
-//	private IllinoisChunkerHandler chunker;
-//	private IllinoisPOSHandler posTagger;
 	private IllinoisNerHandler ner;
 	private boolean isOntonotes = false;
 	
@@ -42,8 +39,6 @@ public class IllinoisNERPlugin {
 	
 	public IllinoisNERPlugin(boolean useOntonotes) throws IOException {
 		this.isOntonotes = useOntonotes;
-//		this.posTagger = new IllinoisPOSHandler();
-//		this.chunker = new IllinoisChunkerHandler();
 		if(useOntonotes)
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_ONTONOTES);
 		else
@@ -51,8 +46,6 @@ public class IllinoisNERPlugin {
 	}
 	
 	public void labelText(TextAnnotation ta) throws AnnotatorException {
-//		posTagger.labelTextAnnotation(ta);
-//		chunker.labelTextAnnotation(ta);
 		ner.labelTextAnnotation(ta);
 	}
 

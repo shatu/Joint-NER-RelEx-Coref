@@ -1,5 +1,6 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
@@ -19,15 +20,38 @@ public class ACE2004DatasetWrapper extends ACEDatasetWrapper {
 	private List<HashSet<Annotation>> docEntities;
 	
 	private String NAME = "ACE2004Wrapper";
+	private ACECorpus aceCorpus;
+	private List<ACEDocument> docs;
 	
 	public ACE2004DatasetWrapper(String processedAceCorpusPath) {
 		/*Initialize ACE Corpus*/
 		aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(processedAceCorpusPath);
-		
-//		loadEntityMentionTags();
-		loadNERTags();
-//		loadRelationTags();
+		docs = new ArrayList<ACEDocument>();
+	}
+	
+	public void loadAllDocs() {
+		docs.addAll(aceCorpus.getAllDocs());
+	}
+	
+	public void loadArabicTreebankDocs() {
+		docs.addAll(aceCorpus.getarabic_treebankDocs());
+	}
+	
+	public void loadBNewsDocs() {
+		docs.addAll(aceCorpus.getbnewsDocs());
+	}
+	
+	public void loadChineseTreebankDocs() {
+		docs.addAll(aceCorpus.getchinese_treebankDocs());
+	}
+	
+	public void loadFischerTranscriptsDocs() {
+		docs.addAll(aceCorpus.getfisher_transcriptsDocs());
+	}
+	
+	public void loadNWireDocs() {
+		docs.addAll(aceCorpus.getnwireDocs());
 	}
 	
 //	private void loadEntityMentionTags() {
@@ -46,8 +70,8 @@ public class ACE2004DatasetWrapper extends ACEDatasetWrapper {
 //		return mentionSet;
 //	}
 	
-	private void loadNERTags() {
-		for(ACEDocument doc: aceCorpus.getAllDocs()) {
+	public void loadNERTags() {
+		for(ACEDocument doc: docs) {
 			docEntities.add(wrapNERTags(doc.getAllEntities()));
 		}
 	}
@@ -90,7 +114,7 @@ public class ACE2004DatasetWrapper extends ACEDatasetWrapper {
 //	}
 
 	public int getSize() {
-		return this.aceCorpus.getDocCount();
+		return docs.size();
 	}
 
 	public int getEntityMentionTagsCount() {
@@ -150,10 +174,9 @@ public class ACE2004DatasetWrapper extends ACEDatasetWrapper {
 		throw new NotImplementedException();
 	}
 
-	@SuppressWarnings("static-access")
 	@Override
-	public boolean isCorpusReady() {
-		return aceCorpus.isCorpusReady();
+	public List<ACEDocument> getDocs() {
+		return docs;
 	}
 
 }
