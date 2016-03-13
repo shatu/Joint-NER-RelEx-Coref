@@ -1,5 +1,6 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
@@ -24,6 +25,8 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 		/*Initialize ACE Corpus*/
 		aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(processedAceCorpusPath);
+		
+		docEntities = new ArrayList<>();
 		
 //		loadEntityMentionTags();
 		loadNERTags();

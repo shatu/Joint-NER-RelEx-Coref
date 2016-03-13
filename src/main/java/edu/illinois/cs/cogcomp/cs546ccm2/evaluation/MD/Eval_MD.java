@@ -3,17 +3,18 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD;
 import java.util.HashSet;
 import java.util.List;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005Dataset;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.MatchRelation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongNoOverlapMentionMatch;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongOverlapMentionMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD.SystemPlugins.MockAnnotator;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD.SystemPlugins.IllinoisChunkerWrapper;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD.SystemPlugins.IllinoisNERWrapper;
 
-public class Eval_Stub {
+public class Eval_MD {
 	
 	public static void main(String[] args) throws Exception {
 		boolean printMacro = true;
@@ -26,18 +27,27 @@ public class Eval_Stub {
 		System.out.println("Loading the datasets...");
 		
 		/******** Datasets *********/
-		String aceInputDir = "target/test05_1/";
-		A2WDataset ace = new ACE2005Dataset(aceInputDir);	
+//		String ace04InputDir = "data/ACE2004_processed/";
+		String ace05InputDir = "data/ACE2005_processed/";
+
+//		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
+		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
+
 
 		/******** Match Relations *********/
 		MatchRelation<Annotation> mam = new StrongNoOverlapMentionMatch();
-			
+//		MatchRelation<Annotation> mam = new StrongOverlapMentionMatch();
+		
 		/******** Annotators *********/
-		A2WSystem mock = new MockAnnotator();
+		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
+//		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
+//		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-		List<HashSet<Annotation>> computedAnnotations = mock.getA2WOutputAnnotationList(ace);
-		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace.getA2WGoldStandardList(), mam);
+		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
+//		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getEntityMentionTagList(ace05);
+//		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
+		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getEntityMentionTagsList(), mam);
 	
 		/** Print the results about correctness (F1, precision, recall) to the screen */
 			

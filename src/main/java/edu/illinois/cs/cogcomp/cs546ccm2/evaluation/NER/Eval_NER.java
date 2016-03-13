@@ -7,7 +7,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER;
  * @author shashank
  *
  */
-public class Eval_Stub {
+public class Eval_NER {
 
 	/**
 	 * @param args

@@ -15,8 +15,6 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 
 public abstract class ACorpus {
 	
-	protected static String NAME = "ACorpus";
-	
 	protected static int docCount = 0;
 	
 	protected static boolean isInit = false;
@@ -24,10 +22,6 @@ public abstract class ACorpus {
 	protected static List<ACEDocument> docs;
 	
 	protected static HashMap<String, Integer> docIDtoDocMap;
-	
-	public static String getName() {
-		return NAME;
-	}
 	
 	public ACEDocument getDocFromID(String id) {
 		return docs.get(docIDtoDocMap.get(id));

@@ -59,6 +59,10 @@ public class ACECorpus extends ACorpus {
 		return docs.subList(bnewsSpan.getFirst(), bnewsSpan.getSecond());
 	}
 	
+	public static String getName() {
+		return NAME;
+	}
+	
     public static void main (String[] args) throws Exception {
 		
     	String aceCorpusDir = "data/ACE2004/data/English";

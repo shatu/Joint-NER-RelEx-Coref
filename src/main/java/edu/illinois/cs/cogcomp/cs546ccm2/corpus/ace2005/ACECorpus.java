@@ -29,7 +29,7 @@ import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 
 public class ACECorpus extends ACorpus {
 	
-	static String NAME = "ACE2005Corpus";
+	static String NAME = "ACE2005";
 	
 	private static IntPair bcSpan;
 	private static IntPair bnSpan;
@@ -68,6 +68,10 @@ public class ACECorpus extends ACorpus {
 	
 	public List<ACEDocument> getwlDocs() {
 		return docs.subList(wlSpan.getFirst(), wlSpan.getSecond());
+	}
+	
+	public static String getName() {
+		return NAME;
 	}
 	
     public static void main (String[] args) throws Exception {

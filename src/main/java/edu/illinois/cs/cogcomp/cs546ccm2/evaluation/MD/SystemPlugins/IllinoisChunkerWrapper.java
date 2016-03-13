@@ -6,7 +6,12 @@ import java.util.List;
 
 import org.apache.commons.lang.NotImplementedException;
 
+import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -17,10 +22,10 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
 public class IllinoisChunkerWrapper implements A2WSystem {
 	
 	private String NAME = "Illinois-Chunker";
+	private IllinoisChunkerPlugin chunker;
 	
-	//TODO: Wrap IllinoisChunker from the disjoint MD package here
 	public IllinoisChunkerWrapper() {
-		
+		chunker = new IllinoisChunkerPlugin();
 	}
 	
 	@Override
@@ -52,35 +57,28 @@ public class IllinoisChunkerWrapper implements A2WSystem {
 		return this.NAME;
 	}
 	
-	public List<HashSet<Annotation>> getEntityMentionTagList(ACEDatasetWrapper ds) {
+	public List<HashSet<Annotation>> getEntityMentionTagList(ACEDatasetWrapper ds) throws AnnotatorException {
 		if(!ds.isCorpusReady()) {
 			System.out.println("Corpus not loaded in memory.. first initialize the corpus .. exiting ....");
 			System.exit(0);
 		}
 		
-		//TODO: Do actual annotation here ... addview etc thing .. i.e. call appropriate function from the actual Chunker object
 		List<HashSet<Annotation>> res = new ArrayList<>();
 		for(ACEDocument doc: ds.aceCorpus.getAllDocs()) {
-			
+			HashSet<Annotation> outAnnots = new HashSet<>();
+			for(AnnotatedText ta: doc.taList) {
+				chunker.labelText(ta.getTa());
+				List<Constituent> docAnnots = ta.getTa().getView(ViewNames.SHALLOW_PARSE).getConstituents();
+				for(Constituent cons: docAnnots) {
+					if(cons.getLabel().equals("NP")) {
+						Annotation annot = new Annotation(cons.getStartCharOffset(), cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
+						outAnnots.add(annot);
+					}
+				}
+			}
+			res.add(outAnnots);
 		}
 		
 		return res;
 	}
-	
-//	private void loadNERTags() {
-//		for(ACEDocument doc: aceCorpus.getAllDocs()) {
-//			docEntities.add(wrapNERTags(doc.getAllEntities()));
-//		}
-//	}
-	
-	private HashSet<Annotation> wrapAnnotations(List<ACEEntity> mentionlist) {
-		HashSet<Annotation> mentionSet = new HashSet<>();
-		for(ACEEntity mention: mentionlist) {
-			Annotation e = new Annotation(mention.extentStart, mention.extentEnd - mention.extentStart + 1, "");
-			mentionSet.add(e);
-		}
-		
-		return mentionSet;
-	}
-	
 }
