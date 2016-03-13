@@ -162,7 +162,7 @@ public class AceFileProcessor
                     if (text.equals(""))
                         continue;
 
-                    TextAnnotation ta = taBuilder.createTextAnnotation( "ACE2005", annotationACE.id + "_" + j, text );
+                    TextAnnotation ta = taBuilder.createTextAnnotation( "ACE2004", annotationACE.id + "_" + j, text );
                     alignTokenToCharOffset(contentRemovingTags, text, paraList.get(j).getSecond().offsetFilterTags, ta);
 
 
@@ -245,13 +245,14 @@ public class AceFileProcessor
             taList.add( at.getTa() );
 
         addEntityViews(aceDocument, taList);
-        addQuantityView(aceDocument, taList);
-        addTimexView( aceDocument, taList );
+//        addQuantityView(aceDocument, taList);
+//        addTimexView( aceDocument, taList );
 
         return taList;
     }
 
-    private static void addTimexView(ACEDocument aceDocument, List<TextAnnotation> taList) {
+    @SuppressWarnings("unused")
+	private static void addTimexView(ACEDocument aceDocument, List<TextAnnotation> taList) {
 
         List<ACETimeEx> times = aceDocument.aceAnnotation.timeExList;
         Map< TextAnnotation, List< Constituent > > taToTimes = new HashMap<>();
@@ -283,7 +284,8 @@ public class AceFileProcessor
 
     }
 
-    private static void addQuantityView(ACEDocument aceDocument, List<TextAnnotation> taList) {
+    @SuppressWarnings("unused")
+	private static void addQuantityView(ACEDocument aceDocument, List<TextAnnotation> taList) {
 
         List<ACEValue> quantities = aceDocument.aceAnnotation.valueList;
         Map< TextAnnotation, List< Constituent > > taToQuantities = new HashMap<>();

@@ -7,17 +7,19 @@ import java.io.FilenameFilter;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.core.datastructures.IntPair;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACorpus;
 import edu.illinois.cs.cogcomp.cs546ccm2.util.XMLException;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
 
 /**
- * TODO: Does it make sense to assign internal doc ids?
  * 
  * Intended to provide a set of functions to deal with the ACE corpus.
  * 
@@ -25,52 +27,118 @@ import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
  *
  */
 
-public class ACECorpus {
+public class ACECorpus extends ACorpus {
 	
-	static boolean isDebug = true;
-	private int docCount = 0;
+	static String NAME = "ACE2004";
 	
-	private List<ACEDocument> corpus;
+	private static IntPair arabic_treebankSpan;
+	private static IntPair nwireSpan;
+	private static IntPair fisher_transcriptsSpan;
+	private static IntPair chinese_treebankSpan;
+	private static IntPair bnewsSpan;
 
 	static String[] failureFileList = new String[] {};
-
+	
+	public List<ACEDocument> getarabic_treebankDocs() {
+		return docs.subList(arabic_treebankSpan.getFirst(), arabic_treebankSpan.getSecond());
+	}
+	
+	public List<ACEDocument> getnwireDocs() {
+		return docs.subList(nwireSpan.getFirst(), nwireSpan.getSecond());
+	}
+	
+	public List<ACEDocument> getfisher_transcriptsDocs() {
+		return docs.subList(fisher_transcriptsSpan.getFirst(), fisher_transcriptsSpan.getSecond());
+	}
+	
+	public List<ACEDocument> getchinese_treebankDocs() {
+		return docs.subList(chinese_treebankSpan.getFirst(), chinese_treebankSpan.getSecond());
+	}
+	
+	public List<ACEDocument> getbnewsDocs() {
+		return docs.subList(bnewsSpan.getFirst(), bnewsSpan.getSecond());
+	}
+	
     public static void main (String[] args) throws Exception {
-
-	    String aceCorpusDir = "data/ACE2004/data/English";
-		String outputDir = "target/test04_1/";
+		
+    	String aceCorpusDir = "data/ACE2004/data/English";
+    	String outputDir = "data/ACE2004_processed";
 		
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.prepareCorpus(aceCorpusDir, outputDir);
 		
-		aceCorpus.readCorpus(outputDir);
+		String processedCorpusDir = outputDir;
+		aceCorpus.initCorpus(processedCorpusDir);
+		
+		if(!ACECorpus.isCorpusReady()) {
+			System.out.println("Some problem in initializing the corpus -- please make sure that you run readCorpus() before trying to read the corpus");
+			System.exit(-1);
+		}
+		
+		System.out.println(aceCorpus.getarabic_treebankDocs().size());
+		System.out.println(aceCorpus.getbnewsDocs().size());
+		System.out.println(aceCorpus.getchinese_treebankDocs().size());
+		System.out.println(aceCorpus.getfisher_transcriptsDocs().size());
+		System.out.println(aceCorpus.getnwireDocs().size());
+		System.out.println(aceCorpus.getAllDocs().size());
 	}
     
-    public int getDocCount() {
-    	return docCount;
-    }
-    
-    public void readCorpus(String inDirPath) {
+    @SuppressWarnings("unchecked")
+	public void initCorpus(String inDirPath) {
+    	if(isInit) {
+    		System.out.println("Corpus has already been initialized");
+    		return;
+    	}
+    	docs = new ArrayList<ACEDocument>();
+    	docIDtoDocMap = new HashMap<>();
     	File inDir = new File(inDirPath);
-    	File[] docs = inDir.listFiles();
-		FileInputStream f;
-		ObjectInputStream s;
-		ACEDocument aceDoc;
-		corpus = new ArrayList<ACEDocument>();
-    	for(int i=0; i<docs.length; i++) { 
-    		try {
-    			f = new FileInputStream(docs[i]);
-			    s = new ObjectInputStream(f);
-			    aceDoc = (ACEDocument) s.readObject();
-			    System.out.println(aceDoc.aceAnnotation.id);
-			    corpus.add(aceDoc);
-			    docCount++;
+    	File[] subFolderList = inDir.listFiles();
+		for (int i = 0; i < subFolderList.length; ++i) {
+	    	File infile = new File(subFolderList[i], getName() + ".obj");
+			ObjectInputStream s;
+			List<ACEDocument> tempDocs;
+			
+			String part = subFolderList[i].getName();
+			try {
+			    s = new ObjectInputStream(new FileInputStream(infile));
+			    tempDocs = (List<ACEDocument>) s.readObject();
+			    //System.out.println(aceDoc.aceAnnotation.id);
+			    switch(part) {
+			    	case "arabic_treebank":  
+			    		arabic_treebankSpan = new IntPair(docCount, docCount + tempDocs.size());
+			    	case "bnews":
+			    		bnewsSpan = new IntPair(docCount, docCount + tempDocs.size());
+			    	case "chinese_treebank": 
+			    		chinese_treebankSpan = new IntPair(docCount, docCount + tempDocs.size());
+			    	case "fisher_transcripts": 
+			    		fisher_transcriptsSpan = new IntPair(docCount, docCount + tempDocs.size());
+			    	case "nwire": 
+			    		nwireSpan = new IntPair(docCount, docCount + tempDocs.size());
+			    }
+			    docs.addAll(tempDocs);
+			    docCount += tempDocs.size();
 			    s.close();
-			    f.close();
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-    	}
+		}    	
     	System.out.println(docCount + " Files Read successfully");
+    	
+    	for(int i=0; i< docs.size(); i++) {
+    		docIDtoDocMap.put(docs.get(i).getDocID(), i);
+    	}
+    	
+    	checkConsistency();
+    	isInit = true;
+    }
+    
+    private void checkConsistency() {
+    	for(String docID: docIDtoDocMap.keySet()) {
+    		if(!docID.equals(docs.get(docIDtoDocMap.get(docID)).getDocID())) {
+    			throw new RuntimeException("Problem in creating docID to Doc map");
+    		}	
+    	}
+    	System.out.println("Consistency Test Passed");
     }
        
     public void prepareCorpus(String docDirInput, String docDirOutput) {
@@ -79,8 +147,7 @@ public class ACECorpus {
 			throw new RuntimeException("Processed Corpus already exists .. exiting");
 		}
 		outDir.mkdir();
-		
-		corpus = new ArrayList<ACEDocument>();
+
 		CcgTextAnnotationBuilder taBuilder = new CcgTextAnnotationBuilder(new IllinoisTokenizer());
 		AceFileProcessor fileProcessor = new AceFileProcessor(taBuilder);
 		processAndDumpDocuments(fileProcessor, docDirInput, docDirOutput);
@@ -104,6 +171,9 @@ public class ACECorpus {
 			};
             File subFolderEntry = subFolderList[folderIndex];
 			File[] fileList = subFolderEntry.listFiles(filter);
+			File outputFolder = new File (outputFolderStr, subFolderEntry.getName());
+			outputFolder.mkdir();
+			docs = new ArrayList<>();
 			for (int fileID = 0; fileID < fileList.length; ++fileID) {
 				
 				if(failureFileSet.contains(fileList[fileID].getName()))
@@ -119,43 +189,24 @@ public class ACECorpus {
                     continue;
                 }
 
-                File outputFile = new File (outputFolderStr + annotationACE.id +".ta");
-                if (outputFile.exists()) {
-                    continue;
-                }
-
+                //TODO: Add more views before dumping ACEDocument? -- POSTags and Shallow Parser?
                 ACEDocument aceDoc = processor.processAceEntry(subFolderEntry, annotationACE, annotationFile);
-                corpus.add(aceDoc);
-				FileOutputStream f;
-				try {
-					f = new FileOutputStream(outputFile);
-				    ObjectOutputStream s = new ObjectOutputStream(f);
-				    s.writeObject(aceDoc);
-				    s.close();
-				    f.close();
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
+                
+                docs.add(aceDoc);
+			}
+			
+			File outputFile = new File (outputFolder, getName() + ".obj");
+            FileOutputStream f;
+			try {
+				f = new FileOutputStream(outputFile);
+			    ObjectOutputStream s = new ObjectOutputStream(f);
+			    s.writeObject(docs);
+			    s.close();
+			    f.close();
+			} catch (Exception e) {
+				e.printStackTrace();
 			}
 		}
 	}
-	
-//	private static void checkAlign(String content, ACEDocumentAnnotation annotation) {
-//		List<ACEEntity> entities = annotation.entityList;
-//		for (ACEEntity entity : entities) {
-//			for (ACEEntityMention mention : entity.entityMentionList) {
-//				String str1 = content.substring(mention.extentStart, mention.extentEnd+1); 
-//				str1 = str1.replaceAll("&amp;", "&"); // To be noticed !!!
-//				
-//				String str2 = mention.extent;
-//				if (!str1.equals(str2)) {
-//					System.out.println(str2+"\n"+str1+"\n"+content);
-//					System.exit(1);
-//				}
-//			}
-//		}
-//	}
-
-	
 
 }

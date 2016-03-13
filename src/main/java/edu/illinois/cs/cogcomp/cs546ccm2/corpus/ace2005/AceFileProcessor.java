@@ -243,13 +243,14 @@ public class AceFileProcessor
             taList.add( at.getTa() );
 
         addEntityViews(aceDocument, taList);
-        addQuantityView(aceDocument, taList);
-        addTimexView( aceDocument, taList );
+//        addQuantityView(aceDocument, taList);
+//        addTimexView( aceDocument, taList );
 
         return taList;
     }
 
-    private static void addTimexView(ACEDocument aceDocument, List<TextAnnotation> taList) {
+    @SuppressWarnings("unused")
+	private static void addTimexView(ACEDocument aceDocument, List<TextAnnotation> taList) {
 
         List<ACETimeEx> times = aceDocument.aceAnnotation.timeExList;
         Map< TextAnnotation, List< Constituent > > taToTimes = new HashMap<>();
@@ -258,8 +259,7 @@ public class AceFileProcessor
             String type = EventConstants.TIME_ENTITY_TYPE;
 
             for (ACETimeExMention m : e.timeExMentionList ) {
-
-                if ( !useFilter || !isFiltered(m.extent) ) {
+                if ( !useFilter || !isFiltered(m.extent) ) { 
                     TextAnnotation ta = findTextAnnotation(m.extentStart, m.extentEnd, taList);
 
                     if ( null == ta ) // can happen: the text we read doesn't contain all mentions, apparently.
@@ -281,7 +281,8 @@ public class AceFileProcessor
 
     }
 
-    private static void addQuantityView(ACEDocument aceDocument, List<TextAnnotation> taList) {
+    @SuppressWarnings("unused")
+	private static void addQuantityView(ACEDocument aceDocument, List<TextAnnotation> taList) {
 
         List<ACEValue> quantities = aceDocument.aceAnnotation.valueList;
         Map< TextAnnotation, List< Constituent > > taToQuantities = new HashMap<>();
@@ -335,6 +336,7 @@ public class AceFileProcessor
 
             for (ACEEntityMention m : e.entityMentionList) {
 
+            	//no filtering in our setting
                 if ( !useFilter || !isFiltered(m.extent) ) {
                     TextAnnotation ta = findTextAnnotation(m.extentStart, m.extentEnd, taList);
 
@@ -348,6 +350,7 @@ public class AceFileProcessor
                         Constituent c = new Constituent(type, 1.0, EventConstants.NER_ACE_COARSE, ta, taTokenOffsets.getFirst(), taTokenOffsets.getSecond());
                         addConstituentToTaNeMap( taToCoarseNeEntities, ta, c );
 
+                        //add coarse types to fine types as well
                         Constituent f = new Constituent(type, 1.0, EventConstants.NER_ACE_FINE, ta, taTokenOffsets.getFirst(), taTokenOffsets.getSecond());
 
                         if ( null != fineType )
@@ -368,6 +371,7 @@ public class AceFileProcessor
 
     private static boolean isFiltered(String mentionText )
     {
+    	//not capitalized or is a stopword?
         if ( !isCapitalized( mentionText ) || stopWords.contains( mentionText ) )
             return true;
 
@@ -403,6 +407,11 @@ public class AceFileProcessor
     }
 
 
+    /**
+     * [SG]'s interpretation 
+     * -- Nested .. keep the smallest one
+     * -- Overlapping .. keep the rightmost one (in terms of the start offset)  
+     */ 
     public static List< Constituent > removeOverlappingEntities(List< Constituent > neConstituents ) {
 
         Collections.sort(neConstituents, new Comparator<Constituent>() {

@@ -160,16 +160,16 @@ public class PrepareEntities {
                 for (Constituent c : ta.getView(EventConstants.NER_ACE_FINE))
                     fineTypes.add(c.getLabel());
 
-            if (ta.hasView(EventConstants.NER_ACE_QUANTITY))
-                for (Constituent c : ta.getView(EventConstants.NER_ACE_QUANTITY)) {
-                    coarseTypes.add(c.getLabel());
-                    fineTypes.add(c.getLabel());
-                }
+//            if (ta.hasView(EventConstants.NER_ACE_QUANTITY))
+//                for (Constituent c : ta.getView(EventConstants.NER_ACE_QUANTITY)) {
+//                    coarseTypes.add(c.getLabel());
+//                    fineTypes.add(c.getLabel());
+//                }
 
         }
-
-        fineTypes.add( EventConstants.TIME_ENTITY_TYPE );
-        coarseTypes.add( EventConstants.TIME_ENTITY_TYPE );
+//
+//        fineTypes.add( EventConstants.TIME_ENTITY_TYPE );
+//        coarseTypes.add( EventConstants.TIME_ENTITY_TYPE );
 
         return;
     }
@@ -202,8 +202,8 @@ public class PrepareEntities {
         List< String > viewNames = new LinkedList<>();
 
         if ( entityOutType.equals(EntityOutType.NER_COARSE_AUGMENTED ) || entityOutType.equals(EntityOutType.NER_FINE_AUGMENTED ) ) {
-            viewNames.add( EventConstants.NER_ACE_QUANTITY );
-            viewNames.add( EventConstants.NER_ACE_TIME );
+//            viewNames.add( EventConstants.NER_ACE_QUANTITY );
+//            viewNames.add( EventConstants.NER_ACE_TIME );
         }
 
         if ( entityOutType.equals( EntityOutType.NER_COARSE_AUGMENTED ) || entityOutType.equals( EntityOutType.NER_COARSE_BASIC ) )
@@ -225,6 +225,7 @@ public class PrepareEntities {
 
 
 
+    //TODO: Invest some time on understanding this rather obscure function
     private static List<String> generateEntityOutput(TextAnnotation ta, List<Constituent> entities) {
         int currentIndex = 0;
         int inSentenceIndex = 0;
