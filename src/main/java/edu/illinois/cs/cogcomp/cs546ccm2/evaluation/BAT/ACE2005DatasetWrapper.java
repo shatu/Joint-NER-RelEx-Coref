@@ -6,9 +6,14 @@ import java.util.List;
 
 import org.apache.commons.lang.NotImplementedException;
 
+import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntity;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntityMention;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Mention;
@@ -86,6 +91,12 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 		}
 	}
 	
+	public void loadNERTagsFromView() {
+		for(ACEDocument doc: docs) {
+			docEntities.add(wrapNERTagsFromView(doc));
+		}
+	}
+	
 	private HashSet<Annotation> wrapNERTags(List<ACEEntity> nerlist) {
 		HashSet<Annotation> entitySet = new HashSet<>();
 		for(ACEEntity aceEntity: nerlist) {
@@ -95,6 +106,31 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 				Annotation e = new Annotation(aceMention.extentStart, aceMention.extentEnd - aceMention.extentStart + 1, concept);
 				entitySet.add(e);
 			}
+		}
+		
+		return entitySet;
+	}
+	
+	private HashSet<Annotation> wrapNERTagsFromView(ACEDocument doc) {
+		HashSet<Annotation> entitySet = new HashSet<>();
+		List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
+		List<Paragraph> contentParas = new ArrayList<>();
+		for(Pair<String, Paragraph> pair: paragraphs) {
+			if(pair.getFirst().equals("text"))
+				contentParas.add(pair.getSecond());
+		}
+		
+		int i=0;
+		for(AnnotatedText ta: doc.taList) {
+			List<Constituent> docAnnots;
+			docAnnots = ta.getTa().getView(CCM2Constants.NERGold).getConstituents();
+				
+			for(Constituent cons: docAnnots) {
+				Annotation annot = new Annotation(cons.getStartCharOffset() + contentParas.get(i).offsetFilterTags,
+						cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
+				entitySet.add(annot);
+			}
+			i++;
 		}
 		
 		return entitySet;
@@ -189,4 +225,25 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 		return docs;
 	}
 
+	public static void main(String args[]) {
+		String ace05InputDir = "data/ACE2005_processed/";
+		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
+		ace05.loadAllDocs();
+		ace05.loadNERTags();
+		
+		HashSet<String> NerTags = new HashSet<>();
+		
+		for(HashSet<Annotation> tags: ace05.getEntityMentionTagsList()) {
+			for (Annotation annot: tags) {
+				NerTags.add(annot.getConcept());
+			}
+		}
+		
+		for(String label: NerTags) {
+			System.out.println(label);
+		}
+		
+	}
+	
+	
 }

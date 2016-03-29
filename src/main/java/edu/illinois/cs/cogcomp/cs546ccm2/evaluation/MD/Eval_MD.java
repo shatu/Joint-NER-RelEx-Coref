@@ -34,8 +34,9 @@ public class Eval_MD {
 //		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
 		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
 		ace05.loadAllDocs();
-		ace05.loadNERTags();
-
+//		ace05.loadNWDocs();
+//		ace05.loadNERTags();
+		ace05.loadNERTagsFromView();
 
 		/******** Match Relations *********/
 		MatchRelation<Annotation> mam = new StrongNoOverlapMentionMatch();
@@ -43,14 +44,14 @@ public class Eval_MD {
 //		MatchRelation<Annotation> mam = new WeakNoOverlapMentionMatch();
 		
 		/******** Annotators *********/
-//		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
+		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
 //		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
-		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
+//		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-//		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
+		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
 //		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getEntityMentionTagList(ace05);
-		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
+//		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
 		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getEntityMentionTagsList(), mam);
 		
 		System.out.println(computedAnnotations.size() + " " + ace05.getEntityMentionTagsList().size());

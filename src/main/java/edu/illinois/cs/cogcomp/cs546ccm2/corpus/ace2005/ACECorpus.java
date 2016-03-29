@@ -11,10 +11,13 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.annotation.handler.IllinoisPOSHandler;
 import edu.illinois.cs.cogcomp.core.datastructures.IntPair;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACorpus;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.util.XMLException;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
@@ -159,7 +162,7 @@ public class ACECorpus extends ACorpus {
     	System.out.println("Consistency Test Passed");
     }
        
-    public void prepareCorpus(String docDirInput, String docDirOutput) {
+    public void prepareCorpus(String docDirInput, String docDirOutput) throws AnnotatorException {
 		File outDir = new File(docDirOutput);
 		if (outDir.exists() == true) {
 			throw new RuntimeException("Processed Corpus already exists .. exiting");
@@ -171,8 +174,11 @@ public class ACECorpus extends ACorpus {
 		processAndDumpDocuments(fileProcessor, docDirInput, docDirOutput);
     }
 
-	private void processAndDumpDocuments(AceFileProcessor processor, String inputFolderStr, String outputFolderStr) {
+	private void processAndDumpDocuments(AceFileProcessor processor, String inputFolderStr, String outputFolderStr) throws AnnotatorException {
 		HashSet<String> failureFileSet = new HashSet<String>();
+		
+		IllinoisPOSHandler posTagger = new IllinoisPOSHandler();
+		
 		for (int i = 0; i < failureFileList.length; ++i) {
 			failureFileSet.add(failureFileList[i]);
 		}
@@ -207,8 +213,12 @@ public class ACECorpus extends ACorpus {
                     continue;
                 }
 
-                //TODO: Add more views before dumping ACEDocument? -- POSTags and Shallow Parser?
                 ACEDocument aceDoc = processor.processAceEntry(subFolderEntry, annotationACE, annotationFile);
+                
+                //Add POS Tags
+                for(AnnotatedText at : aceDoc.taList) {
+                	posTagger.addView(at.getTa());
+                }
                 
                 docs.add(aceDoc);
 			}

@@ -4,7 +4,8 @@ package edu.illinois.cs.cogcomp.cs546ccm2.common;
  * @author shashank
  */
 public class CCM2Constants {
-//    public static String LIN = "Lin";
+    public static String NERGold = "NERGold";
+    public static String ACE2005_Gold = "ACE2005_Gold";
 //    public static String BAL = "BAL";
 //    public static String COS = "COS";
 //

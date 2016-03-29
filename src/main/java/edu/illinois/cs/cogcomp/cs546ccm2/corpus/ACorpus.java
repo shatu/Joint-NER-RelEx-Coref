@@ -3,6 +3,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.corpus;
 import java.util.HashMap;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 
 /**
@@ -41,6 +42,6 @@ public abstract class ACorpus {
     
 	public abstract void initCorpus(String inDirPath);
        
-    public abstract void prepareCorpus(String docDirInput, String docDirOutput);
+    public abstract void prepareCorpus(String docDirInput, String docDirOutput) throws AnnotatorException;
 
 }

@@ -20,6 +20,7 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntity;
@@ -162,7 +163,10 @@ public class AceFileProcessor
                     TextAnnotation ta = taBuilder.createTextAnnotation( "ACE2005", annotationACE.id + "_" + j, text );
                     alignTokenToCharOffset(contentRemovingTags, text, paraList.get(j).getSecond().offsetFilterTags, ta);
 
-
+                    Paragraph p = paraList.get(j).getSecond();
+                    
+                    addGoldNERView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length());
+                    
                     aceDoc.taList.add( new AnnotatedText( ta ) );
                 }
             }
@@ -177,7 +181,23 @@ public class AceFileProcessor
         return aceDoc;
     }
 
-
+    public static void addGoldNERView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd) {
+        SpanLabelView view = new SpanLabelView(CCM2Constants.NERGold, CCM2Constants.ACE2005_Gold, ta, 1d, true);
+        
+        for(ACEEntity e : aceAnnotation.entityList) {
+        	String label = e.type;
+        	for(ACEEntityMention m : e.entityMentionList) {
+        		if((m.extentStart >= pCharStart) && (m.extentStart < pCharEnd)) {
+        			int tokenStart = ta.getTokenIdFromCharacterOffset(m.extentStart - pCharStart);
+        			int tokenEnd = ta.getTokenIdFromCharacterOffset(m.extentEnd - pCharStart) + 1;
+        			view.addSpanLabel(tokenStart, tokenEnd, label, 1d);
+        		}
+        	}
+        }
+        
+        ta.addView(CCM2Constants.NERGold, view);
+    }
+    
     /**
      * generates an additional view of Tokens with character offsets as string attributes,
      *    where those character offsets correspond to offsets in the original source document
