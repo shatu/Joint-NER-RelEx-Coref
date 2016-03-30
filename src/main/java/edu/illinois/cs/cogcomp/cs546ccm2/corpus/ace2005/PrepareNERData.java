@@ -40,7 +40,7 @@ public class PrepareNERData {
 	 * 
 	 * @param rnd: A random number generator -- if you use the same random generator (with the same seed), you will get the same ordering.
 	 */
-	public void shuffle(Random rnd) {
+	private void shuffle(Random rnd) {
 		int numberOfDocs = size();
 		for (int i = 0; i < numberOfDocs; i++) {
 			int j = i + rnd.nextInt(numberOfDocs - i);
@@ -69,7 +69,7 @@ public class PrepareNERData {
 		if (outDir.exists() == true) {
 			throw new RuntimeException("NER docs Directory already exists .. exiting");
 		}
-		outDir.mkdir();
+		outDir.mkdirs();
 		
 		File trainDir = new File(outDir, "Train");
 		trainDir.mkdir();

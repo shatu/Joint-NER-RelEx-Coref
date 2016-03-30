@@ -14,6 +14,8 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 import edu.illinois.cs.cogcomp.nlp.common.PipelineConfigurator;
 
 public class IllinoisNERPlugin implements AMentionDetector {
+	
+	private String NAME;
 	private IllinoisNerHandler ner;
 	private boolean isOntonotes = false;
 	
@@ -39,14 +41,23 @@ public class IllinoisNERPlugin implements AMentionDetector {
 	
 	public IllinoisNERPlugin(boolean useOntonotes) throws IOException {
 		this.isOntonotes = useOntonotes;
-		if(useOntonotes)
+		if(useOntonotes) {
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_ONTONOTES);
-		else
+			this.NAME = ViewNames.NER_ONTONOTES;
+		}
+		else {
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_CONLL);
+			this.NAME = ViewNames.NER_CONLL; 
+		}
 	}
 	
 	public void labelText(TextAnnotation ta) throws AnnotatorException {
 		ner.labelTextAnnotation(ta);
+	}
+
+	@Override
+	public String getName() {
+		return NAME;
 	}
 
 }

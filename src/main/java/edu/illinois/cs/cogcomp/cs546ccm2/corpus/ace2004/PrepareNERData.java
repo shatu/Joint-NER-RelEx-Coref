@@ -69,7 +69,7 @@ public class PrepareNERData {
 		if (outDir.exists() == true) {
 			throw new RuntimeException("NER docs Directory already exists .. exiting");
 		}
-		outDir.mkdir();
+		outDir.mkdirs();
 		
 		File trainDir = new File(outDir, "Train");
 		trainDir.mkdir();

@@ -12,6 +12,9 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation
  */
 public class WikiDictionaryMethod_Stub implements AMentionDetector {
 
+	//TODO: Pick a dictionary specific appropriate name
+	private String NAME;
+	
 	/**
 	 * @param args
 	 */
@@ -24,6 +27,11 @@ public class WikiDictionaryMethod_Stub implements AMentionDetector {
 	public void labelText(TextAnnotation ta) throws AnnotatorException {
 		// TODO Auto-generated method stub
 		
+	}
+
+	@Override
+	public String getName() {
+		return NAME;
 	}
 
 }

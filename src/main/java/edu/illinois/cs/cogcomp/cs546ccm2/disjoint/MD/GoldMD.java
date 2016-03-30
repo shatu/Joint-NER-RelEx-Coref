@@ -20,6 +20,8 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 
 public class GoldMD implements AMentionDetector{
 	
+	private String NAME = CCM2Constants.MDGold;
+	
 	public static void main(String[] args) throws AnnotatorException, IOException {
 		String inDirPath = "data/ACE2005_processed";
 		GoldMD ner = new GoldMD();
@@ -37,14 +39,19 @@ public class GoldMD implements AMentionDetector{
 	}
 	
 	public void labelText(TextAnnotation ta) throws AnnotatorException {
-		SpanLabelView view = new SpanLabelView(CCM2Constants.MDGold, CCM2Constants.ACE_Gold, ta, 1d, true);
+		SpanLabelView view = new SpanLabelView(getName(), CCM2Constants.ACE_Gold, ta, 1d, true);
         
 		for(Constituent cont : ta.getView(CCM2Constants.NERGold).getConstituents()) {
 			view.addSpanLabel(cont.getSpan().getFirst(), cont.getSpan().getSecond(), "Gold Mention", 1d);
 			
 		}
         
-        ta.addView(CCM2Constants.MDGold, view);
+        ta.addView(getName(), view);
+	}
+
+	@Override
+	public String getName() {
+		return NAME;
 	}
 
 }

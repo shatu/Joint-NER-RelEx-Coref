@@ -17,6 +17,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 
 public class IllinoisChunkerPlugin implements AMentionDetector {
 
+	private String NAME = ViewNames.SHALLOW_PARSE;
 	private IllinoisChunkerHandler chunker;
 	private IllinoisPOSHandler posTagger;
 	
@@ -55,6 +56,11 @@ public class IllinoisChunkerPlugin implements AMentionDetector {
 	public void labelText(TextAnnotation ta) throws AnnotatorException {
 		posTagger.labelTextAnnotation(ta);
 		chunker.labelTextAnnotation(ta);
+	}
+
+	@Override
+	public String getName() {
+		return NAME;
 	}
 
 }

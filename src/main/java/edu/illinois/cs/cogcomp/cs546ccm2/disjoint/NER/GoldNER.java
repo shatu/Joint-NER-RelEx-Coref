@@ -11,7 +11,9 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 
-public class GoldNER {
+public class GoldNER implements ANER{
+	
+	private String NAME = CCM2Constants.NERGold;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
 		String inDirPath = "data/ACE2005_processed";
@@ -33,6 +35,11 @@ public class GoldNER {
 		/*
 		 * Dummy function -- NER view is already a part of the text annotation
 		 */
+	}
+
+	@Override
+	public String getName() {
+		return NAME;
 	}
 
 }
