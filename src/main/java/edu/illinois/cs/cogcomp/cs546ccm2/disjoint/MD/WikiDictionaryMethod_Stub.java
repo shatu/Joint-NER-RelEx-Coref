@@ -3,11 +3,14 @@
  */
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD;
 
+import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+
 /**
  * @author shashank
  *
  */
-public class WikiDictionaryMethod_Stub {
+public class WikiDictionaryMethod_Stub implements AMentionDetector {
 
 	/**
 	 * @param args
@@ -15,6 +18,12 @@ public class WikiDictionaryMethod_Stub {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+	}
+
+	@Override
+	public void labelText(TextAnnotation ta) throws AnnotatorException {
+		// TODO Auto-generated method stub
+		
 	}
 
 }

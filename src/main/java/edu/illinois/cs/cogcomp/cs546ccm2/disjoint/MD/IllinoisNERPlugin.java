@@ -13,7 +13,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 import edu.illinois.cs.cogcomp.nlp.common.PipelineConfigurator;
 
-public class IllinoisNERPlugin {
+public class IllinoisNERPlugin implements AMentionDetector {
 	private IllinoisNerHandler ner;
 	private boolean isOntonotes = false;
 	

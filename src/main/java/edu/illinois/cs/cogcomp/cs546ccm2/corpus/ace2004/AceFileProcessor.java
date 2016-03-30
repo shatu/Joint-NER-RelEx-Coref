@@ -185,7 +185,7 @@ public class AceFileProcessor
     }
 
     public static void addGoldNERView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd) {
-        SpanLabelView view = new SpanLabelView(CCM2Constants.NERGold, CCM2Constants.ACE2005_Gold, ta, 1d, true);
+        SpanLabelView view = new SpanLabelView(CCM2Constants.NERGold, CCM2Constants.ACE_Gold, ta, 1d, true);
         
         for(ACEEntity e : aceAnnotation.entityList) {
         	String label = e.type;

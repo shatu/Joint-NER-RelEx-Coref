@@ -15,7 +15,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 
-public class IllinoisChunkerPlugin {
+public class IllinoisChunkerPlugin implements AMentionDetector {
 
 	private IllinoisChunkerHandler chunker;
 	private IllinoisPOSHandler posTagger;
