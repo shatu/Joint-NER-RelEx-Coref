@@ -18,8 +18,8 @@ import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.AMentionDetector;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.GoldMD;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNERPlugin;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.NerInstance;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.NerLabel;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.NerInstance;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.NerLabel;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 
 /**

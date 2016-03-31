@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
 
 public class Params {
 	
@@ -9,9 +9,9 @@ public class Params {
 	public static String illinoisMathFile = "data/other/illinois_math.txt";
 	public static String illinoisFoldPrefix = "data/illinois/fold";
 	public static String ai2MathFile = "data/other/ai2_math.txt";
-	public static String cacheLoc = 
-			"/Users/subhroroy/cache/";
+	public static String cacheLoc = "/Users/subhroroy/cache/";
 //			"/shared/trollope/sroy9/math_word_problems/cache/";
+	
 	public static String spConfigFile = "config/DCD.config";
 	public static String vectorFile = "data/vectors.6B.50d.txt";
 	public static String trainPrefix = "data/train";

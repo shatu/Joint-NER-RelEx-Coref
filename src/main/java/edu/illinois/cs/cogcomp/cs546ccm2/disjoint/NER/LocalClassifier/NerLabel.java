@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
 
 import edu.illinois.cs.cogcomp.sl.core.IStructure;
 

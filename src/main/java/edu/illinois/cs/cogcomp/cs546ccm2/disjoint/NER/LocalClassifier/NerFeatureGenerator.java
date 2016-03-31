@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
 
 import java.io.Serializable;
 import java.util.*;
@@ -15,7 +15,7 @@ import edu.illinois.cs.cogcomp.sl.util.Lexiconer;
 
 public class NerFeatureGenerator extends AbstractFeatureGenerator implements Serializable {
 	
-	private static final long serialVersionUID = 760976071926109838L;
+	private static final long serialVersionUID = 7646962490009315689L;
 	public Lexiconer lm = null;
 	
 	public NerFeatureGenerator(Lexiconer lm) {
@@ -37,9 +37,12 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		
 		// Feature functions here
 //		features.addAll(globalFeatures(inst));
-		features.addAll(FeatGenTools.getConjunctionsWithPairs(features, features));
 		
-		//FeatureTransformation for Multiclass setting here
+		features.addAll(getMentionUnigramBigramFeatures(inst));
+		
+//		features.addAll(FeatGenTools.getConjunctionsWithPairs(features, features));
+		
+		//FeatureTransformation for a Multi-class setting here
 		for(Pair<String, Double> feature : features) {
 			featuresWithPrefix.add(new Pair<String, Double>(prefix + "_" + feature.getFirst(), feature.getSecond()));
 		}

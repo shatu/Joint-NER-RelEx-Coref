@@ -1,10 +1,9 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -70,7 +69,7 @@ public class NerDriver {
 	
 	@SuppressWarnings("unchecked")
 	@CommandDescription(description = "Params : NerDirPath, train (true/false)")
-	public static Pair<Double, Double> doTrainTest(String nerDirPath, String isTrain) throws Exception {
+	public static void doTrainTest(String nerDirPath, String isTrain) throws Exception {
 		List<ACEDocument> trainDocs;
 		List<ACEDocument> testDocs;
 		
@@ -102,7 +101,7 @@ public class NerDriver {
 			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
 		}
 		
-		return testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
 	}
 	
 	public static SLProblem getSP(List<ACEDocument> docList) throws Exception {
@@ -132,33 +131,30 @@ public class NerDriver {
 		return problem;
 	}
 	
-	public static Pair<Double, Double> testModel(String modelPath, SLProblem sp) throws Exception {
+	public static void testModel(String modelPath, SLProblem sp) throws Exception {
 		SLModel model = SLModel.loadModel(modelPath);
-		int incorrect = 0;
-		int total = 0;
-		double acc = 0.0;
+		int total = sp.instanceList.size();
+		double correct = 0;
 		for (int i = 0; i < sp.instanceList.size(); i++) {
 			NerInstance prob = (NerInstance) sp.instanceList.get(i);
 			NerLabel gold = (NerLabel) sp.goldStructureList.get(i);
 			NerLabel pred = (NerLabel) model.infSolver.getBestStructure(model.wv, prob);
-			total++;
 			if(NerLabel.getLoss(gold, pred) < 0.0001) {
-				acc += 1;
+				correct++;
 			} else {
-				incorrect++;
-				System.out.println(prob.doc.getDocID());
-				System.out.println();
-				System.out.println("Gold : " + gold);
-				System.out.println("Pred : " + pred);
-				System.out.println("Loss : " + NerLabel.getLoss(gold, pred));
-				System.out.println("Labels : " + Arrays.asList(getLabelsWithScores(prob, model)));
-				System.out.println();
+//				incorrect++;
+//				System.out.println(prob.doc.getDocID());
+//				System.out.println();
+//				System.out.println("Gold : " + gold);
+//				System.out.println("Pred : " + pred);
+//				System.out.println("Loss : " + NerLabel.getLoss(gold, pred));
+//				System.out.println("Labels : " + Arrays.asList(getLabelsWithScores(prob, model)));
+//				System.out.println();
 			}
 		}
 		
-		System.out.println("Accuracy : = " + acc + " / " + sp.instanceList.size() + " = " + (acc/sp.instanceList.size()));
-		System.out.println("Strict Accuracy : =" + (1 - (1.0 * incorrect/total)));
-		return new Pair<Double, Double>(acc/sp.instanceList.size(), 1-1.0*incorrect/total);
+		System.out.println("Accuracy : = " + correct + " / " + total + " = " + (1.0*correct/total));
+//		System.out.println("Strict Accuracy : =" + (1 - (1.0 * incorrect/total)));
 	}
 	
 	public static void trainModel(String modelPath, SLProblem train) throws Exception {

@@ -44,6 +44,11 @@
 			<artifactId>illinois-nlp-pipeline</artifactId>
 			<version>0.1.17</version>
 		</dependency>
+		<dependency>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<artifactId>illinois-edison</artifactId>
+			<version>3.0.23</version>
+		</dependency>
     </dependencies>
 
     <build>
