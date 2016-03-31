@@ -10,13 +10,13 @@ import edu.illinois.cs.cogcomp.sl.core.IInstance;
 import edu.illinois.cs.cogcomp.sl.core.IStructure;
 import edu.illinois.cs.cogcomp.sl.util.WeightVector;
 
-public class RelInfSolver extends AbstractInferenceSolver implements
+public class CorefInferenceSolver extends AbstractInferenceSolver implements
 Serializable {
 
 	private static final long serialVersionUID = 5253748728743334706L;
 	private AbstractFeatureGenerator featGen;
 	
-	public RelInfSolver(AbstractFeatureGenerator featGen) throws Exception {
+	public CorefInferenceSolver(AbstractFeatureGenerator featGen) throws Exception {
 		this.featGen = featGen;
 	}
 	
@@ -31,12 +31,12 @@ Serializable {
 			IInstance ins, IStructure goldStructure) throws Exception {
 		List<Boolean> labels = Arrays.asList(true, false);
 		double bestScore = -Double.MAX_VALUE;
-		RelY best = null;
+		CorefLabel best = null;
 		for(Boolean label : labels) {
 			double score = weight.dotProduct(featGen.getFeatureVector(
-					ins, new RelY(label)));
+					ins, new CorefLabel(label)));
 			if(bestScore < score) {
-				best = new RelY(label);
+				best = new CorefLabel(label);
 				bestScore = score;
 			}
 		}
@@ -45,6 +45,6 @@ Serializable {
 
 	@Override
 	public float getLoss(IInstance ins, IStructure gold, IStructure pred) {
-		return RelY.getLoss((RelY)gold, (RelY)pred);
+		return CorefLabel.getLoss((CorefLabel)gold, (CorefLabel)pred);
 	}	
 }

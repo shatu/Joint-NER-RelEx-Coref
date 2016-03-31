@@ -5,43 +5,125 @@ import java.util.*;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.FeatGen;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.QuantitySchema;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Tools;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Sentence;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Utils;
 import edu.illinois.cs.cogcomp.sl.core.AbstractFeatureGenerator;
 import edu.illinois.cs.cogcomp.sl.core.IInstance;
 import edu.illinois.cs.cogcomp.sl.core.IStructure;
 import edu.illinois.cs.cogcomp.sl.util.IFeatureVector;
 import edu.illinois.cs.cogcomp.sl.util.Lexiconer;
 
-public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializable{
-
-	private static final long serialVersionUID = -5902462551801564955L;
-	public Lexiconer lm = null;
-	public List<String> verbs;
+public class CorefFeatureGenerator extends AbstractFeatureGenerator implements Serializable {
 	
-	public RelAI2FeatGen(Lexiconer lm) {
+	private static final long serialVersionUID = 7646962490009315689L;
+	public Lexiconer lm = null;
+	
+	public CorefFeatureGenerator(Lexiconer lm) {
 		this.lm = lm;
 	}
 
 	@Override
-	public IFeatureVector getFeatureVector(IInstance prob, IStructure y) {
-		RelX x = (RelX) prob;
-		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
-		// Feature functions here
-		features.addAll(unitFeatures(x));
-		features.addAll(verbFeatures(x));
-		features.addAll(miscFeatures(x));
-//		features.addAll(connectedNPFeatures(x));
-		List<Pair<String, Double>> featuresWithPrefix = 
-				new ArrayList<Pair<String, Double>>();
-		String prefix = y.toString();
-		for(Pair<String, Double> feature : features) {
-			featuresWithPrefix.add(new Pair<String, Double>(
-					prefix + "_" + feature.getFirst(), feature.getSecond()));
-		}
-		return FeatGen.getFeatureVectorFromListPair(featuresWithPrefix, lm);
+	public IFeatureVector getFeatureVector(IInstance inst, IStructure label) {
+		CorefInstance x = (CorefInstance) inst;
+		CorefLabel y = (CorefLabel) label; 
+		
+		return extractFeatures(x, y);
 	}
+	
+	private IFeatureVector extractFeatures(CorefInstance inst, CorefLabel label) {
+		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
+		List<Pair<String, Double>> featuresWithPrefix = new ArrayList<Pair<String, Double>>();
+		String prefix = label.toString();
+		
+		// Feature functions here
+//		features.addAll(globalFeatures(inst));
+		
+		features.addAll(getMentionUnigramBigramFeatures(inst));
+		
+//		features.addAll(FeatGenTools.getConjunctionsWithPairs(features, features));
+		
+		//FeatureTransformation for a Multi-class setting here
+		for(Pair<String, Double> feature : features) {
+			featuresWithPrefix.add(new Pair<String, Double>(prefix + "_" + feature.getFirst(), feature.getSecond()));
+		}
+		
+		return FeatGenTools.getFeatureVectorFromListPair(featuresWithPrefix, lm);
+	}
+	
+//	public List<Pair<String, Double>> globalFeatures(CorefInstance x) {
+//		x.ta.
+//		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
+//		Sentence sent = x.ta.getSentence(questionSentId);
+//		for(int i=sent.getStartSpan(); i<sent.getEndSpan(); ++i) {
+//			if(x.ta.getToken(i).equals("more") || x.ta.getToken(i).equals("less") ||
+//					x.ta.getToken(i).equals("than")) {
+//				features.add(new Pair<String, Double>("MoreOrLessOrThanPresentInQuestion", 1.0));
+//				break;
+//			}
+//		}
+//		
+//		for(String token : x.schema.questionTokens) {
+//			if(token.equalsIgnoreCase("left")) {
+//				features.add(new Pair<String, Double>("LeftPresentInQuestion", 1.0));
+//				break;
+//			}
+//		}
+//		return features;
+//	}
+	
+//	public List<Pair<String, Double>> perQuantityFeatures(CorefInstance x) {
+//		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
+//		for(Pair<String, Double> feature : perQuantityFeatures(x, x.quantIndex1)) {
+//			features.add(new Pair<String, Double>("1_"+feature.getFirst(), feature.getSecond()));
+//		}
+//		
+//		for(Pair<String, Double> feature : perQuantityFeatures(x, x.quantIndex2)) {
+//			features.add(new Pair<String, Double>("2_"+feature.getFirst(), feature.getSecond()));
+//		}
+//		return features;
+//	}
+	
+//	public List<Pair<String, Double>> pairQuantityFeatures(CorefInstance x) {
+//		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
+//		Constituent verbPhrase1 = x.schema.quantSchemas.get(x.quantIndex1).verbPhrase;
+//		Constituent verbPhrase2 = x.schema.quantSchemas.get(x.quantIndex2).verbPhrase;
+//		String verb1 = x.schema.quantSchemas.get(x.quantIndex1).verb;
+//		String verb2 = x.schema.quantSchemas.get(x.quantIndex2).verb;
+//		if(verbPhrase1.getSpan().equals(verbPhrase2.getSpan())) {
+//			features.add(new Pair<String, Double>("SameVerbInstance", 1.0));
+//		}
+//		if(verb1.equals(verb2)) {
+//			features.add(new Pair<String, Double>("SameVerbForm", 1.0));
+//		}
+//		if(Utils.getValue(x.quantities.get(x.quantIndex1)) > Utils.getValue(
+//				x.quantities.get(x.quantIndex2))) {
+//			features.add(new Pair<String, Double>("Ascending", 1.0));
+//		}
+//		return features;
+//	}
+	
+//	public List<Pair<String, Double>> perQuantityFeatures(CorefInstance x, int quantIndex) {
+//		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
+//		QuantitySchema qSchema = x.schema.quantSchemas.get(quantIndex);
+//		int tokenId = x.ta.getTokenIdFromCharacterOffset(x.quantities.get(quantIndex).start);
+//		features.add(new Pair<String,Double>("Verb_"+qSchema.verb, 1.0));
+//		if(qSchema.quantPhrase.getStartSpan() < qSchema.verbPhrase.getStartSpan()) {
+//			features.add(new Pair<String,Double>("QuantityToTheLeftOfVerb", 1.0));
+//		} else {
+//			features.add(new Pair<String,Double>("QuantityToTheRightOfVerb", 1.0));
+//		}
+//		// Neighboring adverbs or comparative adjectives
+//		for(int i=-3; i<=3; ++i) {
+//			if(tokenId+i<x.ta.size() && tokenId+i>=0 && (
+//					x.posTags.get(tokenId+i).getLabel().startsWith("RB") || 
+//					x.posTags.get(tokenId+i).getLabel().startsWith("JJR"))) {
+//				features.add(new Pair<String, Double>(
+//						"Neighbor_"+x.lemmas.get(tokenId+i), 1.0));
+//			}
+//		}
+//		return features;
+//	}
 	
 	public List<Pair<String, Double>> verbFeatures(RelX x) {
 		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
@@ -59,11 +141,11 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
 		QuantitySchema qSchema = x.schema.quantSchemas.get(x.quantIndex);
 		int bestMatchQuestion = 0, bestMatchQuestionIndex = 0, numBestMatches = 0;
-		bestMatchQuestionIndex = Tools.getNumTokenMatches(
+		bestMatchQuestionIndex = Utils.getNumTokenMatches(
 				x.schema.questionTokens, 
 				Arrays.asList(qSchema.unit.split(" ")));
 		for(QuantitySchema qs : x.schema.quantSchemas) {
-			int numMatches = Tools.getNumTokenMatches(
+			int numMatches = Utils.getNumTokenMatches(
 					x.schema.questionTokens, Arrays.asList(qs.unit.split(" ")));
 			if(bestMatchQuestion < numMatches) {
 				bestMatchQuestion = numMatches;
@@ -103,7 +185,7 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 			for(int j=i+1; j<x.schema.quantSchemas.size(); ++j) {
 				String unit1 = x.schema.quantSchemas.get(i).unit.trim();
 				String unit2 = x.schema.quantSchemas.get(j).unit.trim();
-				int match = Tools.getNumTokenMatches(Arrays.asList(unit1.split(" ")), 
+				int match = Utils.getNumTokenMatches(Arrays.asList(unit1.split(" ")), 
 						Arrays.asList(unit2.split(" ")));
 				if(match > bestMatch) {
 					bestMatch = match;
@@ -115,7 +197,7 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 			if(i==x.quantIndex) continue;
 			String unit1 = x.schema.quantSchemas.get(i).unit.trim();
 			String unit2 = qSchema.unit.trim();
-			int match = Tools.getNumTokenMatches(Arrays.asList(unit1.split(" ")), 
+			int match = Utils.getNumTokenMatches(Arrays.asList(unit1.split(" ")), 
 					Arrays.asList(unit2.split(" ")));
 			if(match > bestMatchForIndex) {
 				bestMatchForIndex = match;
@@ -145,16 +227,16 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 		List<String> allQuantTokens = new ArrayList<String>(
 				Arrays.asList(qSchema.unit.split(" ")));
 		for(Constituent c : qSchema.connectedNPs) {
-			allQuantTokens.addAll(Tools.getTokensList(c));
+			allQuantTokens.addAll(Utils.getTokensList(c));
 		}
-		bestMatchQuestionIndex = Tools.getNumTokenMatches(
+		bestMatchQuestionIndex = Utils.getNumTokenMatches(
 				x.schema.questionTokens, allQuantTokens);
 		for(QuantitySchema qs : x.schema.quantSchemas) {
 			allQuantTokens = new ArrayList<String>(Arrays.asList(qs.unit.split(" ")));
 			for(Constituent c : qs.connectedNPs) {
-				allQuantTokens.addAll(Tools.getTokensList(c));
+				allQuantTokens.addAll(Utils.getTokensList(c));
 			}
-			bestMatchQuestion = Tools.getNumTokenMatches(x.schema.questionTokens, allQuantTokens);
+			bestMatchQuestion = Utils.getNumTokenMatches(x.schema.questionTokens, allQuantTokens);
 		}
 		if(bestMatchQuestionIndex == 0) {
 			features.add(new Pair<String,Double>("UnitNPFoundInQuestion", 1.0));
@@ -170,14 +252,14 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 				List<String> allQuantTokens1 = new ArrayList<String>(
 						Arrays.asList(qs1.unit.split(" ")));
 				for(Constituent c : qs1.connectedNPs) {
-					allQuantTokens1.addAll(Tools.getTokensList(c));
+					allQuantTokens1.addAll(Utils.getTokensList(c));
 				}
 				List<String> allQuantTokens2 = new ArrayList<String>(
 						Arrays.asList(qs2.unit.split(" ")));
 				for(Constituent c : qs2.connectedNPs) {
-					allQuantTokens2.addAll(Tools.getTokensList(c));
+					allQuantTokens2.addAll(Utils.getTokensList(c));
 				}
-				int match = Tools.getNumTokenMatches(allQuantTokens1, allQuantTokens2);
+				int match = Utils.getNumTokenMatches(allQuantTokens1, allQuantTokens2);
 				if(match > bestMatch) {
 					bestMatch = match;
 				}
@@ -191,14 +273,14 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 			List<String> allQuantTokens1 = new ArrayList<String>(
 					Arrays.asList(qs1.unit.split(" ")));
 			for(Constituent c : qs1.connectedNPs) {
-				allQuantTokens1.addAll(Tools.getTokensList(c));
+				allQuantTokens1.addAll(Utils.getTokensList(c));
 			}
 			List<String> allQuantTokens2 = new ArrayList<String>(
 					Arrays.asList(qs2.unit.split(" ")));
 			for(Constituent c : qs2.connectedNPs) {
-				allQuantTokens2.addAll(Tools.getTokensList(c));
+				allQuantTokens2.addAll(Utils.getTokensList(c));
 			}
-			int match = Tools.getNumTokenMatches(allQuantTokens1, allQuantTokens2);
+			int match = Utils.getNumTokenMatches(allQuantTokens1, allQuantTokens2);
 			if(match > bestMatchForIndex) {
 				bestMatchForIndex = match;
 			}
@@ -212,6 +294,28 @@ public class RelAI2FeatGen extends AbstractFeatureGenerator implements Serializa
 		return features;
 	}
 	
+	public List<Pair<String, Double>> getMentionUnigramBigramFeatures(CorefInstance x) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(int i=start; i<end; ++i) {
+			tokens.add(ta.getToken(i));
+		}
+		
+		for(String tkn : tokens) {
+			feats.add(new Pair<String, Double>("Unigram_" + tkn, 1.0));
+		}
+		
+		for(int i=0; i<tokens.size()-1; ++i) {
+			feats.add(new Pair<String, Double>("Bigram_" + tokens.get(i) + "_" + tokens.get(i+1), 1.0));
+		}
+		
+		return feats;
+	}
 	
 }
 
