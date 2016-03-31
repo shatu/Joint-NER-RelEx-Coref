@@ -20,6 +20,8 @@ public class NerLabel implements IStructure {
 	}
 	
 	public static float getLoss(NerLabel gold, NerLabel pred) {
+		System.out.println(gold.toString());
+		System.out.println(pred.toString());
 		if(gold.toString().equals(pred.toString())) {
 			return 0.0f;
 		}

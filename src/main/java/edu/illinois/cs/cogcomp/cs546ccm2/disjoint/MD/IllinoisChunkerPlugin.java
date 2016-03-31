@@ -7,7 +7,6 @@ import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.annotation.handler.IllinoisChunkerHandler;
 import edu.illinois.cs.cogcomp.annotation.handler.IllinoisPOSHandler;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
-import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
@@ -39,7 +38,7 @@ public class IllinoisChunkerPlugin implements AMentionDetector {
 		int i=0;
 		for(AnnotatedText ta: doc.taList) {
 			shallowParser.labelText(ta.getTa());
-			List<Constituent> annots = ta.getTa().getView(ViewNames.SHALLOW_PARSE).getConstituents();
+			List<Constituent> annots = ta.getTa().getView(shallowParser.getName()).getConstituents();
 			for(Constituent annot: annots) {
 				if(annot.getLabel().equals("NP"))
 					System.out.println(annot.toString() + "-->" + annot.getLabel() + "-->" + (annot.getStartCharOffset() + contentParas.get(i).offsetFilterTags) 

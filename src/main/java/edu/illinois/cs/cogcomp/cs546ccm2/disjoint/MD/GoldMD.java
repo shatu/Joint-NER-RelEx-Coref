@@ -24,14 +24,14 @@ public class GoldMD implements AMentionDetector{
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
 		String inDirPath = "data/ACE2005_processed";
-		GoldMD ner = new GoldMD();
+		GoldMD md = new GoldMD();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);
 		//ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");
 		ACEDocument doc = aceCorpus.getDocFromID("CNNHL_ENG_20030526_221156.39");
 		for(AnnotatedText ta: doc.taList) {
-			ner.labelText(ta.getTa());
-			List<Constituent> annots = ta.getTa().getView(CCM2Constants.NERGold).getConstituents();
+			md.labelText(ta.getTa());
+			List<Constituent> annots = ta.getTa().getView(md.getName()).getConstituents();
 			for(Constituent annot: annots) {
 					System.out.println(annot.toString() + "-->" + annot.getLabel());
 			}

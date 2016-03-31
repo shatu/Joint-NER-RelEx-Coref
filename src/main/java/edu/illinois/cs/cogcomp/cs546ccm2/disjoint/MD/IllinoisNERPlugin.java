@@ -29,7 +29,7 @@ public class IllinoisNERPlugin implements AMentionDetector {
 		for(AnnotatedText ta: doc.taList) {
 			ner.labelText(ta.getTa());
 //			List<Constituent> annots = ta.getTa().getView(ViewNames.NER_CONLL).getConstituents();
-			List<Constituent> annots = ta.getTa().getView(ViewNames.NER_ONTONOTES).getConstituents();
+			List<Constituent> annots = ta.getTa().getView(ner.getName()).getConstituents();
 			for(Constituent annot: annots) {
 					System.out.println(annot.toString() + "-->" + annot.getLabel());
 			}
@@ -42,7 +42,7 @@ public class IllinoisNERPlugin implements AMentionDetector {
 	
 	public IllinoisNERPlugin(boolean useOntonotes) throws IOException {
 		this.isOntonotes = useOntonotes;
-		if(useOntonotes) {
+		if(isOntonotes) {
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_ONTONOTES);
 			this.NAME = CCM2Constants.IllinoisNEROntonotes;
 		}

@@ -94,8 +94,8 @@ public class NerDriver {
 		testDocs = (List<ACEDocument>) istream.readObject();
 		istream.close();
 
-		SLProblem train = getSP(trainDocs);
-		SLProblem test = getSP(testDocs);
+		SLProblem train = getSP(trainDocs.subList(0, 5));
+		SLProblem test = getSP(testDocs.subList(0, 5));
 		
 		if(isTrain.equalsIgnoreCase("true")) {
 			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
@@ -122,7 +122,9 @@ public class NerDriver {
 					
 				for(Constituent cons: docAnnots) {
 					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
+					System.out.println(x.mConst);
 					NerLabel y = new NerLabel(cons.getLabel());
+					System.out.println(y.toString());
 					problem.addExample(x, y);
 				}
 				i++;
