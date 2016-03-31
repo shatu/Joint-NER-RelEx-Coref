@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Relevance;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.io.Serializable;
 import java.util.Arrays;

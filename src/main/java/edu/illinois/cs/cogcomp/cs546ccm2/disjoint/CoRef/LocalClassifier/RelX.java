@@ -1,13 +1,13 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Relevance;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.util.List;
 
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Problem;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Schema;
 import edu.illinois.cs.cogcomp.quant.driver.QuantSpan;
 import edu.illinois.cs.cogcomp.sl.core.IInstance;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Problem;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Schema;
 
 public class RelX implements IInstance {
 	

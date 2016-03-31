@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Relevance;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -7,13 +7,13 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Problem;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Folds;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Params;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Tools;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Folds;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Params;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Problem;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Tools;
 import edu.illinois.cs.cogcomp.sl.core.AbstractFeatureGenerator;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 import edu.illinois.cs.cogcomp.sl.core.SLParameters;

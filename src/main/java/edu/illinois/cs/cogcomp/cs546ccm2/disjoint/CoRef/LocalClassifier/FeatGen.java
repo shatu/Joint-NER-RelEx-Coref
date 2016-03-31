@@ -1,10 +1,10 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Pair.PairX;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.PairX;
 import edu.illinois.cs.cogcomp.sl.util.FeatureVectorBuffer;
 import edu.illinois.cs.cogcomp.sl.util.IFeatureVector;
 import edu.illinois.cs.cogcomp.sl.util.Lexiconer;

@@ -8,6 +8,7 @@ import edu.illinois.cs.cogcomp.annotation.handler.IllinoisNerHandler;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
@@ -43,11 +44,11 @@ public class IllinoisNERPlugin implements ANER{
 		this.isOntonotes = useOntonotes;
 		if(useOntonotes) {
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_ONTONOTES);
-			this.NAME = ViewNames.NER_ONTONOTES;
+			this.NAME = CCM2Constants.IllinoisNEROntonotes;
 		}
 		else {
 			this.ner = new IllinoisNerHandler(new PipelineConfigurator().getDefaultConfig(), ViewNames.NER_CONLL);
-			this.NAME = ViewNames.NER_CONLL;
+			this.NAME = CCM2Constants.IllinoisNERConll;
 		}
 	}
 	

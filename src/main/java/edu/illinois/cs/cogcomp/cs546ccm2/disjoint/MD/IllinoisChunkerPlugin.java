@@ -10,6 +10,7 @@ import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
@@ -17,7 +18,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
 
 public class IllinoisChunkerPlugin implements AMentionDetector {
 
-	private String NAME = ViewNames.SHALLOW_PARSE;
+	private String NAME = CCM2Constants.IllinoisChunker;
 	private IllinoisChunkerHandler chunker;
 	private IllinoisPOSHandler posTagger;
 	

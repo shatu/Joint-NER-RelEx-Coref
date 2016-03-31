@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 public class Params {
 	

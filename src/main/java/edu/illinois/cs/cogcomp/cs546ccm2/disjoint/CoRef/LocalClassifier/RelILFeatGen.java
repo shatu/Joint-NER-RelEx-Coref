@@ -1,13 +1,13 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Relevance;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 
 import java.io.Serializable;
 import java.util.*;
 
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.QuantitySchema;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.FeatGen;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.Tools;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.FeatGen;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.QuantitySchema;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifierOld.Tools;
 import edu.illinois.cs.cogcomp.sl.core.AbstractFeatureGenerator;
 import edu.illinois.cs.cogcomp.sl.core.IInstance;
 import edu.illinois.cs.cogcomp.sl.core.IStructure;

@@ -1,16 +1,21 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.common;
 
+import java.util.Arrays;
+import java.util.List;
+
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
+
 /**
  * @author shashank
  */
 public class CCM2Constants {
-    public static String NERGold = "NERGold";
     public static String MDGold = "MDGold";
+    public static String IllinoisChunker = ViewNames.SHALLOW_PARSE;
+    
+    public static String NERGold = "NERGold";
+    public static String IllinoisNEROntonotes = ViewNames.NER_ONTONOTES;
+    public static String IllinoisNERConll = ViewNames.NER_CONLL;
+    public static List<String> NerLabels = Arrays.asList("GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
+   
     public static String ACE_Gold = "ACE_Gold";
-//    public static String BAL = "BAL";
-//    public static String COS = "COS";
-//
-//    public static String RESNIK = "Resnik";
-//    public static final String WNPATH = "wnPath"; // path for wordnet dump
-//    public static final String PARAPATH = "paraphrasePath"; // path for file containing similarity scores extracted from PPDB
 }
