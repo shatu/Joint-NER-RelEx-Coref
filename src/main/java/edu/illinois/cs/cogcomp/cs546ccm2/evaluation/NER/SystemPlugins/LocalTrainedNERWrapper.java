@@ -7,13 +7,12 @@ import java.util.List;
 
 import org.apache.commons.lang.NotImplementedException;
 
-import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.StanfordNER;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalTrainedNER;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -21,17 +20,13 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Mention;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Tag;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
 
-public class StanfordNERWrapper implements A2WSystem {
+public class LocalTrainedNERWrapper implements A2WSystem {
 	
 	private String NAME;
-	private StanfordNER ner;
+	private LocalTrainedNER ner;
 	
-	public StanfordNERWrapper() throws IOException {
-		this(false);
-	}
-	
-	public StanfordNERWrapper(boolean useOntonotes) throws IOException {
-		ner = new StanfordNER();
+	public LocalTrainedNERWrapper(String md, String modelPath) throws IOException, ClassNotFoundException {
+		ner = new LocalTrainedNER(md, modelPath);
 		NAME = ner.getName();
 	}
 	
@@ -64,7 +59,7 @@ public class StanfordNERWrapper implements A2WSystem {
 		return this.NAME;
 	}
 	
-	public List<HashSet<Annotation>> getNERTagList(ACEDatasetWrapper ds) throws AnnotatorException {
+	public List<HashSet<Annotation>> getNERTagList(ACEDatasetWrapper ds) throws Exception {
 		List<HashSet<Annotation>> res = new ArrayList<>();
 		for(ACEDocument doc: ds.getDocs()) {
 			HashSet<Annotation> outAnnots = new HashSet<>();
@@ -76,7 +71,7 @@ public class StanfordNERWrapper implements A2WSystem {
 			}
 			int i=0;
 			for(AnnotatedText ta: doc.taList) {
-				ner.labelText(ta.getTa());
+				ner.labelText(doc, contentParas.get(i), ta.getTa());
 				List<Constituent> docAnnots;
 				docAnnots = ta.getTa().getView(ner.getName()).getConstituents();
 				

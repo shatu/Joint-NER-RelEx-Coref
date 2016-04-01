@@ -3,6 +3,8 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalTrainedNER;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -12,6 +14,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.WeakNoOver
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER.SystemPlugins.IllinoisNERWrapper;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER.SystemPlugins.LocalTrainedNERWrapper;
 
 public class Eval_NER {
 	
@@ -40,12 +43,14 @@ public class Eval_NER {
 		MatchRelation<Annotation> sam = new StrongNoOverlapAnnotationMatch();
 		
 		/******** Annotators *********/
-		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
+//		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
 //		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
+		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, "data/ACE2005_NER/models/GoldMentions.save");
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);
+//		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);
 //		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getNERTagList(ace05);
+		List<HashSet<Annotation>> computedAnnotations = ner.getNERTagList(ace05);
 		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getNERTagsList(), sam);
 		
 		System.out.println(computedAnnotations.size() + " " + ace05.getNERTagsList().size());
