@@ -82,7 +82,7 @@ public class PrepareNERData {
 		try {
 			f = new FileOutputStream(trainFile);
 		    ObjectOutputStream s = new ObjectOutputStream(f);
-		    s.writeObject(docs);
+		    s.writeObject(train);
 		    s.close();
 		    f.close();
 		} catch (Exception e) {
@@ -93,7 +93,7 @@ public class PrepareNERData {
 		try {
 			f = new FileOutputStream(testFile);
 		    ObjectOutputStream s = new ObjectOutputStream(f);
-		    s.writeObject(docs);
+		    s.writeObject(test);
 		    s.close();
 		    f.close();
 		} catch (Exception e) {
