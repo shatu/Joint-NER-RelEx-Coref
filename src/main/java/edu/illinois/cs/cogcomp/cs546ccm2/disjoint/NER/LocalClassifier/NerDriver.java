@@ -94,13 +94,14 @@ public class NerDriver {
 		testDocs = (List<ACEDocument>) istream.readObject();
 		istream.close();
 
-		SLProblem train = getSP(trainDocs.subList(0, 5));
-		SLProblem test = getSP(testDocs.subList(0, 5));
+		SLProblem train = getSP(trainDocs);
+		SLProblem test = getSP(testDocs);
 		
 		if(isTrain.equalsIgnoreCase("true")) {
 			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
 		}
 		
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
 		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
 	}
 	
@@ -122,9 +123,9 @@ public class NerDriver {
 					
 				for(Constituent cons: docAnnots) {
 					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-					System.out.println(x.mConst);
+//					System.out.println(x.mConst);
 					NerLabel y = new NerLabel(cons.getLabel());
-					System.out.println(y.toString());
+//					System.out.println(y.toString());
 					problem.addExample(x, y);
 				}
 				i++;
@@ -160,6 +161,7 @@ public class NerDriver {
 	}
 	
 	public static void trainModel(String modelPath, SLProblem train) throws Exception {
+//		System.out.println(train.size());
 		SLModel model = new SLModel();
 		Lexiconer lm = new Lexiconer();
 		lm.setAllowNewFeatures(true);

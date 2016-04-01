@@ -27,7 +27,7 @@ public class NerInferenceSolver extends AbstractInferenceSolver implements Seria
 	@Override
 	public IStructure getLossAugmentedBestStructure(WeightVector weight, IInstance ins, IStructure goldStructure) {
 		List<String> labels = CCM2Constants.NerLabels;
-		double bestScore = Double.MIN_VALUE;
+		double bestScore = Double.NEGATIVE_INFINITY;
 		NerLabel best = null;
 		for(String label : labels) {
 			double score = weight.dotProduct(featGen.getFeatureVector(ins, new NerLabel(label)));
