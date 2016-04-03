@@ -18,6 +18,7 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 import edu.illinois.cs.cogcomp.core.io.IOUtils;
 import edu.illinois.cs.cogcomp.core.io.LineIO;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.util.EventConstants;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
@@ -40,7 +41,7 @@ public class PrepareEntities {
 
 
     private static final String OUT_TAG = "O";
-    private static String docDirInput = "data/ACE2005/";
+    private static String docDirInput = CCM2Constants.ACE05CorpusPath;
     private static String nerDirOutput = "target/test05";
 
     public static void main( String[] args ) throws IOException {

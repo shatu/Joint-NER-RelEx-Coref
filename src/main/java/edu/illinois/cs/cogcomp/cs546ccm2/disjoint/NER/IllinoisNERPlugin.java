@@ -21,8 +21,8 @@ public class IllinoisNERPlugin implements ANER{
 	private boolean isOntonotes = false;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = "data/ACE2005_processed";
-		IllinoisNERPlugin ner = new IllinoisNERPlugin(true);
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
+		IllinoisNERPlugin ner = new IllinoisNERPlugin(false);
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);
 		ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");

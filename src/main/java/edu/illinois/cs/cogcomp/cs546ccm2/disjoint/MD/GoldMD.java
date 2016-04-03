@@ -23,7 +23,7 @@ public class GoldMD implements AMentionDetector{
 	private String NAME = CCM2Constants.MDGold;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = "data/ACE2005_processed";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
 		GoldMD md = new GoldMD();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);

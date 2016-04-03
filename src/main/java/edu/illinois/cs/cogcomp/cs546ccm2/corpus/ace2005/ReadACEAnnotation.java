@@ -6,6 +6,7 @@ import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntity;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntityMention;
@@ -37,7 +38,7 @@ public class ReadACEAnnotation {
     public static boolean is2004mode = false;
 
     public static void main (String[] args) {
-		String testFile2005 = "data/ACE2005/nw/XIN_ENG_20030616.0274.apf.xml";
+		String testFile2005 = CCM2Constants.ACE05CorpusPath + "/nw/XIN_ENG_20030616.0274.apf.xml";
         try {
         	ReadACEAnnotation.readDocument(testFile2005);
         } catch (XMLException e) {

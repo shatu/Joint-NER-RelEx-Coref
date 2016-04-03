@@ -29,8 +29,8 @@ public class Eval_NER {
 		System.out.println("Loading the datasets...");
 		
 		/******** Datasets *********/
-//		String ace04InputDir = "data/ACE2004_processed/";
-		String ace05InputDir = "data/ACE2005_processed/";
+//		String ace04InputDir = CCM2Constants.ACE04ProcessedPath;
+		String ace05InputDir = CCM2Constants.ACE05ProcessedPath;
 
 //		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
 		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
@@ -45,7 +45,7 @@ public class Eval_NER {
 		/******** Annotators *********/
 //		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
 //		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
-		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, "data/ACE2005_NER/models/GoldMentions.save");
+		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
 //		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);

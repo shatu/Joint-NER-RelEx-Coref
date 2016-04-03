@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Random;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 
 /**
@@ -19,8 +20,8 @@ public class PrepareTrainingData {
 	private ACECorpus corpus;
 	
 	public static void main(String [] args) {
-		String inDirPath = "data/ACE2005_processed";
-		String outDirPath = "data/ACE2005_Split/docs";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
+		String outDirPath = CCM2Constants.ACE05SplitPath + "/docs";
 		PrepareTrainingData data = new PrepareTrainingData(inDirPath);
 		data.splitAndDump(0.8f, outDirPath);
 	}

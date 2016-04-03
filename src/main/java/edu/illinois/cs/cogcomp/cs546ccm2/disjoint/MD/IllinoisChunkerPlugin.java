@@ -22,7 +22,7 @@ public class IllinoisChunkerPlugin implements AMentionDetector {
 	private IllinoisPOSHandler posTagger;
 	
 	public static void main(String[] args) throws AnnotatorException {
-		String inDirPath = "data/ACE2005_processed";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
 		IllinoisChunkerPlugin shallowParser = new IllinoisChunkerPlugin();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);

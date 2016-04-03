@@ -43,8 +43,8 @@ public class LocalTrainedNER implements ANER {
 	 * @throws Exception 
 	 */
 	public static void main(String[] args) throws Exception {
-		String inDirPath = "data/ACE2005_processed";
-		LocalTrainedNER ner = new LocalTrainedNER(CCM2Constants.MDGold, "data/ACE2005_NER/models/GoldMentions.save");
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
+		LocalTrainedNER ner = new LocalTrainedNER(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);
 		//ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");

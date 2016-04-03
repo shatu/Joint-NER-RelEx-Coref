@@ -22,7 +22,7 @@ public class StanfordMD implements AMentionDetector {
 	private String NAME = CCM2Constants.StanfordMD;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = "data/ACE2005_processed";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
 		StanfordMD md = new StanfordMD();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);

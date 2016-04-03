@@ -226,7 +226,7 @@ public class ACE2005DatasetWrapper extends ACEDatasetWrapper {
 	}
 
 	public static void main(String args[]) {
-		String ace05InputDir = "data/ACE2005_processed/";
+		String ace05InputDir = CCM2Constants.ACE05ProcessedPath;
 		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
 		ace05.loadAllDocs();
 		ace05.loadNERTags();

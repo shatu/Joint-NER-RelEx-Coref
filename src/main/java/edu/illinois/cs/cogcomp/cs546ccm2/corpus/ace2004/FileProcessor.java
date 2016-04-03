@@ -5,6 +5,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2004;
 
 import java.io.File;
 
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.nlp.tokenizer.IllinoisTokenizer;
 import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
@@ -15,11 +16,11 @@ import edu.illinois.cs.cogcomp.nlp.utility.CcgTextAnnotationBuilder;
  */
 public class FileProcessor {
 
-    private static final String TEST_DIR="data/ACE2004/data/English/nwire";
-    private static final String TEST_FILE="NYT20001230.1309.0093.apf.xml";
+    private static final String TEST_DIR = CCM2Constants.ACE04CorpusPath + "/data/English/nwire";
+    private static final String TEST_FILE ="NYT20001230.1309.0093.apf.xml";
 
-    private static final String TEST_DIR_B="data/ACE2004/data/English/bnews";
-    private static final String TEST_FILE_B="NBC20001004.1830.1520.apf.xml";
+    private static final String TEST_DIR_B = CCM2Constants.ACE04CorpusPath + "/data/English/bnews";
+    private static final String TEST_FILE_B ="NBC20001004.1830.1520.apf.xml";
     
 	/**
 	 * @param args

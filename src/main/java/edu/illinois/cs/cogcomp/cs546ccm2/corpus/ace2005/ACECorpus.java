@@ -82,8 +82,8 @@ public class ACECorpus extends ACorpus {
 	
     public static void main (String[] args) throws Exception {
 
-	    String aceCorpusDir = "data/ACE2005";
-		String outputDir = "data/ACE2005_processed/";
+	    String aceCorpusDir = CCM2Constants.ACE05CorpusPath;
+		String outputDir = CCM2Constants.ACE05ProcessedPath;
 		
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.prepareCorpus(aceCorpusDir, outputDir);

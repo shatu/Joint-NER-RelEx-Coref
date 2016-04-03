@@ -22,7 +22,7 @@ public class StanfordNER implements ANER {
 	private String NAME = CCM2Constants.StanfordNER;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = "data/ACE2005_processed";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
 		StanfordNER ner = new StanfordNER();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);

@@ -16,7 +16,7 @@ public class GoldNER implements ANER{
 	private String NAME = CCM2Constants.NERGold;
 	
 	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = "data/ACE2005_processed";
+		String inDirPath = CCM2Constants.ACE05ProcessedPath;
 		GoldNER ner = new GoldNER();
 		ACECorpus aceCorpus = new ACECorpus();
 		aceCorpus.initCorpus(inDirPath);

@@ -17,6 +17,7 @@ import edu.illinois.cs.cogcomp.annotation.TextAnnotationBuilder;
 import edu.illinois.cs.cogcomp.core.datastructures.IntPair;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
@@ -25,6 +26,10 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntity;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEEntityMention;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACERelation;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACERelationArgument;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACERelationArgumentMention;
+import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACERelationMention;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACETimeEx;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACETimeExMention;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEValue;
@@ -47,6 +52,8 @@ import edu.illinois.cs.cogcomp.nlp.utilities.StringCleanup;
  *
  * Created by mssammon on 8/27/15.
  */
+//TODO: FIX this code -- Paragraphs is never initialized with the single paragraph 
+//      .. so a code relying on its presence will break
 public class AceFileProcessor
 {
     private static final String NAME = AceFileProcessor.class.getCanonicalName();
@@ -168,7 +175,11 @@ public class AceFileProcessor
 
                     Paragraph p = paraList.get(j).getSecond();
                     
-                    addGoldNERView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length());
+                    HashMap<String, String> idToTypeMap = new HashMap<>();
+                    
+                    addGoldNERView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length(), idToTypeMap);
+                    
+//                    addGoldRelationsView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length(), idToTypeMap);
                     
                     aceDoc.taList.add( new AnnotatedText( ta ) );
                 }
@@ -184,13 +195,14 @@ public class AceFileProcessor
         return aceDoc;
     }
 
-    public static void addGoldNERView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd) {
+    public static void addGoldNERView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd, HashMap<String, String> idToTypeMap) {
         SpanLabelView view = new SpanLabelView(CCM2Constants.NERGold, CCM2Constants.ACE_Gold, ta, 1d, true);
         
         for(ACEEntity e : aceAnnotation.entityList) {
         	String label = e.type;
+        	idToTypeMap.put(e.id, e.type);
         	for(ACEEntityMention m : e.entityMentionList) {
-        		if((m.extentStart >= pCharStart) && (m.extentStart < pCharEnd)) {
+        		if((m.extentStart >= pCharStart) && (m.extentEnd <= pCharEnd)) {
         			int tokenStart = ta.getTokenIdFromCharacterOffset(m.extentStart - pCharStart);
         			int tokenEnd = ta.getTokenIdFromCharacterOffset(m.extentEnd - pCharStart) + 1;
         			view.addSpanLabel(tokenStart, tokenEnd, label, 1d);
@@ -199,6 +211,57 @@ public class AceFileProcessor
         }
         
         ta.addView(CCM2Constants.NERGold, view);
+    }
+    
+    //TODO: This needs to change for the ACE04 Corpus .... i.e. the field names might be different
+    public static void addGoldRelationsView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd, HashMap<String, String> idToTypeMap) {
+        SpanLabelView view = new SpanLabelView(CCM2Constants.RelExGold, CCM2Constants.ACE_Gold, ta, 1d, true);
+ 
+        for(ACERelation rel : aceAnnotation.relationList) {
+        	Constituent arg1 = null;
+        	Constituent arg2 = null;
+        	String argType1 = null;
+        	String argType2 = null;
+        	
+        	for(ACERelationArgument arg : rel.relationArgumentList) {
+        		if(arg.role.equalsIgnoreCase("Arg-1")) {
+        			argType1 = idToTypeMap.get(arg.id);
+        		}
+        		else if(arg.role.equalsIgnoreCase("Arg-2")) {
+        			argType2 = idToTypeMap.get(arg.id);
+        		}
+        	}
+        	
+        	String label = rel.type;
+        	
+        	for(ACERelationMention m : rel.relationMentionList) {
+        		if((m.extentStart >= pCharStart) && (m.extentEnd <= pCharEnd)) {
+//        			int tokenStart = ta.getTokenIdFromCharacterOffset(m.extentStart - pCharStart);
+//        			int tokenEnd = ta.getTokenIdFromCharacterOffset(m.extentEnd - pCharStart) + 1;
+//        			Constituent relConst = new Constituent(label, 1d, view.getViewName(), ta, tokenStart, tokenEnd);
+        			for(ACERelationArgumentMention arg : m.relationArgumentMentionList) {
+        				int argStart = ta.getTokenIdFromCharacterOffset(arg.start - pCharStart);
+    					int argEnd = ta.getTokenIdFromCharacterOffset(arg.end - pCharStart) + 1;
+    					
+        				if(arg.role.equalsIgnoreCase("Arg-1")) {
+        					arg1 = new Constituent(argType1, 1d, view.getViewName(), ta, argStart, argEnd);
+        					view.addConstituent(arg1);
+        				}
+        				else if(arg.role.equalsIgnoreCase("Arg-2")) {
+        					arg2 = new Constituent(argType2, 1d, view.getViewName(), ta, argStart, argEnd);
+        					view.addConstituent(arg2);
+        				}
+        			}
+
+//        			view.addConstituent(relConst);
+        			//TODO check if the source and target correspond to Arg-1 and Arg-2 respectively or not
+        			Relation link = new Relation(label, arg1, arg2, 1d);
+        			view.addRelation(link);
+        		}
+        	}
+        }
+        
+        ta.addView(CCM2Constants.RelExGold, view);
     }
 
     /**

@@ -3,6 +3,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -28,8 +29,8 @@ public class Eval_MD {
 		System.out.println("Loading the datasets...");
 		
 		/******** Datasets *********/
-//		String ace04InputDir = "data/ACE2004_processed/";
-		String ace05InputDir = "data/ACE2005_processed/";
+//		String ace04InputDir = CCM2Constants.ACE04ProcessedPath;
+		String ace05InputDir = CCM2Constants.ACE05ProcessedPath;
 
 //		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
 		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);

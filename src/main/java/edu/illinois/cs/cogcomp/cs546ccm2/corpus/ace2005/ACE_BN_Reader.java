@@ -6,6 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.util.IOManager;
 
@@ -14,7 +15,7 @@ public class ACE_BN_Reader {
 	static boolean isDebug = false;
 
 	public static void main (String[] args) {
-		String file = "data/ACE2005/bn/CNN_ENG_20030304_173120.16.sgm";
+		String file = CCM2Constants.ACE05CorpusPath + "/bn/CNN_ENG_20030304_173120.16.sgm";
 		List<String> lines = IOManager.readLinesWithoutTrimming(file);
 		String content = "";
 		for (int i = 0; i < lines.size(); ++i) {
