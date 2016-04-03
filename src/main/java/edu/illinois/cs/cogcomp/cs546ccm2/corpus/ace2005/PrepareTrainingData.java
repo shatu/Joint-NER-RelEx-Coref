@@ -13,19 +13,19 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 /**
  * @author Shashank
  */
-public class PrepareNERData {
+public class PrepareTrainingData {
 	
 	private List<ACEDocument> docs;
 	private ACECorpus corpus;
 	
 	public static void main(String [] args) {
 		String inDirPath = "data/ACE2005_processed";
-		String outDirPath = "data/ACE2005_NER/docs";
-		PrepareNERData data = new PrepareNERData(inDirPath);
+		String outDirPath = "data/ACE2005_Split/docs";
+		PrepareTrainingData data = new PrepareTrainingData(inDirPath);
 		data.splitAndDump(0.8f, outDirPath);
 	}
  
-	public PrepareNERData(String inDirPath) {
+	public PrepareTrainingData(String inDirPath) {
 		corpus = new ACECorpus();
 		corpus.initCorpus(inDirPath);
 		docs = corpus.getAllDocs();
@@ -67,7 +67,7 @@ public class PrepareNERData {
 		
 		File outDir = new File(outPath);
 		if (outDir.exists() == true) {
-			throw new RuntimeException("NER docs Directory already exists .. exiting");
+			throw new RuntimeException("Split docs Directory already exists .. exiting");
 		}
 		outDir.mkdirs();
 		

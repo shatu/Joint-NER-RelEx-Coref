@@ -68,13 +68,13 @@ public class NerDriver {
 //	}
 	
 	@SuppressWarnings("unchecked")
-	@CommandDescription(description = "Params : NerDirPath, train (true/false)")
-	public static void doTrainTest(String nerDirPath, String isTrain) throws Exception {
+	@CommandDescription(description = "Params : SplitDataDirPath, train (true/false)")
+	public static void doTrainTest(String splitDirPath, String isTrain) throws Exception {
 		List<ACEDocument> trainDocs;
 		List<ACEDocument> testDocs;
 		
-		File docsDir = new File(nerDirPath, "docs");
-		File modelsDir = new File(nerDirPath, "models");
+		File docsDir = new File(splitDirPath, "docs");
+		File modelsDir = new File(splitDirPath, "NerModels");
 		
 		if(!modelsDir.exists()) {
 			modelsDir.mkdir();
@@ -94,8 +94,8 @@ public class NerDriver {
 		testDocs = (List<ACEDocument>) istream.readObject();
 		istream.close();
 
-		SLProblem train = getSP(trainDocs);
-		SLProblem test = getSP(testDocs);
+		SLProblem train = getTrainSP(trainDocs);
+		SLProblem test = getTestSP(testDocs);
 		
 		if(isTrain.equalsIgnoreCase("true")) {
 			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
@@ -105,7 +105,36 @@ public class NerDriver {
 		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
 	}
 	
-	public static SLProblem getSP(List<ACEDocument> docList) throws Exception {
+	public static SLProblem getTrainSP(List<ACEDocument> docList) throws Exception {
+		SLProblem problem = new SLProblem();
+		for(ACEDocument doc : docList) {
+			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
+			List<Paragraph> contentParas = new ArrayList<>();
+			for(Pair<String, Paragraph> pair: paragraphs) {
+				if(pair.getFirst().equals("text"))
+					contentParas.add(pair.getSecond());
+			}
+			
+			int i=0;
+			for(AnnotatedText at: doc.taList) {
+				List<Constituent> docAnnots;
+				TextAnnotation ta = at.getTa();
+				docAnnots = ta.getView(CCM2Constants.NERGold).getConstituents();
+					
+				for(Constituent cons: docAnnots) {
+					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
+//					System.out.println(x.mConst);
+					NerLabel y = new NerLabel(cons.getLabel());
+//					System.out.println(y.toString());
+					problem.addExample(x, y);
+				}
+				i++;
+			}
+		}
+		return problem;
+	}
+	
+	public static SLProblem getTestSP(List<ACEDocument> docList) throws Exception {
 		SLProblem problem = new SLProblem();
 		for(ACEDocument doc : docList) {
 			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;

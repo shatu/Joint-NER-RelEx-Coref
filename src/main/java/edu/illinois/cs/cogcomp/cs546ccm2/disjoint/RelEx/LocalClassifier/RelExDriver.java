@@ -1,16 +1,16 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
@@ -25,7 +25,7 @@ import edu.illinois.cs.cogcomp.sl.learner.Learner;
 import edu.illinois.cs.cogcomp.sl.learner.LearnerFactory;
 import edu.illinois.cs.cogcomp.sl.util.Lexiconer;
 
-public class CorefDriver {
+public class RelExDriver {
 	
 	//TODO: Adapt the commented code to support cross-validation
 //	@CommandDescription(description = "Params : train (true/false), dataset(AI2/IL/CC)")
@@ -69,13 +69,13 @@ public class CorefDriver {
 //	}
 	
 	@SuppressWarnings("unchecked")
-	@CommandDescription(description = "Params : NerDirPath, train (true/false)")
-	public static void doTrainTest(String nerDirPath, String isTrain) throws Exception {
+	@CommandDescription(description = "Params : SplitDirPath, train (true/false)")
+	public static void doTrainTest(String splitDirPath, String isTrain) throws Exception {
 		List<ACEDocument> trainDocs;
 		List<ACEDocument> testDocs;
 		
-		File docsDir = new File(nerDirPath, "docs");
-		File modelsDir = new File(nerDirPath, "models");
+		File docsDir = new File(splitDirPath, "docs");
+		File modelsDir = new File(splitDirPath, "RelExModels");
 		
 		if(!modelsDir.exists()) {
 			modelsDir.mkdir();
@@ -102,6 +102,7 @@ public class CorefDriver {
 			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
 		}
 		
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
 		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
 	}
 	
@@ -119,12 +120,18 @@ public class CorefDriver {
 			for(AnnotatedText at: doc.taList) {
 				List<Constituent> docAnnots;
 				TextAnnotation ta = at.getTa();
-				docAnnots = ta.getView(CCM2Constants.NERGold).getConstituents();
+				docAnnots = ta.getView(CCM2Constants.RelExGold).getConstituents();
 					
 				for(Constituent cons: docAnnots) {
-					CorefInstance x = new CorefInstance(doc, contentParas.get(i), cons);
-					CorefLabel y = new CorefLabel(cons.getLabel());
-					problem.addExample(x, y);
+					if(cons.getOutgoingRelations().size() > 0) {
+						for(Relation rel : cons.getOutgoingRelations()) {
+							RelInstance x = new RelInstance(doc, contentParas.get(i), cons, rel.getTarget());
+//							System.out.println(x.mConst);
+							RelLabel y = new RelLabel(rel.getRelationName());
+//							System.out.println(y.toString());
+							problem.addExample(x, y);
+						}
+					}
 				}
 				i++;
 			}
@@ -146,28 +153,34 @@ public class CorefDriver {
 			for(AnnotatedText at: doc.taList) {
 				List<Constituent> docAnnots;
 				TextAnnotation ta = at.getTa();
-				docAnnots = ta.getView(CCM2Constants.NERGold).getConstituents();
+				docAnnots = ta.getView(CCM2Constants.RelExGold).getConstituents();
 					
 				for(Constituent cons: docAnnots) {
-					CorefInstance x = new CorefInstance(doc, contentParas.get(i), cons);
-					CorefLabel y = new CorefLabel(cons.getLabel());
-					problem.addExample(x, y);
+					if(cons.getOutgoingRelations().size() > 0) {
+						for(Relation rel : cons.getOutgoingRelations()) {
+							RelInstance x = new RelInstance(doc, contentParas.get(i), cons, rel.getTarget());
+//							System.out.println(x.mConst);
+							RelLabel y = new RelLabel(rel.getRelationName());
+//							System.out.println(y.toString());
+							problem.addExample(x, y);
+						}
+					}
 				}
 				i++;
 			}
 		}
 		return problem;
-	}
+	}	
 	
 	public static void testModel(String modelPath, SLProblem sp) throws Exception {
 		SLModel model = SLModel.loadModel(modelPath);
 		int total = sp.instanceList.size();
 		double correct = 0;
 		for (int i = 0; i < sp.instanceList.size(); i++) {
-			CorefInstance prob = (CorefInstance) sp.instanceList.get(i);
-			CorefLabel gold = (CorefLabel) sp.goldStructureList.get(i);
-			CorefLabel pred = (CorefLabel) model.infSolver.getBestStructure(model.wv, prob);
-			if(CorefLabel.getLoss(gold, pred) < 0.0001) {
+			RelInstance prob = (RelInstance) sp.instanceList.get(i);
+			RelLabel gold = (RelLabel) sp.goldStructureList.get(i);
+			RelLabel pred = (RelLabel) model.infSolver.getBestStructure(model.wv, prob);
+			if(RelLabel.getLoss(gold, pred) < 0.0001) {
 				correct++;
 			} else {
 //				incorrect++;
@@ -175,7 +188,7 @@ public class CorefDriver {
 //				System.out.println();
 //				System.out.println("Gold : " + gold);
 //				System.out.println("Pred : " + pred);
-//				System.out.println("Loss : " + CorefLabel.getLoss(gold, pred));
+//				System.out.println("Loss : " + NerLabel.getLoss(gold, pred));
 //				System.out.println("Labels : " + Arrays.asList(getLabelsWithScores(prob, model)));
 //				System.out.println();
 			}
@@ -186,13 +199,14 @@ public class CorefDriver {
 	}
 	
 	public static void trainModel(String modelPath, SLProblem train) throws Exception {
+//		System.out.println(train.size());
 		SLModel model = new SLModel();
 		Lexiconer lm = new Lexiconer();
 		lm.setAllowNewFeatures(true);
 		model.lm = lm;
-		CorefFeatureGenerator fg = new CorefFeatureGenerator(lm);
+		RelFeatureGenerator fg = new RelFeatureGenerator(lm);
 		model.featureGenerator = fg;
-		model.infSolver = new CorefInferenceSolver(fg);
+		model.infSolver = new RelInferenceSolver(fg);
 		SLParameters para = new SLParameters();
 		para.loadConfigFile(Params.spConfigFile);
 		Learner learner = LearnerFactory.getLearner(model.infSolver, fg, para);
@@ -201,18 +215,18 @@ public class CorefDriver {
 		model.saveModel(modelPath);
 	}
 	
-	public static Map<Boolean, Double> getLabelsWithScores(CorefInstance inst, SLModel model) {
-		List<Boolean> labels = Arrays.asList(true, false);
-		Map<Boolean, Double> labelsWithScores = new HashMap<Boolean, Double>();
-		for(Boolean label : labels) {
-			labelsWithScores.put(label, 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(inst, new CorefLabel(label))));
+	public static Map<String, Double> getLabelsWithScores(RelInstance inst, SLModel model) {
+		List<String> labels = CCM2Constants.RelationTypes;
+		Map<String, Double> labelsWithScores = new HashMap<String, Double>();
+		for(String label : labels) {
+			labelsWithScores.put(label, 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(inst, new RelLabel(label))));
 		}
 		
 		return labelsWithScores;
 	}
 
 	public static void main(String[] args) throws Exception {
-		InteractiveShell<CorefDriver> tester = new InteractiveShell<CorefDriver>(CorefDriver.class);
+		InteractiveShell<RelExDriver> tester = new InteractiveShell<RelExDriver>(RelExDriver.class);
 		if (args.length == 0) {
 			tester.showDocumentation();
 		} else {

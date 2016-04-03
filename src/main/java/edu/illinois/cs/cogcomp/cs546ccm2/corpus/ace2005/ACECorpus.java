@@ -14,6 +14,9 @@ import java.util.List;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.annotation.handler.IllinoisPOSHandler;
 import edu.illinois.cs.cogcomp.core.datastructures.IntPair;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocumentAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACorpus;
@@ -100,7 +103,48 @@ public class ACECorpus extends ACorpus {
 		System.out.println(aceCorpus.getunDocs().size());
 		System.out.println(aceCorpus.getwlDocs().size());
 		System.out.println(aceCorpus.getAllDocs().size());
+		
+		aceCorpus.testRelationView();
+		aceCorpus.printRelationTypes();
 	}
+    
+    
+    public void testRelationView() {
+    	ACEDocument doc = getDocFromID("AFP_ENG_20030304.0250");
+		for(AnnotatedText ta: doc.taList) {
+			List<Constituent> annots = ta.getTa().getView(CCM2Constants.RelExGold).getConstituents();
+			for(Constituent annot: annots) {
+				if(annot.getOutgoingRelations().size() > 0) {
+					System.out.println(annot.getOutgoingRelations().size());
+					for(Relation rel : annot.getOutgoingRelations()) {
+						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getSource().getLabel() + "-->" + 
+								rel.getTarget() + "-->" + rel.getTarget().getLabel());
+					}
+				}
+			}
+		}
+    }
+    
+    public void printRelationTypes() {
+    	HashSet<String> relationTypes = new HashSet<String>();
+    	for(ACEDocument doc : getAllDocs()) {
+    		for(AnnotatedText ta: doc.taList) {
+    			List<Constituent> annots = ta.getTa().getView(CCM2Constants.RelExGold).getConstituents();
+    			for(Constituent annot: annots) {
+    				if(annot.getOutgoingRelations().size() > 0) {
+    					for(Relation rel : annot.getOutgoingRelations()) {
+    						relationTypes.add(rel.getRelationName());
+    					}
+    				}
+    			}
+    		}
+    	}
+    	
+    	for(String relType : relationTypes) {
+    		System.out.println(relType);
+    	}
+    	
+    }
     
     @SuppressWarnings("unchecked")
 	public void initCorpus(String inDirPath) {
@@ -165,7 +209,7 @@ public class ACECorpus extends ACorpus {
     public void prepareCorpus(String docDirInput, String docDirOutput) throws AnnotatorException {
 		File outDir = new File(docDirOutput);
 		if (outDir.exists() == true) {
-			throw new RuntimeException("Processed Corpus already exists .. exiting");
+			return;
 		}
 		outDir.mkdir();
 

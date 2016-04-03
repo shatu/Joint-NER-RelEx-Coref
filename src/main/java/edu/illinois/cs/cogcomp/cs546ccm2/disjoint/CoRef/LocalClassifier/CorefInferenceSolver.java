@@ -30,7 +30,7 @@ Serializable {
 	public IStructure getLossAugmentedBestStructure(WeightVector weight,
 			IInstance ins, IStructure goldStructure) throws Exception {
 		List<Boolean> labels = Arrays.asList(true, false);
-		double bestScore = -Double.MAX_VALUE;
+		double bestScore = Double.NEGATIVE_INFINITY;
 		CorefLabel best = null;
 		for(Boolean label : labels) {
 			double score = weight.dotProduct(featGen.getFeatureVector(

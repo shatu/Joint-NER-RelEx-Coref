@@ -47,7 +47,6 @@ public class StanfordNER implements ANER {
 		int startTokenOffset;
 		int endTokenOffset;
 		double score;
-		String mentionText;
 		
 		
 		//TODO Code here to get annotations from Stanford NER using the textContent
@@ -60,8 +59,7 @@ public class StanfordNER implements ANER {
 		  	endCharOffset = 
 		  	startTokenOffset = ta.getTokenIdFromCharacterOffset(startCharOffset);
 		  	endTokenOffset = ta.getTokenIdFromCharacterOffset(endCharOffset);
-		  	mentionText = ta.getTokensInSpan(startTokenOffset, endTokenOffset);
-		  	Constituent cont = new Constituent(label, getName(), mentionText, startTokenOffset, endTokenOffset);
+		  	Constituent cont = new Constituent(label, getName(), ta, startTokenOffset, endTokenOffset);
 		  	view.addSpanLabel(cont.getSpan().getFirst(), cont.getSpan().getSecond(), label, score);
 		*/ 
 		

@@ -18,6 +18,9 @@ public class CCM2Constants {
     public static String IllinoisNEROntonotes = ViewNames.NER_ONTONOTES;
     public static String IllinoisNERConll = ViewNames.NER_CONLL;
     public static List<String> NerLabels = Arrays.asList("GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
-   
+    
+    public static String RelExGold = "RelExGold";
+    public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
+    
     public static String ACE_Gold = "ACE_Gold";
 }
