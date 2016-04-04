@@ -6,17 +6,19 @@ import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.sl.core.IInstance;
 
-public class CorefInstance implements IInstance {
+public class CoRefInstance implements IInstance {
 	public ACEDocument doc;
 	public Paragraph para;
-	public Constituent mConst;
+	public Constituent mSource;
+	public Constituent mTarget;
 	public TextAnnotation ta;
 	
-	public CorefInstance(ACEDocument doc, Paragraph para, Constituent cont) {
+	public CoRefInstance(ACEDocument doc, Paragraph para, Constituent source, Constituent target) {
 		this.doc = doc;
-		this.mConst = cont;
+		this.mSource = source;
+		this.mTarget = target;
 		this.para = para;
-		this.ta = cont.getTextAnnotation();
+		this.ta = source.getTextAnnotation();
 	}
 
 }
