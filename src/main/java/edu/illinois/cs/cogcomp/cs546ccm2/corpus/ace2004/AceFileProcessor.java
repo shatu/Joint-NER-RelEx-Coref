@@ -179,6 +179,8 @@ public class AceFileProcessor
                     
                     addGoldNERView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length(), idToTypeMap);
                     
+//                    addGoldCoRefView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length());
+                    
 //                    addGoldRelationsView(ta, annotationACE, p.offsetFilterTags, p.offsetFilterTags + p.content.length(), idToTypeMap);
                     
                     aceDoc.taList.add( new AnnotatedText( ta ) );
@@ -195,6 +197,10 @@ public class AceFileProcessor
         return aceDoc;
     }
 
+    /*
+    TODO: Add mention type as an argument to the constituent
+    Logic is that .. if some NER View has a mention type .. we can use it .. however things like Illinois-NER, Illinois-Chunker will not return those.
+   */
     public static void addGoldNERView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd, HashMap<String, String> idToTypeMap) {
         SpanLabelView view = new SpanLabelView(CCM2Constants.NERGold, CCM2Constants.ACE_Gold, ta, 1d, true);
         
@@ -213,7 +219,66 @@ public class AceFileProcessor
         ta.addView(CCM2Constants.NERGold, view);
     }
     
+ /*
+    TODO: Add mention type as an argument to the constituent
+    Logic is that .. if some Coref View has a mention type .. we can use it .. however it might not be supported by all approaches to CoRef.
+ */
+  public static void addGoldCoRefView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd) {
+      SpanLabelView view = new SpanLabelView(CCM2Constants.CoRefGold, CCM2Constants.ACE_Gold, ta, 1d, true);
+      
+      for(ACEEntity e : aceAnnotation.entityList) {
+      	String label = e.type;
+      	List<ACEEntityMention> mentionList = e.entityMentionList;
+      	
+      	ACEEntityMention mention1 = mentionList.get(0);
+      	Constituent m1 = null;
+      	int arg1Start;
+			int arg1End;
+			
+      	ACEEntityMention mention2 = null;
+      	Constituent m2 = null;
+			int arg2Start;
+			int arg2End;
+      	
+			//TODO: Calculate how big is the loss in terms of number of mentions
+			if((mention1.extentStart >= pCharStart) && (mention1.extentEnd <= pCharEnd)) {
+				arg1Start = ta.getTokenIdFromCharacterOffset(mention1.extentStart - pCharStart);
+				arg1End = ta.getTokenIdFromCharacterOffset(mention1.extentEnd - pCharStart) + 1;
+  			m1 = new Constituent(label, 1d, view.getViewName(), ta, arg1Start, arg1End);
+  			view.addConstituent(m1);
+			}
+			else 
+				continue;
+			
+      	for(int i=0; i<mentionList.size()-1; i++) {
+      		
+      		mention2 = mentionList.get(i+1);
+      		
+      		//TODO: Check if this containment to the paragraph poses a problem.
+      		if((mention2.extentStart >= pCharStart) && (mention2.extentEnd <= pCharEnd)) {
+      			arg2Start = ta.getTokenIdFromCharacterOffset(mention2.extentStart - pCharStart);
+      			arg2End = ta.getTokenIdFromCharacterOffset(mention2.extentEnd - pCharStart) + 1;
+      			m2 = new Constituent(label, 1d, view.getViewName(), ta, arg2Start, arg2End);
+      			view.addConstituent(m2);
+      			
+      			Relation link = new Relation(CCM2Constants.CoRefRelation, m1, m2, 1d);
+      			view.addRelation(link);
+      			
+      			m1 = m2;
+      		}
+      		else
+      			continue;
+      	}
+      }
+      
+      ta.addView(CCM2Constants.CoRefGold, view);
+  }
+    
     //TODO: This needs to change for the ACE04 Corpus .... i.e. the field names might be different
+  /*
+   * TODO: Get the mention type and add as an argument ... requires a complicated mapping scheme.
+   * Logic is that .. if some RelEx View has a mention type .. we can use it .. however it might not be supported by all approaches to RelEx.
+   */
     public static void addGoldRelationsView(TextAnnotation ta, ACEDocumentAnnotation aceAnnotation, int pCharStart, int pCharEnd, HashMap<String, String> idToTypeMap) {
         SpanLabelView view = new SpanLabelView(CCM2Constants.RelExGold, CCM2Constants.ACE_Gold, ta, 1d, true);
  

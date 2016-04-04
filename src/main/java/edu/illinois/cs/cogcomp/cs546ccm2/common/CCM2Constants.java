@@ -9,7 +9,11 @@ import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
  * @author shashank
  */
 public class CCM2Constants {
-    public static String MDGold = "MDGold";
+	
+	//TODO
+	public static String MentionTypeArg = "MentionTypeArg";
+	
+	public static String MDGold = "MDGold";
     public static String IllinoisChunker = ViewNames.SHALLOW_PARSE;
     public static String StanfordMD = "StanfordMD";
     
@@ -19,6 +23,10 @@ public class CCM2Constants {
     public static String IllinoisNERConll = ViewNames.NER_CONLL;
     public static List<String> NerLabels = Arrays.asList("GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
     
+    public static final String CoRefGold = "CoRefGold";
+    public static List<String> CoRefLabels = Arrays.asList("TRUE", "FALSE");
+    public static String CoRefRelation = "CoRefRelation";
+    		
     public static String RelExGold = "RelExGold";
     public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
     

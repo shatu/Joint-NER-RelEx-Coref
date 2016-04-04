@@ -94,6 +94,7 @@ public class ACECorpus extends ACorpus {
 		
 //		aceCorpus.testRelationView();
 //		aceCorpus.printRelationTypes();
+//		aceCorpus.testCoRefView();
 	}
     
     public void testRelationView() {
@@ -107,6 +108,34 @@ public class ACECorpus extends ACorpus {
 						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getSource().getLabel() + "-->" + 
 								rel.getTarget() + "-->" + rel.getTarget().getLabel());
 					}
+				}
+			}
+		}
+    }
+    
+    public void testCoRefView() {
+    	ACEDocument doc = getDocFromID("AFP_ENG_20030304.0250");
+		for(AnnotatedText ta: doc.taList) {
+			List<Constituent> annots = ta.getTa().getView(CCM2Constants.CoRefGold).getConstituents();
+			for(Constituent annot: annots) {
+				if(annot.getIncomingRelations().size() != 0)
+					continue;
+				if(annot.getOutgoingRelations().size() > 0) {
+					System.out.println(annot.getOutgoingRelations().size());
+					Constituent chain = annot;
+					while(chain.getOutgoingRelations().size() > 0) {
+						Relation rel = chain.getOutgoingRelations().get(0);
+						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getSource().getLabel() + "-->" + 
+								rel.getTarget() + "-->" + rel.getTarget().getLabel());
+						
+						chain = rel.getTarget();
+						System.out.println("*****");
+					}
+				}
+				else {
+					System.out.println(annot.getOutgoingRelations().size());
+					System.out.println(annot + "-->" + annot.getLabel() + "-->");
+					System.out.println("^^^^^^^^^^^^^^^^^");
 				}
 			}
 		}
