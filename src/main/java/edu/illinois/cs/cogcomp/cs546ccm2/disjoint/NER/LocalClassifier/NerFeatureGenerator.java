@@ -30,6 +30,13 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		return extractFeatures(x, y);
 	}
 	
+	/*
+	 * TODO: Add Mention Length feature, 
+	 * 			 Mention Brown Cluster feature,
+	 * 			 Mention Head + Shape feature,
+	 * 			 Dependency Parser based features
+	 * 			 Use figer/analysis/feature for reference
+	 */
 	private IFeatureVector extractFeatures(NerInstance inst, NerLabel label) {
 		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
 		List<Pair<String, Double>> featuresWithPrefix = new ArrayList<Pair<String, Double>>();
@@ -41,7 +48,9 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		features.addAll(getContextBagUnigramFeatures(inst, 5));
 		features.addAll(getContextBagBigramFeatures(inst, 5));
 		features.addAll(getPOSContextBagUnigramFeatures(inst, 5));
-		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
+//		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
+		features.addAll(getMentionShapeFeatures(inst));
+		features.addAll(getMentionPOSFeatures(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
 		
@@ -218,6 +227,28 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		return feats;
 	}
 	
+	public List<Pair<String, Double>> getMentionPOSFeatures(NerInstance x) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		List<Constituent> posTags = ta.getView(ViewNames.POS).getConstituents();
+		
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(int i=start; i< end; i++) {
+			String tag = posTags.get(i).getLabel();
+			tokens.add(tag);
+		}
+		
+		for(String tkn : tokens) {
+			feats.add(new Pair<String, Double>("MentionPOS_" + tkn, 1.0));
+		}
+		
+		return feats;
+	}
+	
 	public List<Pair<String, Double>> getMentionBigramFeatures(NerInstance x) {
 		List<Pair<String, Double>> feats = new ArrayList<>();
 		List<String> tokens = new ArrayList<>();
@@ -236,6 +267,33 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		
 		return feats;
 	}
+	
+	public List<Pair<String, Double>> getMentionShapeFeatures(NerInstance x) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(String s : ta.getTokensInSpan(start, end)) {
+			tokens.add(s);
+		}
+		
+		for(String tkn : tokens) {
+			feats.add(new Pair<String, Double>("MentionShape_" + getWordShape(tkn), 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public static String getWordShape(String token) {
+		return token.replaceAll("\\p{Lower}+", "a")
+				.replaceAll("\\p{Upper}+", "A").replaceAll("\\p{Punct}+", ".")
+				.replaceAll("\\p{Digit}+", "0");
+	}
+	
+	
 	
 }
 
