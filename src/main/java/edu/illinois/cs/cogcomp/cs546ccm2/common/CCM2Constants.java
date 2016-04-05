@@ -22,6 +22,8 @@ public class CCM2Constants {
     public static String IllinoisNEROntonotes = ViewNames.NER_ONTONOTES;
     public static String IllinoisNERConll = ViewNames.NER_CONLL;
     public static List<String> NerLabels = Arrays.asList("GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
+    public static List<String> NerLabelsFull = Arrays.asList("NO-ENT", "GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
+    public static double NerNegSamplingFrac = 0.5d;
     
     public static final String CoRefGold = "CoRefGold";
     public static List<String> CoRefLabels = Arrays.asList("TRUE", "FALSE");
@@ -29,6 +31,7 @@ public class CCM2Constants {
     		
     public static String RelExGold = "RelExGold";
     public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
+    public static List<String> RelationTypesFull = Arrays.asList("NO-REL", "PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
     
     public static String ACE_Gold = "ACE_Gold";
     

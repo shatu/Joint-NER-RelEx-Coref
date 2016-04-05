@@ -45,7 +45,8 @@ public class Eval_NER {
 		/******** Annotators *********/
 //		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
 //		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
-		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
+//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
+		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.IllinoisChunker, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
 //		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);

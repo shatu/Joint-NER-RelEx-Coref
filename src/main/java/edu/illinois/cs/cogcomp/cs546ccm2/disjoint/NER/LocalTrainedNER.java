@@ -74,19 +74,19 @@ public class LocalTrainedNER implements ANER {
 	 * @throws ClassNotFoundException 
 	 */
 	public LocalTrainedNER(String mentionView, String modelPath) throws IOException, ClassNotFoundException {
-		if(mentionView.equalsIgnoreCase("MDGold")) {
+		if(mentionView.equalsIgnoreCase(CCM2Constants.MDGold)) {
 			this.md = new GoldMD();
 			this.NAME = "NER_" + md.getName();
 		}
-		else if(mentionView.equalsIgnoreCase("IllinoisChunker")) {
+		else if(mentionView.equalsIgnoreCase(CCM2Constants.IllinoisChunker)) {
 			this.md = new IllinoisChunkerPlugin();
 			this.NAME = "NER_" + md.getName();
 		}
-		else if(mentionView.equalsIgnoreCase("IllinoisNEROntonotes")) {
+		else if(mentionView.equalsIgnoreCase(CCM2Constants.IllinoisNEROntonotes)) {
 			this.md = new IllinoisNERPlugin(true);
 			this.NAME = "NER_" + md.getName();
 		}
-		else if(mentionView.equalsIgnoreCase("IllinoisNERConll")) {
+		else if(mentionView.equalsIgnoreCase(CCM2Constants.IllinoisNERConll)) {
 			this.md = new IllinoisNERPlugin();
 			this.NAME = "NER_" + md.getName();
 		}

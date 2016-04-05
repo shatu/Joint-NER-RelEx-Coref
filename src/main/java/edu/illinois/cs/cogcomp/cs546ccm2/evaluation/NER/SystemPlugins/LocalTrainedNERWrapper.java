@@ -76,6 +76,8 @@ public class LocalTrainedNERWrapper implements A2WSystem {
 				docAnnots = ta.getTa().getView(ner.getName()).getConstituents();
 				
 				for(Constituent cons: docAnnots) {
+					if(cons.getLabel().equalsIgnoreCase("NO-ENT"))
+						continue;
 					Annotation annot = new Annotation(cons.getStartCharOffset() + contentParas.get(i).offsetFilterTags,
 							cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
 					outAnnots.add(annot);

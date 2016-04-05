@@ -4,9 +4,12 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import org.apache.commons.lang.NotImplementedException;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
@@ -117,17 +120,26 @@ public class NerDriver {
 			
 			int i=0;
 			for(AnnotatedText at: doc.taList) {
-				List<Constituent> docAnnots;
 				TextAnnotation ta = at.getTa();
-				docAnnots = ta.getView(CCM2Constants.NERGold).getConstituents();
-					
-				for(Constituent cons: docAnnots) {
+				
+				List<Constituent> posInstances = getPositiveInstances(ta, CCM2Constants.NERGold); 
+				for(Constituent cons: posInstances) {
 					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-//					System.out.println(x.mConst);
 					NerLabel y = new NerLabel(cons.getLabel());
-//					System.out.println(y.toString());
 					problem.addExample(x, y);
 				}
+				
+				List<Constituent> negInstances = getAllNegativeInstances(ta, CCM2Constants.NERGold); 
+				Collections.shuffle(negInstances);
+				
+				int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
+				
+				for(Constituent cons: negInstances.subList(0, negFrac)) {
+					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
+					NerLabel y = new NerLabel("NO-ENT");
+					problem.addExample(x, y);
+				}
+				
 				i++;
 			}
 		}
@@ -146,21 +158,58 @@ public class NerDriver {
 			
 			int i=0;
 			for(AnnotatedText at: doc.taList) {
-				List<Constituent> docAnnots;
 				TextAnnotation ta = at.getTa();
-				docAnnots = ta.getView(CCM2Constants.NERGold).getConstituents();
-					
-				for(Constituent cons: docAnnots) {
+				
+				List<Constituent> posInstances = getPositiveInstances(ta, CCM2Constants.NERGold); 
+				for(Constituent cons: posInstances) {
 					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-//					System.out.println(x.mConst);
 					NerLabel y = new NerLabel(cons.getLabel());
-//					System.out.println(y.toString());
 					problem.addExample(x, y);
 				}
+				
+				List<Constituent> negInstances = getAllNegativeInstances(ta, CCM2Constants.NERGold); 
+				Collections.shuffle(negInstances);
+				
+				int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
+				
+				for(Constituent cons: negInstances.subList(0, negFrac)) {
+					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
+					NerLabel y = new NerLabel("NO-ENT");
+					problem.addExample(x, y);
+				}
+				
 				i++;
 			}
 		}
 		return problem;
+	}
+	
+	public static List<Constituent> getPositiveInstances(TextAnnotation ta, String GoldViewName) {
+		return ta.getView(GoldViewName).getConstituents();
+	}
+	
+	private static List<Constituent> getAllNegativeInstances(TextAnnotation ta, String goldViewName) {
+		List<Constituent> negInstances = new ArrayList<>();
+		List<Constituent> posInstances = ta.getView(goldViewName).getConstituents();
+		
+		int pointer = 0;
+		for(Constituent cons : posInstances) {
+			int i = cons.getStartSpan();
+			for(int j=pointer; j<i; j++) {
+				Constituent neg = new Constituent("NO-ENT", "Neg-Mentions", ta, j, j+1);
+				negInstances.add(neg);
+			}
+			
+			pointer = cons.getEndSpan();
+		}
+		
+		return negInstances;
+	}
+	
+	//TODO: Add support to extract negative instances from an arbitrary mention detection module
+	@SuppressWarnings("unused")
+	private static List<Constituent> getAllNegativeInstances(TextAnnotation ta, String goldViewName, String noisyViewName) {
+		throw new NotImplementedException("Use the other overloaded function");
 	}
 	
 	public static void testModel(String modelPath, SLProblem sp) throws Exception {
@@ -207,7 +256,7 @@ public class NerDriver {
 	}
 	
 	public static Map<String, Double> getLabelsWithScores(NerInstance inst, SLModel model) {
-		List<String> labels = CCM2Constants.NerLabels;
+		List<String> labels = CCM2Constants.NerLabelsFull;
 		Map<String, Double> labelsWithScores = new HashMap<String, Double>();
 		for(String label : labels) {
 			labelsWithScores.put(label, 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(inst, new NerLabel(label))));
