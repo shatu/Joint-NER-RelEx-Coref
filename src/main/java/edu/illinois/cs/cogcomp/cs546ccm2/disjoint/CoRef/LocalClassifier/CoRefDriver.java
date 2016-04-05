@@ -131,7 +131,7 @@ public class CoRefDriver {
 					}
 				}
 				
-				for(Pair<Constituent, Constituent> pair : getAllNegativeInstances(chains)) {
+				for(Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
 					CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
 					CoRefLabel y = new CoRefLabel("FALSE");
 					problem.addExample(x, y);
@@ -168,7 +168,7 @@ public class CoRefDriver {
 					}
 				}
 				
-				for(Pair<Constituent, Constituent> pair : getAllNegativeInstances(chains)) {
+				for(Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
 					CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
 					CoRefLabel y = new CoRefLabel("FALSE");
 					problem.addExample(x, y);

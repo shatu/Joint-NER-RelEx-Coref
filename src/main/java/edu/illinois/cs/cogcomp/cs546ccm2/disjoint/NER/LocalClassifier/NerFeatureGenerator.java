@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.*;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Sentence;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
@@ -38,7 +39,14 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		// Feature functions here
 //		features.addAll(globalFeatures(inst));
 		
-		features.addAll(getMentionUnigramBigramFeatures(inst));
+		features.addAll(getMentionUnigramFeatures(inst));
+		features.addAll(getMentionBigramFeatures(inst));
+		features.addAll(getContextBagUnigramFeatures(inst, 5));
+		features.addAll(getContextBagBigramFeatures(inst, 5));
+		features.addAll(getPOSContextBagUnigramFeatures(inst, 5));
+		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
+		
+		features.add(new Pair<String, Double>("BIAS", 1.0));
 		
 //		features.addAll(FeatGenTools.getConjunctionsWithPairs(features, features));
 		
@@ -124,7 +132,84 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 //		return features;
 //	}
 	
-	public List<Pair<String, Double>> getMentionUnigramBigramFeatures(NerInstance x) {
+	public List<Pair<String, Double>> getPOSContextBagUnigramFeatures(NerInstance x, int window) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		List<Constituent> posTags = ta.getView(ViewNames.POS).getConstituents();
+		
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		int startToken = 0;
+		int endToken = ta.size();
+		
+		if(start - window >= 0)
+			startToken = start - window;
+		
+		if(end + window <= ta.size())
+			endToken = end + window;
+		
+		for(int i=startToken; i<start; ++i) {
+			String tag = posTags.get(i).getLabel();
+			tokens.add(tag);
+		}
+		
+		for(int i=end; i<endToken; ++i) {
+			String tag = posTags.get(i).getLabel();
+			tokens.add(tag);
+		}
+		
+		for(String tkn : tokens) {
+			feats.add(new Pair<String, Double>("POSContextUnigram_" + tkn, 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getPOSContextBagBigramFeatures(NerInstance x, int window) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokensLeft = new ArrayList<>();
+		List<String> tokensRight = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		List<Constituent> posTags = ta.getView(ViewNames.POS).getConstituents();
+		
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		int startToken = 0;
+		int endToken = ta.size();
+		
+		if(start - window >= 0)
+			startToken = start - window;
+		
+		if(end + window <= ta.size())
+			endToken = end + window;
+		
+		for(int i=startToken; i<start; i++) {
+			String tag = posTags.get(i).getLabel();
+			tokensLeft.add(tag);
+		}
+		
+		for(int i=end; i<endToken; i++) {
+			String tag = posTags.get(i).getLabel();
+			tokensRight.add(tag);
+		}
+		
+		for(int i=0; i<tokensLeft.size()-1; ++i) {
+			feats.add(new Pair<String, Double>("POSContextBigram_" + tokensLeft.get(i) + "_" + tokensLeft.get(i+1), 1.0));
+		}
+		
+		for(int i=0; i<tokensRight.size()-1; ++i) {
+			feats.add(new Pair<String, Double>("POSContextBigram_" + tokensRight.get(i) + "_" + tokensRight.get(i+1), 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getContextBagUnigramFeatures(NerInstance x, int window) {
 		List<Pair<String, Double>> feats = new ArrayList<>();
 		List<String> tokens = new ArrayList<>();
 		
@@ -132,16 +217,100 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		int start = x.mConst.getStartSpan();
 		int end = x.mConst.getEndSpan();
 		
-		for(int i=start; i<end; ++i) {
-			tokens.add(ta.getToken(i));
+		int startToken = 0;
+		int endToken = ta.size();
+		
+		if(start - window >= 0)
+			startToken = start - window;
+		
+		if(end + window <= ta.size())
+			endToken = end + window;
+		
+		for(String s : ta.getTokensInSpan(startToken, start)) {
+			tokens.add(s);
+		}
+		
+		for(String s : ta.getTokensInSpan(end, endToken)) {
+			tokens.add(s);
 		}
 		
 		for(String tkn : tokens) {
-			feats.add(new Pair<String, Double>("Unigram_" + tkn, 1.0));
+			feats.add(new Pair<String, Double>("ContextUnigram_" + tkn, 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getContextBagBigramFeatures(NerInstance x, int window) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokensLeft = new ArrayList<>();
+		List<String> tokensRight = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		int startToken = 0;
+		int endToken = ta.size();
+		
+		if(start - window >= 0)
+			startToken = start - window;
+		
+		if(end + window <= ta.size())
+			endToken = end + window;
+		
+		for(String s : ta.getTokensInSpan(startToken, start)) {
+			tokensLeft.add(s);
+		}
+		
+		for(String s : ta.getTokensInSpan(end, endToken)) {
+			tokensRight.add(s);
+		}
+		
+		for(int i=0; i<tokensLeft.size()-1; ++i) {
+			feats.add(new Pair<String, Double>("ContextBigram_" + tokensLeft.get(i) + "_" + tokensLeft.get(i+1), 1.0));
+		}
+		
+		for(int i=0; i<tokensRight.size()-1; ++i) {
+			feats.add(new Pair<String, Double>("ContextBigram_" + tokensRight.get(i) + "_" + tokensRight.get(i+1), 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getMentionUnigramFeatures(NerInstance x) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(String s : ta.getTokensInSpan(start, end)) {
+			tokens.add(s);
+		}
+		
+		for(String tkn : tokens) {
+			feats.add(new Pair<String, Double>("MentionUnigram_" + tkn, 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getMentionBigramFeatures(NerInstance x) {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		List<String> tokens = new ArrayList<>();
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(String s : ta.getTokensInSpan(start, end)) {
+			tokens.add(s);
 		}
 		
 		for(int i=0; i<tokens.size()-1; ++i) {
-			feats.add(new Pair<String, Double>("Bigram_" + tokens.get(i) + "_" + tokens.get(i+1), 1.0));
+			feats.add(new Pair<String, Double>("MentionBigram_" + tokens.get(i) + "_" + tokens.get(i+1), 1.0));
 		}
 		
 		return feats;
