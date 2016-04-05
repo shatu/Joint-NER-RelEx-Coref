@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -18,6 +19,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.RelationList;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 import edu.illinois.cs.cogcomp.sl.core.SLParameters;
 import edu.illinois.cs.cogcomp.sl.core.SLProblem;
@@ -126,13 +128,26 @@ public class RelExDriver {
 					if(cons.getOutgoingRelations().size() > 0) {
 						for(Relation rel : cons.getOutgoingRelations()) {
 							RelInstance x = new RelInstance(doc, contentParas.get(i), cons, rel.getTarget());
-//							System.out.println(x.mConst);
 							RelLabel y = new RelLabel(rel.getRelationName());
-//							System.out.println(y.toString());
 							problem.addExample(x, y);
 						}
 					}
 				}
+				
+				List<RelationList<Constituent>> relList = RelationList.getRelationListFromRelExView(ta, CCM2Constants.RelExGold);
+				
+				List<Pair<Constituent, Constituent>> negInstances = getAllNegativeInstances(relList);
+				
+				Collections.shuffle(negInstances);
+				
+				int negFrac = (int) (negInstances.size()*CCM2Constants.RelExNegSamplingFrac);
+				
+				for(Pair<Constituent, Constituent> pair : negInstances.subList(0, negFrac)) {
+					RelInstance x = new RelInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
+					RelLabel y = new RelLabel("NO-REL");
+					problem.addExample(x, y);
+				}
+				
 				i++;
 			}
 		}
@@ -159,18 +174,37 @@ public class RelExDriver {
 					if(cons.getOutgoingRelations().size() > 0) {
 						for(Relation rel : cons.getOutgoingRelations()) {
 							RelInstance x = new RelInstance(doc, contentParas.get(i), cons, rel.getTarget());
-//							System.out.println(x.mConst);
 							RelLabel y = new RelLabel(rel.getRelationName());
-//							System.out.println(y.toString());
 							problem.addExample(x, y);
 						}
 					}
 				}
+				
+				List<RelationList<Constituent>> relList = RelationList.getRelationListFromRelExView(ta, CCM2Constants.RelExGold);
+				
+				List<Pair<Constituent, Constituent>> negInstances = getAllNegativeInstances(relList);
+				
+				Collections.shuffle(negInstances);
+				
+				int negFrac = (int) (negInstances.size()*CCM2Constants.RelExNegSamplingFrac);
+				
+				for(Pair<Constituent, Constituent> pair : negInstances.subList(0, negFrac)) {
+					RelInstance x = new RelInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
+					RelLabel y = new RelLabel("NO-REL");
+					problem.addExample(x, y);
+				}
+				
 				i++;
 			}
 		}
 		return problem;
-	}	
+	}
+	
+	public static List<Pair<Constituent, Constituent>> getAllNegativeInstances(List<RelationList<Constituent>> relList) {
+		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
+		negInstance.addAll(RelationList.getAllConjunctions(relList));
+		return negInstance;
+	}
 	
 	public static void testModel(String modelPath, SLProblem sp) throws Exception {
 		SLModel model = SLModel.loadModel(modelPath);
@@ -216,7 +250,7 @@ public class RelExDriver {
 	}
 	
 	public static Map<String, Double> getLabelsWithScores(RelInstance inst, SLModel model) {
-		List<String> labels = CCM2Constants.RelationTypes;
+		List<String> labels = CCM2Constants.RelationTypesFull;
 		Map<String, Double> labelsWithScores = new HashMap<String, Double>();
 		for(String label : labels) {
 			labelsWithScores.put(label, 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(inst, new RelLabel(label))));

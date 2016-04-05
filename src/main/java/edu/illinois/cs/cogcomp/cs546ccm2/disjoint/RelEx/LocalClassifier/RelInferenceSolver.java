@@ -26,7 +26,7 @@ public class RelInferenceSolver extends AbstractInferenceSolver implements Seria
 
 	@Override
 	public IStructure getLossAugmentedBestStructure(WeightVector weight, IInstance ins, IStructure goldStructure) {
-		List<String> labels = CCM2Constants.RelationTypes;
+		List<String> labels = CCM2Constants.RelationTypesFull;
 		double bestScore = Double.NEGATIVE_INFINITY;
 		RelLabel best = null;
 		for(String label : labels) {

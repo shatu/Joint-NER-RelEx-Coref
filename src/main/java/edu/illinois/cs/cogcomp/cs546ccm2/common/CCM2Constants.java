@@ -32,6 +32,7 @@ public class CCM2Constants {
     public static String RelExGold = "RelExGold";
     public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
     public static List<String> RelationTypesFull = Arrays.asList("NO-REL", "PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
+    public static final double RelExNegSamplingFrac = 0.08d;
     
     public static String ACE_Gold = "ACE_Gold";
     
