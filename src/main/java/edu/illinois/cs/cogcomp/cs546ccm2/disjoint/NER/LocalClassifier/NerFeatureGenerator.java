@@ -7,6 +7,9 @@ import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.edison.features.Feature;
+import edu.illinois.cs.cogcomp.edison.features.factory.BrownClusterFeatureExtractor;
+import edu.illinois.cs.cogcomp.edison.utilities.EdisonException;
 import edu.illinois.cs.cogcomp.sl.core.AbstractFeatureGenerator;
 import edu.illinois.cs.cogcomp.sl.core.IInstance;
 import edu.illinois.cs.cogcomp.sl.core.IStructure;
@@ -18,7 +21,7 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 	private static final long serialVersionUID = 7646962490009315689L;
 	public Lexiconer lm = null;
 	
-	public NerFeatureGenerator(Lexiconer lm) {
+	public NerFeatureGenerator(Lexiconer lm) throws EdisonException {
 		this.lm = lm;
 	}
 
@@ -27,7 +30,12 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		NerInstance x = (NerInstance) inst;
 		NerLabel y = (NerLabel) label; 
 		
-		return extractFeatures(x, y);
+		try {
+			return extractFeatures(x, y);
+		} catch (EdisonException e) {
+			e.printStackTrace();
+			return null;
+		}
 	}
 	
 	/*
@@ -37,7 +45,7 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 	 * 			 Dependency Parser based features
 	 * 			 Use figer/analysis/feature for reference
 	 */
-	private IFeatureVector extractFeatures(NerInstance inst, NerLabel label) {
+	private IFeatureVector extractFeatures(NerInstance inst, NerLabel label) throws EdisonException {
 		List<Pair<String, Double>> features = new ArrayList<Pair<String, Double>>();
 		List<Pair<String, Double>> featuresWithPrefix = new ArrayList<Pair<String, Double>>();
 		String prefix = label.toString();
@@ -51,6 +59,8 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 //		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
 		features.addAll(getMentionShapeFeatures(inst));
 		features.addAll(getMentionPOSFeatures(inst));
+//		features.addAll(getContextBagBrownFeatures(inst, 5));
+//		features.addAll(getMentionBrownFeatures(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
 		
@@ -166,6 +176,58 @@ public class NerFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		
 		for(String tkn : tokens) {
 			feats.add(new Pair<String, Double>("ContextUnigram_" + tkn, 1.0));
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getContextBagBrownFeatures(NerInstance x, int window) throws EdisonException {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		BrownClusterFeatureExtractor brownFeatGen = BrownClusterFeatureExtractor.instance100;
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		int startToken = 0;
+		int endToken = ta.size();
+		
+		if(start - window >= 0)
+			startToken = start - window;
+		
+		if(end + window <= ta.size())
+			endToken = end + window;
+		
+		for(int i=startToken; i<start; i++) {
+			Set<Feature> features = brownFeatGen.getWordFeatures(ta, i);
+			for(Feature feat: features) {
+				feats.add(new Pair<String, Double>("LEFT_" + feat.toString(), 1.0));
+			}
+		}
+		
+		for(int i=end; i<endToken; i++) {
+			Set<Feature> features = brownFeatGen.getWordFeatures(ta, i);
+			for(Feature feat: features) {
+				feats.add(new Pair<String, Double>("RIGHT_" + feat.toString(), 1.0));
+			}
+		}
+		
+		return feats;
+	}
+	
+	public List<Pair<String, Double>> getMentionBrownFeatures(NerInstance x) throws EdisonException {
+		List<Pair<String, Double>> feats = new ArrayList<>();
+		BrownClusterFeatureExtractor brownFeatGen = BrownClusterFeatureExtractor.instance100;
+		
+		TextAnnotation ta = x.ta;
+		int start = x.mConst.getStartSpan();
+		int end = x.mConst.getEndSpan();
+		
+		for(int i=start; i<end; i++) {
+			Set<Feature> features = brownFeatGen.getWordFeatures(ta, i);
+			for(Feature feat: features) {
+				feats.add(new Pair<String, Double>("MENTION_" + feat.toString(), 1.0));
+			}
 		}
 		
 		return feats;

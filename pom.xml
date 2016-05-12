@@ -12,6 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <cogcompversion>3.0.39</cogcompversion>
     </properties>
 
     <repositories>
@@ -26,28 +27,33 @@
         <dependency>
             <groupId>edu.illinois.cs.cogcomp</groupId>
             <artifactId>illinois-core-utilities</artifactId>
-            <version>3.0.12</version>
+            <version>${cogcompversion}</version>
         </dependency>
         <dependency>
             <groupId>edu.illinois.cs.cogcomp</groupId>
             <artifactId>illinois-tokenizer</artifactId>
-            <version>3.0.12</version>
+            <version>${cogcompversion}</version>
         </dependency>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.11</version>
-			<scope>test</scope>
+        <dependency>
+	    	<groupId>edu.illinois.cs.cogcomp</groupId>
+	   		<artifactId>illinois-sl-core</artifactId>
+	    	<version>1.0.6</version>
 		</dependency>
 		<dependency>
-			<groupId>edu.illinois.cs.cogcomp</groupId>
-			<artifactId>illinois-nlp-pipeline</artifactId>
-			<version>0.1.17</version>
+	    	<groupId>junit</groupId>
+	    	<artifactId>junit</artifactId>
+	    	<version>4.11</version>
+	    	<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>edu.illinois.cs.cogcomp</groupId>
-			<artifactId>illinois-edison</artifactId>
-			<version>3.0.24</version>
+	    	<groupId>edu.illinois.cs.cogcomp</groupId>
+	    	<artifactId>illinois-nlp-pipeline</artifactId>
+	    	<version>0.1.17</version>
+		</dependency>
+		<dependency>
+	  	 	<groupId>edu.illinois.cs.cogcomp</groupId>
+	   		<artifactId>illinois-edison</artifactId>
+	  		<version>${cogcompversion}</version>
 		</dependency>
     </dependencies>
 
@@ -75,6 +81,22 @@
                     </execution>
                 </executions>
             </plugin>
+            <plugin>
+        		<artifactId>maven-assembly-plugin</artifactId>
+        		<executions>
+          			<execution>
+            			<phase>package</phase>
+            			<goals>
+              				<goal>single</goal>
+            			</goals>
+          			</execution>
+        		</executions>
+        		<configuration>
+          			<descriptorRefs>
+		            	<descriptorRef>jar-with-dependencies</descriptorRef>
+		           </descriptorRefs>
+	        	</configuration>
+      		</plugin>
         </plugins>
         <resources>
             <resource>
