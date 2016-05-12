@@ -1,8 +1,6 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier;
 
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -11,15 +9,16 @@ import java.util.Map;
 
 import org.apache.commons.lang.NotImplementedException;
 
-import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.annotation.AnnotatorService;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalTrainedNER;
+import edu.illinois.cs.cogcomp.curator.CuratorFactory;
+import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 import edu.illinois.cs.cogcomp.sl.core.SLParameters;
 import edu.illinois.cs.cogcomp.sl.core.SLProblem;
@@ -70,127 +69,104 @@ public class NerDriver {
 //		return testModel(prefix+testFold+".save", test);
 //	}
 	
-	@SuppressWarnings("unchecked")
-	@CommandDescription(description = "Params : SplitDataDirPath, train (true/false)")
-	public static void doTrainTest(String splitDirPath, String isTrain) throws Exception {
-		List<ACEDocument> trainDocs;
-		List<ACEDocument> testDocs;
+	@CommandDescription(description = "Params : train (true/false)")
+	public static void doTrainTest(String isTrain) throws Exception {
+		File modelsDir = new File(CCM2Constants.ACE05NerModelPath);
+		ACEReader trainReader;
+		ACEReader testReader;
 		
-		File docsDir = new File(splitDirPath, "docs");
-		File modelsDir = new File(splitDirPath, "NerModels");
-		
-		if(!modelsDir.exists()) {
-			modelsDir.mkdir();
+		if (!modelsDir.exists()) {
+			modelsDir.mkdirs();
 		}
 		
-		String modelPrefix = "GoldMentions";
+		String modelPrefix = CCM2Constants.MDGoldExtent;
 		
-		File trainDir = new File(docsDir, "Train");
-		File trainFile = new File(trainDir, "ACE_Train.obj");
-		ObjectInputStream istream = new ObjectInputStream(new FileInputStream(trainFile));
-		trainDocs = (List<ACEDocument>) istream.readObject();
-		istream.close();
+		String trainDir = CCM2Constants.ACE05TrainCorpusPath;
+		String testDir = CCM2Constants.ACE05TestCorpusPath;
 		
-		File testDir = new File(docsDir, "Test");
-		File testFile = new File(testDir, "ACE_Test.obj");
-		istream = new ObjectInputStream(new FileInputStream(testFile));
-		testDocs = (List<ACEDocument>) istream.readObject();
-		istream.close();
+		trainReader = new ACEReader(trainDir, false);
+		testReader = new ACEReader(testDir, false);
 
-		SLProblem train = getTrainSP(trainDocs);
-		SLProblem test = getTestSP(testDocs);
+		SLProblem train = getTrainSP(trainReader, CCM2Constants.MDGoldExtent);
+		SLProblem test = getTestSP(testReader, CCM2Constants.MDGoldExtent);
 		
-		if(isTrain.equalsIgnoreCase("true")) {
-			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
+		if (isTrain.equalsIgnoreCase("true")) {
+			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", train);
 		}
 		
-		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
-		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", train);
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", test);
 	}
 	
-	public static SLProblem getTrainSP(List<ACEDocument> docList) throws Exception {
+	public static SLProblem getTrainSP(ACEReader docList, String mdView) throws Exception {
 		SLProblem problem = new SLProblem();
-		for(ACEDocument doc : docList) {
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
-			}
+		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+		
+		for (TextAnnotation ta : docList) {
+			annotator.addView(ta, ViewNames.POS);
 			
-			int i=0;
-			for(AnnotatedText at: doc.taList) {
-				TextAnnotation ta = at.getTa();
+			List<Constituent> posInstances = getPositiveInstances(ta, mdView); 
+			
+			for (Constituent cons: posInstances) {
+				NerInstance x = new NerInstance(cons);
+				NerLabel y = new NerLabel(cons.getLabel());
+				problem.addExample(x, y);
+			}
 				
-				List<Constituent> posInstances = getPositiveInstances(ta, CCM2Constants.NERGold); 
-				for(Constituent cons: posInstances) {
-					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-					NerLabel y = new NerLabel(cons.getLabel());
-					problem.addExample(x, y);
-				}
+			List<Constituent> negInstances = getAllNegativeInstances(ta, mdView); 
+			Collections.shuffle(negInstances);
 				
-				List<Constituent> negInstances = getAllNegativeInstances(ta, CCM2Constants.NERGold); 
-				Collections.shuffle(negInstances);
+			int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
 				
-				int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
-				
-				for(Constituent cons: negInstances.subList(0, negFrac)) {
-					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-					NerLabel y = new NerLabel("NO-ENT");
-					problem.addExample(x, y);
-				}
-				
-				i++;
+			for (Constituent cons: negInstances.subList(0, negFrac)) {
+				NerInstance x = new NerInstance(cons);
+				NerLabel y = new NerLabel("NO-ENT");
+				problem.addExample(x, y);
 			}
 		}
+		
 		return problem;
 	}
 	
-	public static SLProblem getTestSP(List<ACEDocument> docList) throws Exception {
+	public static SLProblem getTestSP(ACEReader docList, String mdView) throws Exception {
 		SLProblem problem = new SLProblem();
-		for(ACEDocument doc : docList) {
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
-			}
+		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+		
+		for (TextAnnotation ta : docList) {
+			annotator.addView(ta, ViewNames.POS);
 			
-			int i=0;
-			for(AnnotatedText at: doc.taList) {
-				TextAnnotation ta = at.getTa();
+			List<Constituent> posInstances = getPositiveInstances(ta, mdView); 
+			
+			for (Constituent cons: posInstances) {
+				NerInstance x = new NerInstance(cons);
+				NerLabel y = new NerLabel(cons.getLabel());
+				problem.addExample(x, y);
+			}
 				
-				List<Constituent> posInstances = getPositiveInstances(ta, CCM2Constants.NERGold); 
-				for(Constituent cons: posInstances) {
-					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-					NerLabel y = new NerLabel(cons.getLabel());
-					problem.addExample(x, y);
-				}
+			List<Constituent> negInstances = getAllNegativeInstances(ta, mdView); 
+			Collections.shuffle(negInstances);
 				
-				List<Constituent> negInstances = getAllNegativeInstances(ta, CCM2Constants.NERGold); 
-				Collections.shuffle(negInstances);
+			int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
 				
-				int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
-				
-				for(Constituent cons: negInstances.subList(0, negFrac)) {
-					NerInstance x = new NerInstance(doc, contentParas.get(i), cons);
-					NerLabel y = new NerLabel("NO-ENT");
-					problem.addExample(x, y);
-				}
-				
-				i++;
+			for (Constituent cons: negInstances.subList(0, negFrac)) {
+				NerInstance x = new NerInstance(cons);
+				NerLabel y = new NerLabel("NO-ENT");
+				problem.addExample(x, y);
 			}
 		}
+		
 		return problem;
 	}
 	
-	public static List<Constituent> getPositiveInstances(TextAnnotation ta, String GoldViewName) {
-		return ta.getView(GoldViewName).getConstituents();
+	public static List<Constituent> getPositiveInstances(TextAnnotation ta, String mdView) throws Exception {
+		LocalTrainedNER.addRequiredViews(ta, mdView);
+		return ta.getView(mdView).getConstituents();
 	}
 	
-	private static List<Constituent> getAllNegativeInstances(TextAnnotation ta, String goldViewName) {
+	private static List<Constituent> getAllNegativeInstances(TextAnnotation ta, String mdView) throws Exception {
 		List<Constituent> negInstances = new ArrayList<>();
-		List<Constituent> posInstances = ta.getView(goldViewName).getConstituents();
+		LocalTrainedNER.addRequiredViews(ta, mdView);
+		List<Constituent> posInstances = ta.getView(mdView).getConstituents();
 		
 		int pointer = 0;
 		for(Constituent cons : posInstances) {

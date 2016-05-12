@@ -14,7 +14,7 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
 import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNERPlugin;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNER_MDPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -25,7 +25,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
 public class IllinoisNERWrapper implements A2WSystem {
 	
 	private String NAME = "Illinois-NER";
-	private IllinoisNERPlugin ner;
+	private IllinoisNER_MDPlugin ner;
 	private boolean isOntonotes = false;
 	
 	public IllinoisNERWrapper() throws IOException {
@@ -33,7 +33,7 @@ public class IllinoisNERWrapper implements A2WSystem {
 	}
 	
 	public IllinoisNERWrapper(boolean useOntonotes) throws IOException {
-		ner = new IllinoisNERPlugin(useOntonotes);
+		ner = new IllinoisNER_MDPlugin(useOntonotes);
 		isOntonotes = useOntonotes;
 		if(isOntonotes)
 			NAME += "_Ontonotes";

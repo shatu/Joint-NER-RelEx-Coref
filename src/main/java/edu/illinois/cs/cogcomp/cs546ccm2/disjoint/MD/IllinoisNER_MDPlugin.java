@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD;
 
 import java.util.List;
 
@@ -13,12 +13,11 @@ import edu.illinois.cs.cogcomp.curator.CuratorFactory;
 //import edu.illinois.cs.cogcomp.nlp.common.PipelineConfigurator;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 
-public class IllinoisNERPlugin extends Annotator {
-//	private IllinoisNerHandler ner;
+public class IllinoisNER_MDPlugin extends Annotator {
 	private AnnotatorService annotator;
 	
 	public static void main(String[] args) throws Exception {
-		IllinoisNERPlugin ner = new IllinoisNERPlugin(CCM2Constants.IllinoisNEROntonotes);
+		IllinoisNER_MDPlugin ner = new IllinoisNER_MDPlugin(CCM2Constants.IllinoisNERConllMD);
 		
 		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
 		ACEReader aceReader = new ACEReader(inDirPath, false);
@@ -39,15 +38,15 @@ public class IllinoisNERPlugin extends Annotator {
 		}
 	}
 	
-	public IllinoisNERPlugin () throws Exception {
-		this(CCM2Constants.IllinoisNERConll);
+	public IllinoisNER_MDPlugin () throws Exception {
+		this(CCM2Constants.IllinoisNERConllMD, new String[]{});
 	}
-
-	public IllinoisNERPlugin(String viewName) throws Exception {
+	
+	public IllinoisNER_MDPlugin (String viewName) throws Exception {
 		this(viewName, new String[]{});
 	}
 	
-	public IllinoisNERPlugin (String viewName, String[] requiredViews) throws Exception {
+	private IllinoisNER_MDPlugin (String viewName, String[] requiredViews) throws Exception {
 		super(viewName, requiredViews);
 		this.annotator = CuratorFactory.buildCuratorClient();
 	}

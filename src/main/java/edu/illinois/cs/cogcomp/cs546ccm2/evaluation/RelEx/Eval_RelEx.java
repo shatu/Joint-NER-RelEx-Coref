@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER;
+package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.RelEx;
 
 import java.util.HashSet;
 import java.util.List;
@@ -16,7 +16,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsReco
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER.SystemPlugins.IllinoisNERWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER.SystemPlugins.LocalTrainedNERWrapper;
 
-public class Eval_NER {
+public class Eval_RelEx {
 	
 	public static void main(String[] args) throws Exception {
 		boolean printMacro = true;
@@ -45,8 +45,7 @@ public class Eval_NER {
 		/******** Annotators *********/
 //		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
 //		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
-//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
-		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.IllinoisChunkerMD, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
+		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
 	
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
 //		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);

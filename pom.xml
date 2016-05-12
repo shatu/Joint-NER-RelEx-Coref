@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <cogcompversion>3.0.39</cogcompversion>
+        <cogcompversion>3.0.40</cogcompversion>
     </properties>
 
     <repositories>
@@ -45,15 +45,27 @@
 	    	<version>4.11</version>
 	    	<scope>test</scope>
 		</dependency>
+	<!-- 		
 		<dependency>
 	    	<groupId>edu.illinois.cs.cogcomp</groupId>
 	    	<artifactId>illinois-nlp-pipeline</artifactId>
-	    	<version>0.1.17</version>
+	    	<version>0.1.21</version>
 		</dependency>
+	-->
 		<dependency>
 	  	 	<groupId>edu.illinois.cs.cogcomp</groupId>
 	   		<artifactId>illinois-edison</artifactId>
 	  		<version>${cogcompversion}</version>
+		</dependency>
+		<dependency>
+			<artifactId>illinois-corpusreaders</artifactId>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<version>${cogcompversion}</version>
+		</dependency>
+		<dependency>
+			<artifactId>illinois-curator</artifactId>
+			<groupId>edu.illinois.cs.cogcomp</groupId>
+			<version>${cogcompversion}</version>
 		</dependency>
     </dependencies>
 

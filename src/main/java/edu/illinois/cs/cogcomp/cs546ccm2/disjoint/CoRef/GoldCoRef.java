@@ -1,32 +1,38 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef;
 
-import java.io.IOException;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.annotation.Annotator;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
+import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 
-public class GoldCoRef implements ACoRef {
+public class GoldCoRef extends Annotator {
 	
-	private String NAME = CCM2Constants.CoRefGold;
+	public GoldCoRef(String viewName) {
+		super(viewName, new String[]{});
+	}
 	
-	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = CCM2Constants.ACE05ProcessedPath;
-		GoldCoRef coref = new GoldCoRef();
-		ACECorpus aceCorpus = new ACECorpus();
-		aceCorpus.initCorpus(inDirPath);
-		ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");
-//		ACEDocument doc = aceCorpus.getDocFromID("CNNHL_ENG_20030526_221156.39");
-		for(AnnotatedText at: doc.taList) {
-			TextAnnotation ta = at.getTa(); 
-			coref.labelText(ta);
-			List<Constituent> annots = ta.getView(CCM2Constants.CoRefGold).getConstituents();
+	private GoldCoRef(String viewName, String[] requiredViews) {
+		super(viewName, requiredViews);
+	}
+
+	public static void main(String[] args) throws Exception {
+		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
+		GoldCoRef coref = new GoldCoRef(CCM2Constants.CoRefGoldExtent);
+		ACEReader aceReader = new ACEReader(inDirPath, false);
+		String docID = "AFP_ENG_20030413.0098.apf.xml";
+		
+		for (TextAnnotation ta: aceReader) {
+			if (ta.getId().contains(docID) == false)
+				continue;
+			
+			coref.addView(ta);
+			List<Constituent> annots = ta.getView(coref.viewName).getConstituents();
+			
 			for(Constituent annot: annots) {
 				if(annot.getIncomingRelations().size() != 0)
 					continue;
@@ -49,19 +55,12 @@ public class GoldCoRef implements ACoRef {
 				}
 			}
 		}
-		
-		
 	}
-	
-	public void labelText(TextAnnotation ta) throws AnnotatorException {
+
+	@Override
+	public void addView(TextAnnotation ta) throws AnnotatorException {
 		/*
 		 * Dummy function -- CoRef view is already a part of the text annotation
 		 */
 	}
-
-	@Override
-	public String getName() {
-		return NAME;
-	}
-
 }

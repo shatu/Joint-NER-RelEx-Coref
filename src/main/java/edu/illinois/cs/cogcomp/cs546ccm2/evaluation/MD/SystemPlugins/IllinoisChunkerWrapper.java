@@ -10,9 +10,6 @@ import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
@@ -26,7 +23,7 @@ public class IllinoisChunkerWrapper implements A2WSystem {
 	private String NAME = "Illinois-Chunker";
 	private IllinoisChunkerPlugin chunker;
 	
-	public IllinoisChunkerWrapper() {
+	public IllinoisChunkerWrapper() throws Exception {
 		chunker = new IllinoisChunkerPlugin();
 	}
 	

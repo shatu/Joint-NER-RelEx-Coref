@@ -9,7 +9,7 @@ import java.util.Set;
 import org.apache.commons.io.FileUtils;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 
 public class Folds {
 	
@@ -42,10 +42,10 @@ public class Folds {
 	}
 	
 
-	public static Pair<List<ACEDocument>, List<ACEDocument>> getDataSplitForAI2(int fold) 
+	public static Pair<List<TextAnnotation>, List<TextAnnotation>> getDataSplitForAI2(int fold) 
 			throws Exception {
-		List<ACEDocument> train = new ArrayList<>();
-		List<ACEDocument> test = new ArrayList<>();
+		List<TextAnnotation> train = new ArrayList<>();
+		List<TextAnnotation> test = new ArrayList<>();
 //		Map<Integer, IntPair> folds = new HashMap<Integer, IntPair>();
 //		folds.put(0, new IntPair(0, 134));
 //		folds.put(1, new IntPair(134, 274));
@@ -61,32 +61,32 @@ public class Folds {
 //		}
 		//List<ACEDocument> probs = Reader.readACEDocumentsFromJson(Params.ai2Dir);
 		//TODO: Load documents using ACECorpus
-		List<ACEDocument> probs = null;
+		List<TextAnnotation> probs = null;
 		
 		String str = FileUtils.readFileToString(new File(Params.ai2Dir+"fold"+fold+".txt"));
 		Set<Integer> foldIndices = new HashSet<>();
 		for(String index : str.split("\n")) {
 			foldIndices.add(Integer.parseInt(index));
 		}
-		for(ACEDocument prob : probs) {
-			if(foldIndices.contains(prob.getDocID())) {
+		for(TextAnnotation prob : probs) {
+			if(foldIndices.contains(prob.getId())) {
 				test.add(prob);
 			} else {
 				train.add(prob);
 			}
 		}
-		return new Pair<List<ACEDocument>, List<ACEDocument>>(train, test);
+		return new Pair<List<TextAnnotation>, List<TextAnnotation>>(train, test);
 	}
 	
-	public static Pair<List<ACEDocument>, List<ACEDocument>> getDataSplitForIL(int fold) 
+	public static Pair<List<TextAnnotation>, List<TextAnnotation>> getDataSplitForIL(int fold) 
 			throws Exception {
-		List<ACEDocument> train = new ArrayList<ACEDocument>();
-		List<ACEDocument> test = new ArrayList<ACEDocument>();
+		List<TextAnnotation> train = new ArrayList<TextAnnotation>();
+		List<TextAnnotation> test = new ArrayList<TextAnnotation>();
 //		List<ACEDocument> probs = Reader.readIllinoisACEDocumentsFromFile(
 //				Params.illinoisMathFile);
 		//List<ACEDocument> probs = Reader.readACEDocumentsFromJson(Params.ilDir);
 		//TODO: Load documents using ACECorpus
-		List<ACEDocument> probs = null;
+		List<TextAnnotation> probs = null;
 		
 		/* From folds file
 		for(int i=0; i<5; ++i) {
@@ -107,20 +107,20 @@ public class Folds {
 		for(String index : str.split("\n")) {
 			foldIndices.add(Integer.parseInt(index));
 		}
-		for(ACEDocument prob : probs) {
-			if(foldIndices.contains(prob.getDocID())) {
+		for(TextAnnotation prob : probs) {
+			if(foldIndices.contains(prob.getId())) {
 				test.add(prob);
 			} else {
 				train.add(prob);
 			}
 		}
-		return new Pair<List<ACEDocument>, List<ACEDocument>>(train, test);
+		return new Pair<List<TextAnnotation>, List<TextAnnotation>>(train, test);
 	}
 	
-	public static Pair<List<ACEDocument>, List<ACEDocument>> getDataSplitForCC(int fold) 
+	public static Pair<List<TextAnnotation>, List<TextAnnotation>> getDataSplitForCC(int fold) 
 			throws Exception {
-		List<ACEDocument> train = new ArrayList<ACEDocument>();
-		List<ACEDocument> test = new ArrayList<ACEDocument>();
+		List<TextAnnotation> train = new ArrayList<TextAnnotation>();
+		List<TextAnnotation> test = new ArrayList<TextAnnotation>();
 //		List<List<ACEDocument>> ACEDocumentList = Reader.readCCACEDocumentsFromDir("data/other/");
 //		for(int i=0; i<6; ++i) {
 //			if(i==fold) {
@@ -132,20 +132,20 @@ public class Folds {
 		
 		//List<ACEDocument> probs = Reader.readACEDocumentsFromJson(Params.ccDir);
 		//TODO: Load documents using ACECorpus
-		List<ACEDocument> probs = null;
+		List<TextAnnotation> probs = null;
 		String str = FileUtils.readFileToString(new File(Params.ccDir+"fold"+fold+".txt"));
 		Set<Integer> foldIndices = new HashSet<>();
 		for(String index : str.split("\n")) {
 			foldIndices.add(Integer.parseInt(index));
 		}
-		for(ACEDocument prob : probs) {
-			if(foldIndices.contains(prob.getDocID())) {
+		for(TextAnnotation prob : probs) {
+			if(foldIndices.contains(prob.getId())) {
 				test.add(prob);
 			} else {
 				train.add(prob);
 			}
 		}
-		return new Pair<List<ACEDocument>, List<ACEDocument>>(train, test);
+		return new Pair<List<TextAnnotation>, List<TextAnnotation>>(train, test);
 	}
 	
 	public static void main(String args[]) throws Exception {

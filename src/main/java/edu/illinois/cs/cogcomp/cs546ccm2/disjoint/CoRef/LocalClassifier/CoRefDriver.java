@@ -14,9 +14,6 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.CoRefChain;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 import edu.illinois.cs.cogcomp.sl.core.SLParameters;
@@ -71,8 +68,8 @@ public class CoRefDriver {
 	@SuppressWarnings("unchecked")
 	@CommandDescription(description = "Params : SplitDirPath, train (true/false)")
 	public static void doTrainTest(String splitDirPath, String isTrain) throws Exception {
-		List<ACEDocument> trainDocs;
-		List<ACEDocument> testDocs;
+		List<TextAnnotation> trainDocs;
+		List<TextAnnotation> testDocs;
 		
 		File docsDir = new File(splitDirPath, "docs");
 		File modelsDir = new File(splitDirPath, "CoRefModels");
@@ -86,13 +83,13 @@ public class CoRefDriver {
 		File trainDir = new File(docsDir, "Train");
 		File trainFile = new File(trainDir, "ACE_Train.obj");
 		ObjectInputStream istream = new ObjectInputStream(new FileInputStream(trainFile));
-		trainDocs = (List<ACEDocument>) istream.readObject();
+		trainDocs = (List<TextAnnotation>) istream.readObject();
 		istream.close();
 		
 		File testDir = new File(docsDir, "Test");
 		File testFile = new File(testDir, "ACE_Test.obj");
 		istream = new ObjectInputStream(new FileInputStream(testFile));
-		testDocs = (List<ACEDocument>) istream.readObject();
+		testDocs = (List<TextAnnotation>) istream.readObject();
 		istream.close();
 
 		SLProblem train = getTrainSP(trainDocs);
@@ -106,77 +103,51 @@ public class CoRefDriver {
 		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
 	}
 	
-	public static SLProblem getTrainSP(List<ACEDocument> docList) throws Exception {
+	public static SLProblem getTrainSP(List<TextAnnotation> docList) throws Exception {
 		SLProblem problem = new SLProblem();
-		for(ACEDocument doc : docList) {
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
-			}
-			
-			int i=0;
-			for(AnnotatedText at: doc.taList) {
-				TextAnnotation ta = at.getTa();
-	
-				List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, CCM2Constants.CoRefGold);
+		for (TextAnnotation ta : docList) {
+			List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, CCM2Constants.CoRefGoldExtent);
 				
-				for(int j=0; j<chains.size(); j++) {
-					List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
-					for(Pair<Constituent, Constituent> pair : posInstances) {
-						CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
-						CoRefLabel y = new CoRefLabel("TRUE");
-						problem.addExample(x, y);
-					}
-				}
-				
-				for(Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
-					CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
-					CoRefLabel y = new CoRefLabel("FALSE");
+			for (int j=0; j<chains.size(); j++) {
+				List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
+				for (Pair<Constituent, Constituent> pair : posInstances) {
+					CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+					CoRefLabel y = new CoRefLabel("TRUE");
 					problem.addExample(x, y);
 				}
-		
-				i++;
+			}
+				
+			for (Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
+				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+				CoRefLabel y = new CoRefLabel("FALSE");
+				problem.addExample(x, y);
 			}
 		}
+		
 		return problem;
 	}
 
-	public static SLProblem getTestSP(List<ACEDocument> docList) throws Exception {
+	public static SLProblem getTestSP(List<TextAnnotation> docList) throws Exception {
 		SLProblem problem = new SLProblem();
-		for(ACEDocument doc : docList) {
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
-			}
-			
-			int i=0;
-			for(AnnotatedText at: doc.taList) {
-				TextAnnotation ta = at.getTa();
-	
-				List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, CCM2Constants.CoRefGold);
+		for (TextAnnotation ta : docList) {
+			List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, CCM2Constants.CoRefGoldExtent);
 				
-				for(int j=0; j<chains.size(); j++) {
-					List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
-					for(Pair<Constituent, Constituent> pair : posInstances) {
-						CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
-						CoRefLabel y = new CoRefLabel("TRUE");
-						problem.addExample(x, y);
-					}
-				}
-				
-				for(Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
-					CoRefInstance x = new CoRefInstance(doc, contentParas.get(i), pair.getFirst(), pair.getSecond());
-					CoRefLabel y = new CoRefLabel("FALSE");
+			for (int j=0; j<chains.size(); j++) {
+				List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
+				for (Pair<Constituent, Constituent> pair : posInstances) {
+					CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+					CoRefLabel y = new CoRefLabel("TRUE");
 					problem.addExample(x, y);
 				}
-		
-				i++;
+			}
+				
+			for (Pair<Constituent, Constituent> pair : getSequentialNegativeInstances(chains)) {
+				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+				CoRefLabel y = new CoRefLabel("FALSE");
+				problem.addExample(x, y);
 			}
 		}
+		
 		return problem;
 	}
 	

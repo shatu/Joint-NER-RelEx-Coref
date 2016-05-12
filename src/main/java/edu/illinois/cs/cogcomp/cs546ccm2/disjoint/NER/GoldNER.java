@@ -1,45 +1,47 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER;
 
-import java.io.IOException;
 import java.util.List;
 
+import edu.illinois.cs.cogcomp.annotation.Annotator;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
+import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 
-public class GoldNER implements ANER{
+public class GoldNER extends Annotator {
 	
-	private String NAME = CCM2Constants.NERGold;
+	public GoldNER(String viewName) {
+		this(viewName, new String[]{});
+	}
 	
-	public static void main(String[] args) throws AnnotatorException, IOException {
-		String inDirPath = CCM2Constants.ACE05ProcessedPath;
-		GoldNER ner = new GoldNER();
-		ACECorpus aceCorpus = new ACECorpus();
-		aceCorpus.initCorpus(inDirPath);
-		//ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");
-		ACEDocument doc = aceCorpus.getDocFromID("CNNHL_ENG_20030526_221156.39");
-		for(AnnotatedText ta: doc.taList) {
-			ner.labelText(ta.getTa());
-			List<Constituent> annots = ta.getTa().getView(ner.getName()).getConstituents();
-			for(Constituent annot: annots) {
-					System.out.println(annot.toString() + "-->" + annot.getLabel());
+	private GoldNER(String viewName, String[] requiredViews) {
+		super(viewName, requiredViews);
+	}
+	
+	public static void main(String[] args) throws Exception {
+		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
+		GoldNER ner = new GoldNER(CCM2Constants.NERGoldExtent);
+		ACEReader aceReader = new ACEReader(inDirPath, false);
+		
+		String docID = "AFP_ENG_20030413.0098.apf.xml";
+		for (TextAnnotation ta: aceReader) {
+			if (ta.getId().contains(docID) == false)
+				continue;
+			System.out.println(ta.getId());
+			ner.addView(ta);
+			List<Constituent> annots = ta.getView(ner.viewName).getConstituents();
+			for (Constituent annot: annots) {
+				System.out.println(annot.toString() + "-->" + annot.getLabel());
 			}
 		}
 	}
-	
-	public void labelText(TextAnnotation ta) throws AnnotatorException {
-		/*
-		 * Dummy function -- NER view is already a part of the text annotation
-		 */
-	}
 
 	@Override
-	public String getName() {
-		return NAME;
+	public void addView(TextAnnotation ta) throws AnnotatorException {
+		/*
+		 * Gold NER view has already been added
+		 */
 	}
 
 }

@@ -1,4 +1,4 @@
-package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER;
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD;
 
 import java.util.List;
 
@@ -15,18 +15,18 @@ import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
  * author Shashank
  */
 
-public class StanfordNER extends Annotator {
+public class StanfordNER_MDPlugin extends Annotator {
 	
-	public StanfordNER(String viewName) {
+	public StanfordNER_MDPlugin(String viewName) {
 		this(viewName, new String[]{});
 	}
 	
-	private StanfordNER(String viewName, String[] requiredViews) {
+	private StanfordNER_MDPlugin(String viewName, String[] requiredViews) {
 		super(viewName, requiredViews);
 	}
 	
 	public static void main(String[] args) throws Exception {
-		StanfordNER ner = new StanfordNER(CCM2Constants.StanfordNERView);
+		StanfordNER_MDPlugin ner = new StanfordNER_MDPlugin(CCM2Constants.StanfordMDView);
 		
 		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
 		ACEReader aceReader = new ACEReader(inDirPath, false);
