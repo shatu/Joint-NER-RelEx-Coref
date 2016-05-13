@@ -5,6 +5,7 @@ import java.util.List;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.PredicateArgumentView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 
@@ -40,16 +41,16 @@ public class RelationList<T> extends ArrayList<T> {
 	
 	public static List<RelationList<Constituent>> getRelationListFromRelExView(TextAnnotation ta, String viewName) {
 		List<RelationList<Constituent>> relList = new ArrayList<>();
-		List<Constituent> docAnnots = ta.getView(viewName).getConstituents();
+		List<Constituent> docAnnots = ((PredicateArgumentView)ta.getView(viewName)).getPredicates();
 		
 		for(Constituent cons: docAnnots) {
-			if(cons.getIncomingRelations().size() != 0)
+			if (cons.getIncomingRelations().size() != 0)
 				continue;
 			
 			RelationList<Constituent> newRelList = new RelationList<>(cons);
 			
-			if(cons.getOutgoingRelations().size() > 0) {
-				for(Relation rel : cons.getOutgoingRelations()) {
+			if (cons.getOutgoingRelations().size() > 0) {
+				for (Relation rel : cons.getOutgoingRelations()) {
 					newRelList.add(rel.getTarget());
 				}
 			}

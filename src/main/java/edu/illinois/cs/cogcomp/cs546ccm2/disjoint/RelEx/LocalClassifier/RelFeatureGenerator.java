@@ -42,33 +42,33 @@ public class RelFeatureGenerator extends AbstractFeatureGenerator implements Ser
 		features.addAll(getContextBagBigramFeatures(inst, 5));
 		features.addAll(getPOSContextBagUnigramFeatures(inst, 5));
 		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
-		features.addAll(getSameSentenceFeature(inst));
-		features.addAll(getSubStringFeature(inst));
-		features.addAll(getOverlappingFeature(inst));
-		features.addAll(getDistanceFeature(inst, 5));
+//		features.addAll(getSameSentenceFeature(inst));
+//		features.addAll(getSubStringFeature(inst));
+//		features.addAll(getOverlappingFeature(inst));
+//		features.addAll(getDistanceFeature(inst, 5));
 		
-		features.addAll(getEntityTypeFeatures(inst));
+//		features.addAll(getEntityTypeFeatures(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
 		
-		features.addAll(FeatGenTools.getConjunctionsWithPairs(getEntityTypeFeatures(inst), getEntityTypeFeatures(inst)));
+//		features.addAll(FeatGenTools.getConjunctionsWithPairs(getEntityTypeFeatures(inst), getEntityTypeFeatures(inst)));
 		
 		//FeatureTransformation for a Multi-class setting here
-		for(Pair<String, Double> feature : features) {
+		for (Pair<String, Double> feature : features) {
 			featuresWithPrefix.add(new Pair<String, Double>(prefix + "_" + feature.getFirst(), feature.getSecond()));
 		}
 		
 		return FeatGenTools.getFeatureVectorFromListPair(featuresWithPrefix, lm);
 	}
 	
-	public List<Pair<String, Double>> getEntityTypeFeatures(RelInstance x) {
-		List<Pair<String, Double>> feats = new ArrayList<>();
-		
-		feats.add(new Pair<String, Double>("SourceType_" + x.mSource.getLabel(), 1.0));
-		feats.add(new Pair<String, Double>("TargetType_" + x.mTarget.getLabel(), 1.0));
-		
-		return feats;
-	}
+//	public List<Pair<String, Double>> getEntityTypeFeatures(RelInstance x) {
+//		List<Pair<String, Double>> feats = new ArrayList<>();
+//		
+//		feats.add(new Pair<String, Double>("SourceType_" + x.mSource.getLabel(), 1.0));
+//		feats.add(new Pair<String, Double>("TargetType_" + x.mTarget.getLabel(), 1.0));
+//		
+//		return feats;
+//	}
 	
 	public List<Pair<String, Double>> getPOSContextBagUnigramFeatures(RelInstance x, int window) {
 		List<Pair<String, Double>> feats = new ArrayList<>();

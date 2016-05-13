@@ -1,22 +1,28 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier;
 
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.ObjectInputStream;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 
+import edu.illinois.cs.cogcomp.annotation.AnnotatorService;
+import edu.illinois.cs.cogcomp.core.datastructures.IQueryable;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.core.datastructures.QueryableList;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.PredicateArgumentView;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Queries;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.RelationList;
+import edu.illinois.cs.cogcomp.curator.CuratorFactory;
+import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 import edu.illinois.cs.cogcomp.sl.core.SLParameters;
 import edu.illinois.cs.cogcomp.sl.core.SLProblem;
@@ -67,51 +73,47 @@ public class RelExDriver {
 //		return testModel(prefix+testFold+".save", test);
 //	}
 	
-	@SuppressWarnings("unchecked")
-	@CommandDescription(description = "Params : SplitDirPath, train (true/false)")
-	public static void doTrainTest(String splitDirPath, String isTrain) throws Exception {
-		List<TextAnnotation> trainDocs;
-		List<TextAnnotation> testDocs;
+	@CommandDescription(description = "Params : train (true/false)")
+	public static void doTrainTest(String isTrain) throws Exception {
+		File modelsDir = new File(CCM2Constants.ACE05RelExModelPath);
 		
-		File docsDir = new File(splitDirPath, "docs");
-		File modelsDir = new File(splitDirPath, "RelExModels");
+		ACEReader trainReader;
+		ACEReader testReader;
 		
-		if(!modelsDir.exists()) {
-			modelsDir.mkdir();
+		if (!modelsDir.exists()) {
+			modelsDir.mkdirs();
 		}
 		
-		String modelPrefix = "GoldMentions";
+		String modelPrefix = CCM2Constants.MDGoldExtent;
 		
-		File trainDir = new File(docsDir, "Train");
-		File trainFile = new File(trainDir, "ACE_Train.obj");
-		ObjectInputStream istream = new ObjectInputStream(new FileInputStream(trainFile));
-		trainDocs = (List<TextAnnotation>) istream.readObject();
-		istream.close();
+		String trainDir = CCM2Constants.ACE05TrainCorpusPath;
+		String testDir = CCM2Constants.ACE05TestCorpusPath;
 		
-		File testDir = new File(docsDir, "Test");
-		File testFile = new File(testDir, "ACE_Test.obj");
-		istream = new ObjectInputStream(new FileInputStream(testFile));
-		testDocs = (List<TextAnnotation>) istream.readObject();
-		istream.close();
+		trainReader = new ACEReader(trainDir, false);
+		testReader = new ACEReader(testDir, false);
 
-		SLProblem train = getTrainSP(trainDocs);
-		SLProblem test = getTestSP(testDocs);
+		SLProblem train = getTrainSP(trainReader, CCM2Constants.RelExGoldExtent, CCM2Constants.MDGoldExtent);
+		SLProblem test = getTestSP(testReader, CCM2Constants.RelExGoldExtent, CCM2Constants.MDGoldExtent);
 		
-		if(isTrain.equalsIgnoreCase("true")) {
-			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
+		if (isTrain.equalsIgnoreCase("true")) {
+			trainModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", train);
 		}
 		
-		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", train);
-		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".save", test);
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", train);
+		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", test);
 	}
 	
-	public static SLProblem getTrainSP(List<TextAnnotation> docList) throws Exception {
+	public static SLProblem getTrainSP(ACEReader docList, String relationViewName, String mentionViewName) throws Exception {
 		SLProblem problem = new SLProblem();
+		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+		
 		for (TextAnnotation ta : docList) {
-			List<Constituent> docAnnots = ta.getView(CCM2Constants.RelExGoldExtent).getConstituents();
+			annotator.addView(ta, ViewNames.POS);
+			
+			List<Constituent> docAnnots = ((PredicateArgumentView)ta.getView(relationViewName)).getPredicates();
 			
 			for (Constituent cons: docAnnots) {
-				if(cons.getOutgoingRelations().size() > 0) {
+				if (cons.getOutgoingRelations().size() > 0) {
 					for (Relation rel : cons.getOutgoingRelations()) {
 						RelInstance x = new RelInstance(cons, rel.getTarget());
 						RelLabel y = new RelLabel(rel.getRelationName());
@@ -120,15 +122,9 @@ public class RelExDriver {
 				}
 			}
 				
-			List<RelationList<Constituent>> relList = RelationList.getRelationListFromRelExView(ta, CCM2Constants.RelExGoldExtent);
+			List<Pair<Constituent, Constituent>> negInstances = sampleNegativeInstances(ta, relationViewName, mentionViewName);
 				
-			List<Pair<Constituent, Constituent>> negInstances = getAllNegativeInstances(relList);
-				
-			Collections.shuffle(negInstances);
-				
-			int negFrac = (int) (negInstances.size()*CCM2Constants.RelExNegSamplingFrac);
-				
-			for (Pair<Constituent, Constituent> pair : negInstances.subList(0, negFrac)) {
+			for (Pair<Constituent, Constituent> pair : negInstances) {
 				RelInstance x = new RelInstance(pair.getFirst(), pair.getSecond());
 				RelLabel y = new RelLabel("NO-REL");
 				problem.addExample(x, y);
@@ -138,13 +134,18 @@ public class RelExDriver {
 		return problem;
 	}
 	
-	public static SLProblem getTestSP(List<TextAnnotation> docList) throws Exception {
+	public static SLProblem getTestSP(ACEReader docList, String relationViewName, String mentionViewName) throws Exception {
 		SLProblem problem = new SLProblem();
+		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+		
 		for (TextAnnotation ta : docList) {
-			List<Constituent> docAnnots = ta.getView(CCM2Constants.RelExGoldExtent).getConstituents();
+			annotator.addView(ta, ViewNames.POS);
+			
+			List<Constituent> docAnnots = ((PredicateArgumentView)ta.getView(relationViewName)).getPredicates();
+			
 			for (Constituent cons: docAnnots) {
 				if (cons.getOutgoingRelations().size() > 0) {
-					for(Relation rel : cons.getOutgoingRelations()) {
+					for (Relation rel : cons.getOutgoingRelations()) {
 						RelInstance x = new RelInstance(cons, rel.getTarget());
 						RelLabel y = new RelLabel(rel.getRelationName());
 						problem.addExample(x, y);
@@ -152,15 +153,9 @@ public class RelExDriver {
 				}
 			}
 				
-			List<RelationList<Constituent>> relList = RelationList.getRelationListFromRelExView(ta, CCM2Constants.RelExGoldExtent);
+			List<Pair<Constituent, Constituent>> negInstances = sampleNegativeInstances(ta, relationViewName, mentionViewName);
 				
-			List<Pair<Constituent, Constituent>> negInstances = getAllNegativeInstances(relList);
-				
-			Collections.shuffle(negInstances);
-				
-			int negFrac = (int) (negInstances.size()*CCM2Constants.RelExNegSamplingFrac);
-				
-			for (Pair<Constituent, Constituent> pair : negInstances.subList(0, negFrac)) {
+			for (Pair<Constituent, Constituent> pair : negInstances) {
 				RelInstance x = new RelInstance(pair.getFirst(), pair.getSecond());
 				RelLabel y = new RelLabel("NO-REL");
 				problem.addExample(x, y);
@@ -170,23 +165,71 @@ public class RelExDriver {
 		return problem;
 	}
 	
-	public static List<Pair<Constituent, Constituent>> getAllNegativeInstances(List<RelationList<Constituent>> relList) {
-		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
-		negInstance.addAll(RelationList.getAllConjunctions(relList));
-		return negInstance;
+	public static List<Pair<Constituent, Constituent>> sampleNegativeInstances (TextAnnotation ta, String relationViewName, String mentionViewName) {
+        Random rand = new Random();
+
+        PredicateArgumentView relationView = (PredicateArgumentView) ta.getView(relationViewName);
+
+        int numOfRelation = relationView.getPredicates().size();
+        int toSample = (int) (numOfRelation * CCM2Constants.RelExNegSamplingRatio);
+
+        List<Pair<Constituent, Constituent>> sampledRelations = new ArrayList<>(toSample);
+        SpanLabelView mentionView = (SpanLabelView) ta.getView(mentionViewName);
+
+        int addedEntities = 0;
+        int attempts = 2;
+        int numEntities = mentionView.getNumberOfConstituents();
+
+        IQueryable<Constituent> predicates = new QueryableList<>(relationView.getPredicates());
+
+        while (addedEntities < toSample && attempts > 0) {
+            int firstEntity = rand.nextInt(numEntities);
+            int secondEntity = rand.nextInt(numEntities);
+
+            attempts--;
+            
+            if (firstEntity == secondEntity) {
+                continue;
+            }
+
+            Constituent firstItem = mentionView.getConstituents().get(firstEntity);
+            Constituent secondItem = mentionView.getConstituents().get(secondEntity);
+
+            boolean hasRelation = false;
+            IQueryable<Constituent> matchPredicateResult = predicates.where(Queries.sameSpanAsConstituent(firstItem));
+            
+            if (matchPredicateResult.count() > 0) {
+                for (Constituent pred : matchPredicateResult) {
+                    if (pred.getStartSpan() == secondItem.getStartSpan() && pred.getEndSpan() == secondItem.getEndSpan()) {
+                        hasRelation = true;
+                        break;
+                    }
+                }
+            }
+
+            if (!hasRelation) {
+                sampledRelations.add(new Pair<>(firstItem, secondItem));
+                addedEntities++;
+                attempts = 2;
+            }
+         }
+
+        return sampledRelations;
 	}
 	
-	public static void testModel(String modelPath, SLProblem sp) throws Exception {
+	public static void testModel (String modelPath, SLProblem sp) throws Exception {
 		SLModel model = SLModel.loadModel(modelPath);
 		int total = sp.instanceList.size();
 		double correct = 0;
+		
 		for (int i = 0; i < sp.instanceList.size(); i++) {
 			RelInstance prob = (RelInstance) sp.instanceList.get(i);
 			RelLabel gold = (RelLabel) sp.goldStructureList.get(i);
 			RelLabel pred = (RelLabel) model.infSolver.getBestStructure(model.wv, prob);
-			if(RelLabel.getLoss(gold, pred) < 0.0001) {
+			if (RelLabel.getLoss(gold, pred) < 0.0001) {
 				correct++;
-			} else {
+			} 
+			else {
 //				incorrect++;
 //				System.out.println(prob.doc.getDocID());
 //				System.out.println();
@@ -222,7 +265,8 @@ public class RelExDriver {
 	public static Map<String, Double> getLabelsWithScores(RelInstance inst, SLModel model) {
 		List<String> labels = CCM2Constants.RelationTypesFull;
 		Map<String, Double> labelsWithScores = new HashMap<String, Double>();
-		for(String label : labels) {
+		
+		for (String label : labels) {
 			labelsWithScores.put(label, 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(inst, new RelLabel(label))));
 		}
 		
@@ -233,7 +277,8 @@ public class RelExDriver {
 		InteractiveShell<RelExDriver> tester = new InteractiveShell<RelExDriver>(RelExDriver.class);
 		if (args.length == 0) {
 			tester.showDocumentation();
-		} else {
+		} 
+		else {
 			tester.runCommand(args);
 		}
 	}

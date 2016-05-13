@@ -8,6 +8,8 @@ import java.util.List;
 
 import edu.illinois.cs.cogcomp.annotation.Annotator;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.annotation.AnnotatorService;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
@@ -18,6 +20,7 @@ import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNER_MDPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.NerInstance;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalClassifier.NerLabel;
+import edu.illinois.cs.cogcomp.curator.CuratorFactory;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
 
@@ -34,7 +37,7 @@ public class LocalTrainedNER extends Annotator {
 	 */
 	public static void main(String[] args) throws Exception {
 		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
-		LocalTrainedNER ner = new LocalTrainedNER(CCM2Constants.LocalTrainedNER_GoldMDView, new String[]{CCM2Constants.MDGoldExtent});
+		LocalTrainedNER ner = new LocalTrainedNER(CCM2Constants.LocalTrainedNER_GoldMDView, new String[]{ViewNames.POS, CCM2Constants.MDGoldExtent});
 		ACEReader aceReader = new ACEReader(inDirPath, false);
 		String docID = "AFP_ENG_20030413.0098.apf.xml";
 		
@@ -55,7 +58,7 @@ public class LocalTrainedNER extends Annotator {
 	
 	public LocalTrainedNER(String viewName, String[] requiredViews) throws ClassNotFoundException, IOException {
 		super(viewName, requiredViews);
-		String modelPath = CCM2Constants.ACE05NerModelPath + "/" + requiredViews[0] + ".model"; 
+		String modelPath = CCM2Constants.ACE05NerModelPath + "/" + requiredViews[1] + ".model"; 
 		model = SLModel.loadModel(modelPath);
 		
 	}
@@ -63,16 +66,17 @@ public class LocalTrainedNER extends Annotator {
 	@Override
 	public void addView(TextAnnotation ta) throws AnnotatorException {
 		try {
-			addRequiredViews(ta, requiredViews[0]);
+			addRequiredViews(ta, requiredViews[1]);
 			
-			List<Constituent> docAnnots = ta.getView(requiredViews[0]).getConstituents();
+			List<Constituent> docAnnots = ta.getView(requiredViews[1]).getConstituents();
 			SpanLabelView view = new SpanLabelView(viewName, this.getClass().getName(), ta, 1d, true);
 			
 			for (Constituent cons: docAnnots) {
 				NerInstance x = new NerInstance(cons);
 				NerLabel y = (NerLabel) model.infSolver.getBestStructure(model.wv, x);
 				double score = 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(x, y));
-				view.addSpanLabel(cons.getSpan().getFirst(), cons.getSpan().getSecond(), y.type, score);
+				if (y.type.equalsIgnoreCase("NO-ENT") == false)
+					view.addSpanLabel(cons.getSpan().getFirst(), cons.getSpan().getSecond(), y.type, score);
 			}
 			
 			ta.addView(viewName, view);
@@ -83,6 +87,14 @@ public class LocalTrainedNER extends Annotator {
 	}
 	
 	public static void addRequiredViews(TextAnnotation ta, String mdView) throws Exception {
+		if (ta.hasView(ViewNames.POS) == false) {
+			AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+			annotator.addView(ta, ViewNames.POS);
+		}
+		
+		if (mdView == null)
+			return;
+		
 		if (ta.hasView(mdView) == false) {
 			if (mdView.equalsIgnoreCase(CCM2Constants.MDGoldExtent)) {
 				GoldMD goldMD = new GoldMD(CCM2Constants.MDGoldExtent);

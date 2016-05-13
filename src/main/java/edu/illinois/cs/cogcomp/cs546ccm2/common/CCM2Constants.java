@@ -38,9 +38,10 @@ public class CCM2Constants {
     		
     public static String RelExGoldExtent = ViewNames.RELATION_ACE_COARSE_EXTENT;
     public static String RelExGoldHead = ViewNames.RELATION_ACE_COARSE_HEAD;
-    public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
-    public static List<String> RelationTypesFull = Arrays.asList("NO-REL", "PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE");
-    public static final double RelExNegSamplingFrac = 0.08d;
+    public static String LocalTrainedRelEx_GoldMDView = "LocalTrainedRelEx_GoldMD";
+    public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE", "METONYMY");
+    public static List<String> RelationTypesFull = Arrays.asList("NO-REL", "PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE", "METONYMY");
+    public static final double RelExNegSamplingRatio = 5.0d;
     
     public static String ACE_Gold = "ACE_Gold";
     

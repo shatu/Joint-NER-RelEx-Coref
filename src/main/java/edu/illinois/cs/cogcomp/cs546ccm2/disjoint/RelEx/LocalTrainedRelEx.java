@@ -1,139 +1,162 @@
-///**
-// * 
-// */
-//package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx;
-//
-//import java.io.IOException;
-//import java.util.ArrayList;
-//import java.util.List;
-//
-//import org.apache.commons.lang.NotImplementedException;
-//
-//import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
-//import edu.illinois.cs.cogcomp.core.datastructures.Pair;
-//import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-//import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
-//import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
-//import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
-//import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-//import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-//import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-//import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
-//import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ace2005.ACECorpus;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.AMentionDetector;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.GoldMD;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNERPlugin;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier.RelInstance;
-//import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier.RelLabel;
-//import edu.illinois.cs.cogcomp.sl.core.SLModel;
-//
-///**
-// * @author shashank
-// *
-// */
-//public class LocalTrainedRelEx implements ARelEx {
-//
-//	//TODO: Assign an appropriate name according to the method used
-//	private String NAME;
-//	private AMentionDetector md;
-//	private SLModel model;
-//	
-//	/**
-//	 * @param args
-//	 * @throws Exception 
-//	 */
-//	public static void main(String[] args) throws Exception {
-//		String inDirPath = CCM2Constants.ACE05ProcessedPath;
-//		LocalTrainedRelEx relEx = new LocalTrainedRelEx(CCM2Constants.NERGold, CCM2Constants.ACE05RelExModelPath + "/GoldMentions.save");
-//		ACECorpus aceCorpus = new ACECorpus();
-//		aceCorpus.initCorpus(inDirPath);
-//		//ACEDocument doc = aceCorpus.getDocFromID("AFP_ENG_20030304.0250");
-//		ACEDocument doc = aceCorpus.getDocFromID("CNNHL_ENG_20030526_221156.39");
-//		List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-//		List<Paragraph> contentParas = new ArrayList<>();
-//		for(Pair<String, Paragraph> pair: paragraphs) {
-//			if(pair.getFirst().equals("text"))
-//				contentParas.add(pair.getSecond());
-//		}
-//		
-//		int i=0;
-//		for(AnnotatedText ta: doc.taList) {
-//			relEx.labelText(doc, contentParas.get(i), ta.getTa());
-//			List<Constituent> annots = ta.getTa().getView(relEx.getName()).getConstituents();
-//			for(Constituent annot: annots) {
-//				System.out.println(annot.toString() + "-->" + annot.getLabel() + "-->" + (annot.getStartCharOffset() + contentParas.get(i).offsetFilterTags) 
-//						+ "-->" + (annot.getEndCharOffset() + contentParas.get(i).offsetFilterTags));
-//			}
-//			i++;
-//		}
-//	}
-//	
-//	/**
-//	 * @param nerView (NERGold/IllinoisNEROntonotes/IllinoisNERConll/NER_GoldMD/NER_IllinoisChunker/NER_IllinoisNEROntonotes/NER_IllinoisNERConll) 
-//	 * @throws IOException
-//	 * @throws ClassNotFoundException 
-//	 */
-//	public LocalTrainedRelEx(String nerView, String modelPath) throws IOException, ClassNotFoundException {
-//		if(mentionView.equalsIgnoreCase("MDGold")) {
-//			this.md = new GoldMD();
-//			this.NAME = "RelEx_" + md.getName();
-//		}
-//		else if(mentionView.equalsIgnoreCase("IllinoisChunker")) {
-//			this.md = new IllinoisChunkerPlugin();
-//			this.NAME = "RelEx_" + md.getName();
-//		}
-//		else if(mentionView.equalsIgnoreCase("IllinoisNEROntonotes")) {
-//			this.md = new IllinoisNERPlugin(true);
-//			this.NAME = "RelEx_" + md.getName();
-//		}
-//		else if(mentionView.equalsIgnoreCase("IllinoisNERConll")) {
-//			this.md = new IllinoisNERPlugin();
-//			this.NAME = "RelEx_" + md.getName();
-//		}
-//		else
-//			throw new IllegalArgumentException("MentionView " + mentionView + " not supported");
-//		
-//		model = SLModel.loadModel(modelPath);
-//	}
-//	
-//	public LocalTrainedRelEx(AMentionDetector md, String modelPath) throws ClassNotFoundException, IOException {
-//		this.md = md;
-//		this.NAME = "RelEx_" + md.getName();
-//		model = SLModel.loadModel(modelPath);
-//	}
-//	
-//	//TODO: Check this thoroughly!!
-//	public void labelText(ACEDocument doc, Paragraph p, TextAnnotation ta) throws Exception {
-//		md.labelText(ta);
-//		List<Constituent> docAnnots = ta.getView(md.getName()).getConstituents();
-//		SpanLabelView view = new SpanLabelView(getName(), this.getClass().getName(), ta, 1d, true);
-//		
-//		for(int i=0; i<docAnnots.size(); i++) {
-//			for(int j = i+1; j< docAnnots.size(); j++) {
-//				
-//				
-//				
-//				for(Constituent cons: docAnnots) {
-//					RelInstance x = new RelInstance(doc, p, cons);
-//					RelLabel y = (RelLabel) model.infSolver.getBestStructure(model.wv, x);
-//					double score = 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(x, y));
-//					view.addSpanLabel(cons.getSpan().getFirst(), cons.getSpan().getSecond(), y.type, score);
-//				}
-//			}
-//		}
-//		
-//		ta.addView(getName(), view);
-//	}
-//
-//	@Override
-//	public String getName() {
-//		return NAME;
-//	}
-//
-//	@Override
-//	public void labelText(TextAnnotation ta) throws AnnotatorException {
-//		throw new NotImplementedException();
-//	}
-//
-//}
+package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+import edu.illinois.cs.cogcomp.annotation.Annotator;
+import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
+import edu.illinois.cs.cogcomp.annotation.AnnotatorService;
+import edu.illinois.cs.cogcomp.core.datastructures.IQueryable;
+import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.core.datastructures.QueryableList;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.PredicateArgumentView;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Queries;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.FakeRetrainedChunkerPlugin;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.GoldMD;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisNER_MDPlugin;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier.RelInstance;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalClassifier.RelLabel;
+import edu.illinois.cs.cogcomp.curator.CuratorFactory;
+import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
+import edu.illinois.cs.cogcomp.sl.core.SLModel;
+
+/**
+ * @author shashank
+ *
+ */
+public class LocalTrainedRelEx extends Annotator {
+	private SLModel model;
+	
+	/**
+	 * @param args
+	 * @throws Exception 
+	 */
+	public static void main(String[] args) throws Exception {
+		String inDirPath = CCM2Constants.ACE05TrainCorpusPath;
+		LocalTrainedRelEx relEx = new LocalTrainedRelEx(CCM2Constants.LocalTrainedRelEx_GoldMDView, new String[]{ViewNames.POS, CCM2Constants.MDGoldExtent});
+		ACEReader aceReader = new ACEReader(inDirPath, false);
+		String docID = "AFP_ENG_20030413.0098.apf.xml";
+		
+		for (TextAnnotation ta: aceReader) {
+			if (ta.getId().contains(docID) == false)
+				continue;
+			
+			System.out.println(ta.getId());
+			relEx.addView(ta);
+			List<Constituent> annots = ((PredicateArgumentView)ta.getView(relEx.viewName)).getPredicates();
+			for (Constituent annot: annots) {
+				if (annot.getOutgoingRelations().size() > 0) {
+					System.out.println(annot.getOutgoingRelations().size());
+					
+					for (Relation rel : annot.getOutgoingRelations()) {
+						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getTarget());
+					}
+				}
+			}
+		}
+	}
+	
+	public LocalTrainedRelEx(String viewName, String[] requiredViews) throws ClassNotFoundException, IOException {
+		super(viewName, requiredViews);
+		String modelPath = CCM2Constants.ACE05RelExModelPath + "/" + requiredViews[1] + ".model"; 
+		model = SLModel.loadModel(modelPath);
+		
+	}
+
+	@Override
+	public void addView(TextAnnotation ta) throws AnnotatorException {
+		try {
+			addRequiredViews(ta, requiredViews[1]);
+		} catch (Exception e1) {
+			e1.printStackTrace();
+			System.exit(-1);
+		}
+		
+        SpanLabelView mentionView = (SpanLabelView) ta.getView(requiredViews[1]);
+        SpanLabelView sentenceView = (SpanLabelView) ta.getView(ViewNames.SENTENCE);
+
+        IQueryable<Constituent> allMentions = new QueryableList<>(mentionView.getConstituents());
+
+        ArrayList<Pair<Constituent, Constituent>> predictionProbs = new ArrayList<>();
+        
+        for (Constituent sentence : sentenceView.getConstituents()) {
+            IQueryable<Constituent> mentionsInSentence = allMentions.where(Queries.containedInConstituent(sentence));
+
+            for (Constituent firstEntity : mentionsInSentence) {
+                for (Constituent secondEntity : mentionsInSentence) {
+                    if (firstEntity != secondEntity) {
+                        predictionProbs.add(new Pair<>(firstEntity, secondEntity));
+                    }
+                }
+            }
+        }
+
+        PredicateArgumentView relationView = new PredicateArgumentView(this.viewName, ta);
+        
+        for (Pair<Constituent, Constituent> instance : predictionProbs) {
+        	RelInstance x = new RelInstance(instance.getFirst(), instance.getSecond());
+        	RelLabel y;
+			try {
+				y = (RelLabel) model.infSolver.getBestStructure(model.wv, x);
+				double score = 1.0 * model.wv.dotProduct(model.featureGenerator.getFeatureVector(x, y));
+				
+				if (y.type.equalsIgnoreCase("NO-REL") == false) {
+					Constituent predicate = instance.getFirst().cloneForNewViewWithDestinationLabel(relationView.getViewName(), y.type);
+					Constituent argument = instance.getSecond().cloneForNewViewWithDestinationLabel(relationView.getViewName(), y.type);
+					relationView.addPredicateArguments(predicate, Collections.singletonList(argument), new String[] {y.type}, new double[] {score});
+				}
+			} catch (Exception e) {
+				e.printStackTrace();
+				System.exit(-1);
+			}
+        }
+
+        ta.addView(this.viewName, relationView);
+	}
+	
+	public static void addRequiredViews(TextAnnotation ta, String mdView) throws Exception {
+		if (ta.hasView(ViewNames.POS) == false) {
+			AnnotatorService annotator = CuratorFactory.buildCuratorClient();
+			annotator.addView(ta, ViewNames.POS);
+		}
+		
+		if (mdView == null)
+			return;
+		
+		if (ta.hasView(mdView) == false) {
+			if (mdView.equalsIgnoreCase(CCM2Constants.MDGoldExtent)) {
+				GoldMD goldMD = new GoldMD(CCM2Constants.MDGoldExtent);
+				goldMD.addView(ta);
+			}
+			else if (mdView.equalsIgnoreCase(CCM2Constants.MDGoldHead)) {
+				GoldMD goldMD = new GoldMD(CCM2Constants.MDGoldHead);
+				goldMD.addView(ta);
+			}
+			else if (mdView.equalsIgnoreCase(CCM2Constants.IllinoisNERConllMD)) {
+				IllinoisNER_MDPlugin nerMD = new IllinoisNER_MDPlugin(CCM2Constants.IllinoisNERConllMD);
+				nerMD.addView(ta);
+			}
+			else if (mdView.equalsIgnoreCase(CCM2Constants.IllinoisNEROntonotesMD)) {
+				IllinoisNER_MDPlugin nerMD = new IllinoisNER_MDPlugin(CCM2Constants.IllinoisNEROntonotesMD);
+				nerMD.addView(ta);
+			}
+			else if (mdView.equalsIgnoreCase(CCM2Constants.IllinoisChunkerMD)) {
+				IllinoisChunkerPlugin chunkerMD = new IllinoisChunkerPlugin();
+				chunkerMD.addView(ta);
+			}
+			else if (mdView.equalsIgnoreCase(CCM2Constants.RetrainedChunkerMDViewName)) {
+				FakeRetrainedChunkerPlugin fakeMD = new FakeRetrainedChunkerPlugin();
+				fakeMD.addView(ta);
+			}
+		}
+	}
+}

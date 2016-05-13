@@ -5,6 +5,7 @@ import java.util.List;
 import edu.illinois.cs.cogcomp.annotation.Annotator;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.PredicateArgumentView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
@@ -30,9 +31,9 @@ public class GoldRelEx extends Annotator {
 			if (ta.getId().contains(docID) == false)
 				continue;
 			relEx.addView(ta);
-			List<Constituent> annots = ta.getView(relEx.viewName).getConstituents();
+			List<Constituent> annots = ((PredicateArgumentView)ta.getView(relEx.viewName)).getPredicates();
 			for (Constituent annot: annots) {
-				if(annot.getOutgoingRelations().size() > 0) {
+				if (annot.getOutgoingRelations().size() > 0) {
 					System.out.println(annot.getOutgoingRelations().size());
 					for (Relation rel : annot.getOutgoingRelations()) {
 						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getSource().getLabel() + "-->" + 
