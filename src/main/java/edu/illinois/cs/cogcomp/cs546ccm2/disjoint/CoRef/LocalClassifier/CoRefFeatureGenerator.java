@@ -44,7 +44,7 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
 		features.addAll(getSameSentenceFeature(inst));
 		
-		features.addAll(getEntityTypeFeature(inst));
+//		features.addAll(getEntityTypeFeature(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
 		

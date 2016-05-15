@@ -73,12 +73,14 @@ public class CoRefChain<T> extends ArrayList<T> {
 		CoreferenceView corefView = (CoreferenceView)ta.getView(viewName);
 		Set<Constituent> canonicalAnnots = corefView.getCanonicalEntitiesViaRelations();
 		
-		for(Constituent cons: canonicalAnnots) {
+		for (Constituent cons: canonicalAnnots) {
 			CoRefChain<Constituent> newChain = new CoRefChain<>();
 			newChain.add(cons);
 			
-			for(Constituent chained : corefView.getCoreferentMentionsViaRelations(cons))
-				newChain.add(chained);
+			for (Constituent chained : corefView.getCoreferentMentionsViaRelations(cons)) {
+				if (cons != chained)
+					newChain.add(chained);
+			}
 			
 			chains.add(newChain);
 		}

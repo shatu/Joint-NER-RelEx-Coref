@@ -98,7 +98,7 @@ public class CoRefDriver {
 		testModel(modelsDir.getAbsolutePath() + "/" + modelPrefix + ".model", test);
 	}
 	
-	public static SLProblem getTrainSP(ACEReader docList, String corefViewName, String mentionViewName) throws Exception {
+	public static SLProblem getTrainSP (ACEReader docList, String corefViewName, String mentionViewName) throws Exception {
 		SLProblem problem = new SLProblem();
 		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
 		
@@ -133,7 +133,7 @@ public class CoRefDriver {
 		return problem;
 	}
 
-	public static SLProblem getTestSP(ACEReader docList, String corefViewName, String mentionViewName) throws Exception {
+	public static SLProblem getTestSP (ACEReader docList, String corefViewName, String mentionViewName) throws Exception {
 		SLProblem problem = new SLProblem();
 		AnnotatorService annotator = CuratorFactory.buildCuratorClient();
 		for (TextAnnotation ta : docList) {

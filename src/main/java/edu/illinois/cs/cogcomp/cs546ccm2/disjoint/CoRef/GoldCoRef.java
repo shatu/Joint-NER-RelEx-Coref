@@ -33,9 +33,12 @@ public class GoldCoRef extends Annotator {
 			CoreferenceView corefView = (CoreferenceView)ta.getView(coref.viewName);
 			Set<Constituent> canonicalAnnots = corefView.getCanonicalEntitiesViaRelations();
 			for (Constituent cons: canonicalAnnots) {
-				for (Constituent chained : corefView.getCoreferentMentionsViaRelations(cons))
-						System.out.println(cons + "-->" + cons.getAttribute("EntityType") + "-->" + 
-								chained + "-->" + chained.getAttribute("EntityType"));
+				System.out.print(cons + "-->" + cons.getAttribute("EntityType") + "-->");
+				for (Constituent chained : corefView.getCoreferentMentionsViaRelations(cons)) {
+					if (cons != chained)
+						System.out.print(chained + "-->" + chained.getAttribute("EntityType") + "-->");
+				}
+				System.out.println("\n");
 			}
 		}
 	}
