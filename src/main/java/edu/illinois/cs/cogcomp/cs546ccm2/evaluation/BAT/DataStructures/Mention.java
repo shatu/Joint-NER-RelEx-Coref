@@ -5,6 +5,9 @@ package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures;
  */
 
 import java.io.Serializable;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Vector;
 
 public class Mention implements Serializable, Cloneable, Comparable<Mention> {
 	private static final long serialVersionUID = 1L;
@@ -58,5 +61,25 @@ public class Mention implements Serializable, Cloneable, Comparable<Mention> {
 	@Override
 	public String toString() {
 		return String.format("(%d, %d)", this.position, this.length);
+	}
+	
+	public static <T extends Mention> HashSet<T> deleteOverlappingAnnotations(HashSet<T> anns) {
+		Vector<T> annsList = new Vector<T>(anns);
+		HashSet<T> res = new HashSet<T>();
+		Collections.sort(annsList);
+		for (int i=0; i<annsList.size(); i++){
+			T bestCandidate = annsList.get(i);
+			/* find conflicting annotations*/
+			int j=i+1;
+			while (j<annsList.size() && bestCandidate.overlaps(annsList.get(j))) {
+				//System.out.printf("Dataset is malformed: tag with position,length,wid [ %d, %d, %d] overlaps with tag [ %d, %d, %d]. Discarding tag with smallest length.%n", bestCandidate.position, bestCandidate.length, bestCandidate.getWikipediaArticle(), annsList.get(j).position, annsList.get(j).length, annsList.get(j).getWikipediaArticle());
+				if (bestCandidate.getLength() < annsList.get(j).getLength())
+					bestCandidate = annsList.get(j);
+				j++;
+			}
+			i=j-1;
+			res.add(bestCandidate);
+		}
+		return res;
 	}
 }

@@ -1,11 +1,11 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef;
 
-import java.util.List;
+import java.util.Set;
 
 import edu.illinois.cs.cogcomp.annotation.Annotator;
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.CoreferenceView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
@@ -29,30 +29,13 @@ public class GoldCoRef extends Annotator {
 		for (TextAnnotation ta: aceReader) {
 			if (ta.getId().contains(docID) == false)
 				continue;
-			
 			coref.addView(ta);
-			List<Constituent> annots = ta.getView(coref.viewName).getConstituents();
-			
-			for(Constituent annot: annots) {
-				if(annot.getIncomingRelations().size() != 0)
-					continue;
-				if(annot.getOutgoingRelations().size() > 0) {
-					System.out.println(annot.getOutgoingRelations().size());
-					Constituent chain = annot;
-					while(chain.getOutgoingRelations().size() > 0) {
-						Relation rel = chain.getOutgoingRelations().get(0);
-						System.out.println(rel.getRelationName() + "-->" + rel.getSource() + "-->" + rel.getSource().getLabel() + "-->" + 
-								rel.getTarget() + "-->" + rel.getTarget().getLabel());
-						
-						chain = rel.getTarget();
-						System.out.println("*****");
-					}
-				}
-				else {
-					System.out.println(annot.getOutgoingRelations().size());
-					System.out.println(annot + "-->" + annot.getLabel() + "-->");
-					System.out.println("^^^^^^^^^^^^^^^^^");
-				}
+			CoreferenceView corefView = (CoreferenceView)ta.getView(coref.viewName);
+			Set<Constituent> canonicalAnnots = corefView.getCanonicalEntitiesViaRelations();
+			for (Constituent cons: canonicalAnnots) {
+				for (Constituent chained : corefView.getCoreferentMentionsViaRelations(cons))
+						System.out.println(cons + "-->" + cons.getAttribute("EntityType") + "-->" + 
+								chained + "-->" + chained.getAttribute("EntityType"));
 			}
 		}
 	}

@@ -1,6 +1,7 @@
 package edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures;
 
 import java.io.Serializable;
+import java.util.HashSet;
 
 /**
  * Adopted by Shashank from BAT-Framework
@@ -75,6 +76,11 @@ public class RelationAnnotation implements Serializable, Cloneable {
 	@Override 
 	public Object clone() {
 		return new RelationAnnotation(getPositionL(), getLengthL(), getPositionR(), getLengthR(), getRelationType());
+	}
+
+	//TODO
+	public static HashSet<RelationAnnotation> deleteOverlappingAnnotations(HashSet<RelationAnnotation> s) {
+		return s;
 	}
 	
 //	

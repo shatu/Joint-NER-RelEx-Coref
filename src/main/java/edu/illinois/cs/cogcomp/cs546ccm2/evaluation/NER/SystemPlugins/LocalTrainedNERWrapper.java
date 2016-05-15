@@ -7,11 +7,9 @@ import java.util.List;
 
 import org.apache.commons.lang.NotImplementedException;
 
-import edu.illinois.cs.cogcomp.core.datastructures.Pair;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.ACEDocument;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.AnnotatedText;
-import edu.illinois.cs.cogcomp.cs546ccm2.corpus.Paragraph;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalTrainedNER;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
@@ -25,9 +23,9 @@ public class LocalTrainedNERWrapper implements A2WSystem {
 	private String NAME;
 	private LocalTrainedNER ner;
 	
-	public LocalTrainedNERWrapper(String md, String modelPath) throws IOException, ClassNotFoundException {
-		ner = new LocalTrainedNER(md, modelPath);
-		NAME = ner.getName();
+	public LocalTrainedNERWrapper(String nerView, String mdView) throws IOException, ClassNotFoundException {
+		ner = new LocalTrainedNER(nerView, new String[]{ViewNames.POS, mdView});
+		NAME = nerView;
 	}
 	
 	@Override
@@ -60,30 +58,23 @@ public class LocalTrainedNERWrapper implements A2WSystem {
 	}
 	
 	public List<HashSet<Annotation>> getNERTagList(ACEDatasetWrapper ds) throws Exception {
-		List<HashSet<Annotation>> res = new ArrayList<>();
-		for(ACEDocument doc: ds.getDocs()) {
+		
+		ArrayList<HashSet<Annotation>> res = new ArrayList<>();
+		
+		for (TextAnnotation ta: ds.getDocs()) {
+			ner.addView(ta);
+			List<Constituent> annots = ta.getView(ner.getViewName()).getConstituents();
+			
 			HashSet<Annotation> outAnnots = new HashSet<>();
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
-			}
-			int i=0;
-			for(AnnotatedText ta: doc.taList) {
-				ner.labelText(doc, contentParas.get(i), ta.getTa());
-				List<Constituent> docAnnots;
-				docAnnots = ta.getTa().getView(ner.getName()).getConstituents();
+			
+			for (Constituent cons: annots) {
+				if (cons.getLabel().equalsIgnoreCase("NO-ENT"))
+					continue;
 				
-				for(Constituent cons: docAnnots) {
-					if(cons.getLabel().equalsIgnoreCase("NO-ENT"))
-						continue;
-					Annotation annot = new Annotation(cons.getStartCharOffset() + contentParas.get(i).offsetFilterTags,
-							cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
-					outAnnots.add(annot);
-				}
-				i++;
+				Annotation annot = new Annotation(cons.getStartSpan(), cons.length(), cons.getLabel());
+				outAnnots.add(annot);
 			}
+			
 			res.add(outAnnots);
 		}
 		

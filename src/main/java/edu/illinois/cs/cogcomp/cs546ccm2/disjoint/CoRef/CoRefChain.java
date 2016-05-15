@@ -2,10 +2,11 @@ package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
-import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.CoreferenceView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 
 public class CoRefChain<T> extends ArrayList<T> {
@@ -69,27 +70,19 @@ public class CoRefChain<T> extends ArrayList<T> {
 	
 	public static List<CoRefChain<Constituent>> getCoRefChainsFromCoRefView(TextAnnotation ta, String viewName) {
 		List<CoRefChain<Constituent>> chains = new ArrayList<>();
-		List<Constituent> docAnnots = ta.getView(viewName).getConstituents();
+		CoreferenceView corefView = (CoreferenceView)ta.getView(viewName);
+		Set<Constituent> canonicalAnnots = corefView.getCanonicalEntitiesViaRelations();
 		
-		for(Constituent cons: docAnnots) {
-			if(cons.getIncomingRelations().size() != 0)
-				continue;
-			
+		for(Constituent cons: canonicalAnnots) {
 			CoRefChain<Constituent> newChain = new CoRefChain<>();
 			newChain.add(cons);
 			
-			if(cons.getOutgoingRelations().size() > 0) {
-				Constituent chained = cons;
-				while(chained.getOutgoingRelations().size() > 0) {
-					Relation rel = chained.getOutgoingRelations().get(0);
-					newChain.add(rel.getTarget());
-					chained = rel.getTarget();
-				}
-			}
+			for(Constituent chained : corefView.getCoreferentMentionsViaRelations(cons))
+				newChain.add(chained);
 			
 			chains.add(newChain);
 		}
+		
 		return chains;
 	}
-
 }

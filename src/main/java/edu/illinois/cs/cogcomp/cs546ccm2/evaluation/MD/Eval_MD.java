@@ -6,11 +6,9 @@ import java.util.List;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
+import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Mention;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.MatchRelation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongNoOverlapMentionMatch;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongOverlapMentionMatch;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.WeakNoOverlapMentionMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.MD.SystemPlugins.IllinoisChunkerWrapper;
@@ -29,33 +27,30 @@ public class Eval_MD {
 		System.out.println("Loading the datasets...");
 		
 		/******** Datasets *********/
-//		String ace04InputDir = CCM2Constants.ACE04ProcessedPath;
-		String ace05InputDir = CCM2Constants.ACE05ProcessedPath;
+//		String aceInputDir = CCM2Constants.ACE04TestCorpusPath;
+		String aceInputDir = CCM2Constants.ACE05TestCorpusPath;
 
-//		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
-		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
-		ace05.loadAllDocs();
-//		ace05.loadNWDocs();
-//		ace05.loadNERTags();
-		ace05.loadNERTagsFromView();
+//		ACE2004Dataset ace = new ACE2004Dataset(aceInputDir);
+		ACE2005DatasetWrapper ace = new ACE2005DatasetWrapper(aceInputDir);
+		ace.loadAllDocs();
+//		ace05.loadNERTags(CCM2Constants.NERGoldExtent);
+		ace.loadMentionTags(CCM2Constants.MDGoldExtent);
+
 
 		/******** Match Relations *********/
-		MatchRelation<Annotation> mam = new StrongNoOverlapMentionMatch();
-//		MatchRelation<Annotation> mam = new StrongOverlapMentionMatch();
-//		MatchRelation<Annotation> mam = new WeakNoOverlapMentionMatch();
+//		MatchRelation<Annotation> wam = new WeakNoOverlapMentionMatch();
+		MatchRelation<Mention> sam = new StrongNoOverlapMentionMatch();
 		
 		/******** Annotators *********/
-		IllinoisChunkerWrapper chunker = new IllinoisChunkerWrapper();
-//		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
-//		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
-	
-		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-		List<HashSet<Annotation>> computedAnnotations = chunker.getEntityMentionTagList(ace05);
-//		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getEntityMentionTagList(ace05);
-//		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getEntityMentionTagList(ace05);
-		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getEntityMentionTagsList(), mam);
+		IllinoisChunkerWrapper md = new IllinoisChunkerWrapper();
+//		IllinoisNERWrapper md = new IllinoisNERWrapper();
+//		IllinoisNERWrapper md = new IllinoisNERWrapper(CCM2Constants.IllinoisNEROntonotesMD);
 		
-		System.out.println(computedAnnotations.size() + " " + ace05.getEntityMentionTagsList().size());
+		BasicMetrics<Mention> metrics = new BasicMetrics<Mention>();
+		List<HashSet<Mention>> computedAnnotations = md.getEntityMentionTagList(ace);
+		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace.getEntityMentionTagsList(), sam);
+		
+		System.out.println(computedAnnotations.size() + " " + ace.getEntityMentionTagsList().size());
 	
 		/** Print the results about correctness (F1, precision, recall) to the screen */
 			

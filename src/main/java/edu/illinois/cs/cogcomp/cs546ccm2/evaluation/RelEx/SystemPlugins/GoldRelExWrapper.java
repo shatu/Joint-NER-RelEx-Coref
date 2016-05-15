@@ -7,12 +7,11 @@ import java.util.List;
 
 import org.apache.commons.lang.NotImplementedException;
 
-import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.PredicateArgumentView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Relation;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.LocalTrainedRelEx;
+import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.RelEx.GoldRelEx;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
@@ -21,13 +20,13 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.RelationA
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Tag;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
 
-public class LocalTrainedRelExWrapper implements A2WSystem {
+public class GoldRelExWrapper implements A2WSystem {
 	
 	private String NAME;
-	private LocalTrainedRelEx relEx;
+	private GoldRelEx relEx;
 	
-	public LocalTrainedRelExWrapper(String relViewName, String mdViewName) throws IOException, ClassNotFoundException {
-		relEx = new LocalTrainedRelEx(relViewName, new String[]{ViewNames.POS, mdViewName});
+	public GoldRelExWrapper(String relViewName) throws IOException, ClassNotFoundException {
+		relEx = new GoldRelEx(relViewName);
 		NAME = relViewName;
 	}
 	

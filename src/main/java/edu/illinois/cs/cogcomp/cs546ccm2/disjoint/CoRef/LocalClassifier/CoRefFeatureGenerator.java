@@ -44,11 +44,9 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
 		features.addAll(getSameSentenceFeature(inst));
 		
-		features.addAll(getEntityTypeFeatures(inst));
+		features.addAll(getEntityTypeFeature(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
-		
-		features.addAll(FeatGenTools.getConjunctionsWithPairs(getEntityTypeFeatures(inst), getEntityTypeFeatures(inst)));
 		
 		//FeatureTransformation for a Multi-class setting here
 		for(Pair<String, Double> feature : features) {
@@ -58,11 +56,19 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		return FeatGenTools.getFeatureVectorFromListPair(featuresWithPrefix, lm);
 	}
 	
-	public List<Pair<String, Double>> getEntityTypeFeatures(CoRefInstance x) {
+	public List<Pair<String, Double>> getEntityTypeFeature(CoRefInstance x) {
 		List<Pair<String, Double>> feats = new ArrayList<>();
 		
-		feats.add(new Pair<String, Double>("SourceType_" + x.mSource.getLabel(), 1.0));
-		feats.add(new Pair<String, Double>("TargetType_" + x.mTarget.getLabel(), 1.0));
+		String sourceType = x.mSource.getAttribute("EntityType");
+		String targetType = x.mTarget.getAttribute("EntityType");
+		
+		Boolean isSame = false;
+		
+		if (sourceType.equalsIgnoreCase(targetType))
+			isSame = true;
+				
+		if(isSame)
+			feats.add(new Pair<String, Double>("SameEntityType", 1.0));
 		
 		return feats;
 	}

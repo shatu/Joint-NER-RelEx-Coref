@@ -107,18 +107,20 @@ public class NerDriver {
 			
 			List<Constituent> posInstances = getPositiveInstances(ta, mdView); 
 			
+			int posInstanceCount = 0;
 			for (Constituent cons: posInstances) {
 				NerInstance x = new NerInstance(cons);
 				NerLabel y = new NerLabel(cons.getLabel());
 				problem.addExample(x, y);
+				posInstanceCount++;
 			}
 				
 			List<Constituent> negInstances = getAllNegativeInstances(ta, mdView); 
 			Collections.shuffle(negInstances);
 				
-			int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
+			int negFrac = (int) (posInstanceCount*CCM2Constants.NerNegSamplingRatio);
 				
-			for (Constituent cons: negInstances.subList(0, negFrac)) {
+			for (Constituent cons: negInstances.subList(0, Math.min(negFrac, negInstances.size()))) {
 				NerInstance x = new NerInstance(cons);
 				NerLabel y = new NerLabel("NO-ENT");
 				problem.addExample(x, y);
@@ -137,18 +139,20 @@ public class NerDriver {
 			
 			List<Constituent> posInstances = getPositiveInstances(ta, mdView); 
 			
+			int posInstanceCount = 0;
 			for (Constituent cons: posInstances) {
 				NerInstance x = new NerInstance(cons);
 				NerLabel y = new NerLabel(cons.getLabel());
 				problem.addExample(x, y);
+				posInstanceCount++;
 			}
 				
 			List<Constituent> negInstances = getAllNegativeInstances(ta, mdView); 
 			Collections.shuffle(negInstances);
 				
-			int negFrac = (int) (negInstances.size()*CCM2Constants.NerNegSamplingFrac);
+			int negFrac = (int) (posInstanceCount*CCM2Constants.NerNegSamplingRatio);
 				
-			for (Constituent cons: negInstances.subList(0, negFrac)) {
+			for (Constituent cons: negInstances.subList(0, Math.min(negFrac, negInstances.size()))) {
 				NerInstance x = new NerInstance(cons);
 				NerLabel y = new NerLabel("NO-ENT");
 				problem.addExample(x, y);

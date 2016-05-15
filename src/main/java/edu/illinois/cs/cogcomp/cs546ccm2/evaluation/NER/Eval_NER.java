@@ -4,13 +4,11 @@ import java.util.HashSet;
 import java.util.List;
 
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.NER.LocalTrainedNER;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Annotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.MatchRelation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongNoOverlapAnnotationMatch;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.WeakNoOverlapAnnotationMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.NER.SystemPlugins.IllinoisNERWrapper;
@@ -29,13 +27,13 @@ public class Eval_NER {
 		System.out.println("Loading the datasets...");
 		
 		/******** Datasets *********/
-//		String ace04InputDir = CCM2Constants.ACE04ProcessedPath;
-		String ace05InputDir = CCM2Constants.ACE05ProcessedPath;
+//		String aceInputDir = CCM2Constants.ACE04TestCorpusPath;
+		String aceInputDir = CCM2Constants.ACE05TestCorpusPath;
 
-//		ACE2004Dataset ace04 = new ACE2004Dataset(ace04InputDir);
-		ACE2005DatasetWrapper ace05 = new ACE2005DatasetWrapper(ace05InputDir);
-		ace05.loadAllDocs();
-		ace05.loadNERTags();
+//		ACE2004Dataset ace = new ACE2004Dataset(aceInputDir);
+		ACE2005DatasetWrapper ace = new ACE2005DatasetWrapper(aceInputDir);
+		ace.loadAllDocs();
+		ace.loadNERTags(CCM2Constants.NERGoldExtent);
 
 
 		/******** Match Relations *********/
@@ -43,18 +41,16 @@ public class Eval_NER {
 		MatchRelation<Annotation> sam = new StrongNoOverlapAnnotationMatch();
 		
 		/******** Annotators *********/
-//		IllinoisNERWrapper nerCoNLL = new IllinoisNERWrapper();
-//		IllinoisNERWrapper nerOntonotes = new IllinoisNERWrapper(true);
-//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.MDGold, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
-		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.IllinoisChunkerMD, CCM2Constants.ACE05NerModelPath + "/GoldMentions.save");
-	
-		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
-//		List<HashSet<Annotation>> computedAnnotations = nerCoNLL.getNERTagList(ace05);
-//		List<HashSet<Annotation>> computedAnnotations = nerOntonotes.getNERTagList(ace05);
-		List<HashSet<Annotation>> computedAnnotations = ner.getNERTagList(ace05);
-		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace05.getNERTagsList(), sam);
+		IllinoisNERWrapper ner = new IllinoisNERWrapper();
+//		IllinoisNERWrapper ner = new IllinoisNERWrapper(CCM2Constants.IllinoisNEROntonotes);
+//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.LocalTrainedNER_GoldMDView, CCM2Constants.IllinoisChunkerMD);
+//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.LocalTrainedNER_GoldMDView, CCM2Constants.IllinoisChunkerMD);
 		
-		System.out.println(computedAnnotations.size() + " " + ace05.getNERTagsList().size());
+		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();
+		List<HashSet<Annotation>> computedAnnotations = ner.getNERTagList(ace);
+		BasicMetricsRecord rs = metrics.getResult(computedAnnotations, ace.getNERTagsList(), sam);
+		
+		System.out.println(computedAnnotations.size() + " " + ace.getNERTagsList().size());
 	
 		/** Print the results about correctness (F1, precision, recall) to the screen */
 			

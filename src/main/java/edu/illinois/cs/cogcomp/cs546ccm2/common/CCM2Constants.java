@@ -21,7 +21,7 @@ public class CCM2Constants {
     public static String LocalTrainedNER_GoldMDView = "LocalTrainedNER_GoldMD";
     public static List<String> NerLabels = Arrays.asList("GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
     public static List<String> NerLabelsFull = Arrays.asList("NO-ENT", "GPE", "PER", "FAC", "WEA", "VEH", "LOC", "ORG");
-    public static double NerNegSamplingFrac = 0.5d;
+    public static double NerNegSamplingRatio = 2d;
     
 	public static final String MDGoldExtent = ViewNames.NER_ACE_COARSE_EXTENT;
 	public static final String MDGoldHead = ViewNames.NER_ACE_COARSE_HEAD;
@@ -33,15 +33,17 @@ public class CCM2Constants {
     
     public static final String CoRefGoldExtent = ViewNames.COREF_EXTENT;
     public static final String CoRefGoldHead = ViewNames.COREF_HEAD;
+    public static String LocalTrainedCoref_GoldMDView = "LocalTrainedCoref_GoldMD";
     public static List<String> CoRefLabels = Arrays.asList("TRUE", "FALSE");
     public static String CoRefRelation = "CoRefRelation";
+    public static double CoRefNegSamplingRatio = 2d;
     		
     public static String RelExGoldExtent = ViewNames.RELATION_ACE_COARSE_EXTENT;
     public static String RelExGoldHead = ViewNames.RELATION_ACE_COARSE_HEAD;
     public static String LocalTrainedRelEx_GoldMDView = "LocalTrainedRelEx_GoldMD";
     public static List<String> RelationTypes = Arrays.asList("PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE", "METONYMY");
     public static List<String> RelationTypesFull = Arrays.asList("NO-REL", "PER-SOC", "ART", "GEN-AFF", "PHYS", "ORG-AFF", "PART-WHOLE", "METONYMY");
-    public static final double RelExNegSamplingRatio = 5.0d;
+    public static final double RelExNegSamplingRatio = 2.0d;
     
     public static String ACE_Gold = "ACE_Gold";
     

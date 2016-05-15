@@ -7,9 +7,8 @@ import java.util.List;
 import org.apache.commons.lang.NotImplementedException;
 
 import edu.illinois.cs.cogcomp.annotation.AnnotatorException;
-import edu.illinois.cs.cogcomp.core.datastructures.Pair;
-import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.MD.IllinoisChunkerPlugin;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.A2WDataset;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACEDatasetWrapper;
@@ -19,12 +18,12 @@ import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.Tag;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Wrappers.A2WSystem;
 
 public class IllinoisChunkerWrapper implements A2WSystem {
-	
-	private String NAME = "Illinois-Chunker";
-	private IllinoisChunkerPlugin chunker;
+	String NAME;
+	private IllinoisChunkerPlugin md;
 	
 	public IllinoisChunkerWrapper() throws Exception {
-		chunker = new IllinoisChunkerPlugin();
+		md = new IllinoisChunkerPlugin();
+		this.NAME = md.getViewName();
 	}
 	
 	@Override
@@ -56,29 +55,20 @@ public class IllinoisChunkerWrapper implements A2WSystem {
 		return this.NAME;
 	}
 	
-	public List<HashSet<Annotation>> getEntityMentionTagList(ACEDatasetWrapper ds) throws AnnotatorException {
-		List<HashSet<Annotation>> res = new ArrayList<>();
-		for(ACEDocument doc: ds.getDocs()) {
-			HashSet<Annotation> outAnnots = new HashSet<>();
-			List<Pair<String, Paragraph>> paragraphs = doc.paragraphs;
-			List<Paragraph> contentParas = new ArrayList<>();
-			for(Pair<String, Paragraph> pair: paragraphs) {
-				if(pair.getFirst().equals("text"))
-					contentParas.add(pair.getSecond());
+	public List<HashSet<Mention>> getEntityMentionTagList(ACEDatasetWrapper ds) throws AnnotatorException {
+		ArrayList<HashSet<Mention>> res = new ArrayList<>();
+		
+		for (TextAnnotation ta: ds.getDocs()) {
+			md.addView(ta);
+			List<Constituent> annots = ta.getView(md.getViewName()).getConstituents();
+			
+			HashSet<Mention> outAnnots = new HashSet<>();
+			
+			for (Constituent cons: annots) {
+				Mention annot = new Mention(cons.getStartSpan(), cons.length());
+				outAnnots.add(annot);
 			}
-			int i=0;
-			for(AnnotatedText ta: doc.taList) {
-				chunker.labelText(ta.getTa());
-				List<Constituent> docAnnots = ta.getTa().getView(ViewNames.SHALLOW_PARSE).getConstituents();
-				for(Constituent cons: docAnnots) {
-					if(cons.getLabel().equals("NP")) {
-						Annotation annot = new Annotation(cons.getStartCharOffset() + contentParas.get(i).offsetFilterTags, 
-								cons.getEndCharOffset() - cons.getStartCharOffset(), cons.getLabel());
-						outAnnots.add(annot);
-					}
-				}
-				i++;
-			}
+			
 			res.add(outAnnots);
 		}
 		
