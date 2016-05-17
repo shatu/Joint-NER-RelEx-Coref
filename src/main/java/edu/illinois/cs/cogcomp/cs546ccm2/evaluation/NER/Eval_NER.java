@@ -41,9 +41,9 @@ public class Eval_NER {
 		MatchRelation<Annotation> sam = new StrongNoOverlapAnnotationMatch();
 		
 		/******** Annotators *********/
-		IllinoisNERWrapper ner = new IllinoisNERWrapper();
+//		IllinoisNERWrapper ner = new IllinoisNERWrapper();
 //		IllinoisNERWrapper ner = new IllinoisNERWrapper(CCM2Constants.IllinoisNEROntonotes);
-//		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.LocalTrainedNER_GoldMDView, CCM2Constants.IllinoisChunkerMD);
+		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.LocalTrainedNER_GoldMDView, CCM2Constants.MDGoldExtent);
 //		LocalTrainedNERWrapper ner = new LocalTrainedNERWrapper(CCM2Constants.LocalTrainedNER_GoldMDView, CCM2Constants.IllinoisChunkerMD);
 		
 		BasicMetrics<Annotation> metrics = new BasicMetrics<Annotation>();

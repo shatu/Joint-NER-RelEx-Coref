@@ -4,14 +4,12 @@ import java.util.HashSet;
 import java.util.List;
 
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2004DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.ACE2005DatasetWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.DataStructures.RelationAnnotation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.MatchRelation;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.MatchCriteria.StrongNoOverlapRelationMatch;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetrics;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.BAT.Metrics.BasicMetricsRecord;
-import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.RelEx.SystemPlugins.GoldRelExWrapper;
 import edu.illinois.cs.cogcomp.cs546ccm2.evaluation.RelEx.SystemPlugins.LocalTrainedRelExWrapper;
 
 public class Eval_RelEx {

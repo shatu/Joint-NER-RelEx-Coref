@@ -44,12 +44,12 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		features.addAll(getPOSContextBagBigramFeatures(inst, 5));
 		features.addAll(getSameSentenceFeature(inst));
 		
-//		features.addAll(getEntityTypeFeature(inst));
+		features.addAll(getEntityTypeFeature(inst));
 		
 		features.add(new Pair<String, Double>("BIAS", 1.0));
 		
 		//FeatureTransformation for a Multi-class setting here
-		for(Pair<String, Double> feature : features) {
+		for (Pair<String, Double> feature : features) {
 			featuresWithPrefix.add(new Pair<String, Double>(prefix + "_" + feature.getFirst(), feature.getSecond()));
 		}
 		
@@ -67,7 +67,7 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		if (sourceType.equalsIgnoreCase(targetType))
 			isSame = true;
 				
-		if(isSame)
+		if (isSame)
 			feats.add(new Pair<String, Double>("SameEntityType", 1.0));
 		
 		return feats;
@@ -86,18 +86,18 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int sourceStartToken = 0;
 		int sourceEndToken = ta.size();
 		
-		if(sourceStart - window >= 0)
+		if (sourceStart - window >= 0)
 			sourceStartToken = sourceStart - window;
 		
-		if(sourceEnd + window <= ta.size())
+		if (sourceEnd + window <= ta.size())
 			sourceEndToken = sourceEnd + window;
 		
-		for(int i=sourceStartToken; i<sourceStart; ++i) {
+		for (int i=sourceStartToken; i<sourceStart; ++i) {
 			String tag = posTags.get(i).getLabel();
 			sourceTokens.add(tag);
 		}
 		
-		for(int i=sourceEnd; i<sourceEndToken; ++i) {
+		for (int i=sourceEnd; i<sourceEndToken; ++i) {
 			String tag = posTags.get(i).getLabel();
 			sourceTokens.add(tag);
 		}
@@ -114,23 +114,23 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int targetStartToken = 0;
 		int targetEndToken = ta.size();
 		
-		if(targetStart - window >= 0)
+		if (targetStart - window >= 0)
 			targetStartToken = targetStart - window;
 		
-		if(targetEnd + window <= ta.size())
+		if (targetEnd + window <= ta.size())
 			targetEndToken = targetEnd + window;
 		
-		for(int i=targetStartToken; i<targetStart; ++i) {
+		for (int i=targetStartToken; i<targetStart; ++i) {
 			String tag = posTags.get(i).getLabel();
 			targetTokens.add(tag);
 		}
 		
-		for(int i=targetEnd; i<targetEndToken; ++i) {
+		for (int i=targetEnd; i<targetEndToken; ++i) {
 			String tag = posTags.get(i).getLabel();
 			targetTokens.add(tag);
 		}
 		
-		for(String tkn : targetTokens) {
+		for (String tkn : targetTokens) {
 			feats.add(new Pair<String, Double>("POSTargetContextUnigram_" + tkn, 1.0));
 		}
 		
@@ -151,23 +151,23 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int sourceStartToken = 0;
 		int sourceEndToken = ta.size();
 		
-		if(sourceStart - window >= 0)
+		if (sourceStart - window >= 0)
 			sourceStartToken = sourceStart - window;
 		
-		if(sourceEnd + window <= ta.size())
+		if (sourceEnd + window <= ta.size())
 			sourceEndToken = sourceEnd + window;
 		
-		for(int i=sourceStartToken; i<sourceStart; ++i) {
+		for (int i=sourceStartToken; i<sourceStart; ++i) {
 			String tag = posTags.get(i).getLabel();
 			sourceTokensLeft.add(tag);
 		}
 		
-		for(int i=sourceEnd; i<sourceEndToken; ++i) {
+		for (int i=sourceEnd; i<sourceEndToken; ++i) {
 			String tag = posTags.get(i).getLabel();
 			sourceTokensRight.add(tag);
 		}
 		
-		for(int i=0; i<sourceTokensLeft.size()-1; ++i) {
+		for (int i=0; i<sourceTokensLeft.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("POSSourceContextBigram_" + sourceTokensLeft.get(i) + "_" + sourceTokensLeft.get(i+1), 1.0));
 		}
 		
@@ -184,27 +184,27 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int targetStartToken = 0;
 		int targetEndToken = ta.size();
 		
-		if(targetStart - window >= 0)
+		if (targetStart - window >= 0)
 			targetStartToken = targetStart - window;
 		
-		if(targetEnd + window <= ta.size())
+		if (targetEnd + window <= ta.size())
 			targetEndToken = targetEnd + window;
 		
-		for(int i=targetStartToken; i<targetStart; ++i) {
+		for (int i=targetStartToken; i<targetStart; ++i) {
 			String tag = posTags.get(i).getLabel();
 			targetTokensLeft.add(tag);
 		}
 		
-		for(int i=targetEnd; i<targetEndToken; ++i) {
+		for (int i=targetEnd; i<targetEndToken; ++i) {
 			String tag = posTags.get(i).getLabel();
 			targetTokensRight.add(tag);
 		}
 		
-		for(int i=0; i<targetTokensLeft.size()-1; ++i) {
+		for (int i=0; i<targetTokensLeft.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("POSTargetContextBigram_" + targetTokensLeft.get(i) + "_" + targetTokensLeft.get(i+1), 1.0));
 		}
 		
-		for(int i=0; i<targetTokensRight.size()-1; ++i) {
+		for (int i=0; i<targetTokensRight.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("POSTargetContextBigram_" + targetTokensRight.get(i) + "_" + targetTokensRight.get(i+1), 1.0));
 		}
 		
@@ -223,23 +223,23 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int sourceStartToken = 0;
 		int sourceEndToken = ta.size();
 		
-		if(sourceStart - window >= 0)
+		if (sourceStart - window >= 0)
 			sourceStartToken = sourceStart - window;
 		
-		if(sourceEnd + window <= ta.size())
+		if (sourceEnd + window <= ta.size())
 			sourceEndToken = sourceEnd + window;
 		
-		for(int i=sourceStartToken; i<sourceStart; ++i) {
+		for (int i=sourceStartToken; i<sourceStart; ++i) {
 			String tag = ta.getToken(i);
 			sourceTokens.add(tag);
 		}
 		
-		for(int i=sourceEnd; i<sourceEndToken; ++i) {
+		for (int i=sourceEnd; i<sourceEndToken; ++i) {
 			String tag = ta.getToken(i);
 			sourceTokens.add(tag);
 		}
 		
-		for(String tkn : sourceTokens) {
+		for (String tkn : sourceTokens) {
 			feats.add(new Pair<String, Double>("SourceContextUnigram_" + tkn, 1.0));
 		}
 		
@@ -251,23 +251,23 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int targetStartToken = 0;
 		int targetEndToken = ta.size();
 		
-		if(targetStart - window >= 0)
+		if (targetStart - window >= 0)
 			targetStartToken = targetStart - window;
 		
-		if(targetEnd + window <= ta.size())
+		if (targetEnd + window <= ta.size())
 			targetEndToken = targetEnd + window;
 		
-		for(int i=targetStartToken; i<targetStart; ++i) {
+		for (int i=targetStartToken; i<targetStart; ++i) {
 			String tag = ta.getToken(i);
 			targetTokens.add(tag);
 		}
 		
-		for(int i=targetEnd; i<targetEndToken; ++i) {
+		for (int i=targetEnd; i<targetEndToken; ++i) {
 			String tag = ta.getToken(i);
 			targetTokens.add(tag);
 		}
 		
-		for(String tkn : targetTokens) {
+		for (String tkn : targetTokens) {
 			feats.add(new Pair<String, Double>("TargetContextUnigram_" + tkn, 1.0));
 		}
 		
@@ -287,27 +287,27 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int sourceStartToken = 0;
 		int sourceEndToken = ta.size();
 		
-		if(sourceStart - window >= 0)
+		if (sourceStart - window >= 0)
 			sourceStartToken = sourceStart - window;
 		
-		if(sourceEnd + window <= ta.size())
+		if (sourceEnd + window <= ta.size())
 			sourceEndToken = sourceEnd + window;
 		
-		for(int i=sourceStartToken; i<sourceStart; ++i) {
+		for (int i=sourceStartToken; i<sourceStart; ++i) {
 			String tag = ta.getToken(i);
 			sourceTokensLeft.add(tag);
 		}
 		
-		for(int i=sourceEnd; i<sourceEndToken; ++i) {
+		for (int i=sourceEnd; i<sourceEndToken; ++i) {
 			String tag = ta.getToken(i);
 			sourceTokensRight.add(tag);
 		}
 		
-		for(int i=0; i<sourceTokensLeft.size()-1; ++i) {
+		for (int i=0; i<sourceTokensLeft.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("SourceContextBigram_" + sourceTokensLeft.get(i) + "_" + sourceTokensLeft.get(i+1), 1.0));
 		}
 		
-		for(int i=0; i<sourceTokensRight.size()-1; ++i) {
+		for (int i=0; i<sourceTokensRight.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("SourceContextBigram_" + sourceTokensRight.get(i) + "_" + sourceTokensRight.get(i+1), 1.0));
 		}
 		
@@ -320,27 +320,27 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int targetStartToken = 0;
 		int targetEndToken = ta.size();
 		
-		if(targetStart - window >= 0)
+		if (targetStart - window >= 0)
 			targetStartToken = targetStart - window;
 		
-		if(targetEnd + window <= ta.size())
+		if (targetEnd + window <= ta.size())
 			targetEndToken = targetEnd + window;
 		
-		for(int i=targetStartToken; i<targetStart; ++i) {
+		for (int i=targetStartToken; i<targetStart; ++i) {
 			String tag = ta.getToken(i);
 			targetTokensLeft.add(tag);
 		}
 		
-		for(int i=targetEnd; i<targetEndToken; ++i) {
+		for (int i=targetEnd; i<targetEndToken; ++i) {
 			String tag = ta.getToken(i);
 			targetTokensRight.add(tag);
 		}
 		
-		for(int i=0; i<targetTokensLeft.size()-1; ++i) {
+		for (int i=0; i<targetTokensLeft.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("TargetContextBigram_" + targetTokensLeft.get(i) + "_" + targetTokensLeft.get(i+1), 1.0));
 		}
 		
-		for(int i=0; i<targetTokensRight.size()-1; ++i) {
+		for (int i=0; i<targetTokensRight.size()-1; ++i) {
 			feats.add(new Pair<String, Double>("TargetContextBigram_" + targetTokensRight.get(i) + "_" + targetTokensRight.get(i+1), 1.0));
 		}
 		
@@ -355,11 +355,11 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		int start = x.mSource.getStartSpan();
 		int end = x.mSource.getEndSpan();
 		
-		for(int i=start; i<end; ++i) {
+		for (int i=start; i<end; ++i) {
 			sourceTokens.add(ta.getToken(i));
 		}
 		
-		for(String tkn : sourceTokens) {
+		for (String tkn : sourceTokens) {
 			feats.add(new Pair<String, Double>("UnigramSource_" + tkn, 1.0));
 		}
 		
@@ -368,11 +368,11 @@ public class CoRefFeatureGenerator extends AbstractFeatureGenerator implements S
 		start = x.mTarget.getStartSpan();
 		end = x.mTarget.getEndSpan();
 		
-		for(int i=start; i<end; ++i) {
+		for (int i=start; i<end; ++i) {
 			targetTokens.add(ta.getToken(i));
 		}
 		
-		for(String tkn : targetTokens) {
+		for (String tkn : targetTokens) {
 			feats.add(new Pair<String, Double>("UnigramTarget_" + tkn, 1.0));
 		}
 		

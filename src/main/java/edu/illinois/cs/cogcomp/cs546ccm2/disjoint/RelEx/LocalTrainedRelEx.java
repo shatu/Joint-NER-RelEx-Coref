@@ -71,24 +71,16 @@ public class LocalTrainedRelEx extends Annotator {
 		model = SLModel.loadModel(modelPath);
 		
 	}
-
-	@Override
-	public void addView(TextAnnotation ta) throws AnnotatorException {
-		try {
-			addRequiredViews(ta, requiredViews[1]);
-		} catch (Exception e1) {
-			e1.printStackTrace();
-			System.exit(-1);
-		}
-		
-        SpanLabelView mentionView = (SpanLabelView) ta.getView(requiredViews[1]);
+	
+	private ArrayList<Pair<Constituent, Constituent>> getAllPredictionProbs(TextAnnotation ta) {
+		SpanLabelView mentionView = (SpanLabelView) ta.getView(requiredViews[1]);
         SpanLabelView sentenceView = (SpanLabelView) ta.getView(ViewNames.SENTENCE);
 
         IQueryable<Constituent> allMentions = new QueryableList<>(mentionView.getConstituents());
 
         ArrayList<Pair<Constituent, Constituent>> predictionProbs = new ArrayList<>();
         
-        for (Constituent sentence : sentenceView.getConstituents()) {
+		for (Constituent sentence : sentenceView.getConstituents()) {
             IQueryable<Constituent> mentionsInSentence = allMentions.where(Queries.containedInConstituent(sentence));
 
             for (Constituent firstEntity : mentionsInSentence) {
@@ -99,7 +91,41 @@ public class LocalTrainedRelEx extends Annotator {
                 }
             }
         }
+		
+		return predictionProbs;
+	}
+	
+	private ArrayList<Pair<Constituent, Constituent>> getGoldPredictionProbs(TextAnnotation ta) {
 
+        ArrayList<Pair<Constituent, Constituent>> predictionProbs = new ArrayList<>();
+        
+        List<Constituent> docAnnots = ((PredicateArgumentView) ta.getView(CCM2Constants.RelExGoldExtent)).getPredicates();
+		
+		for (Constituent cons: docAnnots) {
+			if (cons.getOutgoingRelations().size() > 0) {
+				Constituent source = cons;
+				
+				for (Relation rel : cons.getOutgoingRelations()) {
+					Constituent target = rel.getTarget();
+					predictionProbs.add(new Pair<>(source, target));
+				}
+			}
+		}
+		
+		return predictionProbs;
+	}
+
+	@Override
+	public void addView(TextAnnotation ta) throws AnnotatorException {
+		try {
+			addRequiredViews(ta, requiredViews[1]);
+		} catch (Exception e1) {
+			e1.printStackTrace();
+			System.exit(-1);
+		}
+        
+		ArrayList<Pair<Constituent, Constituent>> predictionProbs = getGoldPredictionProbs(ta);
+//		ArrayList<Pair<Constituent, Constituent>> predictionProbs = getAllPredictionProbs(ta);
         PredicateArgumentView relationView = new PredicateArgumentView(this.viewName, ta);
         
         for (Pair<Constituent, Constituent> instance : predictionProbs) {

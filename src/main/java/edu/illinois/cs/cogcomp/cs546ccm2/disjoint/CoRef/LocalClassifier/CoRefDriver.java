@@ -3,6 +3,7 @@ package edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.LocalClassifier;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -11,11 +12,11 @@ import edu.illinois.cs.cogcomp.annotation.AnnotatorService;
 import edu.illinois.cs.cogcomp.core.datastructures.Pair;
 import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.CoreferenceView;
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
 import edu.illinois.cs.cogcomp.core.utilities.commands.CommandDescription;
 import edu.illinois.cs.cogcomp.core.utilities.commands.InteractiveShell;
 import edu.illinois.cs.cogcomp.cs546ccm2.common.CCM2Constants;
-import edu.illinois.cs.cogcomp.cs546ccm2.disjoint.CoRef.CoRefChain;
 import edu.illinois.cs.cogcomp.curator.CuratorFactory;
 import edu.illinois.cs.cogcomp.nlp.corpusreaders.ACEReader;
 import edu.illinois.cs.cogcomp.sl.core.SLModel;
@@ -104,26 +105,22 @@ public class CoRefDriver {
 		
 		for (TextAnnotation ta : docList) {
 			annotator.addView(ta, ViewNames.POS);
-			
-			List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, corefViewName);
 				
-			int posInstanceCount = 0;
-			for (int j=0; j<chains.size(); j++) {
-				List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
-				for (Pair<Constituent, Constituent> pair : posInstances) {
-					CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
-					CoRefLabel y = new CoRefLabel("TRUE");
-					problem.addExample(x, y);
-					posInstanceCount++;
-				}
+//			int posInstanceCount = 0;
+			List<Pair<Constituent, Constituent>> posInstances = getPositiveInstances(ta, corefViewName);
+			for (Pair<Constituent, Constituent> pair : posInstances) {
+				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+				CoRefLabel y = new CoRefLabel("TRUE");
+				problem.addExample(x, y);
+//				posInstanceCount++;
 			}
 			
-			List<Pair<Constituent, Constituent>> negInstances = getSequentialNegativeInstances(chains);
-			Collections.shuffle(negInstances);
+			List<Pair<Constituent, Constituent>> negInstances = getNegativeInstances(ta, corefViewName);
+//			Collections.shuffle(negInstances);
 			
-			int negFrac = (int) (posInstanceCount*CCM2Constants.CoRefNegSamplingRatio);
+//			int negFrac = (int) (posInstanceCount*CCM2Constants.CoRefNegSamplingRatio);
 				
-			for (Pair<Constituent, Constituent> pair: negInstances.subList(0, Math.min(negFrac, negInstances.size()))) {
+			for (Pair<Constituent, Constituent> pair: negInstances) {
 				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
 				CoRefLabel y = new CoRefLabel("FALSE");
 				problem.addExample(x, y);
@@ -139,25 +136,22 @@ public class CoRefDriver {
 		for (TextAnnotation ta : docList) {
 			annotator.addView(ta, ViewNames.POS);
 			
-			List<CoRefChain<Constituent>> chains = CoRefChain.getCoRefChainsFromCoRefView(ta, corefViewName);
+			List<Pair<Constituent, Constituent>> posInstances = getPositiveInstances(ta, corefViewName);
 				
-			int posInstanceCount = 0;
-			for (int j=0; j<chains.size(); j++) {
-				List<Pair<Constituent, Constituent>> posInstances = chains.get(j).getAllPairs();
-				for (Pair<Constituent, Constituent> pair : posInstances) {
-					CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
-					CoRefLabel y = new CoRefLabel("TRUE");
-					problem.addExample(x, y);
-					posInstanceCount++;
-				}
+//			int posInstanceCount = 0;
+			for (Pair<Constituent, Constituent> pair : posInstances) {
+				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
+				CoRefLabel y = new CoRefLabel("TRUE");
+				problem.addExample(x, y);
+//				posInstanceCount++;
 			}
 				
-			List<Pair<Constituent, Constituent>> negInstances = getSequentialNegativeInstances(chains);
-			Collections.shuffle(negInstances);
+			List<Pair<Constituent, Constituent>> negInstances = getNegativeInstances(ta, corefViewName);
+//			Collections.shuffle(negInstances);
 			
-			int negFrac = (int) (posInstanceCount*CCM2Constants.CoRefNegSamplingRatio);
+//			int negFrac = (int) (posInstanceCount*CCM2Constants.CoRefNegSamplingRatio);
 				
-			for (Pair<Constituent, Constituent> pair: negInstances.subList(0, Math.min(negFrac, negInstances.size()))) {
+			for (Pair<Constituent, Constituent> pair: negInstances) {
 				CoRefInstance x = new CoRefInstance(pair.getFirst(), pair.getSecond());
 				CoRefLabel y = new CoRefLabel("FALSE");
 				problem.addExample(x, y);
@@ -167,26 +161,100 @@ public class CoRefDriver {
 		return problem;
 	}
 	
-	public static List<Pair<Constituent, Constituent>> getSequentialNegativeInstances(List<CoRefChain<Constituent>> chains) {
-		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
-		for(int i=0; i<chains.size()-1; i++) {
-			int j = i+1;
-			negInstance.addAll(chains.get(i).getAllConjunctions(chains.get(j)));
-		}
-		
-		return negInstance;
+	public static List<Pair<Constituent, Constituent>> getPositiveInstances(TextAnnotation ta, String corefViewName) {
+		 CoreferenceView corefView = (CoreferenceView) ta.getView(corefViewName);
+		 List<Constituent> constituents = corefView.getConstituents();   // Sorting constituents in increasing order
+		 constituents = sortIncreasing(constituents);
+
+		 int numConstituents = constituents.size();
+		 
+		 List<Pair<Constituent, Constituent>> problemInstances = new ArrayList<>();
+		 
+		 for (int i=0; i<numConstituents; i++) {
+			 Constituent currC = constituents.get(i);
+			 String currID = currC.getLabel();
+			 int past = i-1;
+			 
+			 while (past >=0) {
+				 Constituent prevC = constituents.get(past);
+				 String prevID = prevC.getLabel();
+				 
+				 if (currID.equals(prevID)) {
+					 problemInstances.add(new Pair<>(currC, prevC));
+				 }
+				 
+				 past--;   
+			 }
+		 }
+		 
+		 return problemInstances;
 	}
 	
-	public static List<Pair<Constituent, Constituent>> getAllNegativeInstances(List<CoRefChain<Constituent>> chains) {
-		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
-		for(int i=0; i<chains.size()-1; i++) {
-			for(int j=i+1; j<chains.size(); j++) {
-				negInstance.addAll(chains.get(i).getAllConjunctions(chains.get(j)));
-			}
-		}
-		
-		return negInstance;
+	public static List<Pair<Constituent, Constituent>> getNegativeInstances(TextAnnotation ta, String corefViewName) {
+		 CoreferenceView corefView = (CoreferenceView) ta.getView(corefViewName);
+		 List<Constituent> constituents = corefView.getConstituents();   // Sorting constituents in increasing order
+		 constituents = sortIncreasing(constituents);
+
+		 int numConstituents = constituents.size();
+		 
+		 List<Pair<Constituent, Constituent>> problemInstances = new ArrayList<>();
+		 
+		 for (int i=0; i<numConstituents; i++) {
+			 Constituent currC = constituents.get(i);
+			 String currID = currC.getLabel();
+			 int past = i-1, negadded = 0;
+			 
+			 while (past >=0) {
+				 Constituent prevC = constituents.get(past);
+				 String prevID = prevC.getLabel();
+				 if (currID.equals(prevID) == false) {
+					 if (negadded < 5) {
+						 problemInstances.add(new Pair<>(currC, prevC));
+						 negadded++;
+					 }
+				 }
+				 
+				 past--;   
+			 }
+		 }
+		 
+		 return problemInstances;
 	}
+	
+    public static List<Constituent> sortIncreasing(List<Constituent> constituents){
+        Collections.sort(constituents, new Comparator<Constituent>(){
+            @Override
+            public int compare(Constituent o1, Constituent o2) {
+                if(o1.getStartSpan() >= o2.getStartSpan() )
+                    return 1;
+                else
+                    return -1;
+            }
+        });
+        
+        return constituents;
+    }
+	
+//	public static List<Pair<Constituent, Constituent>> getSequentialNegativeInstances(List<CoRefChain<Constituent>> chains) {
+//		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
+//		for(int i=0; i<chains.size()-1; i++) {
+//			int j = i+1;
+//			negInstance.addAll(chains.get(i).getAllConjunctions(chains.get(j)));
+//		}
+//		
+//		return negInstance;
+//	}
+	
+//	public static List<Pair<Constituent, Constituent>> getAllNegativeInstances(List<CoRefChain<Constituent>> chains) {
+//		List<Pair<Constituent, Constituent>> negInstance = new ArrayList<>();
+//		for(int i=0; i<chains.size()-1; i++) {
+//			for(int j=i+1; j<chains.size(); j++) {
+//				negInstance.addAll(chains.get(i).getAllConjunctions(chains.get(j)));
+//			}
+//		}
+//		
+//		return negInstance;
+//	}
 	
 	public static void testModel(String modelPath, SLProblem sp) throws Exception {
 		SLModel model = SLModel.loadModel(modelPath);
